@@ -22,6 +22,9 @@
           </option>
         </PlaceSettings>
       </entry>
+      <entry key="Merge">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
   <component name="SvnDiffSettings">
@@ -35,6 +38,9 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="ApplyPatch">
+        <PlaceSettings />
+      </entry>
       <entry key="ChangesView">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
@@ -47,7 +53,6 @@
       </entry>
       <entry key="Default">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="SHOW_WHITESPACES" value="true" />
           <option name="SHOW_INDENT_LINES" value="true" />
           <option name="USE_SOFT_WRAPS" value="true" />
