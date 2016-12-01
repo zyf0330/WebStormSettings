@@ -1,0 +1,25 @@
+<scheme name="2K Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2016-12-01T10:00:52</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2016.3.1.0.0</property>
+    <property name="modified">2016-12-01T10:04:40</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
+    <option name="EDITOR_FONT_SIZE" value="21" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC Regular" />
+    <option name="EDITOR_FONT_SIZE" value="21" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC Regular" />
+    <option name="EDITOR_FONT_SIZE" value="21" />
+  </console-font>
+</scheme>
