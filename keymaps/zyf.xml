@@ -1,9 +1,5 @@
 <keymap version="1" name="zyf" parent="Eclipse">
   <action id="CodeCompletion" />
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
-  <action id="EditorDuplicateLines" />
   <action id="GuiDesigner.Duplicate">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
