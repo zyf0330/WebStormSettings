@@ -3,7 +3,7 @@
     <property name="created">2016-12-01T10:00:52</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-01T16:19:11</property>
+    <property name="modified">2016-12-02T11:08:57</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <font>
@@ -14,12 +14,15 @@
     <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC Regular" />
     <option name="EDITOR_FONT_SIZE" value="21" />
   </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC Regular" />
+    <option name="EDITOR_FONT_SIZE" value="21" />
+  </console-font>
   <attributes>
-    <option name="DEFAULT_CONSTANT">
-      <value>
-        <option name="FOREGROUND" value="9876aa" />
-      </value>
-    </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="629755" />
@@ -31,16 +34,6 @@
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="629755" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DEFAULT_STATIC_FIELD">
-      <value>
-        <option name="FOREGROUND" value="9876aa" />
-      </value>
-    </option>
-    <option name="DEFAULT_STATIC_METHOD">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
   </attributes>
