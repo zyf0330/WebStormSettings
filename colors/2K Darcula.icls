@@ -3,7 +3,7 @@
     <property name="created">2016-12-01T10:00:52</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-02T11:14:33</property>
+    <property name="modified">2016-12-02T12:05:03</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <font>
@@ -38,8 +38,10 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a8c023" />
+        <option name="FOREGROUND" value="bdc021" />
+        <option name="BACKGROUND" value="413e2c" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
