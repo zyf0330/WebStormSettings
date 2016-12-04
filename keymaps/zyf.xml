@@ -1,11 +1,5 @@
 <keymap version="1" name="zyf" parent="Eclipse">
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="alt slash" />
-  </action>
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
-  <action id="EditorDuplicateLines" />
+  <action id="CodeCompletion" />
   <action id="GuiDesigner.Duplicate">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
@@ -31,7 +25,7 @@
   </action>
   <action id="ShowContent" />
   <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="shift alt slash" />
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
