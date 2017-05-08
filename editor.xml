@@ -6,20 +6,6 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="LiveEditOptions" autoDelay="500" restartIfHotSwapFailed="true" />
-  <component name="TodoConfiguration">
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="bdc021" />
-      <option name="BACKGROUND" value="413e2c" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
-      <option name="EFFECT_TYPE" value="1" />
-    </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="bdc021" />
-      <option name="BACKGROUND" value="413e2c" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
-      <option name="EFFECT_TYPE" value="1" />
-    </pattern>
-  </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingLevelCount" value="3" />
   </component>
