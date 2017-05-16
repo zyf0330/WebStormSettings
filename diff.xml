@@ -1,9 +1,6 @@
 <application>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
-      <entry key="CommitDialog">
-        <PlaceSettings />
-      </entry>
       <entry key="Default">
         <PlaceSettings>
           <option name="DIFF_TOOLS_ORDER">
@@ -34,8 +31,9 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
-          <option name="SHOW_WHITESPACES" value="true" />
+          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
           <option name="SHOW_INDENT_LINES" value="true" />
+          <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
     </option>
