@@ -4,9 +4,10 @@
       <mapping pattern=".git" type="PLAIN_TEXT" />
       <mapping pattern="etcduser" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
-      <mapping pattern="file0" type="PLAIN_TEXT" />
-      <mapping pattern="file2" type="PLAIN_TEXT" />
       <mapping pattern=".gitsdf" type="PLAIN_TEXT" />
+      <mapping pattern="configs" type="PLAIN_TEXT" />
+      <mapping pattern="file2" type="PLAIN_TEXT" />
+      <mapping pattern="file0" type="PLAIN_TEXT" />
       <mapping pattern="Matrix.js" type="PLAIN_TEXT" />
       <mapping pattern="seetook.json" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
