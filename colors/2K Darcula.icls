@@ -1,29 +1,30 @@
 <scheme name="2K Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.5" />
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2016-12-01T10:00:52</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-09-13T11:54:19</property>
+    <property name="modified">2017-11-14T10:20:13</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC Regular" />
-    <option name="EDITOR_FONT_SIZE" value="25" />
+    <option name="EDITOR_FONT_SIZE" value="22" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC Regular" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
   </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <attributes>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
