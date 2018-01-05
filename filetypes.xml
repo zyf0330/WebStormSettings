@@ -13,6 +13,7 @@
       <mapping pattern="seetook.json" type="PLAIN_TEXT" />
       <mapping pattern="Matrix.js" type="PLAIN_TEXT" />
       <mapping pattern="etcduser" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="anim" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
