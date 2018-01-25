@@ -9,6 +9,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitsdf" type="PLAIN_TEXT" />
       <mapping pattern="seetook.json" type="PLAIN_TEXT" />
       <mapping pattern="Matrix.js" type="PLAIN_TEXT" />
