@@ -12,6 +12,7 @@
       <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitsdf" type="PLAIN_TEXT" />
       <mapping pattern="seetook.json" type="PLAIN_TEXT" />
+      <mapping pattern="connector-sio.yaml" type="PLAIN_TEXT" />
       <mapping pattern="Matrix.js" type="PLAIN_TEXT" />
       <mapping pattern="etcduser" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
