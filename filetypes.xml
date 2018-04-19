@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping pattern="www" type="JavaScript" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="anim" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="fire" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="anim" type="PLAIN_TEXT" />
-      <mapping ext="go" type="PLAIN_TEXT" />
-      <mapping ext="plist" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="prefab" type="PLAIN_TEXT" />
+      <mapping ext="go" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <removed_mapping pattern=".jshintignore" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitignore" type="PLAIN_TEXT" />
