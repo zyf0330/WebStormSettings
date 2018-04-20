@@ -4,7 +4,7 @@
     <property name="created">2016-12-01T10:00:52</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-11-14T10:20:13</property>
+    <property name="modified">2018-01-09T10:14:34</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <font>
@@ -39,11 +39,25 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3e543c" />
+        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bdc021" />
         <option name="BACKGROUND" value="413e2c" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="4c3e38" />
+        <option name="ERROR_STRIPE_COLOR" value="b56277" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
