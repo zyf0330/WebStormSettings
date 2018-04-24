@@ -1,5 +1,9 @@
 <keymap version="1" name="zyf (Mac OS X)" parent="Eclipse (Mac OS X)">
   <action id="MethodHierarchy" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
