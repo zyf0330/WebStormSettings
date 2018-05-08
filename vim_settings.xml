@@ -3,12 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/helper.js" timestamp="1525681591312">
-        <mark key="'" line="88" column="20" />
-        <mark key="[" line="53" column="30" />
-        <mark key="]" line="53" column="29" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/helper.js" timestamp="1525687137833">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="133" column="0" />
         <mark key="^" line="53" column="29" />
-        <mark key="." line="53" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1525743974863">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1525687799056">
+        <mark key="'" line="80" column="2" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Dispatch.js" timestamp="1525681248647">
         <mark key="[" line="83" column="6" />
@@ -16,18 +21,35 @@
         <mark key="." line="83" column="6" />
         <mark key="^" line="83" column="6" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" timestamp="1525681985328">
-        <mark key="'" line="74" column="11" />
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" timestamp="1525689041919">
+        <mark key="'" line="35" column="18" />
+        <mark key="[" line="238" column="18" />
+        <mark key="]" line="238" column="33" />
+        <mark key="." line="238" column="33" />
+        <mark key="^" line="238" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1525681616683">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/config.js" timestamp="1525687084717">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="258" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1525688564922">
+        <mark key="'" line="80" column="17" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="25" column="20" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1525685571426">
+        <mark key="'" line="565" column="15" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/config.js" timestamp="1525687090900">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Dispatch.js" timestamp="1525681972666">
         <mark key="'" line="30" column="23" />
@@ -35,59 +57,194 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/.gitignore" timestamp="1525689244295">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="3" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="318" column="9" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="338" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="88" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/helper.js" />
-      <jump line="332" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="73" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="8" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="7" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Dispatch.js" />
-      <jump line="9" column="5" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Dispatch.js" />
-      <jump line="6" column="35" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Dispatch.js" />
-      <jump line="30" column="23" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Dispatch.js" />
-      <jump line="74" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/helper.js" />
+      <jump line="15" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="51" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="193" column="68" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="204" column="66" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="12" column="29" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="38" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="232" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="40" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="61" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="129" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="130" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="221" column="32" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="122" column="28" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="191" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="206" column="29" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="194" column="33" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="207" column="39" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="208" column="19" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="230" column="26" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="222" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="257" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="571" column="16" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
+      <jump line="565" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
+      <jump line="107" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="79" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="240" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="250" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="190" column="78" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="277" column="43" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="81" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="180" column="21" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="183" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="185" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="186" column="21" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="271" column="48" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="275" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="111" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="82" column="25" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="112" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="171" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="115" column="26" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="225" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="249" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="215" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="214" column="100" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="170" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="86" column="3" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="109" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="148" column="29" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="156" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="286" column="55" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="34" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="48" column="23" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="68" column="16" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="142" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="60" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="74" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="246" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="70" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="76" column="26" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="80" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="155" column="29" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="163" column="81" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="193" column="83" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="220" column="81" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="266" column="16" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="289" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="254" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="293" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="66" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="53" column="7" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="126" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="44" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="48" column="13" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="49" column="7" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="50" column="14" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="52" column="7" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="125" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="47" column="16" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="62" column="16" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="64" column="7" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="65" column="14" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="161" column="37" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="43" column="24" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="63" column="31" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="162" column="81" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="192" column="83" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="219" column="81" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="253" column="81" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="292" column="81" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="79" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" />
+      <jump line="27" column="1" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="241" column="9" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="143" column="30" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="205" column="28" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="238" column="30" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="34" column="5" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="35" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>2</text>
+      </register>
+      <register name="-" type="4">
+        <text>2</text>
+      </register>
+      <register name="/" type="4">
+        <text>role</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gZXhwb3J0cy5sb2dnZXIgPSB7Cglsb2c6IGZ1bmN0aW9uIChzY29wZUlkLCB0eXBlKSB7CgkJc2NvcGVJZCA9IHNjb3BlSWQgfHwgJ2dsb2JhbCc7CgkJY29uc3QgYXJncyA9IEFycmF5LnByb3RvdHlwZS5zbGljZS5jYWxsKGFyZ3VtZW50cywgMik7CgkJYXJncy51bnNoaWZ0KCdbd2lkLScgKyB3aWQgKyAnXVsnICsgc2NvcGVJZCArICddWycgKyB0eXBlICsgJ10nKTsKCQljb25zb2xlLmxvZyhoYW5kbGVMb2dBcmdzKGFyZ3MpKTsKCX0sCgllcnJvcjogZnVuY3Rpb24gKHNjb3BlSWQsIHR5cGUpIHsKCQljb25zdCBhcmdzID0gQXJyYXkucHJvdG90eXBlLnNsaWNlLmNhbGwoYXJndW1lbnRzLCAyKTsKCQlhcmdzLnVuc2hpZnQoJ1t3aWQtJyArIHdpZCArICddWycgKyBzY29wZUlkICsgJ11bJyArIHR5cGUgKyAnXScpOwoJCWNvbnNvbGUuZXJyb3IoaGFuZGxlTG9nQXJncyhhcmdzKSk7Cgl9Cn07Cg==</text>
+        <text encoding="base64">Y29uc3QgY2FjaGVLZXlzID0ge307CmV4cG9ydHMuY2FsY0FjY2Vzc0tleSA9ICh1aWQsIHJvb21JZCwgcm9vbUFjY2Vzc0tleSkgPT4gewoJY29uc3Qgc291cmNlID0gdWlkICsgcm9vbUlkICsgcm9vbUFjY2Vzc0tleTsKCWxldCBhY2Nlc3NLZXkgPSBjYWNoZUtleXNbc291cmNlXTsKCWlmIChhY2Nlc3NLZXkgPT0gbnVsbCkgewoJCWFjY2Vzc0tleSA9IGNhY2hlS2V5c1tzb3VyY2VdID0gY3J5cHRvLmNyZWF0ZUhhc2goJ21kNScpLnVwZGF0ZShzb3VyY2UpLmRpZ2VzdCgnaGV4Jyk7Cgl9CglyZXR1cm4gYWNjZXNzS2V5Owp9OwoKY29uc3Qgcm9vbUtleVByZWZpeCA9IGV4cG9ydHMucm9vbUtleVByZWZpeCA9IHdpZCArICctREJZTTpST09NJzsKZXhwb3J0cy5yb29tVG9LZXkgPSAocm9vbUlkKSA9PiByb29tS2V5UHJlZml4ICsgJzonICsgcm9vbUlkOwpleHBvcnRzLmtleVRvUm9vbSA9IChrZXkpID0+IGtleS5zbGljZShyb29tS2V5UHJlZml4Lmxlbmd0aCArIDEpOwoKZXhwb3J0cy5NQVhfU0VORF9ST09NX0NIQVRfUEVSX1NFTkNPTkQgPSAxMDsKCmNvbnN0IHN0b3JhZ2UgPSByZXF1aXJlKCcuL3N0b3JhZ2UnKQoKY29uc3Qgcm91dGVDYWNoZSA9IHt9Ci8qKgogKiDkvb/nlKggcm9vbUlkIOWQjuS4pOS9jeS7jjE26L+b5Yi26L2s5Li6MTDov5vliLbvvIzlubbmqKE45b6X5Yiw5Zyw5Z2A5pWw57uE55qE57Si5byVCiAqIEBwYXJhbSByb29tSWQKICogQHJldHVybiB7Kn0KICovCmNvbnN0IHJvdXRlQnlSb29tSWQgPSAocm9vbUlkKSA9PiB7CglpZiAocm9vbUlkIGluIHJvdXRlQ2FjaGUpIHsKCQlyZXR1cm4gcm91dGVDYWNoZVtyb29tSWRdCgl9Cgl0cnkgewoJCWNvbnN0IGluZGV4ID0gcGFyc2VJbnQocm9vbUlkLnN1YnN0cihyb29tSWQubGVuZ3RoIC0gMiwgMiksIDE2KSAlIDgKCQlyb3V0ZUNhY2hlW3Jvb21JZF0gPSBpbmRleAoJCXJldHVybiBpbmRleAoJfSBjYXRjaCAoZSkgewoJCWxvZ2dlci5lcnJvcihyb29tSWQsICdyb3V0ZUVycm9yJywgZSkKCQlyZXR1cm4gMDsKCX0KfQpleHBvcnRzLnNvY2tfcHViX3JvdXRlID0gKHJvb21JZCkgPT4gewoJY29uc3QgaW5kZXggPSByb3V0ZUJ5Um9vbUlkKHJvb21JZCkKCXJldHVybiBzdG9yYWdlLnNvY2tfcHVic1tpbmRleF0gfHwgc3RvcmFnZS5zb2NrX3B1YnNbMF0KfQoKZXhwb3J0cy5zb2NrX3N1Yl9yb3V0ZSA9IChyb29tSWQpID0+IHsKCWNvbnN0IGluZGV4ID0gcm91dGVCeVJvb21JZChyb29tSWQpCglyZXR1cm4gc3RvcmFnZS5zb2NrX3N1YnNbaW5kZXhdIHx8IHN0b3JhZ2Uuc29ja19zdWJzWzBdCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyYWNlTG9nKHJvb21JZCwgJ2Nvbm5lY3QgZmFpbCcpCg==</text>
+        <text encoding="base64">ICAgICAgZQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3Qgc3ViID0gRW1xLkVFY2tldCgnc3ViJykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3Qgc3ViID0gem1xLnNvY2tldCgnc3ViJykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgcHViID0gem1xLnNvY2tldCgncHViJykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3Qgc3ViID0gem1xLnNvY2tldCgnc3ViJykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBzb2NrX3N1Yi4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>.</text>
-      </register>
-      <register name="/" type="4">
-        <text>logger</text>
-      </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>role</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>role</last-pattern>
+      <last-replace>logger.log</last-replace>
+      <last-substitute>traceLog</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry>console.log</entry>
-        <entry>trace</entry>
-        <entry>helper</entry>
-        <entry>struct</entry>
-        <entry>StructC</entry>
-        <entry>logger</entry>
+        <entry>logger.log</entry>
+        <entry>\[</entry>
+        <entry>logger.log.+\[</entry>
+        <entry>accesskey</entry>
+        <entry encoding="base64">XDxwdWI=</entry>
+        <entry>sub</entry>
+        <entry>sock_sub</entry>
+        <entry>sock_sub_update</entry>
+        <entry>sock_subs</entry>
+        <entry>sock_pubs</entry>
+        <entry>pub</entry>
+        <entry>helper.sock_pub</entry>
+        <entry>pub\.</entry>
+        <entry>sub\.</entry>
+        <entry>sub.+\.</entry>
+        <entry>sub.*\.</entry>
+        <entry>pub.*\.</entry>
+        <entry encoding="base64">XDxwdWJcPg==</entry>
+        <entry>mobile</entry>
+        <entry>role</entry>
       </history-search>
       <history-cmd>
+        <entry>%s/traceLog/logger.log/g</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -113,7 +270,31 @@
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
