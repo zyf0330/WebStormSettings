@@ -3,15 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1525747941955">
+      <file name="/Dummy.txt" timestamp="1525750293601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" timestamp="1525749672453">
-        <mark key="'" line="36" column="37" />
-        <mark key="[" line="69" column="0" />
-        <mark key="m" line="47" column="6" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" timestamp="1525751049494">
+        <mark key="[" line="40" column="17" />
+        <mark key="m" line="85" column="6" />
+        <mark key="]" line="40" column="41" />
+        <mark key="." line="40" column="41" />
+        <mark key="^" line="40" column="41" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/config.js" timestamp="1525687090900">
         <mark key="[" line="6" column="0" />
@@ -31,17 +31,17 @@
         <mark key="]" line="133" column="0" />
         <mark key="^" line="53" column="29" />
       </file>
-      <file name="$USER_HOME$/project/duobeiyun-msg-audit/app.js" timestamp="1525750218520">
-        <mark key="'" line="181" column="13" />
-        <mark key="[" line="177" column="60" />
-        <mark key="]" line="177" column="66" />
-        <mark key="." line="177" column="66" />
-        <mark key="^" line="177" column="66" />
+      <file name="$USER_HOME$/project/duobeiyun-msg-audit/app.js" timestamp="1525751174470">
+        <mark key="'" line="279" column="43" />
+        <mark key="[" line="82" column="29" />
+        <mark key="]" line="83" column="3" />
+        <mark key="." line="83" column="3" />
+        <mark key="^" line="83" column="3" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1525687799056">
         <mark key="'" line="80" column="2" />
       </file>
-      <file name="/JavaScript Console" timestamp="1525747932223">
+      <file name="/JavaScript Console" timestamp="1525751062826">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Dispatch.js" timestamp="1525681248647">
@@ -82,11 +82,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="25" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="112" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="171" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="115" column="26" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="225" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="249" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="215" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="214" column="100" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
@@ -154,7 +149,6 @@
       <jump line="48" column="10" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
       <jump line="68" column="2" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
       <jump line="76" column="8" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
-      <jump line="43" column="30" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
       <jump line="19" column="19" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
       <jump line="35" column="19" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
       <jump line="147" column="32" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
@@ -181,56 +175,62 @@
       <jump line="82" column="0" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
       <jump line="84" column="4" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
       <jump line="113" column="6" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
-      <jump line="177" column="13" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="177" column="66" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="278" column="43" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="16" column="33" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
+      <jump line="17" column="13" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
+      <jump line="41" column="6" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
+      <jump line="80" column="6" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
+      <jump line="43" column="6" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlbGV0ZSBhdWRpdG9yc1tzb2NrZXRJZF0K</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>止</text>
       </register>
       <register name="/" type="4">
-        <text>traceLog</text>
+        <text>denyMsgs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmKHNvY2tldHMuaW5kZXhPZihzb2NrZXQuaWQpICE9IC0xKSB7CiAgICAgIHJldHVybgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIOeUqOaIt+WQje+8mjxzcGFuIHYtdGV4dD0ibXNnLm5hbWUiPjwvc3Bhbj7ml7bpl7TvvJo8c3BhbiB2LXRleHQ9Im1zZy50cyI+PC9zcGFuPgogICAgICAgICAg5raI5oGv77yaPHNwYW4gdi10ZXh0PSJtc2cubXNnIj48L3NwYW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBzb2NrZXRzTGVuID0gc29ja2V0cy5sZW5nCg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBhdWRpdG9yc1tzb2NrZXRJZF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZihzb2NrZXRzLmluZGV4T2Yoc29ja2V0LmlkKSAhPSAtMSkgewogICAgcmV0dXJuCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIOeUqOaIt+WQje+8mgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJvb21zW3Jvb21JZF0uc29ja2V0cy5yZW1vdmUoc29ja2V0SWQpCg==</text>
+        <text encoding="base64">ICAgICAgZGVueU1zZ3M6IFtdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50b2dnbGVBdWRpdChmYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+ZGQ8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzb2NrZXRzTGVuID0gc29ja2V0cy5sZW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRlbnlVc2Vycy5wdXNoKHVzZXJuYW1lKQo=</text>
+        <text encoding="base64">ICBpZihzb2NrZXRzLmluZGV4T2Yoc29ja2V0LmlkKSAhPSAtMSkgewogICAgcmV0dXJuCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJvb21zW3Jvb21JZF0uc29ja2V0cy5yZW1vdmUoc29ja2V0SWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy50b2dnbGVBdWRpdChmYWxzZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>traceLog</last-search>
+      <last-search>denyMsgs</last-search>
       <last-offset />
-      <last-pattern>traceLog</last-pattern>
+      <last-pattern>denyMsgs</last-pattern>
       <last-replace>logger.log</last-replace>
       <last-substitute>traceLog</last-substitute>
       <last-dir>1</last-dir>
@@ -238,8 +238,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pub.*\.</entry>
-        <entry encoding="base64">XDxwdWJcPg==</entry>
         <entry>mobile</entry>
         <entry>role</entry>
         <entry>allowChat</entry>
@@ -250,7 +248,6 @@
         <entry>denyMsg</entry>
         <entry>deny</entry>
         <entry>denyChat</entry>
-        <entry>chat</entry>
         <entry>disconnect</entry>
         <entry>toggleMsg</entry>
         <entry>rooms\[</entry>
@@ -258,11 +255,14 @@
         <entry>toggleMsgAu</entry>
         <entry>toggleM</entry>
         <entry>traceLog</entry>
+        <entry>chat</entry>
+        <entry>allowMsg</entry>
+        <entry>denyMsgs</entry>
       </history-search>
       <history-cmd>
         <entry>%s/traceLog/logger.log/g</entry>
-        <entry>q</entry>
         <entry>s</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -319,6 +319,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
