@@ -3,17 +3,45 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1525747941955">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" timestamp="1525748836182">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="20" column="5" />
+        <mark key="." line="20" column="5" />
+        <mark key="^" line="20" column="5" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/config.js" timestamp="1525687090900">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="0" column="7" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Dispatch.js" timestamp="1525681972666">
+        <mark key="'" line="30" column="23" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/helper.js" timestamp="1525687137833">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="133" column="0" />
         <mark key="^" line="53" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525743974863">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/project/duobeiyun-msg-audit/app.js" timestamp="1525748807753">
+        <mark key="'" line="76" column="8" />
+        <mark key="[" line="64" column="41" />
+        <mark key="]" line="64" column="46" />
+        <mark key="^" line="64" column="46" />
+        <mark key="." line="64" column="46" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1525687799056">
         <mark key="'" line="80" column="2" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1525747932223">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Dispatch.js" timestamp="1525681248647">
         <mark key="[" line="83" column="6" />
@@ -45,18 +73,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/config.js" timestamp="1525687090900">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="0" column="7" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Dispatch.js" timestamp="1525681972666">
-        <mark key="'" line="30" column="23" />
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/.gitignore" timestamp="1525689244295">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="2" column="4" />
@@ -65,18 +81,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/helper.js" />
-      <jump line="15" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
-      <jump line="51" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
-      <jump line="193" column="68" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
-      <jump line="204" column="66" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
-      <jump line="12" column="29" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="38" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="232" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="40" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="61" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="129" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="130" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="221" column="32" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="122" column="28" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="191" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
@@ -165,55 +169,67 @@
       <jump line="238" column="30" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="34" column="5" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="35" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="271" column="33" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="203" column="8" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="81" column="22" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="117" column="15" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="259" column="0" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="222" column="22" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="256" column="22" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="275" column="37" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="48" column="10" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="68" column="2" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
+      <jump line="76" column="8" filename="$USER_HOME$/project/duobeiyun-msg-audit/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>role</text>
+        <text>\.on</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgY2FjaGVLZXlzID0ge307CmV4cG9ydHMuY2FsY0FjY2Vzc0tleSA9ICh1aWQsIHJvb21JZCwgcm9vbUFjY2Vzc0tleSkgPT4gewoJY29uc3Qgc291cmNlID0gdWlkICsgcm9vbUlkICsgcm9vbUFjY2Vzc0tleTsKCWxldCBhY2Nlc3NLZXkgPSBjYWNoZUtleXNbc291cmNlXTsKCWlmIChhY2Nlc3NLZXkgPT0gbnVsbCkgewoJCWFjY2Vzc0tleSA9IGNhY2hlS2V5c1tzb3VyY2VdID0gY3J5cHRvLmNyZWF0ZUhhc2goJ21kNScpLnVwZGF0ZShzb3VyY2UpLmRpZ2VzdCgnaGV4Jyk7Cgl9CglyZXR1cm4gYWNjZXNzS2V5Owp9OwoKY29uc3Qgcm9vbUtleVByZWZpeCA9IGV4cG9ydHMucm9vbUtleVByZWZpeCA9IHdpZCArICctREJZTTpST09NJzsKZXhwb3J0cy5yb29tVG9LZXkgPSAocm9vbUlkKSA9PiByb29tS2V5UHJlZml4ICsgJzonICsgcm9vbUlkOwpleHBvcnRzLmtleVRvUm9vbSA9IChrZXkpID0+IGtleS5zbGljZShyb29tS2V5UHJlZml4Lmxlbmd0aCArIDEpOwoKZXhwb3J0cy5NQVhfU0VORF9ST09NX0NIQVRfUEVSX1NFTkNPTkQgPSAxMDsKCmNvbnN0IHN0b3JhZ2UgPSByZXF1aXJlKCcuL3N0b3JhZ2UnKQoKY29uc3Qgcm91dGVDYWNoZSA9IHt9Ci8qKgogKiDkvb/nlKggcm9vbUlkIOWQjuS4pOS9jeS7jjE26L+b5Yi26L2s5Li6MTDov5vliLbvvIzlubbmqKE45b6X5Yiw5Zyw5Z2A5pWw57uE55qE57Si5byVCiAqIEBwYXJhbSByb29tSWQKICogQHJldHVybiB7Kn0KICovCmNvbnN0IHJvdXRlQnlSb29tSWQgPSAocm9vbUlkKSA9PiB7CglpZiAocm9vbUlkIGluIHJvdXRlQ2FjaGUpIHsKCQlyZXR1cm4gcm91dGVDYWNoZVtyb29tSWRdCgl9Cgl0cnkgewoJCWNvbnN0IGluZGV4ID0gcGFyc2VJbnQocm9vbUlkLnN1YnN0cihyb29tSWQubGVuZ3RoIC0gMiwgMiksIDE2KSAlIDgKCQlyb3V0ZUNhY2hlW3Jvb21JZF0gPSBpbmRleAoJCXJldHVybiBpbmRleAoJfSBjYXRjaCAoZSkgewoJCWxvZ2dlci5lcnJvcihyb29tSWQsICdyb3V0ZUVycm9yJywgZSkKCQlyZXR1cm4gMDsKCX0KfQpleHBvcnRzLnNvY2tfcHViX3JvdXRlID0gKHJvb21JZCkgPT4gewoJY29uc3QgaW5kZXggPSByb3V0ZUJ5Um9vbUlkKHJvb21JZCkKCXJldHVybiBzdG9yYWdlLnNvY2tfcHVic1tpbmRleF0gfHwgc3RvcmFnZS5zb2NrX3B1YnNbMF0KfQoKZXhwb3J0cy5zb2NrX3N1Yl9yb3V0ZSA9IChyb29tSWQpID0+IHsKCWNvbnN0IGluZGV4ID0gcm91dGVCeVJvb21JZChyb29tSWQpCglyZXR1cm4gc3RvcmFnZS5zb2NrX3N1YnNbaW5kZXhdIHx8IHN0b3JhZ2Uuc29ja19zdWJzWzBdCn0K</text>
+      <register name="0" type="4">
+        <text>sock_dealer_dispatch</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJykK</text>
+        <text encoding="base64">CSAgICAgIHNvY2tldC5vbignJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzb2NrZXQub24oJ2NoYXQnLCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgc3ViID0gRW1xLkVFY2tldCgnc3ViJykK</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgc3ViID0gem1xLnNvY2tldCgnc3ViJykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcHViID0gem1xLnNvY2tldCgncHViJykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc3ViID0gem1xLnNvY2tldCgnc3ViJykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CSAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgID0gCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgZGVhbGVyX2Rpc3BhdGNoX3NvY2sgPSB6bXFTb2NrZXRTZXJ2ZXIuZGVhbGVyX2Rpc3BhdGNoCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzb2NrX3N1Yi4K</text>
+        <text encoding="base64">ICAgICAgZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>role</last-search>
+      <last-search>\.on</last-search>
       <last-offset />
-      <last-pattern>role</last-pattern>
+      <last-pattern>\.on</last-pattern>
       <last-replace>logger.log</last-replace>
       <last-substitute>traceLog</last-substitute>
       <last-dir>1</last-dir>
@@ -221,11 +237,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logger.log</entry>
-        <entry>\[</entry>
-        <entry>logger.log.+\[</entry>
-        <entry>accesskey</entry>
-        <entry encoding="base64">XDxwdWI=</entry>
         <entry>sub</entry>
         <entry>sock_sub</entry>
         <entry>sock_sub_update</entry>
@@ -241,6 +252,11 @@
         <entry encoding="base64">XDxwdWJcPg==</entry>
         <entry>mobile</entry>
         <entry>role</entry>
+        <entry>chat</entry>
+        <entry>denyChat</entry>
+        <entry>allowChat</entry>
+        <entry>emit</entry>
+        <entry>\.on</entry>
       </history-search>
       <history-cmd>
         <entry>%s/traceLog/logger.log/g</entry>
@@ -295,6 +311,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
