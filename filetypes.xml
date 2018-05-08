@@ -12,12 +12,6 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".yarnrc" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".jshintignore" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitignore" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".eslintignore" type="PLAIN_TEXT" />
       <mapping pattern="connectorSioNginxConfig" type="YAML" />
     </extensionMap>
   </component>

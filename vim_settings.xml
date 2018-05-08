@@ -1,0 +1,120 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/helper.js" timestamp="1525681591312">
+        <mark key="'" line="88" column="20" />
+        <mark key="[" line="53" column="30" />
+        <mark key="]" line="53" column="29" />
+        <mark key="^" line="53" column="29" />
+        <mark key="." line="53" column="29" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Dispatch.js" timestamp="1525681248647">
+        <mark key="[" line="83" column="6" />
+        <mark key="]" line="83" column="6" />
+        <mark key="." line="83" column="6" />
+        <mark key="^" line="83" column="6" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" timestamp="1525681985328">
+        <mark key="'" line="74" column="11" />
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1525681616683">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Dispatch.js" timestamp="1525681972666">
+        <mark key="'" line="30" column="23" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="201" column="3" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="318" column="9" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="338" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="88" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/helper.js" />
+      <jump line="332" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="73" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="8" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="7" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Dispatch.js" />
+      <jump line="9" column="5" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Dispatch.js" />
+      <jump line="6" column="35" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Dispatch.js" />
+      <jump line="30" column="23" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Dispatch.js" />
+      <jump line="74" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gZXhwb3J0cy5sb2dnZXIgPSB7Cglsb2c6IGZ1bmN0aW9uIChzY29wZUlkLCB0eXBlKSB7CgkJc2NvcGVJZCA9IHNjb3BlSWQgfHwgJ2dsb2JhbCc7CgkJY29uc3QgYXJncyA9IEFycmF5LnByb3RvdHlwZS5zbGljZS5jYWxsKGFyZ3VtZW50cywgMik7CgkJYXJncy51bnNoaWZ0KCdbd2lkLScgKyB3aWQgKyAnXVsnICsgc2NvcGVJZCArICddWycgKyB0eXBlICsgJ10nKTsKCQljb25zb2xlLmxvZyhoYW5kbGVMb2dBcmdzKGFyZ3MpKTsKCX0sCgllcnJvcjogZnVuY3Rpb24gKHNjb3BlSWQsIHR5cGUpIHsKCQljb25zdCBhcmdzID0gQXJyYXkucHJvdG90eXBlLnNsaWNlLmNhbGwoYXJndW1lbnRzLCAyKTsKCQlhcmdzLnVuc2hpZnQoJ1t3aWQtJyArIHdpZCArICddWycgKyBzY29wZUlkICsgJ11bJyArIHR5cGUgKyAnXScpOwoJCWNvbnNvbGUuZXJyb3IoaGFuZGxlTG9nQXJncyhhcmdzKSk7Cgl9Cn07Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRyYWNlTG9nKHJvb21JZCwgJ2Nvbm5lY3QgZmFpbCcpCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>.</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+      <register name="/" type="4">
+        <text>logger</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>logger</last-search>
+      <last-offset />
+      <last-pattern>logger</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>log</entry>
+        <entry>console.log</entry>
+        <entry>trace</entry>
+        <entry>helper</entry>
+        <entry>struct</entry>
+        <entry>StructC</entry>
+        <entry>logger</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
