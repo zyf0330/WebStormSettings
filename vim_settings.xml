@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1525752703144">
@@ -18,6 +18,12 @@
         <mark key="]" line="3" column="42" />
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
+      </file>
+      <file name="$USER_HOME$/project/t/package.json" timestamp="1525841373295">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/config.js" timestamp="1525687090900">
         <mark key="[" line="6" column="0" />
@@ -43,6 +49,12 @@
         <mark key="]" line="76" column="27" />
         <mark key="." line="76" column="27" />
         <mark key="^" line="76" column="27" />
+      </file>
+      <file name="$USER_HOME$/project/t/1.js" timestamp="1525841339321">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1525687799056">
         <mark key="'" line="80" column="2" />
@@ -190,11 +202,11 @@
       <jump line="43" column="6" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>['run', 'script']</text>
       </register>
       <register name="-" type="4">
-        <text>tcp://101.251.219.202:7001</text>
+        <text>['run', 'script']</text>
       </register>
       <register name="/" type="4">
         <text>denyMsgs</text>
