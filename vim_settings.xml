@@ -1,9 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1525752703144">
+      <file name="/Dummy.txt" timestamp="1525858145206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" timestamp="1525751049494">
@@ -37,6 +37,13 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/project/dby-electron-client-xb/src/mainProcess/runArgsCorrector.js" timestamp="1525859081575">
+        <mark key="'" line="11" column="34" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="30" column="18" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/helper.js" timestamp="1525687137833">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="88" column="0" />
@@ -59,7 +66,7 @@
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1525687799056">
         <mark key="'" line="80" column="2" />
       </file>
-      <file name="/JavaScript Console" timestamp="1525752709605">
+      <file name="/JavaScript Console" timestamp="1525859058539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Dispatch.js" timestamp="1525681248647">
@@ -100,7 +107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="215" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="214" column="100" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="170" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
@@ -200,55 +206,56 @@
       <jump line="41" column="6" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
       <jump line="80" column="6" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
       <jump line="43" column="6" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
+      <jump line="11" column="34" filename="$USER_HOME$/project/dby-electron-client-xb/src/mainProcess/runArgsCorrector.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>['run', 'script']</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coMTIzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>['run', 'script']</text>
+        <text>ignore</text>
       </register>
       <register name="/" type="4">
-        <text>denyMsgs</text>
+        <text>spawn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIOeUqOaIt+WQje+8mjxzcGFuIHYtdGV4dD0ibXNnLm5hbWUiPjwvc3Bhbj7ml7bpl7TvvJo8c3BhbiB2LXRleHQ9Im1zZy50cyI+PC9zcGFuPgogICAgICAgICAg5raI5oGv77yaPHNwYW4gdi10ZXh0PSJtc2cubXNnIj48L3NwYW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coMTIzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coMTIzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBhdWRpdG9yc1tzb2NrZXRJZF0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIOeUqOaIt+WQje+8mgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVueU1zZ3M6IFtdLAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlbGV0ZSBhdWRpdG9yc1tzb2NrZXRJZF0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIOeUqOaIt+WQje+8mgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+ZGQ8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgZGVueU1zZ3M6IFtdLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBzb2NrZXRzTGVuID0gc29ja2V0cy5sZW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZihzb2NrZXRzLmluZGV4T2Yoc29ja2V0LmlkKSAhPSAtMSkgewogICAgcmV0dXJuCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+ZGQ8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>denyMsgs</last-search>
+      <last-search>spawn</last-search>
       <last-offset />
-      <last-pattern>denyMsgs</last-pattern>
+      <last-pattern>spawn</last-pattern>
       <last-replace>logger.log</last-replace>
       <last-substitute>traceLog</last-substitute>
       <last-dir>1</last-dir>
@@ -256,7 +263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mobile</entry>
         <entry>role</entry>
         <entry>allowChat</entry>
         <entry>emit</entry>
@@ -276,11 +282,14 @@
         <entry>chat</entry>
         <entry>allowMsg</entry>
         <entry>denyMsgs</entry>
+        <entry>spawn</entry>
       </history-search>
       <history-cmd>
         <entry>%s/traceLog/logger.log/g</entry>
         <entry>s</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>-8</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
