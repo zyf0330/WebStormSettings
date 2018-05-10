@@ -73,7 +73,7 @@
         <mark key="^" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1525852118892">
+      <file name="/JavaScript Console" timestamp="1525937752751">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1525760914367">
@@ -89,14 +89,14 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/services.js" timestamp="1525936101613">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/services.js" timestamp="1525937562378">
         <mark key="'" line="67" column="69" />
-        <mark key="[" line="195" column="15" />
-        <mark key="]" line="195" column="40" />
-        <mark key="^" line="241" column="19" />
-        <mark key="." line="241" column="19" />
+        <mark key="[" line="259" column="49" />
+        <mark key="]" line="261" column="13" />
+        <mark key="." line="261" column="13" />
+        <mark key="^" line="261" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525853702282">
+      <file name="/Dummy.txt" timestamp="1525937785472">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -124,6 +124,14 @@
         <mark key="[" line="112" column="0" />
         <mark key="]" line="121" column="32" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/test/testClient.js" timestamp="1525937683092">
+        <mark key="'" line="6" column="34" />
+        <mark key="i" line="42" column="42" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="79" column="33" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" timestamp="1525776149462">
         <mark key="'" line="64" column="17" />
         <mark key="[" line="64" column="18" />
@@ -131,9 +139,10 @@
         <mark key="." line="64" column="18" />
         <mark key="^" line="67" column="39" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/protos/index.proto" timestamp="1525936363842">
-        <mark key="[" line="375" column="8" />
-        <mark key="]" line="375" column="22" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/protos/index.proto" timestamp="1525937256926">
+        <mark key="'" line="262" column="8" />
+        <mark key="[" line="363" column="8" />
+        <mark key="]" line="363" column="22" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1525836301571">
         <mark key="'" line="338" column="24" />
@@ -171,7 +180,6 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1525935155154" />
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/.gitignore" timestamp="1525689244295">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="2" column="4" />
@@ -186,10 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="303" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="222" column="33" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="218" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="251" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="230" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="39" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
@@ -286,68 +290,59 @@
       <jump line="179" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/index.js" />
       <jump line="148" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/index.js" />
       <jump line="163" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/index.js" />
+      <jump line="6" column="34" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/test/testClient.js" />
+      <jump line="46" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/protos/index.proto" />
+      <jump line="258" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/protos/index.proto" />
+      <jump line="262" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/protos/index.proto" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GetCurrQuestion</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>sendBaseStaCurrentQuestion</text>
+        <text>getcurrques</text>
       </register>
-      <register name="0" type="4">
-        <text>logger.info('SendAnswer');
-  const {questionId, roomId, answers} = call.request;
-  try {
-    for (const answer of answers) {
-      // 添加作答到当前题目作答列表
-      await services.addAnswer(roomId, questionId, answer);
-      // 广播作答
-      await services.sendAnswer(roomId, questionId, answer);
-    }
-    callback(null, {header: {statusCode: 0}});
-  } catch (e) {
-    logger.error(e, 'SendAnswer');
-    callback(e);
-  }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNvY2tldC5lbWl0KCdjb21tYW5kJywgJ3Rlc3RSUEMnLCB7YTogMSwgYjoyLH0sIGZ1bmN0aW9uKGVycm9yLCBkYXRhKSB7CiAgICAgIGlmKCFlcnJvcikgewogICAgICAgIGNvbnNvbGUubG9nKGB0ZXN0UlBDIHJldHVybiAke2RhdGEudG9TdHJpbmcoKX1gKTsKICAgICAgfQogICAgICAvLyBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpOwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qge2tleUlkLCBiYXNlU3RhdGlvbklkLCB0aW1lLCBhbnN3ZXJJbmZvfSA9IGFuc3dlcjsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgbG9nZ2VyLmVycm9yKGUsICdTZW5kQW5zd2VyJyk7CiAgICAgIGNhbGxiYWNrKGUpOwogICAgfQo=</text>
+        <text encoding="base64">ICBjb25zb2wK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIF8uZm9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2FsbGJhY2sobnVsbCwge2hlYWRlcjoge3N0YXR1c0NvZGU6IDB9fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ2RhdGEnLCBkYXRhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB7a2V5SWQsIGJhc2VTdGF0aW9uSWQsIHRpbWUsIGFuc3dlckluZm99ID0gYW5zd2VyOwogIHRyeSB7CiAgICAvLyDmt7vliqDkvZznrZTliLDlvZPliY3popjnm67kvZznrZTliJfooagKICAgIGF3YWl0IHNlcnZpY2VzLmFkZEFuc3dlcihyb29tSWQsIHF1ZXN0aW9uSWQsIGFuc3dlcik7CiAgICBjYWxsYmFjayhudWxsLCB7aGVhZGVyOiB7c3RhdHVzQ29kZTogMH19KTsKICAgIC8vIOW5v+aSreS9nOetlAogICAgYXdhaXQgc2VydmljZXMuc2VuZEFuc3dlcihyb29tSWQsIHF1ZXN0aW9uSWQsIGFuc3dlcik7CiAgfSBjYXRjaCAoZSkgewogICAgbG9nZ2VyLmVycm9yKGUsICdTZW5kQW5zd2VyJyk7CiAgICBjYWxsYmFjayhlKTsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAqIOetlOmimOWZqOS9nOetlAogKiBAcGFyYW0ge1Nlc3Npb259IHNlc3Npb24KICogQHBhcmFtIHtzdHJpbmd9IHF1ZXN0aW9uSWQKICogQHBhcmFtIHtzdHJpbmd9IGJhc2VTdGF0aW9uSWQKICogQHBhcmFtIHtBcnJheS48T2JqZWN0Pn0gYW5zd2VycwogKiBAcmV0dXJucyB7UHJvbWlzZS48TnVsbD59CiAqLw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzb2NrZXQuZW1pdCgnY29tbWFuZCcsICd0ZXN0UlBDJywge2E6IDEsIGI6Mix9LCBmdW5jdGlvbihlcnJvciwgZGF0YSkgewogICAgaWYoIWVycm9yKSB7CiAgICAgIGNvbnNvbGUubG9nKGB0ZXN0UlBDIHJldHVybiAke2RhdGEudG9TdHJpbmcoKX1gKTsKICAgIH0KICAgIC8vIGNvbnNvbGUubG9nKCdkYXRhJywgZGF0YSk7CiAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHNlc3Npb24KICogQHBhcmFtIHF1ZXN0aW9uSWQKICogQHBhcmFtIHF1ZXN0aW9uVHlwZQogKiBAcGFyYW0gZGlzcGxheU1vZGUKICogQHBhcmFtIG1vZGlmeU1vZGUKICogQHBhcmFtIHNlY3JlY3lNb2RlCiAqIEBwYXJhbSBtdXN0Q2hvb3NlCiAqIEBwYXJhbSBvcHRpb25OdW1zCiAqIEBwYXJhbSBtYXhTZWxlY3ROdW1zCiAqIEBwYXJhbSBzdGFydFRpbWVzdGFtcAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3Qge2tleUlkLCBiYXNlU3RhdGlvbklkLCB0aW1lLCBhbnN3ZXJJbmZvfSA9IGFuc3dlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtTZXNzaW9ufSBzZXNzaW9uCiAqIEBwYXJhbSB7c3RyaW5nfSBxdWVzdGlvbklkCiAqIEBwYXJhbSB7c3RyaW5nfSBxdWVzdGlvblR5cGUKICogQHBhcmFtIHtzdHJpbmd9IGRpc3BsYXlNb2RlCiAqIEBwYXJhbSB7Ym9vbGVhbn0gbW9kaWZ5TW9kZQogKiBAcGFyYW0ge2Jvb2xlYW59IHNlY3JlY3lNb2RlCiAqIEBwYXJhbSB7Ym9vbGVhbn0gbXVzdENob29zZQogKiBAcGFyYW0ge051bWJlcn0gb3B0aW9uTnVtcwogKiBAcGFyYW0ge051bWJlcn0gbWF4U2VsZWN0TnVtcwogKiBAcGFyYW0ge051bWJlcn0gc3RhcnRUaW1lc3RhbXAKICogQHJldHVybnMge1Byb21pc2UuPE51bWJlcj59CiAqLwo=</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgbG9nZ2VyLmVycm9yKGUsICdTZW5kQW5zd2VyJyk7CiAgICAgIGNhbGxiYWNrKGUpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>sendBaseStaCurrentQuestion</last-search>
+      <last-search>getcurrques</last-search>
       <last-offset />
-      <last-pattern>sendBaseStaCurrentQuestion</last-pattern>
+      <last-pattern>getcurrques</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -355,9 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dbyms</entry>
-        <entry>dl</entry>
-        <entry>HLSMedia</entry>
         <entry>httpPostRes</entry>
         <entry>startrequ</entry>
         <entry>startQues</entry>
@@ -375,6 +367,9 @@
         <entry>answer</entry>
         <entry>BaseStaStartAnswerReq</entry>
         <entry>sendBaseStaCurrentQuestion</entry>
+        <entry>app</entry>
+        <entry>startquestion</entry>
+        <entry>getcurrques</entry>
       </history-search>
       <history-cmd>
         <entry>%s/traceLog/logger.log/g</entry>
@@ -383,11 +378,11 @@
         <entry encoding="base64">JzwsJz4rMTA=</entry>
         <entry>-10</entry>
         <entry>+10</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>200</entry>
         <entry>168</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
