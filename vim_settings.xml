@@ -106,10 +106,16 @@
         <mark key="." line="273" column="55" />
         <mark key="^" line="273" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525941687087">
+      <file name="/Dummy.txt" timestamp="1525941691484">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1525942692401">
+        <mark key="[" line="16" column="68" />
+        <mark key="]" line="16" column="68" />
+        <mark key="^" line="16" column="68" />
+        <mark key="." line="16" column="68" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.js" timestamp="1525760253920">
         <mark key="[" line="1" column="0" />
@@ -326,10 +332,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new Buffer(null)</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>new Buffer(null)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>this._buffer</text>

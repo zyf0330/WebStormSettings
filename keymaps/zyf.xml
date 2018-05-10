@@ -7,6 +7,10 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeCompletion" />
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="Diff.ShowSettingsPopup" />
   <action id="GuiDesigner.Duplicate">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
@@ -49,4 +53,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Uml.ShowDiff" />
 </keymap>
