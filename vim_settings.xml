@@ -37,9 +37,6 @@
         <mark key="." line="78" column="200" />
         <mark key="^" line="78" column="200" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" timestamp="1525833765506">
-        <mark key="'" line="6" column="20" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/remote.js" timestamp="1525936119538">
         <mark key="'" line="290" column="2" />
         <mark key="[" line="164" column="9" />
@@ -73,8 +70,14 @@
         <mark key="^" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1525937752751">
+      <file name="/JavaScript Console" timestamp="1525939735960">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.js" timestamp="1525937890876">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1525760914367">
         <mark key="'" line="58" column="6" />
@@ -89,17 +92,17 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/services.js" timestamp="1525937562378">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/services.js" timestamp="1525939609574">
         <mark key="'" line="67" column="69" />
-        <mark key="[" line="259" column="49" />
-        <mark key="]" line="261" column="13" />
-        <mark key="." line="261" column="13" />
-        <mark key="^" line="261" column="13" />
+        <mark key="[" line="273" column="55" />
+        <mark key="]" line="273" column="55" />
+        <mark key="." line="273" column="55" />
+        <mark key="^" line="273" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525937785472">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1525939985117">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.js" timestamp="1525760253920">
         <mark key="[" line="1" column="0" />
@@ -120,17 +123,21 @@
         <mark key="." line="176" column="0" />
         <mark key="^" line="175" column="3" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/keys.js" timestamp="1525939084023">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="8" column="71" />
+      </file>
       <file name="/remote.js" timestamp="1525853106761">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="121" column="32" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/test/testClient.js" timestamp="1525937683092">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/test/testClient.js" timestamp="1525939733828">
         <mark key="'" line="6" column="34" />
         <mark key="i" line="42" column="42" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="79" column="33" />
+        <mark key="[" line="54" column="43" />
+        <mark key="]" line="54" column="43" />
+        <mark key="^" line="54" column="163" />
+        <mark key="." line="54" column="43" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" timestamp="1525776149462">
         <mark key="'" line="64" column="17" />
@@ -139,10 +146,10 @@
         <mark key="." line="64" column="18" />
         <mark key="^" line="67" column="39" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/protos/index.proto" timestamp="1525937256926">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/protos/index.proto" timestamp="1525939745459">
         <mark key="'" line="262" column="8" />
-        <mark key="[" line="363" column="8" />
-        <mark key="]" line="363" column="22" />
+        <mark key="[" line="381" column="8" />
+        <mark key="]" line="381" column="22" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1525836301571">
         <mark key="'" line="338" column="24" />
@@ -296,11 +303,11 @@
       <jump line="262" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/protos/index.proto" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>修复 startQuestion 参数列表结构错误。更新 sdk</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>修复 startQuestion 参数列表结构错误。更新 sdk</text>
       </register>
       <register name="/" type="4">
         <text>getcurrques</text>
@@ -309,34 +316,40 @@
         <text encoding="base64">ICAgIHNvY2tldC5lbWl0KCdjb21tYW5kJywgJ3Rlc3RSUEMnLCB7YTogMSwgYjoyLH0sIGZ1bmN0aW9uKGVycm9yLCBkYXRhKSB7CiAgICAgIGlmKCFlcnJvcikgewogICAgICAgIGNvbnNvbGUubG9nKGB0ZXN0UlBDIHJldHVybiAke2RhdGEudG9TdHJpbmcoKX1gKTsKICAgICAgfQogICAgICAvLyBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpOwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICBzdGFydFRpbWVzdGFtcDogRGF0ZS5ub3coKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2wK</text>
+        <text encoding="base64">ICAgICBxdWVzdGlvblR5ZWN0TnVtczogMiwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIF8uZm9yCg==</text>
+      <register name="3" type="4">
+        <text>pe: 2,
+     displayMode: 2,
+     modifyMode: 1,
+     secrecyMode: 0,
+     mustChoose: 1,
+     optionNums: 2,
+     maxSel</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ2RhdGEnLCBkYXRhKTsK</text>
+        <text encoding="base64">ICBjb25zb2wK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF8uZm9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzb2NrZXQuZW1pdCgnY29tbWFuZCcsICd0ZXN0UlBDJywge2E6IDEsIGI6Mix9LCBmdW5jdGlvbihlcnJvciwgZGF0YSkgewogICAgaWYoIWVycm9yKSB7CiAgICAgIGNvbnNvbGUubG9nKGB0ZXN0UlBDIHJldHVybiAke2RhdGEudG9TdHJpbmcoKX1gKTsKICAgIH0KICAgIC8vIGNvbnNvbGUubG9nKCdkYXRhJywgZGF0YSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qge2tleUlkLCBiYXNlU3RhdGlvbklkLCB0aW1lLCBhbnN3ZXJJbmZvfSA9IGFuc3dlcjsK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ2RhdGEnLCBkYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgbG9nZ2VyLmVycm9yKGUsICdTZW5kQW5zd2VyJyk7CiAgICAgIGNhbGxiYWNrKGUpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -381,8 +394,8 @@
         <entry>q</entry>
         <entry>200</entry>
         <entry>168</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
