@@ -70,6 +70,7 @@
         <mark key="^" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Socket.js" timestamp="1525943549978" />
       <file name="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" timestamp="1525941555917">
         <mark key="'" line="33" column="33" />
         <mark key="[" line="28" column="13" />
@@ -111,11 +112,11 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1525943123147">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="48" />
-        <mark key="^" line="19" column="19" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1525943332658">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.js" timestamp="1525760253920">
         <mark key="[" line="1" column="0" />
@@ -331,11 +332,11 @@
       <jump line="29" column="33" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgY3JlZCA9IGdycGMuY3JlZGVudGlhbHMuY3JlYXRlSW5zZWN1cmUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>this._buffer</text>
@@ -344,21 +345,24 @@
         <text encoding="base64">ICAgIHNvY2tldC5lbWl0KCdjb21tYW5kJywgJ3Rlc3RSUEMnLCB7YTogMSwgYjoyLH0sIGZ1bmN0aW9uKGVycm9yLCBkYXRhKSB7CiAgICAgIGlmKCFlcnJvcikgewogICAgICAgIGNvbnNvbGUubG9nKGB0ZXN0UlBDIHJldHVybiAke2RhdGEudG9TdHJpbmcoKX1gKTsKICAgICAgfQogICAgICAvLyBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpOwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgY3JlZCA9IGdycGMuY3JlZGVudGlhbHMuY3JlYXRlSW5zZWN1cmUoKQo=</text>
+        <text encoding="base64">ICBncnBjQ2xpZW50LmNsb3NlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZ3JwY0NsaWVudCA9IG5ldyBwcm90by5oZWxsb3dvcmxkLkdyZWV0ZXIoJzE5Mi4xNjguMC4xMDI6OTk5OCcsIGNyZWQpCg==</text>
+        <text encoding="base64">Y29uc3QgY3JlZCA9IGdycGMuY3JlZGVudGlhbHMuY3JlYXRlSW5zZWN1cmUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">Y29uc3QgZ3JwY0NsaWVudCA9IG5ldyBwcm90by5oZWxsb3dvcmxkLkdyZWV0ZXIoJzE5Mi4xNjguMC4xMDI6OTk5OCcsIGNyZWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICBzdGFydFRpbWVzdGFtcDogRGF0ZS5ub3coKQo=</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICBzdGFydFRpbWVzdGFtcDogRGF0ZS5ub3coKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICBxdWVzdGlvblR5ZWN0TnVtczogMiwK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>pe: 2,
      displayMode: 2,
      modifyMode: 1,
@@ -367,14 +371,11 @@
      optionNums: 2,
      maxSel</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2wK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF8uZm9yCg==</text>
+        <text encoding="base64">ICBjb25zb2wK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
