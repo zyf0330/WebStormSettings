@@ -70,6 +70,13 @@
         <mark key="^" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
+      <file name="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" timestamp="1525941555917">
+        <mark key="'" line="33" column="33" />
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="32" />
+        <mark key="." line="28" column="32" />
+        <mark key="^" line="28" column="32" />
+      </file>
       <file name="/JavaScript Console" timestamp="1525939735960">
         <mark key="[" line="0" column="0" />
       </file>
@@ -99,7 +106,7 @@
         <mark key="." line="273" column="55" />
         <mark key="^" line="273" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525940022956">
+      <file name="/Dummy.txt" timestamp="1525941687087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -109,6 +116,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/duobei/node-rtmp-message-server/src/protocol.ts" timestamp="1525941264701">
+        <mark key="'" line="168" column="2" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/1.js" timestamp="1525851732685">
         <mark key="[" line="0" column="6" />
@@ -139,7 +149,6 @@
         <mark key="^" line="54" column="163" />
         <mark key="." line="54" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" timestamp="1525940168276" />
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" timestamp="1525776149462">
         <mark key="'" line="64" column="17" />
         <mark key="[" line="64" column="18" />
@@ -151,6 +160,12 @@
         <mark key="'" line="262" column="8" />
         <mark key="[" line="381" column="8" />
         <mark key="]" line="381" column="22" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1525941532263">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1525836301571">
         <mark key="'" line="338" column="24" />
@@ -208,10 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="230" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="39" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
-      <jump line="147" column="25" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="276" column="28" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="144" column="27" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="284" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
@@ -308,27 +319,34 @@
       <jump line="46" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/protos/index.proto" />
       <jump line="258" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/protos/index.proto" />
       <jump line="262" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/protos/index.proto" />
+      <jump line="299" column="5" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/protocol.ts" />
+      <jump line="168" column="2" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/protocol.ts" />
+      <jump line="28" column="26" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" />
+      <jump line="29" column="33" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>修复 startQuestion 参数列表结构错误。更新 sdk</text>
+        <text>new Buffer(null)</text>
       </register>
       <register name="-" type="4">
-        <text>修复 startQuestion 参数列表结构错误。更新 sdk</text>
+        <text>new Buffer(null)</text>
       </register>
       <register name="/" type="4">
-        <text>getcurrques</text>
+        <text>this._buffer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNvY2tldC5lbWl0KCdjb21tYW5kJywgJ3Rlc3RSUEMnLCB7YTogMSwgYjoyLH0sIGZ1bmN0aW9uKGVycm9yLCBkYXRhKSB7CiAgICAgIGlmKCFlcnJvcikgewogICAgICAgIGNvbnNvbGUubG9nKGB0ZXN0UlBDIHJldHVybiAke2RhdGEudG9TdHJpbmcoKX1gKTsKICAgICAgfQogICAgICAvLyBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpOwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICBzdGFydFRpbWVzdGFtcDogRGF0ZS5ub3coKQo=</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICBzdGFydFRpbWVzdGFtcDogRGF0ZS5ub3coKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICBxdWVzdGlvblR5ZWN0TnVtczogMiwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>pe: 2,
      displayMode: 2,
      modifyMode: 1,
@@ -337,32 +355,29 @@
      optionNums: 2,
      maxSel</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zb2wK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIF8uZm9yCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ2RhdGEnLCBkYXRhKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ2RhdGEnLCBkYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getcurrques</last-search>
+      <last-search>this._buffer</last-search>
       <last-offset />
-      <last-pattern>getcurrques</last-pattern>
+      <last-pattern>this._buffer</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -370,9 +385,6 @@
     </search>
     <history>
       <history-search>
-        <entry>httpPostRes</entry>
-        <entry>startrequ</entry>
-        <entry>startQues</entry>
         <entry>getcurr</entry>
         <entry>getanswerlist</entry>
         <entry>callback.+,.+,</entry>
@@ -390,6 +402,9 @@
         <entry>app</entry>
         <entry>startquestion</entry>
         <entry>getcurrques</entry>
+        <entry>parsechunk</entry>
+        <entry>parsechunkbo</entry>
+        <entry>this._buffer</entry>
       </history-search>
       <history-cmd>
         <entry>%s/traceLog/logger.log/g</entry>
