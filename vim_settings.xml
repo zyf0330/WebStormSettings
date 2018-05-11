@@ -37,6 +37,12 @@
         <mark key="." line="78" column="200" />
         <mark key="^" line="78" column="200" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/node-ffi-sunvote/test.js" timestamp="1526005299387">
+        <mark key="[" line="41" column="7" />
+        <mark key="]" line="41" column="7" />
+        <mark key="." line="41" column="7" />
+        <mark key="^" line="49" column="5" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/remote.js" timestamp="1525936119538">
         <mark key="'" line="290" column="2" />
         <mark key="[" line="164" column="9" />
@@ -44,6 +50,7 @@
         <mark key="^" line="183" column="36" />
         <mark key="." line="183" column="36" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/node-ffi-sunvote/libdbsunvote.js" timestamp="1526004725362" />
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/config.js" timestamp="1525759848099">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="37" />
@@ -70,7 +77,6 @@
         <mark key="^" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Socket.js" timestamp="1525943549978" />
       <file name="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" timestamp="1525941555917">
         <mark key="'" line="33" column="33" />
         <mark key="[" line="28" column="13" />
@@ -78,7 +84,7 @@
         <mark key="." line="28" column="32" />
         <mark key="^" line="28" column="32" />
       </file>
-      <file name="/JavaScript Console" timestamp="1525939735960">
+      <file name="/JavaScript Console" timestamp="1526005121011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.js" timestamp="1525937890876">
@@ -107,7 +113,7 @@
         <mark key="." line="273" column="55" />
         <mark key="^" line="273" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525941691484">
+      <file name="/Dummy.txt" timestamp="1526005303370">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -122,6 +128,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/node-ffi-sunvote/.gitignore" timestamp="1526002610625">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/duobei/node-rtmp-message-server/src/protocol.ts" timestamp="1525941264701">
         <mark key="'" line="168" column="2" />
@@ -227,9 +236,14 @@
         <mark key="." line="6" column="54" />
         <mark key="^" line="6" column="54" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/node-ffi-sunvote/.npmignore" timestamp="1526002605946">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="28" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="144" column="27" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="284" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="293" column="43" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
@@ -329,61 +343,56 @@
       <jump line="168" column="2" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/protocol.ts" />
       <jump line="28" column="26" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" />
       <jump line="29" column="33" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/node-ffi-sunvote/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBjcmVkID0gZ3JwYy5jcmVkZW50aWFscy5jcmVhdGVJbnNlY3VyZSgpCiAgY29uc3QgZ3JwY0NsaWVudCA9IG5ldyBwcm90by5oZWxsb3dvcmxkLkdyZWV0ZXIoJzE5Mi4xNjguMC4xMDI6OTk5OCcsIGNyZWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>this._buffer</text>
+        <text>node_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNvY2tldC5lbWl0KCdjb21tYW5kJywgJ3Rlc3RSUEMnLCB7YTogMSwgYjoyLH0sIGZ1bmN0aW9uKGVycm9yLCBkYXRhKSB7CiAgICAgIGlmKCFlcnJvcikgewogICAgICAgIGNvbnNvbGUubG9nKGB0ZXN0UlBDIHJldHVybiAke2RhdGEudG9TdHJpbmcoKX1gKTsKICAgICAgfQogICAgICAvLyBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpOwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBjcmVkID0gZ3JwYy5jcmVkZW50aWFscy5jcmVhdGVJbnNlY3VyZSgpCiAgY29uc3QgZ3JwY0NsaWVudCA9IG5ldyBwcm90by5oZWxsb3dvcmxkLkdyZWV0ZXIoJzE5Mi4xNjguMC4xMDI6OTk5OCcsIGNyZWQpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZXRUaW1lb3V0KCgpPT57CgogICAgZ3JwY0NsaWVudC5jbG9zZSgpCiAgfSwgMTAwKQo=</text>
+        <text encoding="base64">ICAgIGxpYmRic3Vudm90ZS5zdG9wKCk7CiAgICBhd2FpdCBzbGVlcCg1KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBncnBjQ2xpZW50LmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgIGxpYmRic3Vudm90ZS5kaXNjb25uZWN0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY3JlZCA9IGdycGMuY3JlZGVudGlhbHMuY3JlYXRlSW5zZWN1cmUoKQo=</text>
+        <text encoding="base64">Lm5vZGVfbW9kdWxlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZ3JwY0NsaWVudCA9IG5ldyBwcm90by5oZWxsb3dvcmxkLkdyZWV0ZXIoJzE5Mi4xNjguMC4xMDI6OTk5OCcsIGNyZWQpCg==</text>
+        <text encoding="base64">ICBjb25zdCBjcmVkID0gZ3JwYy5jcmVkZW50aWFscy5jcmVhdGVJbnNlY3VyZSgpCiAgY29uc3QgZ3JwY0NsaWVudCA9IG5ldyBwcm90by5oZWxsb3dvcmxkLkdyZWV0ZXIoJzE5Mi4xNjguMC4xMDI6OTk5OCcsIGNyZWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICBzZXRUaW1lb3V0KCgpPT57CgogICAgZ3JwY0NsaWVudC5jbG9zZSgpCiAgfSwgMTAwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICBzdGFydFRpbWVzdGFtcDogRGF0ZS5ub3coKQo=</text>
+        <text encoding="base64">ICBncnBjQ2xpZW50LmNsb3NlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICBxdWVzdGlvblR5ZWN0TnVtczogMiwK</text>
+        <text encoding="base64">Y29uc3QgY3JlZCA9IGdycGMuY3JlZGVudGlhbHMuY3JlYXRlSW5zZWN1cmUoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>pe: 2,
-     displayMode: 2,
-     modifyMode: 1,
-     secrecyMode: 0,
-     mustChoose: 1,
-     optionNums: 2,
-     maxSel</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgZ3JwY0NsaWVudCA9IG5ldyBwcm90by5oZWxsb3dvcmxkLkdyZWV0ZXIoJzE5Mi4xNjguMC4xMDI6OTk5OCcsIGNyZWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this._buffer</last-search>
+      <last-search>node_</last-search>
       <last-offset />
-      <last-pattern>this._buffer</last-pattern>
+      <last-pattern>node_</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -391,7 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getcurr</entry>
         <entry>getanswerlist</entry>
         <entry>callback.+,.+,</entry>
         <entry>callback.+,.+</entry>
@@ -411,6 +419,7 @@
         <entry>parsechunk</entry>
         <entry>parsechunkbo</entry>
         <entry>this._buffer</entry>
+        <entry>node_</entry>
       </history-search>
       <history-cmd>
         <entry>%s/traceLog/logger.log/g</entry>
@@ -419,10 +428,10 @@
         <entry encoding="base64">JzwsJz4rMTA=</entry>
         <entry>-10</entry>
         <entry>+10</entry>
-        <entry>q</entry>
         <entry>200</entry>
         <entry>168</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
