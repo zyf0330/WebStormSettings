@@ -21,9 +21,9 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/app-config.js" timestamp="1526019558174">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="42" />
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/app-config.js" timestamp="1526020240299">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="28" />
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
       </file>
@@ -67,6 +67,13 @@
         <mark key="]" line="180" column="48" />
         <mark key="." line="180" column="48" />
         <mark key="^" line="180" column="48" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/test/testClient.js" timestamp="1526020296849">
+        <mark key="'" line="25" column="6" />
+        <mark key="i" line="47" column="42" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="35" column="2" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" timestamp="1526017896947">
         <mark key="'" line="35" column="15" />
@@ -192,11 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="17" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
-      <jump line="228" column="32" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
-      <jump line="231" column="17" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
-      <jump line="26" column="17" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
-      <jump line="43" column="17" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
       <jump line="45" column="42" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
       <jump line="65" column="26" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
       <jump line="67" column="25" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
@@ -292,16 +294,21 @@
       <jump line="144" column="6" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" />
       <jump line="151" column="14" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" />
       <jump line="155" column="14" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" />
+      <jump line="60" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/test/testClient.js" />
+      <jump line="11" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/test/testClient.js" />
+      <jump line="18" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/test/testClient.js" />
+      <jump line="20" column="51" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/test/testClient.js" />
+      <jump line="25" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/test/testClient.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgYSA9IAo=</text>
+        <text encoding="base64">Y29uc3QgZGVmYXVsdFNvY2tldCA9IGlvKHNlcnZlckFkZHJlc3MsIHsKICBxdWVyeTogewogICAgcm9vbUlkOiAnJwogIH0KfSkK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>room-</text>
       </register>
       <register name="/" type="4">
-        <text>fsm\.disconnect</text>
+        <text>roomId</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -317,40 +324,40 @@
       },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgYSA9IAo=</text>
+        <text encoding="base64">Y29uc3QgZGVmYXVsdFNvY2tldCA9IGlvKHNlcnZlckFkZHJlc3MsIHsKICBxdWVyeTogewogICAgcm9vbUlkOiAnJwogIH0KfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgYSA9IFByb21pc2UucmVzb2x2ZSgxKQo=</text>
+        <text encoding="base64">c29ja2V0Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gYmFzZVN0YVN0YXJ0Li4uCg==</text>
+        <text encoding="base64">Y29uc3QgYSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8g5bm/5pKt5L2c562UCiAgICAgIGF3YWl0IHNlcnZpY2VzLnNlbmRBbnN3ZXIocm9vbUlkLCBxdWVzdGlvbklkLCBhbnN3ZXIpOwo=</text>
+        <text encoding="base64">Y29uc3QgYSA9IFByb21pc2UucmVzb2x2ZSgxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gYmFzZVN0YVN0YXJ0Li4uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgLy8g5bm/5pKt5L2c562UCiAgICAgIGF3YWl0IHNlcnZpY2VzLnNlbmRBbnN3ZXIocm9vbUlkLCBxdWVzdGlvbklkLCBhbnN3ZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0IHRpbWVyID0gc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIC8vICAgY29uc3QgZXJyb3IgPSBuZXcgRXJyb3IoJ2Nvbm5lY3RpbmcgdGltZW91dCcpOwogICAgICAvLyAgIHRoaXMuZnNtLmRpc2Nvbm5lY3QoZXJyb3IpOwogICAgICAvLyB9LCBvcGVyYXRlVGltZW91dCk7CiAgICAgIC8vIHRoaXMub25jZSgnY29ubmVjdGVkJywgKCkgPT4gewogICAgICAvLyAgIGNsZWFyVGltZW91dCh0aW1lcik7CiAgICAgIC8vICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpOwogICAgICAvLyB9KTsKICAgICAgLy8gdGhpcy5vbmNlKCdkaXNjb25uZWN0ZWQnLCAoZXJyb3IpID0+IHsKICAgICAgLy8gICBjbGVhclRpbWVvdXQodGltZXIpOwogICAgICAvLyB9KTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoZXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fsm\.disconnect</last-search>
+      <last-search>roomId</last-search>
       <last-offset />
-      <last-pattern>fsm\.disconnect</last-pattern>
+      <last-pattern>roomId</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -358,7 +365,6 @@
     </search>
     <history>
       <history-search>
-        <entry>connCal</entry>
         <entry>discon</entry>
         <entry>connecting</entry>
         <entry>disconnected</entry>
@@ -378,6 +384,7 @@
         <entry>timeout</entry>
         <entry>disconnect</entry>
         <entry>fsm\.disconnect</entry>
+        <entry>roomId</entry>
       </history-search>
       <history-cmd>
         <entry>%s/traceLog/logger.log/g</entry>
