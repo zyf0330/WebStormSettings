@@ -145,10 +145,10 @@
         <mark key="." line="109" column="47" />
         <mark key="^" line="109" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526116479483">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1526116598981">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1525943644967">
@@ -402,11 +402,11 @@
       <jump line="87" column="9" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVzZXIuY3VzdEluZm8gPSBKU09OLnN0cmluZ2lmeSh1c2VyLmN1c3RJbmZvKQo=</text>
+      <register name="&quot;" type="4">
+        <text>复 bindBaseStation 混淆了“两个房间”</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>复 bindBaseStation 混淆了“两个房间”</text>
       </register>
       <register name="/" type="4">
         <text>stopq</text>
