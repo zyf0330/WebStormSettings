@@ -47,12 +47,12 @@
       <file name="/a.dummy" timestamp="1526032830015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/remote.js" timestamp="1526033066092">
-        <mark key="'" line="258" column="4" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="^" line="271" column="44" />
-        <mark key="." line="272" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/remote.js" timestamp="1526111977668">
+        <mark key="'" line="257" column="4" />
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="16" />
+        <mark key="^" line="25" column="16" />
+        <mark key="." line="25" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1526019482839">
         <mark key="[" line="0" column="0" />
@@ -90,11 +90,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/Command.js" timestamp="1526039044039">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="^" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/Command.js" timestamp="1526111924109">
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="29" column="48" />
+        <mark key="^" line="27" column="35" />
+        <mark key="." line="29" column="48" />
       </file>
       <file name="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" timestamp="1525941555917">
         <mark key="'" line="33" column="33" />
@@ -103,7 +103,7 @@
         <mark key="." line="28" column="32" />
         <mark key="^" line="28" column="32" />
       </file>
-      <file name="/JavaScript Console" timestamp="1526108407567">
+      <file name="/JavaScript Console" timestamp="1526113122974">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.js" timestamp="1525937890876">
@@ -138,14 +138,14 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/services.js" timestamp="1526035186097">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/services.js" timestamp="1526112579207">
         <mark key="'" line="310" column="27" />
-        <mark key="[" line="297" column="15" />
-        <mark key="]" line="297" column="22" />
-        <mark key="." line="297" column="22" />
-        <mark key="^" line="297" column="22" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="48" />
+        <mark key="." line="109" column="47" />
+        <mark key="^" line="109" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526040680076">
+      <file name="/Dummy.txt" timestamp="1526116479483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -402,44 +402,44 @@
       <jump line="87" column="9" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stopQuestion</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVzZXIuY3VzdEluZm8gPSBKU09OLnN0cmluZ2lmeSh1c2VyLmN1c3RJbmZvKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>stopQuestion</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
         <text>stopq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7bmFtZTogJ2Nvbm5lY3RTdWNjZXNzJywgZnJvbTogcnNzZS5Db25uZWN0aW5nLCB0bzogcnNzZS5Db25uZWN0ZWR9LAo=</text>
+        <text encoding="base64">ICAgIHVzZXIuY3VzdEluZm8gPSBKU09OLnN0cmluZ2lmeSh1c2VyLmN1c3RJbmZvKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gc2xlZXAoc2Vjb25kcykgewogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHsKICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICByZXMoKQogICAgfSwgc2Vjb25kcyAqIDEwMDApCiAgfSkKfQo=</text>
+        <text encoding="base64">ICBjb25zdCB1c2VyTWFwID0gbmV3IE1hcCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKTsK</text>
+        <text encoding="base64">ICAgIHVzZXJNYXAuc2V0KHVzZXIudXNlcklkICx1c2VyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByb29tSWQ6IHRoaXMudGFyZ2V0Um9vbUlkLAo=</text>
+        <text encoding="base64">ICAgIHVzZXJNYXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHtudW1iZXJ9IFtjb3VudF0g5pyA5aSn5pWw6YePCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhc2VTdGF0aW9uSWQ6IHRoaXMuY2xhc3NSb29tSWQsCg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHtzdHJpbmd9IHVzZXJJZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcXVlc3Rpb25JZCA9IHRoaXMucXVlc3Rpb24ucXVlc3Rpb25JZAogICAgICBjb25zdCByb29tSWQgPSB0aGlzLnRhcmdldFJvb21JZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdG9wUXVlc3Rpb24oKQo=</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gc2xlZXAoc2Vjb25kcykgewogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHsKICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICByZXMoKQogICAgfSwgc2Vjb25kcyAqIDEwMDApCiAgfSkKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RvcFF1ZXN0aW9uKCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -491,6 +491,7 @@
         <entry>s</entry>
         <entry>294</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
