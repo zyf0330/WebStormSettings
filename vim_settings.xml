@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/runApp.sh" timestamp="1526277859183">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="55" />
-        <mark key="^" line="2" column="50" />
-        <mark key="." line="2" column="50" />
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/runApp.sh" timestamp="1526292915365">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
       </file>
       <file name="/a.dummy" timestamp="1526032830015">
         <mark key="[" line="0" column="0" />
@@ -35,7 +35,7 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/app-config.js" timestamp="1526292753247">
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/app-config.js" timestamp="1526292877425">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="43" />
         <mark key="." line="2" column="43" />
@@ -120,11 +120,11 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/start.sh" timestamp="1526280397386">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/start.sh" timestamp="1526293070450">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="43" />
+        <mark key="." line="4" column="43" />
+        <mark key="^" line="4" column="43" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/node_modules/tinder-edge-nodejs/src/protos/tinder/index.js" timestamp="1525852181546">
         <mark key="[" line="101" column="0" />
@@ -171,10 +171,10 @@
         <mark key="." line="109" column="47" />
         <mark key="^" line="109" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526292589872">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
+      <file name="/Dummy.txt" timestamp="1526292999240">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="1" column="51" />
+        <mark key="." line="1" column="51" />
       </file>
       <file name="/app-config.js" timestamp="1526269679602">
         <mark key="[" line="4" column="16" />
@@ -339,8 +339,8 @@
       <jump line="155" column="8" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zb2NrZXQuaW8ub3B0cy5xdWVyeS50b2tlbiA9IHRoaXMudG9rZW4oKQo=</text>
+      <register name="&quot;" type="4">
+        <text>47.95.123.144:33000</text>
       </register>
       <register name="-" type="4">
         <text>47.95.123.144:33000</text>
@@ -351,32 +351,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5zb2NrZXQuaW8ub3B0cy5xdWVyeS50b2tlbiA9IHRoaXMudG9rZW4oKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgoK5L+u5aSNIHN0YXJ0LnNoIOS7juWFtuS7luS9jee9ruaJp+ihjOWksei0pQoKCjI=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBncnBjU2VydmVyLmZvcmNlU2h1dGRvd24oKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NrZXQuZW1pCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBncnBjU2VydmVyLmZvcmNlU2h1dGRvd24oKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzb2NrZXQuZW1pCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0b3Iuc3RvcCgpCiAgICAgICAgICAuY2F0Y2goKGUpID0+IHsKICAgICAgICAgICAgbG9nLmVycm9yKGUsICdjb25uZWN0b3Igc3RvcCB3cm9uZ2x5JykKICAgICAgICAgIH0pLAogICAgICAgIG5ldyBQcm9taXNlKChyZXMpID0+IHsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIGV0Y2Quc3RvcCgpCiAgICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcihlLCAnZXRjZCBzdG9wIHdyb25nbHknKQogICAgICAgICAgfQogICAgICAgICAgcmVzKCkKICAgICAgICB9KSwKICAgICAgICBuZXcgUHJvbWlzZSgocmVzKSA9PiB7CiAgICAgICAgICB0cnkgewogICAgICAgICAgICBJRENTdG9yYWdlLmNsb3NlKCkKICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKGUsICdJRENTdG9yYWdlIGNsb3NlIHdyb25nbHknKQogICAgICAgICAgfQogICAgICAgICAgcmVzKCkKICAgICAgICB9KSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uZWN0b3Iuc3RvcCgpCiAgICAgICAgICAuY2F0Y2goKGUpID0+IHsKICAgICAgICAgICAgbG9nLmVycm9yKGUsICdjb25uZWN0b3Igc3RvcCB3cm9uZ2x5JykKICAgICAgICAgIH0pLAogICAgICAgIG5ldyBQcm9taXNlKChyZXMpID0+IHsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIGV0Y2Quc3RvcCgpCiAgICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcihlLCAnZXRjZCBzdG9wIHdyb25nbHknKQogICAgICAgICAgfQogICAgICAgICAgcmVzKCkKICAgICAgICB9KSwKICAgICAgICBuZXcgUHJvbWlzZSgocmVzKSA9PiB7CiAgICAgICAgICB0cnkgewogICAgICAgICAgICBJRENTdG9yYWdlLmNsb3NlKCkKICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKGUsICdJRENTdG9yYWdlIGNsb3NlIHdyb25nbHknKQogICAgICAgICAgfQogICAgICAgICAgcmVzKCkKICAgICAgICB9KSwK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">cHIK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">b2Nlc3Mub24oJ1NJR0lOVCcsICgpID0+IHsKCWNvbnNvbGUubG9nKCdzaHV0ZG93bicpCglncnBjU2VydmVyLmZvcmNlU2h1dGRvd24oKQoJcHJvY2Vzcy5leGl0KCkKfSkKcHJvY2Vzcy5vbignU0lHVEVSTScsICgpID0+IHsKICBjb25zb2xlLmxvZygnc2h1dGRvd24nKQogIGdycGNTZXJ2ZXIuZm9yY2VTaHV0ZG93bigpCiAgcHJvY2Vzcy5leGl0KCkKfSk=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CWNvbnNvbGUubG9nKDEyMykK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgoK5L+u5aSNIDI=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
