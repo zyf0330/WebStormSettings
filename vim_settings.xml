@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/runApp.sh" timestamp="1526272881316">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="36" />
-        <mark key="^" line="2" column="36" />
-        <mark key="." line="2" column="36" />
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/runApp.sh" timestamp="1526277859183">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="55" />
+        <mark key="^" line="2" column="50" />
+        <mark key="." line="2" column="50" />
       </file>
       <file name="/a.dummy" timestamp="1526032830015">
         <mark key="[" line="0" column="0" />
@@ -31,10 +31,10 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/app-config.js" timestamp="1526272843578">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="38" />
-        <mark key="." line="2" column="38" />
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/app-config.js" timestamp="1526277868577">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="44" />
+        <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="38" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/test/testDispatchInfo.js" timestamp="1525832185400">
@@ -144,7 +144,7 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="29" column="48" />
       </file>
-      <file name="/JavaScript Console" timestamp="1526270420581">
+      <file name="/JavaScript Console" timestamp="1526277872763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" timestamp="1526270416880">
@@ -161,8 +161,8 @@
         <mark key="." line="109" column="47" />
         <mark key="^" line="109" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526276516935">
-        <mark key="[" line="0" column="27" />
+      <file name="/Dummy.txt" timestamp="1526277835903">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
@@ -188,12 +188,6 @@
         <mark key="]" line="1" column="11" />
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/bin/www" timestamp="1526272834848">
-        <mark key="[" line="2" column="65" />
-        <mark key="]" line="2" column="77" />
-        <mark key="." line="2" column="77" />
-        <mark key="^" line="2" column="77" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1525941532263">
         <mark key="[" line="0" column="12" />
@@ -330,10 +324,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRpc2Nvbm5lY3Qg5aSx</text>
+        <text>localhost:3000</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRpc2Nvbm5lY3Qg5aSx</text>
+        <text>localhost:3000</text>
       </register>
       <register name="/" type="4">
         <text>this.users</text>
