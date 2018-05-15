@@ -32,7 +32,7 @@
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="16" />
       </file>
-      <file name="/roomService.js" timestamp="1526383086981" />
+      <file name="/roomService.js" timestamp="1526385978644" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Socket.js" timestamp="1526275525105">
         <mark key="[" line="58" column="26" />
         <mark key="]" line="58" column="25" />
@@ -202,12 +202,12 @@
       <file name="/JavaScript Console" timestamp="1526385275998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" timestamp="1526385327501">
-        <mark key="'" line="213" column="0" />
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
-        <mark key="^" line="65" column="32" />
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" timestamp="1526386135118">
+        <mark key="'" line="214" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="212" column="18" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/1" timestamp="1526362400021">
         <mark key="[" line="0" column="2" />
@@ -222,11 +222,11 @@
         <mark key="." line="289" column="37" />
         <mark key="^" line="289" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526385346969">
+      <file name="/Dummy.txt" timestamp="1526385920393">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/1.js" timestamp="1525851732685">
         <mark key="[" line="0" column="6" />
@@ -401,11 +401,11 @@
       <jump line="213" column="0" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>添加日志</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMudGFyZ2V0Um9vbUlkID0gJyc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>添加日志</text>
+        <text>出问题</text>
       </register>
       <register name="/" type="4">
         <text>conso</text>
@@ -414,31 +414,31 @@
         <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ3Jlc3RvcmVTdGF0dXMnLCBkYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0nLCB0aGlzLmZzbS5zdGF0ZSwgdGhpcy50YXJnZXRSb29tSWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMudGFyZ2V0Um9vbUlkID0gJyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tMTExJywgdGFyZ2V0Um9vbUlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMudGFyZ2V0Um9vbUlkID0gJyc7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIHRoaXMudGFyZ2V0Um9vbUlkID0gJyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0nLCB0aGlzLmZzbS5zdGF0ZSwgdGhpcy50YXJnZXRSb29tSWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tMTExJywgdGFyZ2V0Um9vbUlkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdFNvY2tldC5lbWl0KCdjb21tYW5kJywgJ2JpbmRCYXNlU3RhdGlvbicsIHsKICAgICAgICByb29tSWQ6IHRhcmdldFJvb21JZCArICcnLAogICAgICAgIGJhc2VTdGF0aW9uSWQ6IHVzZXJJZCwKICAgICAgfSwgKGVycikgPT4gewogICAgICAgIGVyciAmJiBjb25zb2xlLmxvZygnYmluZEJhc2VTdGF0aW9uJywgZXJyKQogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMudGFyZ2V0Um9vbUlkID0gJyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzb2NrZXQgPSBpbyhzZXJ2ZXJBZGRyZXNzLCB7CiAgICAgICAgICBxdWVyeTogewogICAgICAgICAgICByb29tSWQ6IHRhcmdldFJvb21JZCwKICAgICAgICAgICAgYXBwOiAndmRxYScsCiAgICAgICAgICAgIHRva2VuOiBnZW5lcmF0ZVRva2VuKHsKICAgICAgICAgICAgICByb29tSWQ6IHRhcmdldFJvb21JZCwKICAgICAgICAgICAgICB1aWQ6ICd3ZWInLAogICAgICAgICAgICAgIHVzZXJUeXBlOiAxLAogICAgICAgICAgICAgIHRpbWVzdGFtcCwKICAgICAgICAgICAgICBjdXN0SW5mbywKICAgICAgICAgICAgfSksCiAgICAgICAgICB9LAogICAgICAgIH0pCiAgICAgICAgY29uc3QgcWlkID0gJzE0JwogICAgICAgIHNvY2tldC5vbignU2VuZEFuc3dlclJlcXVlc3QnLCAoLi4uYXJncykgPT4gewogICAgICAgICAgY29uc29sZS5sb2coJ1NlbmRBbnN3ZXJSZXF1ZXN0JywgSlNPTi5zdHJpbmdpZnkoYXJncykpCiAgICAgICAgfSkKICAgICAgICBsZXQgc3RhcnQgPSB0cnVlCiAgICAgICAgLy8gc3RhcnQgPSBmYWxzZQo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gbGV0IHNvY2tldCA9IGlvKHNlcnZlckFkZHJlc3MsIHsKLy8gICBxdWVyeTogewovLyAgICAgcm9vbUlkOiByb29tSWQsCi8vICAgICBhcHA6ICd2ZHFhJywKLy8gICAgIHRva2VuOiBnZW5lcmF0ZVRva2VuKHtyb29tSWQsIHVpZCwgdXNlclR5cGUsIHRpbWVzdGFtcCwgY3VzdEluZm99KSwKLy8gICB9LAovLyAgIGF1dG9Db25uZWN0OiBmYWxzZSwKLy8gfSk7Ci8vIHNvY2tldC5vbignY29ubmVjdCcsIGZ1bmN0aW9uICgpIHsKLy8gICBjb25zb2xlLmxvZygnY29ubmVjdGVkJyk7Ci8vCi8vICAgc2V0VGltZW91dCgoKSA9PiB7Ci8vICAgICAvLyBzb2NrZXQuZW1pdCgnY29tbWFuZCcsICdzZW5kQW5zd2VyJywge3Jvb21JZCwgcXVlc3Rpb246IHsKLy8gICAgIC8vICBxdWVzdGlvbklkOiAyMCwKLy8gICAgIC8vICAgICByb29tSWQsCi8vICAgICAvLyAgICAgYW5zd2VyczogW3sKLy8gICAgIC8vICAgICAgIGtleUlkOiAnMScsCi8vICAgICAvLyAgICAgICBiYXNlU3RhdGlvbklkOiAnMicsCi8vICAgICAvLyAgICAgICB0aW1lOiBEYXRlLm5vdygpLAovLyAgICAgLy8gICAgICAgYW5zd2VySW5mbzogJ2hlbGxvJwovLyAgICAgLy8gICAgIH1dCi8vICAgICAvLyAgIH19LCAoZXJyLCBkKT0+ewovLyAgICAgLy8gICBjb25zb2xlLmxvZyhlcnIsIGQpCi8vICAgICAvLyB9KQovLyAgICAgc29ja2V0LmVtaXQoJ2NvbW1hbmQnLCAnYmluZEJhc2VTdGF0aW9uJywge3Jvb21JZCwgYmFzZVN0YXRpb25JZDogJzEyMyd9LCBmdW5jdGlvbiAoZXJyb3IsIGRhdGEpIHsKLy8gICAgICAgaWYgKCFlcnJvcikgewovLyAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEgJiYgZGF0YS5sZW5ndGgsIGRhdGEgJiYgYCR7SlNPTi5zdHJpbmdpZnkoZGF0YSl9YCk7Ci8vICAgICAgICAgcmV0dXJuCi8vICAgICAgIH0KLy8gICAgICAgY29uc29sZS5sb2coJ2Vycm9yJywgZXJyb3IpOwovLyAgICAgfSk7Ci8vICAgfSwgMTAwKQovLyB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NrZXQub24oJ2xvZ2luU3VjY2VzcycsICgpID0+IHsKICAgICAgICAgIGlmIChzdGFydCkgewogICAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICAgICAgICBzb2NrZXQuZW1pdCgnY29tbWFuZCcsICdzdGFydFF1ZXN0aW9uJywgewogICAgICAgICAgICAgICAgcXVlc3Rpb246IHsKICAgICAgICAgICAgICAgICAgcXVlc3Rpb25JZDogcWlkLCBxdWVzdGlvblR5cGU6IDAsIGRpc3BsYXlNb2RlOiAxLCBtb2RpZnlNb2RlOiBmYWxzZSwgc2VjcmVjeU1vZGU6IGZhbHNlLAogICAgICAgICAgICAgICAgICBtdXN0Q2hvb3NlOiBmYWxzZSwgb3B0aW9uTnVtczogMywgbWF4U2VsZWN0TnVtczogMiwgc3RhcnRUaW1lc3RhbXA6IERhdGUubm93KCksCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIH0sIChlcnIpID0+IHsKICAgICAgICAgICAgICAgIGVycgogICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgICAgICAgICBzb2NrZXQuZW1pdCgnY29tbWFuZCcsICdzdG9wUXVlc3Rpb24nLCB7cXVlc3Rpb25JZDogcWlkfSwgKGVycikgPT4gewogICAgICAgICAgICAgICAgICBlcnIKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgfSwgNTAwMCkKICAgICAgICAgICAgfSwgMTQwMDApCiAgICAgICAgICB9CiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdFNvY2tldC5lbWl0KCdjb21tYW5kJywgJ2JpbmRCYXNlU3RhdGlvbicsIHsKICAgICAgICByb29tSWQ6IHRhcmdldFJvb21JZCArICcnLAogICAgICAgIGJhc2VTdGF0aW9uSWQ6IHVzZXJJZCwKICAgICAgfSwgKGVycikgPT4gewogICAgICAgIGVyciAmJiBjb25zb2xlLmxvZygnYmluZEJhc2VTdGF0aW9uJywgZXJyKQogICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
