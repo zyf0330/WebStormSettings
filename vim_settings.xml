@@ -94,12 +94,12 @@
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="46" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" timestamp="1526365825055">
-        <mark key="'" line="63" column="24" />
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="27" column="12" />
-        <mark key="^" line="27" column="12" />
-        <mark key="." line="27" column="12" />
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" timestamp="1526366929780">
+        <mark key="'" line="44" column="8" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="44" column="9" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/Service.js" timestamp="1526278363168">
         <mark key="'" line="63" column="12" />
@@ -213,11 +213,11 @@
         <mark key="." line="289" column="37" />
         <mark key="^" line="289" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526366491130">
+      <file name="/Dummy.txt" timestamp="1526366705856">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="3" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/1.js" timestamp="1525851732685">
         <mark key="[" line="0" column="6" />
@@ -297,16 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="11" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
-      <jump line="9" column="7" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
-      <jump line="200" column="11" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
-      <jump line="91" column="15" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
-      <jump line="126" column="20" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
-      <jump line="105" column="26" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" />
-      <jump line="216" column="11" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" />
-      <jump line="140" column="11" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" />
-      <jump line="152" column="23" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
-      <jump line="218" column="6" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
       <jump line="119" column="55" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
       <jump line="129" column="0" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
       <jump line="154" column="8" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
@@ -397,55 +387,67 @@
       <jump line="82" column="23" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" />
       <jump line="89" column="12" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" />
       <jump line="34" column="7" filename="/media/zyf/data/Programming/project/duobei/node-ffi-sunvote/libdbsunvote.js" />
+      <jump line="25" column="3" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
+      <jump line="3" column="21" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
+      <jump line="30" column="28" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
+      <jump line="32" column="35" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
+      <jump line="52" column="4" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
+      <jump line="15" column="4" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
+      <jump line="26" column="20" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
+      <jump line="34" column="4" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
+      <jump line="43" column="41" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
+      <jump line="45" column="8" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>setKeypadKeepPowerOn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gVE9ETyDkv53lrZggdGFyZ2V0Um9vbUlkIOeKtuaAgQo=</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>修改</text>
       </register>
       <register name="/" type="4">
-        <text>bindbegin</text>
+        <text>this.targetR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ3NldEtleUxvZ2luSW5mb0V2ZW50Q2FsbEJhY2tGdW4nOiBbJ3ZvaWQnLCBbJ3BvaW50ZXInXV0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbwo=</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETyDkv53lrZggdGFyZ2V0Um9vbUlkIOeKtuaAgQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGliZGJzdW52b3RlLnNldEtleXBhZEtlZXBQb3dlck9uKGlCYXNlSWQpCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5yZXN0b3JlU3RhdHVzKCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy50YXJnZXRSb29tSWQgPSB0YXJnZXRSb29tSWQKICAgICAgdGhpcy5zYXZlU3RhdHVzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZXRLZXlwYWRLZWVwUG93ZXJPbihpQmFzZUlkKSB7CiAgICB0aGlzLmxpYmRic3Vudm90ZS5zZXRLZXlwYWRLZWVwUG93ZXJPbihpQmFzZUlkKQogIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBKU09OLnBhcnNlKGRhdGEpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGliZGJzdW52b3RlLnNldEtleXBhZEtlZXBQb3dlck9uKGlCYXNlSWQpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgoKZGs=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="8" type="4">
+        <text>Revert &quot;保活&quot;
+
+This reverts commit 1a25a25</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>bindbegin</last-search>
+      <last-search>this.targetR</last-search>
       <last-offset />
-      <last-pattern>bindbegin</last-pattern>
+      <last-pattern>this.targetR</last-pattern>
       <last-replace />
       <last-substitute>disconnect</last-substitute>
       <last-dir>1</last-dir>
@@ -453,18 +455,15 @@
     </search>
     <history>
       <history-search>
-        <entry>targetRoomId</entry>
         <entry>tar</entry>
         <entry>connectBegin</entry>
         <entry>onConnectSu</entry>
         <entry>curr</entry>
         <entry>loginSuccess</entry>
         <entry>bvind</entry>
-        <entry>save</entry>
         <entry>disconnect</entry>
         <entry>voteStatus</entry>
         <entry>classing</entry>
-        <entry>bind</entry>
         <entry>startclass</entry>
         <entry>int</entry>
         <entry>init</entry>
@@ -473,6 +472,9 @@
         <entry>setcon</entry>
         <entry>binding</entry>
         <entry>bindbegin</entry>
+        <entry>save</entry>
+        <entry>bind</entry>
+        <entry>this.targetR</entry>
       </history-search>
       <history-cmd>
         <entry>%s/traceLog/logger.log/g</entry>
@@ -493,8 +495,8 @@
         <entry>79</entry>
         <entry>%s/this.//gc</entry>
         <entry>77</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
