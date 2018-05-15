@@ -91,11 +91,12 @@
       <file name="internal/inspector_async_hook.js" timestamp="1526298069609">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" timestamp="1526299092524">
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" timestamp="1526354383268">
         <mark key="'" line="231" column="37" />
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
+        <mark key="[" line="75" column="52" />
+        <mark key="]" line="76" column="26" />
+        <mark key="." line="76" column="26" />
+        <mark key="^" line="76" column="26" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/test/testDispatchInfo.js" timestamp="1525832185400">
         <mark key="[" line="8" column="14" />
@@ -116,10 +117,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526299099397">
+      <file name="/Dummy.txt" timestamp="1526354966389">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1526295307572">
         <mark key="[" line="24" column="1" />
@@ -156,9 +157,9 @@
         <mark key="." line="34" column="76" />
         <mark key="^" line="34" column="76" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/keys.js" timestamp="1526353901544">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="56" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/keys.js" timestamp="1526354630588">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1526022008117">
         <mark key="[" line="1" column="11" />
@@ -166,10 +167,10 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" timestamp="1526354241902">
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" timestamp="1526354558914">
         <mark key="'" line="63" column="24" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="27" column="45" />
         <mark key="^" line="38" column="9" />
         <mark key="." line="27" column="0" />
       </file>
@@ -210,6 +211,12 @@
         <mark key="]" line="48" column="3" />
         <mark key="^" line="48" column="3" />
         <mark key="." line="48" column="3" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/index.js" timestamp="1526354720287">
+        <mark key="[" line="60" column="39" />
+        <mark key="]" line="61" column="15" />
+        <mark key="^" line="61" column="15" />
+        <mark key="." line="61" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.js" timestamp="1525940172341">
         <mark key="[" line="0" column="0" />
@@ -363,8 +370,8 @@
       <jump line="231" column="37" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNldAo=</text>
+      <register name="&quot;" type="4">
+        <text>vdqa:user:online</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -375,32 +382,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICByZWdpc3RlclNlcnZpY2UuZW1pdChyZWdTcnZTdGF0ZUVudW0uQmluZGluZywgNDkpCiAgICB9LCAyMDAwKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNldAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgoKMQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcm9vbVNlcnZpY2UuY29ubmVjdCh0YXJnZXRSb29tSWQpOwo=</text>
+        <text encoding="base64">ICAgIHNldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByb29tU2VydmljZS5jb25uZWN0KHRhcmdldFJvb21JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcm9vbVNlcnZpY2UuY29ubmVjdCh0YXJnZXRSb29tSWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyDov5nph4wgZGlzY29ubmVjdCDlho0gY29ubmVjdCDkvJrop6blj5EgZm9yY2VkIGNsb3NlCg==</text>
+        <text encoding="base64">ICAgICAgICByb29tU2VydmljZS5jb25uZWN0KHRhcmdldFJvb21JZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcm9vbVNlcnZpY2UuZGlzY29ubmVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETyDov5nph4wgZGlzY29ubmVjdCDlho0gY29ubmVjdCDkvJrop6blj5EgZm9yY2VkIGNsb3NlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcm9vbVNlcnZpY2UuZGlzY29ubmVjdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByb29tU2VydmljZS5jb25uZWN0KHRhcmdldFJvb21JZCk7CiAgICAgICAgdGhpcy5nZXRVc2Vycyh0YXJnZXRSb29tSWQpLnRoZW4oKHVzZXJzKSA9PiB7CiAgICAgICAgICBsb2dnZXIuaW5mbyh7dXNlcnN9LCAnZ2V0VXNlcnMgcmVzdWx0JykKICAgICAgICAgIHJldHVybiB2b3RlRGV2aWNlU2VydmljZS5zdGFydENsYXNzKHVzZXJzKQogICAgICAgIH0pLmNhdGNoKChlKSA9PiB7CiAgICAgICAgICBsb2dnZXIuZXJyb3IoZSwgJ2dldFVzZXJzIGZhaWwnKQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICByb29tU2VydmljZS5jb25uZWN0KHRhcmdldFJvb21JZCk7CiAgICAgICAgdGhpcy5nZXRVc2Vycyh0YXJnZXRSb29tSWQpLnRoZW4oKHVzZXJzKSA9PiB7CiAgICAgICAgICBsb2dnZXIuaW5mbyh7dXNlcnN9LCAnZ2V0VXNlcnMgcmVzdWx0JykKICAgICAgICAgIHJldHVybiB2b3RlRGV2aWNlU2VydmljZS5zdGFydENsYXNzKHVzZXJzKQogICAgICAgIH0pLmNhdGNoKChlKSA9PiB7CiAgICAgICAgICBsb2dnZXIuZXJyb3IoZSwgJ2dldFVzZXJzIGZhaWwnKQogICAgICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcm9vbVNlcnZpY2Uub25jZSgnZGlzY29ubmVjdGVkJywgKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -457,6 +464,7 @@
         <entry>79</entry>
         <entry>q</entry>
         <entry>%s/this.//gc</entry>
+        <entry>77</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
