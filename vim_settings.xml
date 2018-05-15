@@ -15,11 +15,12 @@
         <mark key="^" line="100" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/runApp.sh" timestamp="1526292915365">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="30" />
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/runApp.sh" timestamp="1526357607193">
+        <mark key="'" line="8" column="5" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1526032830015">
         <mark key="[" line="0" column="0" />
@@ -117,10 +118,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526354966389">
+      <file name="/Dummy.txt" timestamp="1526359448108">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1526295307572">
         <mark key="[" line="24" column="1" />
@@ -194,6 +195,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="139" column="0" />
       </file>
+      <file name="/services.js" timestamp="1526359410355" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" timestamp="1526123288795">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="13" column="3" />
@@ -212,11 +214,11 @@
         <mark key="^" line="48" column="3" />
         <mark key="." line="48" column="3" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/index.js" timestamp="1526354720287">
-        <mark key="[" line="60" column="39" />
-        <mark key="]" line="61" column="15" />
-        <mark key="^" line="61" column="15" />
-        <mark key="." line="61" column="15" />
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/index.js" timestamp="1526359443759">
+        <mark key="[" line="57" column="29" />
+        <mark key="]" line="57" column="29" />
+        <mark key="^" line="57" column="23" />
+        <mark key="." line="57" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.js" timestamp="1525940172341">
         <mark key="[" line="0" column="0" />
@@ -268,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="10" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
       <jump line="89" column="7" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" />
       <jump line="14" column="24" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" />
       <jump line="33" column="27" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" />
@@ -368,63 +369,63 @@
       <jump line="46" column="61" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" />
       <jump line="230" column="6" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
       <jump line="231" column="37" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
+      <jump line="7" column="5" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/runApp.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vdqa:user:online</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>disconnect</text>
+        <text>www</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICByZWdpc3RlclNlcnZpY2UuZW1pdChyZWdTcnZTdGF0ZUVudW0uQmluZGluZywgNDkpCiAgICB9LCAyMDAwKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgoKMQ==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHNldAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcm9vbVNlcnZpY2UuY29ubmVjdCh0YXJnZXRSb29tSWQpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByb29tU2VydmljZS5jb25uZWN0KHRhcmdldFJvb21JZCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyDov5nph4wgZGlzY29ubmVjdCDlho0gY29ubmVjdCDkvJrop6blj5EgZm9yY2VkIGNsb3NlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcm9vbVNlcnZpY2UuZGlzY29ubmVjdCgpOwo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bm9kZVBpZD0kIQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CgoKMQ==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByb29tU2VydmljZS5jb25uZWN0KHRhcmdldFJvb21JZCk7CiAgICAgICAgdGhpcy5nZXRVc2Vycyh0YXJnZXRSb29tSWQpLnRoZW4oKHVzZXJzKSA9PiB7CiAgICAgICAgICBsb2dnZXIuaW5mbyh7dXNlcnN9LCAnZ2V0VXNlcnMgcmVzdWx0JykKICAgICAgICAgIHJldHVybiB2b3RlRGV2aWNlU2VydmljZS5zdGFydENsYXNzKHVzZXJzKQogICAgICAgIH0pLmNhdGNoKChlKSA9PiB7CiAgICAgICAgICBsb2dnZXIuZXJyb3IoZSwgJ2dldFVzZXJzIGZhaWwnKQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIHNldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgcm9vbVNlcnZpY2UuY29ubmVjdCh0YXJnZXRSb29tSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>disconnect</last-search>
+      <last-search>www</last-search>
       <last-offset />
-      <last-pattern>disconnect</last-pattern>
+      <last-pattern>www</last-pattern>
       <last-replace />
-      <last-substitute>this.</last-substitute>
+      <last-substitute>disconnect</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>idcstorage</entry>
         <entry>token</entry>
         <entry>connect</entry>
         <entry>gene</entry>
@@ -444,6 +445,7 @@
         <entry>getGrpc</entry>
         <entry>real</entry>
         <entry>disconnect</entry>
+        <entry>www</entry>
       </history-search>
       <history-cmd>
         <entry>%s/traceLog/logger.log/g</entry>
@@ -462,9 +464,9 @@
         <entry>12</entry>
         <entry>182</entry>
         <entry>79</entry>
-        <entry>q</entry>
         <entry>%s/this.//gc</entry>
         <entry>77</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
