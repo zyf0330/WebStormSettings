@@ -94,6 +94,12 @@
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="14" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/index.js" timestamp="1526447498358">
+        <mark key="[" line="229" column="30" />
+        <mark key="]" line="229" column="30" />
+        <mark key="^" line="229" column="77" />
+        <mark key="." line="229" column="30" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/test/testClient.js" timestamp="1526387034532">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="54" column="25" />
@@ -198,7 +204,7 @@
         <mark key="^" line="53" column="2" />
         <mark key="." line="53" column="2" />
       </file>
-      <file name="/JavaScript Console" timestamp="1526444638703">
+      <file name="/JavaScript Console" timestamp="1526447324299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" timestamp="1526441657785">
@@ -215,13 +221,13 @@
         <mark key="." line="0" column="1" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/services.js" timestamp="1526362879498">
-        <mark key="'" line="311" column="27" />
-        <mark key="[" line="289" column="37" />
-        <mark key="]" line="289" column="37" />
-        <mark key="." line="289" column="37" />
-        <mark key="^" line="289" column="71" />
+        <mark key="'" line="310" column="27" />
+        <mark key="[" line="288" column="37" />
+        <mark key="]" line="288" column="37" />
+        <mark key="." line="288" column="37" />
+        <mark key="^" line="288" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526387580734">
+      <file name="/Dummy.txt" timestamp="1526447562440">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="0" column="2" />
@@ -396,43 +402,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>constru</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ3Jlc3RvcmVTdGF0dXMnLCBkYXRhKQo=</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbyhgVW5iaW5kQmFzZVN0YXRpb246IGJhc2VTdGF0aW9uSWQgJHtiYXNlU3RhdGlvbklkfWApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5yZXN0b3JlU3RhdHVzKCkK</text>
+        <text encoding="base64">ICBvZ2dlci5pbmZvKCdCaW5kQmFzZVN0YXRpb24nLCB0YXJnZXRSb29tSWQsIGJhc2VTdGF0aW9uSWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50YXJnZXRSb29tSWQgPSB0YXJnZXRSb29tSWQK</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbygnVW5iaW5kQmFzZVN0YXRpb24nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tZC0tLS0tJywgdGhpcy5zZXJ2ZXJBZGRyZXNzKQo=</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbygnQmluZEJhc2VTdGF0aW9uJywgdGFyZ2V0Um9vbUlkLCBiYXNlU3RhdGlvbklkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5yZXN0b3JlU3RhdHVzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jb25uZWN0KCkK</text>
+        <text encoding="base64">ICAgICAgdGhpcy50YXJnZXRSb29tSWQgPSB0YXJnZXRSb29tSWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50YXJnZXRSb29tSWQgPSB0YXJnZXRSb29tSWQK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tZC0tLS0tJywgdGhpcy5zZXJ2ZXJBZGRyZXNzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50YXJnZXRSb29tSWQgPSB0YXJnZXRSb29tSWQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5jb25uZWN0KCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGFyZ2V0Um9vbUlkID0gdGFyZ2V0Um9vbUlkCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy50YXJnZXRSb29tSWQgPSB0YXJnZXRSb29tSWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
