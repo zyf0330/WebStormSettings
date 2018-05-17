@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1526441218043">
+      <file name="/fragment.js" timestamp="1526528601850">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -151,10 +151,12 @@
         <mark key="." line="83" column="6" />
         <mark key="^" line="83" column="6" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" timestamp="1526527935361">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" timestamp="1526528924883">
+        <mark key="'" line="62" column="25" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="^" line="287" column="21" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Connector.js" timestamp="1526465202681">
         <mark key="[" line="38" column="19" />
@@ -221,7 +223,7 @@
         <mark key="^" line="53" column="2" />
         <mark key="." line="53" column="2" />
       </file>
-      <file name="/JavaScript Console" timestamp="1526447324299">
+      <file name="/JavaScript Console" timestamp="1526528927817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" timestamp="1526441657785">
@@ -244,11 +246,9 @@
         <mark key="." line="288" column="37" />
         <mark key="^" line="288" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526447639914">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="4" column="0" />
+      <file name="/Dummy.txt" timestamp="1526528298640">
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-edge/1.js" timestamp="1525851732685">
         <mark key="[" line="0" column="6" />
@@ -321,13 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Forwarder.js" />
-      <jump line="34" column="76" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" />
-      <jump line="44" column="29" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" />
-      <jump line="46" column="61" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" />
-      <jump line="230" column="6" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
-      <jump line="231" column="37" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
-      <jump line="7" column="5" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/runApp.sh" />
       <jump line="237" column="9" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
       <jump line="239" column="0" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
       <jump line="39" column="9" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
@@ -421,31 +414,38 @@
       <jump line="298" column="25" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="296" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="281" column="30" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="288" column="13" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="321" column="46" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="329" column="45" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="161" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="301" column="13" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="57" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="62" column="25" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcHJvY2Vzc0luY29tZU1lc3NhZ2Uocm9vbUlkLCBldikgewogIHN3aXRjaCAoZXYuZnVuY3Rpb25OYW1lKSB7CiAgICBjYXNlICdjbGllbnRQdWJsaWNDaGF0JzogewogICAgICBjb25zdCBhcmdzID0gZXYuYXJnc1swXQogICAgICBpZiAoYXJncy5mcm9tID09ICdhdWRpdCcpIHsKICAgICAgICByZXR1cm4KICAgICAgfQoKICAgICAgY2xpZW50c1thcmdzLnVzZXJuYW1lXSA9IGV2CgogICAgICBjb25zdCBtc2cgPSB7CiAgICAgICAgJ25hbWUnOiBhcmdzLnVzZXJuYW1lLAogICAgICAgICdtc2cnOiBhcmdzLm1lc3NhZ2UsCiAgICAgICAgJ3RzJzogbmV3IERhdGUoKS50b0xvY2FsZVRpbWVTdHJpbmcoKSwKICAgICAgfQogICAgICBsb2dnZXIubG9nKHJvb21JZCwgJ25ld01zZ0F1ZGl0JywgbXNnKQoKICAgICAgY29uc3Qgcm9vbSA9IHJvb21zW3Jvb21JZF0KICAgICAgaWYgKHJvb20gPT0gbnVsbCkgewogICAgICAgIHJldHVybgogICAgICB9CiAgICAgIGNvbnN0IG9ubGluZUF1ZGl0b3JzID0gcm9vbS5vbmxpbmVBdWRpdG9ycwogICAgICBjb25zdCBhdWRpdG9yc0xlbiA9IG9ubGluZUF1ZGl0b3JzLmxlbmd0aAogICAgICBpZiAoYXVkaXRvcnNMZW4gPT0gMCkgewogICAgICAgIHJldHVybgogICAgICB9CiAgICAgIC8vIOi0n+i9veWdh+ihoQogICAgICBpZiAocm9vbS5sYkluZGV4ID49IGF1ZGl0b3JzTGVuKSB7CiAgICAgICAgcm9vbS5sYkluZGV4ID0gMAogICAgICB9CiAgICAgIGNvbnN0IHNvY2tldElkID0gb25saW5lQXVkaXRvcnNbcm9vbS5sYkluZGV4KytdCiAgICAgIGlvLnNvY2tldHMuY29ubmVjdGVkW3NvY2tldElkXS5lbWl0KCdjaGF0JywgbXNnKQogICAgfQogICAgICBicmVhawogICAgY2FzZSAnY2xpZW50QWxsb3dDaGF0QnlVaWQnOiB7CiAgICAgIGNvbnN0IGFyZ3MgPSBldi5hcmdzWzBdCiAgICAgIGNvbnN0IHVzZXJuYW1lID0gYXJncy51c2VybmFtZQogICAgICBpby50byhyb29tSWQpLmVtaXQoJ2FsbG93Q2hhdCcsIHVzZXJuYW1lKQogICAgICBsb2dnZXIubG9nKHJvb21JZCwgJ2NsaWVudEFsbG93Q2hhdEJ5VWlkRnJvbUFwcHMnLCBgdXNlcm5hbWU6ICR7dXNlcm5hbWV9LCB1aWQ6ICR7YXJncy51aWR9YCkKICAgIH0KICAgICAgYnJlYWsKICAgIGNhc2UgJ2NsaWVudERlbnlDaGF0QnlVaWQnOiB7CiAgICAgIGNvbnN0IGFyZ3MgPSBldi5hcmdzWzBdCiAgICAgIGNvbnN0IHVzZXJuYW1lID0gYXJncy51c2VybmFtZQogICAgICBjbGllbnRzW3VzZXJuYW1lXSA9IGV2CiAgICAgIGlvLnRvKHJvb21JZCkuZW1pdCgnZGVueUNoYXQnLCB1c2VybmFtZSkKICAgICAgbG9nZ2VyLmxvZyhyb29tSWQsICdjbGllbnREZW55Q2hhdEJ5VWlkRnJvbUFwcHMnLCBgdXNlcm5hbWU6ICR7dXNlcm5hbWV9LCB1aWQ6ICR7YXJncy51aWR9YCkKICAgIH0KICAgICAgYnJlYWsKICAgIGNhc2UgJ2F1ZGl0QmVhdEhlYXJ0JzogewogICAgICBsb2dnZXIubG9nKHJvb21JZCwgJ2F1ZGl0QmVhdEhlYXJ0JykKICAgIH0KICAgICAgYnJlYWsKICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICdmcm9tJzogJ2F1ZGl0JywgLy8g55Sx5LqO5ZCM5pe26K6i6ZiF5Lik5Liq6YCa6YGT6YO95Lya5pS25Yiw6IGK5aSp5raI5oGv6YCa55+l77yM6YCa6L+H5a6D5p2l5Yy65YiG5LuO6L+Z6YeM6YCB5Ye65Y6755qE5raI5oGvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>args.from == 'audit'</text>
       </register>
       <register name="/" type="4">
-        <text>ev</text>
+        <text>isFromAudit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcHJvY2Vzc0luY29tZU1lc3NhZ2Uocm9vbUlkLCBldikgewogIHN3aXRjaCAoZXYuZnVuY3Rpb25OYW1lKSB7CiAgICBjYXNlICdjbGllbnRQdWJsaWNDaGF0JzogewogICAgICBjb25zdCBhcmdzID0gZXYuYXJnc1swXQogICAgICBpZiAoYXJncy5mcm9tID09ICdhdWRpdCcpIHsKICAgICAgICByZXR1cm4KICAgICAgfQoKICAgICAgY2xpZW50c1thcmdzLnVzZXJuYW1lXSA9IGV2CgogICAgICBjb25zdCBtc2cgPSB7CiAgICAgICAgJ25hbWUnOiBhcmdzLnVzZXJuYW1lLAogICAgICAgICdtc2cnOiBhcmdzLm1lc3NhZ2UsCiAgICAgICAgJ3RzJzogbmV3IERhdGUoKS50b0xvY2FsZVRpbWVTdHJpbmcoKSwKICAgICAgfQogICAgICBsb2dnZXIubG9nKHJvb21JZCwgJ25ld01zZ0F1ZGl0JywgbXNnKQoKICAgICAgY29uc3Qgcm9vbSA9IHJvb21zW3Jvb21JZF0KICAgICAgaWYgKHJvb20gPT0gbnVsbCkgewogICAgICAgIHJldHVybgogICAgICB9CiAgICAgIGNvbnN0IG9ubGluZUF1ZGl0b3JzID0gcm9vbS5vbmxpbmVBdWRpdG9ycwogICAgICBjb25zdCBhdWRpdG9yc0xlbiA9IG9ubGluZUF1ZGl0b3JzLmxlbmd0aAogICAgICBpZiAoYXVkaXRvcnNMZW4gPT0gMCkgewogICAgICAgIHJldHVybgogICAgICB9CiAgICAgIC8vIOi0n+i9veWdh+ihoQogICAgICBpZiAocm9vbS5sYkluZGV4ID49IGF1ZGl0b3JzTGVuKSB7CiAgICAgICAgcm9vbS5sYkluZGV4ID0gMAogICAgICB9CiAgICAgIGNvbnN0IHNvY2tldElkID0gb25saW5lQXVkaXRvcnNbcm9vbS5sYkluZGV4KytdCiAgICAgIGlvLnNvY2tldHMuY29ubmVjdGVkW3NvY2tldElkXS5lbWl0KCdjaGF0JywgbXNnKQogICAgfQogICAgICBicmVhawogICAgY2FzZSAnY2xpZW50QWxsb3dDaGF0QnlVaWQnOiB7CiAgICAgIGNvbnN0IGFyZ3MgPSBldi5hcmdzWzBdCiAgICAgIGNvbnN0IHVzZXJuYW1lID0gYXJncy51c2VybmFtZQogICAgICBpby50byhyb29tSWQpLmVtaXQoJ2FsbG93Q2hhdCcsIHVzZXJuYW1lKQogICAgICBsb2dnZXIubG9nKHJvb21JZCwgJ2NsaWVudEFsbG93Q2hhdEJ5VWlkRnJvbUFwcHMnLCBgdXNlcm5hbWU6ICR7dXNlcm5hbWV9LCB1aWQ6ICR7YXJncy51aWR9YCkKICAgIH0KICAgICAgYnJlYWsKICAgIGNhc2UgJ2NsaWVudERlbnlDaGF0QnlVaWQnOiB7CiAgICAgIGNvbnN0IGFyZ3MgPSBldi5hcmdzWzBdCiAgICAgIGNvbnN0IHVzZXJuYW1lID0gYXJncy51c2VybmFtZQogICAgICBjbGllbnRzW3VzZXJuYW1lXSA9IGV2CiAgICAgIGlvLnRvKHJvb21JZCkuZW1pdCgnZGVueUNoYXQnLCB1c2VybmFtZSkKICAgICAgbG9nZ2VyLmxvZyhyb29tSWQsICdjbGllbnREZW55Q2hhdEJ5VWlkRnJvbUFwcHMnLCBgdXNlcm5hbWU6ICR7dXNlcm5hbWV9LCB1aWQ6ICR7YXJncy51aWR9YCkKICAgIH0KICAgICAgYnJlYWsKICAgIGNhc2UgJ2F1ZGl0QmVhdEhlYXJ0JzogewogICAgICBsb2dnZXIubG9nKHJvb21JZCwgJ2F1ZGl0QmVhdEhlYXJ0JykKICAgIH0KICAgICAgYnJlYWsKICB9Cn0K</text>
+      <register name="0" type="4">
+        <text>AUDIT:apps</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcHJvY2Vzc0luY29tZU1lc3NhZ2Uocm9vbUlkLCBldikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICdmcm9tJzogJ2F1ZGl0JywgLy8g55Sx5LqO5ZCM5pe26K6i6ZiF5Lik5Liq6YCa6YGT6YO95Lya5pS25Yiw6IGK5aSp5raI5oGv6YCa55+l77yM6YCa6L+H5a6D5p2l5Yy65YiG5LuO6L+Z6YeM6YCB5Ye65Y6755qE5raI5oGvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gcHJvY2Vzc0luY29tZU1lc3NhZ2Uocm9vbUlkLCBldikgewo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -454,22 +454,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJvY2Vzcy5vbignbWVzc2FnZScsIChtZXRob2QsIC4uLmFyZ3MpPT57CiAgaWYobWV0aG9kID09ICdyb29tQ29uZmlnJyl7CiAgICBjb25zdCByb29tSWQgPSBhcmdzWzBdCiAgICAKICB9Cn0pCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3b3JrZXIuc2VuZE1lc3NhZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">KCkgPT4gewoKICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ev</last-search>
+      <last-search>isFromAudit</last-search>
       <last-offset />
-      <last-pattern>ev</last-pattern>
+      <last-pattern>isFromAudit</last-pattern>
       <last-replace />
       <last-substitute>disconnect</last-substitute>
       <last-dir>1</last-dir>
@@ -477,10 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this.targetR</entry>
-        <entry>clas</entry>
-        <entry>http</entry>
-        <entry>resto</entry>
         <entry>questionId</entry>
         <entry>33</entry>
         <entry>socket</entry>
@@ -497,6 +493,10 @@
         <entry>processincome</entry>
         <entry>roomId</entry>
         <entry>ev</entry>
+        <entry>from</entry>
+        <entry encoding="base64">XDxmcm9t</entry>
+        <entry>isFromAu</entry>
+        <entry>isFromAudit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/traceLog/logger.log/g</entry>
