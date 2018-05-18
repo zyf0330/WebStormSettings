@@ -188,8 +188,8 @@
         <mark key="^" line="100" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1526624911130">
-        <mark key="'" line="77" column="12" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1526625778509">
+        <mark key="'" line="26" column="22" />
         <mark key="[" line="46" column="3" />
         <mark key="]" line="46" column="4" />
         <mark key="." line="46" column="4" />
@@ -236,12 +236,12 @@
         <mark key="." line="212" column="0" />
         <mark key="^" line="217" column="39" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1526625689131">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1526625768186">
         <mark key="'" line="78" column="6" />
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
+        <mark key="[" line="78" column="12" />
+        <mark key="]" line="78" column="16" />
+        <mark key="." line="78" column="16" />
+        <mark key="^" line="78" column="16" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/1" timestamp="1526362400021">
         <mark key="[" line="0" column="2" />
@@ -256,7 +256,7 @@
         <mark key="." line="288" column="37" />
         <mark key="^" line="288" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526619359158">
+      <file name="/Dummy.txt" timestamp="1526625899385">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -326,11 +326,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/.gitignore" timestamp="1525689244295">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/.gitignore" timestamp="1526625833562">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/1.js" timestamp="1525837675273">
         <mark key="[" line="6" column="48" />
@@ -340,7 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="23" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="82" column="7" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="111" column="7" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="100" column="19" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
@@ -440,13 +439,14 @@
       <jump line="78" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
       <jump line="107" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
       <jump line="78" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" />
+      <jump line="26" column="22" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5kZW55VXNlcnMuaW5kZXhPZih1c2VybmFtZSkgPT0gLTEpIHsKICAgICAgICAgIHRoaXMuZGVueVVzZXJzLnB1c2godXNlcm5hbWUpCiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>accessToken</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>accessKey</text>
@@ -482,7 +482,7 @@
         <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/accessKey/accessToken/gc</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -536,8 +536,8 @@
         <entry>130</entry>
         <entry>59</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>%s/accessKey/accessToken/gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
