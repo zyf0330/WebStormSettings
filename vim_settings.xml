@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1526552775576">
+      <file name="/fragment.js" timestamp="1526618629993">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/node-ffi-sunvote/test.js" timestamp="1526364653790">
@@ -59,12 +60,11 @@
       <file name="internal/inspector_async_hook.js" timestamp="1526385073102">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1526615546327">
-        <mark key="'" line="159" column="24" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="129" column="40" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1526618835442">
+        <mark key="'" line="148" column="16" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/test/testDispatchInfo.js" timestamp="1525832185400">
         <mark key="[" line="8" column="14" />
@@ -151,11 +151,11 @@
         <mark key="." line="83" column="6" />
         <mark key="^" line="83" column="6" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" timestamp="1526615214589">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="34" />
-        <mark key="^" line="20" column="34" />
-        <mark key="." line="20" column="34" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" timestamp="1526618192550">
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+        <mark key="." line="5" column="41" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Connector.js" timestamp="1526465202681">
         <mark key="[" line="38" column="19" />
@@ -187,12 +187,12 @@
         <mark key="^" line="100" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1526615644204">
-        <mark key="'" line="293" column="0" />
-        <mark key="[" line="216" column="15" />
-        <mark key="]" line="216" column="17" />
-        <mark key="." line="216" column="17" />
-        <mark key="^" line="216" column="17" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1526619142302">
+        <mark key="'" line="97" column="15" />
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="46" column="4" />
+        <mark key="." line="46" column="4" />
+        <mark key="^" line="46" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" timestamp="1526032943256">
         <mark key="[" line="0" column="13" />
@@ -218,7 +218,7 @@
         <mark key="^" line="53" column="2" />
         <mark key="." line="53" column="2" />
       </file>
-      <file name="/JavaScript Console" timestamp="1526615474867">
+      <file name="/JavaScript Console" timestamp="1526618803709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/pack.sh" timestamp="1526547326521">
@@ -234,12 +234,12 @@
         <mark key="." line="212" column="0" />
         <mark key="^" line="217" column="39" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1526540964077">
-        <mark key="'" line="63" column="6" />
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="14" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1526618039884">
+        <mark key="'" line="125" column="2" />
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/1" timestamp="1526362400021">
         <mark key="[" line="0" column="2" />
@@ -254,7 +254,7 @@
         <mark key="." line="288" column="37" />
         <mark key="^" line="288" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526615847513">
+      <file name="/Dummy.txt" timestamp="1526619301716">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -337,48 +337,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="23" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="135" column="60" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="232" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="35" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
-      <jump line="47" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
-      <jump line="246" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="243" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="227" column="25" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="193" column="25" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="100" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="137" column="30" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="144" column="25" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="56" column="29" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
-      <jump line="284" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="256" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="260" column="26" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="64" column="49" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
-      <jump line="155" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
-      <jump line="200" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="217" column="23" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="225" column="22" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="254" column="34" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="271" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="41" column="1" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="55" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="62" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="99" column="9" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="97" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="5" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="42" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="43" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="60" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="63" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="74" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="64" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="65" column="22" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="102" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="65" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
-      <jump line="115" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="147" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
-      <jump line="160" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="274" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="255" column="32" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="7" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
@@ -393,7 +352,6 @@
       <jump line="159" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="53" column="22" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="54" column="23" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
-      <jump line="61" column="22" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="62" column="23" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="82" column="7" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="111" column="7" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
@@ -404,12 +362,10 @@
       <jump line="285" column="85" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="124" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="292" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="66" column="37" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="113" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="173" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="175" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="266" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="69" column="3" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="39" column="29" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="7" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="16" column="8" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" />
@@ -418,7 +374,6 @@
       <jump line="279" column="10" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" />
       <jump line="247" column="10" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" />
       <jump line="40" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
-      <jump line="50" column="29" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="123" column="26" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="50" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="125" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
@@ -427,65 +382,118 @@
       <jump line="38" column="28" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="125" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="131" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
-      <jump line="0" column="25" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="136" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="129" column="33" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="130" column="35" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
-      <jump line="154" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="160" column="24" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="115" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="143" column="23" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="150" column="60" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="293" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="154" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="272" column="32" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="10" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="70" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="8" column="13" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" />
+      <jump line="122" column="14" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" />
+      <jump line="124" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" />
+      <jump line="58" column="80" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="152" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="50" column="19" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="51" column="35" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="61" column="14" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="0" column="0" filename="/fragment.js" />
+      <jump line="120" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="153" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="151" column="30" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="118" column="30" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="148" column="16" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="15" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="44" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="45" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="59" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="66" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="166" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="161" column="22" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="159" column="14" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="158" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="105" column="14" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="74" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="68" column="28" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="55" column="28" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="69" column="22" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="160" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="46" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="47" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="64" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="67" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="71" column="25" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="84" column="14" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="106" column="41" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="76" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="93" column="12" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="95" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="61" column="36" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="97" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0V29yaygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>，roomId 为键</text>
       </register>
       <register name="-" type="4">
-        <text>rooms</text>
+        <text>，roomId 为键</text>
       </register>
       <register name="/" type="4">
-        <text>clientpublic</text>
+        <text>toggleAudit</text>
       </register>
       <register name="0" type="4">
         <text>uncaughtException</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0V29yaygpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJvb21Xb3JrZXJzID0gcm9vbXNbcm9vbUlkXQo=</text>
+        <text encoding="base64">ICAgIGlmIChyb29tV29ya2Vycy5sZW5ndGggPT0gMCkgewogICAgICB0b2dnbGVBdWRpdChyb29tSWQsIGZhbHNlKQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLXJvb21zJywgcm9vbXMpCg==</text>
+        <text encoding="base64">ICAgIHJvb21Xb3JrZXJzLnNwbGljZShpbmRleCwgMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3b3JrZXJzLnNwbGljZSh3b3JrZXJzLmluZGV4T2Yod29ya2VySWQpLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgY2x1c3RlciA9IHJlcXVpcmUoJ2NsdXN0ZXInKQo=</text>
+        <text encoding="base64">ICAgIHJvb20K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0cy53b3JrZXJBZGQgPSAod29ya2VyX2lkKT0+ewoKfQo=</text>
+        <text encoding="base64">Y29uc3Qgem1xID0gcmVxdWlyZSgnem1xJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJvbwo=</text>
+        <text encoding="base64">Y29uc3Qgb25NZXNzYWdlID0gKG5hbWUsIGRhdGExLCBkYXRhMikgPT4gewogICAgICBuYW1lID0gbmFtZS50b1N0cmluZygpCiAgICAgIGNvbnN0IGlzRnJvbUF1ZGl0ID0gbmFtZS5zdGFydHNXaXRoKCdBVURJVDphcHBzJykKICAgICAgY29uc3QgZGF0YV9zdHIgPSBkYXRhMi50b1N0cmluZygpLnN1YnN0cmluZygxMSkKICAgICAgY29uc3QganNvbl9kYXRhID0gSlNPTi5wYXJzZShkYXRhX3N0cikKICAgICAgY29uc3QgZXYgPSBqc29uX2RhdGEuZXZlbnQKICAgICAgY29uc3Qgcm9vbUlkID0gZXYucm9vbUlkCiAgICAgIHByb2Nlc3NJbmNvbWVNZXNzYWdlKGlzRnJvbUF1ZGl0LCByb29tSWQsIGV2KQogICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tJywgd29ya2VySWQsIG1ldGhvZCwgY2x1c3Rlci5pc01hc3RlciwgT2JqZWN0LmtleXMoY2x1c3Rlci53b3JrZXJzKSkK</text>
+      <register name="8" type="4">
+        <text>function (name, data1, data2) {
+      name = name.toString()
+      const isFromAudit = name.startsWith('AUDIT:apps')
+      const data_str = data2.toString().substring(11)
+      const json_data = JSON.parse(data_str)
+      const ev = json_data.event
+      const roomId = ev.roomId
+      processIncomeMessage(isFromAudit, roomId, ev)
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGhyb3cgbmV3IEVycm9yKCcxMjMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>clientpublic</last-search>
+      <last-search>toggleAudit</last-search>
       <last-offset />
-      <last-pattern>clientpublic</last-pattern>
+      <last-pattern>toggleAudit</last-pattern>
       <last-replace>sock_sub</last-replace>
       <last-substitute>helper.sock_sub_route(roomId)</last-substitute>
       <last-dir>1</last-dir>
@@ -493,29 +501,28 @@
     </search>
     <history>
       <history-search>
-        <entry>startaudit</entry>
-        <entry>helper.sock_sub_route(roomId)</entry>
-        <entry>clientpublicchat</entry>
-        <entry>clientAllowChatByUid</entry>
-        <entry>clientDenyChatByUid</entry>
-        <entry>args</entry>
-        <entry>sendMessage</entry>
-        <entry>public</entry>
-        <entry>setname</entry>
-        <entry>todo</entry>
-        <entry>bind</entry>
-        <entry>bind(</entry>
-        <entry>bind (</entry>
         <entry>clientPublicChat</entry>
         <entry>evs\[</entry>
         <entry>clients</entry>
         <entry>cluster</entry>
         <entry>workers</entry>
-        <entry>rooms</entry>
+        <entry>clientpublicchat</entry>
+        <entry>allowMsg</entry>
+        <entry>dispatch</entry>
+        <entry>zmq</entry>
+        <entry>heart</entry>
+        <entry>auditHeartBeat</entry>
+        <entry>indexOf</entry>
+        <entry>onPublicChat</entry>
+        <entry>publicclient</entry>
         <entry>clientpublic</entry>
+        <entry>onlineau</entry>
+        <entry>rooms</entry>
+        <entry>auditors</entry>
+        <entry>enterRoom</entry>
+        <entry>toggleAudit</entry>
       </history-search>
       <history-cmd>
-        <entry>182</entry>
         <entry>79</entry>
         <entry>%s/this.//gc</entry>
         <entry>77</entry>
@@ -534,6 +541,7 @@
         <entry>125</entry>
         <entry>q</entry>
         <entry>130</entry>
+        <entry>59</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
