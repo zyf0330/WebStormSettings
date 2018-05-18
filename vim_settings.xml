@@ -190,8 +190,12 @@
         <mark key="." line="46" column="4" />
         <mark key="^" line="46" column="4" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" timestamp="1526626836920">
-        <mark key="'" line="382" column="4" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" timestamp="1526628963605">
+        <mark key="'" line="132" column="8" />
+        <mark key="[" line="121" column="1" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="121" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" timestamp="1526032943256">
         <mark key="[" line="0" column="13" />
@@ -335,12 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="59" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
-      <jump line="277" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="281" column="37" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="285" column="85" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="124" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="292" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="113" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="173" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="175" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
@@ -435,6 +433,12 @@
       <jump line="319" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="144" column="57" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="382" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
+      <jump line="113" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
+      <jump line="250" column="41" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
+      <jump line="14" column="34" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
+      <jump line="118" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
+      <jump line="126" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
+      <jump line="132" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -444,7 +448,7 @@
         <text>改为 cluster 模式，master 来接收 zmq 消息，分给 worker 处理，worker 负责发送 zmq 消息以及连接客户端</text>
       </register>
       <register name="/" type="4">
-        <text>startPlayV</text>
+        <text>trace</text>
       </register>
       <register name="0" type="4">
         <text>uncaughtException</text>
@@ -481,9 +485,9 @@
       </register>
     </registers>
     <search>
-      <last-search>startPlayV</last-search>
+      <last-search>trace</last-search>
       <last-offset />
-      <last-pattern>startPlayV</last-pattern>
+      <last-pattern>trace</last-pattern>
       <last-replace>accessToken</last-replace>
       <last-substitute>accessKey</last-substitute>
       <last-dir>1</last-dir>
@@ -491,11 +495,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onPublicChat</entry>
-        <entry>publicclient</entry>
-        <entry>clientpublic</entry>
-        <entry>onlineau</entry>
-        <entry>rooms</entry>
         <entry>auditors</entry>
         <entry>enterRoom</entry>
         <entry>toggleAudit</entry>
@@ -511,6 +510,11 @@
         <entry>accessKey</entry>
         <entry>startPlay</entry>
         <entry>startPlayV</entry>
+        <entry>cdnremove</entry>
+        <entry>remoecdn</entry>
+        <entry>removecdn</entry>
+        <entry>logger</entry>
+        <entry>trace</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.//gc</entry>
