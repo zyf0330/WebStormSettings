@@ -93,7 +93,6 @@
         <mark key="." line="2" column="103" />
         <mark key="^" line="2" column="103" />
       </file>
-      <file name="/worker.js" timestamp="1527065125115" />
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" timestamp="1526545843477">
         <mark key="[" line="246" column="0" />
         <mark key="]" line="246" column="0" />
@@ -141,11 +140,11 @@
         <mark key="." line="83" column="6" />
         <mark key="^" line="83" column="6" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" timestamp="1526618192550">
-        <mark key="[" line="5" column="53" />
-        <mark key="]" line="5" column="41" />
-        <mark key="^" line="5" column="41" />
-        <mark key="." line="5" column="41" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" timestamp="1527067604626">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Connector.js" timestamp="1526465202681">
         <mark key="[" line="38" column="19" />
@@ -215,7 +214,7 @@
         <mark key="^" line="53" column="2" />
         <mark key="." line="53" column="2" />
       </file>
-      <file name="/JavaScript Console" timestamp="1527065316114">
+      <file name="/JavaScript Console" timestamp="1527065811499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/pack.sh" timestamp="1526547326521">
@@ -237,11 +236,11 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527065708733">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1527067613759">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="internal/child_process.js" timestamp="1526538168740">
         <mark key="[" line="0" column="0" />
@@ -417,10 +416,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>io.sockets.connected[lastSocketId]</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>io.sockets.connected[lastSocketId]</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>emit</text>
