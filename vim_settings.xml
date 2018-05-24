@@ -176,10 +176,10 @@
         <mark key="^" line="100" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1527134253328">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1527141650944">
         <mark key="'" line="111" column="10" />
-        <mark key="[" line="64" column="53" />
-        <mark key="]" line="65" column="23" />
+        <mark key="[" line="57" column="28" />
+        <mark key="]" line="57" column="38" />
         <mark key="." line="65" column="23" />
         <mark key="^" line="65" column="23" />
       </file>
@@ -230,11 +230,11 @@
         <mark key="." line="78" column="16" />
         <mark key="^" line="78" column="16" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/doc.md" timestamp="1527141500844">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="53" />
-        <mark key="^" line="5" column="53" />
-        <mark key="." line="5" column="53" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/doc.md" timestamp="1527141689257">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/1" timestamp="1526362400021">
         <mark key="[" line="0" column="2" />
@@ -242,7 +242,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527067629287">
+      <file name="/Dummy.txt" timestamp="1527141555870">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -422,16 +422,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>accessToken</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>xslt</text>
       </register>
       <register name="/" type="4">
         <text>\.on(</text>
       </register>
       <register name="0" type="4">
-        <text>room.onlineAuditors</text>
+        <text>accessToken</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LSBgZW50ZXJSb29tYDog5bey6L+b5YWl5oi/6Ze0Cg==</text>
