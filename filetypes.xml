@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="www" type="JavaScript" />
       <mapping pattern="etcdConfig" type="PLAIN_TEXT" />
+      <mapping pattern="filter" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
