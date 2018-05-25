@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1527213373531">
+      <file name="/fragment.js" timestamp="1527216939214">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="10" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/node-ffi-sunvote/test.js" timestamp="1526364653790">
@@ -30,6 +30,7 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" timestamp="1527216293923" />
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/etcdConfig" timestamp="1527145732528">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -46,6 +47,12 @@
         <mark key="]" line="1" column="26" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" timestamp="1527218199906">
+        <mark key="[" line="68" column="30" />
+        <mark key="]" line="69" column="19" />
+        <mark key="." line="69" column="19" />
+        <mark key="^" line="69" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.js" timestamp="1525937890876">
         <mark key="[" line="0" column="0" />
@@ -231,13 +238,16 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" timestamp="1527218163082">
+        <mark key="'" line="18" column="57" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/confd.sh" timestamp="1527145611612">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="13" column="6" />
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="/JavaScript Console" timestamp="1527214457377">
+      <file name="/JavaScript Console" timestamp="1527217410560">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/pack.sh" timestamp="1526547326521">
@@ -354,31 +364,14 @@
         <mark key="." line="6" column="54" />
         <mark key="^" line="6" column="54" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/list" timestamp="1527216435980">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="56" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="37" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="57" column="26" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="48" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
-      <jump line="77" column="12" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="67" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
-      <jump line="65" column="38" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
-      <jump line="76" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
-      <jump line="78" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
-      <jump line="78" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" />
-      <jump line="26" column="22" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="319" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
-      <jump line="144" column="57" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
-      <jump line="382" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
-      <jump line="113" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
-      <jump line="250" column="41" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
-      <jump line="14" column="34" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
-      <jump line="118" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
-      <jump line="126" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
-      <jump line="132" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
-      <jump line="94" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
-      <jump line="27" column="34" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
       <jump line="59" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
       <jump line="58" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
       <jump line="38" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
@@ -456,55 +449,78 @@
       <jump line="8" column="58" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/confd/conf.d/config.js.toml" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.js" />
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.js" />
+      <jump line="1" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="13" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="12" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="35" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="39" column="34" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="4" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="22" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="52" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="44" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="5" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="33" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
+      <jump line="106" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
+      <jump line="112" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
+      <jump line="121" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
+      <jump line="34" column="5" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
+      <jump line="198" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
+      <jump line="221" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
+      <jump line="224" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
+      <jump line="295" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
+      <jump line="296" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
+      <jump line="84" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
+      <jump line="16" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
+      <jump line="18" column="57" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>num</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>num</text>
       </register>
       <register name="/" type="4">
-        <text>5</text>
+        <text>newSOcket</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coTWF0aC5yb3VuZCgxLjUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljb25zdCBkZWxheSA9IAo=</text>
+        <text encoding="base64">CWlmKGZvcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cG0yIHN0YXJ0IGNvbmZkLnNoIC0tbmFtZSBjb25mZC1kYnktbXNnLWF1ZGl0Cg==</text>
+        <text encoding="base64">Y29uc3QgY2hhbmdlTnVtID0gKG51bSkgPT4gewogZm9yKGxldCBpID0gMDtpIDwgbnVtOyBpKyspewogfQp9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgImVudiI6IHsKICAgICAgICAiTk9ERV9FTlYiOiAicHJvZHVjdGlvbiIKICAgICAgfQo=</text>
+        <text encoding="base64">Y29uc3QgY2xpZW50cyA9IFtdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImV4ZWNfbW9kZSI6ICJmb3JrIiwKICAgICAgImluc3RhbmNlcyI6IDEsCg==</text>
+        <text encoding="base64">IAljbGllbnRzLnB1c2goKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bm9kZTM9aHR0cHM6Ly90aG9yMDMuZHVvYmVpeXVuLmNvbTo0NzU4Cg==</text>
+        <text encoding="base64">Y29uc3QgbGlzdCA9IGZzLnJlYWRGaWxlU3luYygnLi9saXN0JywgJ3V0ZjgnKQoKY29uc3Qgc3R1cyA9IGxpc3Quc3BsaXQoJ1xuJykubWFwKChsaW5lKSA9PiB7Cgljb25zdCBmaWVsZHMgPSBsaW5lLnNwbGl0KCdcdCcpCglyZXR1cm4gewoJCXVpZDogZmllbGRzWzBdLAoJCW5hbWU6IGZpZWxkc1sxXSwKCX0KfSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIm5vZGVfYXJncyI6ICItLWhhcm1vbnkiLAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSJodHRwVmlkZW9QdXNoU2VydmVycyIsCgkiaHR0cEF1ZGlvUHVzaFNlcnZlcnMiLAo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnbnVtIGRpZmYnLCBudW0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJsb2dzdGFzaCIsCg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdudW0gZGlmZicsIG51bSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>5</last-search>
+      <last-search>newSOcket</last-search>
       <last-offset />
-      <last-pattern>5</last-pattern>
+      <last-pattern>newSOcket</last-pattern>
       <last-replace>accessToken</last-replace>
       <last-substitute>accessKey</last-substitute>
       <last-dir>1</last-dir>
@@ -512,12 +528,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ZGVueUNoYXRcPg==</entry>
-        <entry>io.</entry>
-        <entry>io\.</entry>
-        <entry>nickname</entry>
-        <entry>auditor</entry>
-        <entry encoding="base64">YXVkaXRvclw+</entry>
         <entry>emit</entry>
         <entry>\.on</entry>
         <entry>\.on\(</entry>
@@ -532,9 +542,14 @@
         <entry>dbyms</entry>
         <entry>1.4</entry>
         <entry>5</entry>
+        <entry>stus</entry>
+        <entry>00</entry>
+        <entry>this.status</entry>
+        <entry>disconnecet</entry>
+        <entry>disconnect</entry>
+        <entry>newSOcket</entry>
       </history-search>
       <history-cmd>
-        <entry>+19</entry>
         <entry>-45</entry>
         <entry>%s/helper.sock_sub_route(roomId)/sock_sub/gc</entry>
         <entry>s</entry>
@@ -553,6 +568,7 @@
         <entry>248</entry>
         <entry>463</entry>
         <entry>q</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
