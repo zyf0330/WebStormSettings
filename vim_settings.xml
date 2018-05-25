@@ -16,6 +16,11 @@
         <mark key="." line="42" column="33" />
         <mark key="^" line="42" column="33" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" timestamp="1526642384464">
+        <mark key="[" line="334" column="0" />
+        <mark key="]" line="334" column="0" />
+        <mark key="." line="334" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1526032830015">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,6 +31,11 @@
         <mark key="." line="2" column="45" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" timestamp="1527216293923" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/etcdConfig" timestamp="1527145732528">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Socket.js" timestamp="1526275525105">
         <mark key="[" line="58" column="26" />
         <mark key="]" line="58" column="25" />
@@ -61,11 +71,10 @@
       <file name="internal/inspector_async_hook.js" timestamp="1526385073102">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/filter" timestamp="1527228131509">
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="1" column="46" />
-        <mark key="^" line="1" column="46" />
-        <mark key="." line="1" column="46" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/filter" timestamp="1527228233767">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/test/testDispatchInfo.js" timestamp="1527213963932">
         <mark key="[" line="8" column="48" />
@@ -103,6 +112,11 @@
         <mark key="." line="2" column="103" />
         <mark key="^" line="2" column="103" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" timestamp="1526545843477">
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
+        <mark key="." line="246" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/index.js" timestamp="1526447498358">
         <mark key="[" line="229" column="30" />
         <mark key="]" line="229" column="30" />
@@ -117,6 +131,11 @@
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/package.json" timestamp="1526368425920">
         <mark key="[" line="22" column="23" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/confd/templates/config.js.tmpl" timestamp="1527145103004">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" timestamp="1526123288795">
         <mark key="[" line="13" column="5" />
@@ -485,10 +504,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnN0IGRlbGF5ID0gTWF0aC5yb3VuZChNYXRoLmFicyhEYXRlLm5vdygpIC0gZXYudGltZXN0YW1wKSkKCXZhciByb29tSW5mbyA9IG1jX2NsaWVudC5nZXRSb29tSW5mbyhyb29tSWQpOwo=</text>
+        <text encoding="base64">Mgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Date.now() - ev.timestamp</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>rou</text>
@@ -497,31 +516,31 @@
         <text>line.match(/\d{2}:\d{2}:\d{2}:/)[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnN0IGRlbGF5ID0gTWF0aC5yb3VuZChNYXRoLmFicyhEYXRlLm5vdygpIC0gZXYudGltZXN0YW1wKSkKCXZhciByb29tSW5mbyA9IG1jX2NsaWVudC5nZXRSb29tSW5mbyhyb29tSWQpOwo=</text>
+        <text encoding="base64">Mgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWlmKGRlbGF5ICkK</text>
+        <text encoding="base64">MTIzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">anoyNGQwNzE4ZTBiZjY0M2M4YWUyMjVmYWUyY2RlM2NkNAo=</text>
+        <text encoding="base64">L3Vzci9zaGFyZS9sb2dzdGFzaC9iaW4vbG9nc3Rhc2ggLWYgLi9maWx0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">anoyNGQwNzE4ZTBiZjY0M2M4YWUyMjVmYWUyY2RlM2NkNAo=</text>
+        <text encoding="base64">MTIzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">anoyNGQwNzE4ZTBiZjY0M2M4YWUyMjVmYWUyY2RlM2NkNAo=</text>
+        <text encoding="base64">L3Vzci9zaGFyZS9sb2dzdGFzaC9iaW4vbG9nc3Rhc2ggLWYgLi9maWx0ZXIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ano4OTVlOTkzODZlNzc0ODhjYTVkMjM3ZmU0YTQ5NzgxMwo=</text>
+      <register name="6" type="8">
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ano4OTVlOTkzODZlNzc0ODhjYTVkMjM3ZmU0YTQ5NzgxMwo=</text>
+        <text encoding="base64">CWNvbnN0IGRlbGF5ID0gTWF0aC5yb3VuZChNYXRoLmFicyhEYXRlLm5vdygpIC0gZXYudGltZXN0YW1wKSkKCXZhciByb29tSW5mbyA9IG1jX2NsaWVudC5nZXRSb29tSW5mbyhyb29tSWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gbGluZXMgPSBbbGluZV0K</text>
+        <text encoding="base64">CWlmKGRlbGF5ICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gY29uc3QgbGluZSA9ICcyMDE4LTA1LTI0IDA3OjMxOjMxOiBbd2lkLTddW2p6YWMxNmFjZDU1OGRkNGFmNTlkMmEyYzMxZTljOGRjNTFdW3ByZXNlbnRhdGlvbkRyYXdMaW5lXSBbMTUyNzExODI5MTYzOV0nCg==</text>
+        <text encoding="base64">anoyNGQwNzE4ZTBiZjY0M2M4YWUyMjVmYWUyY2RlM2NkNAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
