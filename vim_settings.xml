@@ -47,13 +47,13 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" timestamp="1527573871356">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" timestamp="1527574946375">
         <mark key="a" line="136" column="15" />
-        <mark key="'" line="63" column="17" />
-        <mark key="[" line="109" column="46" />
-        <mark key="]" line="109" column="48" />
-        <mark key="." line="109" column="48" />
-        <mark key="^" line="109" column="48" />
+        <mark key="'" line="35" column="33" />
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="35" column="41" />
+        <mark key="." line="35" column="41" />
+        <mark key="^" line="35" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.js" timestamp="1527225758535">
         <mark key="'" line="0" column="34" />
@@ -120,10 +120,10 @@
         <mark key="^" line="229" column="77" />
         <mark key="." line="229" column="30" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fakeConfig.json" timestamp="1527574002175">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fakeConfig.json" timestamp="1527574177192">
         <mark key="'" line="7" column="14" />
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="12" />
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="46" />
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
@@ -321,7 +321,7 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="/JavaScript Console" timestamp="1527573864179">
+      <file name="/JavaScript Console" timestamp="1527574861104">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" timestamp="1527491237218">
@@ -387,7 +387,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527492373882">
+      <file name="/Dummy.txt" timestamp="1527574009092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -480,7 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fakeConfig.json" />
       <jump line="50" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="52" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="6" column="170" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
@@ -493,7 +492,6 @@
       <jump line="4" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
       <jump line="83" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="74" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
-      <jump line="54" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="44" column="51" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="2" column="33" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="46" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
@@ -580,64 +578,65 @@
       <jump line="66" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="64" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="63" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="54" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="35" column="33" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jz7ab1232745604c0080ee3d0f8edf3efc</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>jz7ab1232745604c0080ee3d0f8edf3efc</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>wa</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZmFrZUNvbmZpZy5qc29uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkiaHR0cDovL3dzNS5kdW9iZWl5dW4uY29tIgoJCSJodHRwOi8vd3M2LmR1b2JlaXl1bi5jb20iLAoJCSJodHRwOi8vd3M3LmR1b2JlaXl1bi5jb20iCg==</text>
+        <text encoding="base64">CQkJcmVtYWluTnVtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmFrZUNvbmZpZy5qc29uCg==</text>
+        <text encoding="base64">CQkJd2FpdFRpbWVvdXQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXJlc3BvbnNlLm9uKCdlcnJvcicsIChlcnIpID0+IHsKCQkJCQlyZWooZXJyKQoJCQkJfSkK</text>
+        <text encoding="base64">CQkJd2FpdFRpbWVvdXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWNsZWFyVGltZW91dCh3YWl0VGltZXIpCg==</text>
+        <text encoding="base64">CQkJd2FpdFRpbWVvdXQoKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>添加 availableLine 事件通知，在开启 stream 的时候
+修复服务器在 localhost 时候，logOrderByServer match 失败</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJY29uc3Qgd2FpdFRpbWVyID0gc2V0VGltZW91dCgoKSA9PiB7CgkJCQlzdHVMaXN0LnBhdXNlKCkKCQkJfSwgMjAwMCkgLy8gVE9ETyDliLfmlrAK</text>
+        <text encoding="base64">CQkiaHR0cDovL3dzNS5kdW9iZWl5dW4uY29tIgoJCSJodHRwOi8vd3M2LmR1b2JlaXl1bi5jb20iLAoJCSJodHRwOi8vd3M3LmR1b2JlaXl1bi5jb20iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnZ2V0IHVybCcsIG5ubisrKQo=</text>
+        <text encoding="base64">ZmFrZUNvbmZpZy5qc29uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IG5ubiA9IDEK</text>
+        <text encoding="base64">CQkJCXJlc3BvbnNlLm9uKCdlcnJvcicsIChlcnIpID0+IHsKCQkJCQlyZWooZXJyKQoJCQkJfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWNsZWFyVGltZW91dCh3YWl0VGltZXIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>wa</last-search>
+      <last-search>e</last-search>
       <last-offset />
-      <last-pattern>wa</last-pattern>
+      <last-pattern>e</last-pattern>
       <last-replace>remainNum</last-replace>
       <last-substitute>num</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>on</entry>
-        <entry>num</entry>
         <entry>wait</entry>
         <entry>waitLine</entry>
         <entry>el</entry>
@@ -656,6 +655,8 @@
         <entry>get</entry>
         <entry>nnn</entry>
         <entry>wa</entry>
+        <entry>808</entry>
+        <entry>e</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
