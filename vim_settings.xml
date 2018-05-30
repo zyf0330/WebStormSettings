@@ -22,6 +22,13 @@
       <file name="/a.dummy" timestamp="1526032830015">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1527668858209">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="168" column="1" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/.gitignore" timestamp="1527590854962">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="4" />
@@ -41,7 +48,7 @@
         <mark key="." line="46" column="93" />
         <mark key="^" line="46" column="93" />
       </file>
-      <file name="/JavaScript Console" timestamp="1527663756405">
+      <file name="/JavaScript Console" timestamp="1527669198480">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" timestamp="1527663797926">
@@ -53,6 +60,12 @@
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1526385073102">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" timestamp="1527669029553">
+        <mark key="[" line="330" column="30" />
+        <mark key="]" line="331" column="9" />
+        <mark key="." line="331" column="9" />
+        <mark key="^" line="331" column="9" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" timestamp="1527667215416">
         <mark key="'" line="46" column="8" />
@@ -67,6 +80,12 @@
         <mark key="]" line="14" column="9" />
         <mark key="^" line="14" column="9" />
         <mark key="." line="14" column="9" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/config.js" timestamp="1527669204380">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/list2" timestamp="1527591664333">
         <mark key="'" line="0" column="0" />
@@ -99,6 +118,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1527668690342">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fakeConfig.json" timestamp="1527664143342">
         <mark key="'" line="7" column="29" />
         <mark key="[" line="10" column="0" />
@@ -108,6 +130,13 @@
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/package.json" timestamp="1526368425920">
         <mark key="[" line="22" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1527669084983">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="234" column="1" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="117" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1527565000611">
         <mark key="'" line="185" column="13" />
@@ -147,10 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="57" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
-      <jump line="64" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
-      <jump line="71" column="35" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
-      <jump line="75" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
       <jump line="174" column="51" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
       <jump line="270" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
       <jump line="274" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
@@ -247,46 +272,309 @@
       <jump line="48" column="21" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/index.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/index.js" />
       <jump line="46" column="8" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" />
+      <jump line="15" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+      <jump line="170" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>添加 pack.sh</text>
+        <text>warn</text>
       </register>
       <register name="-" type="4">
-        <text>添加 pack.sh</text>
+        <text>warn</text>
       </register>
       <register name="/" type="4">
         <text>Dis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7bmFtZTogJ2Nvbm5lY3RCZWdpbicsIGZyb206IHJzc2UuRGlzY29ubmVjdGVkLCB0bzogcnNzZS5Db25uZWN0aW5nfSwK</text>
+        <text encoding="base64">cXVlcnlSb29tOiB7CiAgICAgICAgICAgICAibWV0aG9kIjogInF1ZXJ5Um9vbSIsCiAgICAgICAgICAgICAidGFyZ2V0IjogInJvb20iCiAgICAgICAgICAgfQoKCgoKam9pbjogewogICJtZXRob2QiOiAiam9pbiIsCiAgInRhcmdldCI6ICJyb29tIiwKICAicGVlck5hbWUiOiAiaGE3a2s5eGgiLAogICJydHBDYXBhYmlsaXRpZXMiOiB7CiAgICAiY29kZWNzIjogWwogICAgICB7CiAgICAgICAgIm5hbWUiOiAib3B1cyIsCiAgICAgICAgIm1pbWVUeXBlIjogImF1ZGlvL29wdXMiLAogICAgICAgICJraW5kIjogImF1ZGlvIiwKICAgICAgICAiY2xvY2tSYXRlIjogNDgwMDAsCiAgICAgICAgInByZWZlcnJlZFBheWxvYWRUeXBlIjogMTAwLAogICAgICAgICJjaGFubmVscyI6IDIsCiAgICAgICAgInJ0Y3BGZWVkYmFjayI6IFtdLAogICAgICAgICJwYXJhbWV0ZXJzIjogewogICAgICAgICAgInVzZWluYmFuZGZlYyI6IDEKICAgICAgICB9CiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibmFtZSI6ICJWUDgiLAogICAgICAgICJtaW1lVHlwZSI6ICJ2aWRlby9WUDgiLAogICAgICAgICJraW5kIjogInZpZGVvIiwKICAgICAgICAiY2xvY2tSYXRlIjogOTAwMDAsCiAgICAgICAgInByZWZlcnJlZFBheWxvYWRUeXBlIjogMTAxLAogICAgICAgICJydGNwRmVlZGJhY2siOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgICJ0eXBlIjogImdvb2ctcmVtYiIKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgICJ0eXBlIjogImNjbSIsCiAgICAgICAgICAgICJwYXJhbWV0ZXIiOiAiZmlyIgogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgInR5cGUiOiAibmFjayIKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgICJ0eXBlIjogIm5hY2siLAogICAgICAgICAgICAicGFyYW1ldGVyIjogInBsaSIKICAgICAgICAgIH0KICAgICAgICBdLAogICAgICAgICJwYXJhbWV0ZXJzIjoge30KICAgICAgfSwKICAgICAgewogICAgICAgICJuYW1lIjogInJ0eCIsCiAgICAgICAgIm1pbWVUeXBlIjogInZpZGVvL3J0eCIsCiAgICAgICAgImtpbmQiOiAidmlkZW8iLAogICAgICAgICJjbG9ja1JhdGUiOiA5MDAwMCwKICAgICAgICAicHJlZmVycmVkUGF5bG9hZFR5cGUiOiAxMDIsCiAgICAgICAgInBhcmFtZXRlcnMiOiB7CiAgICAgICAgICAiYXB0IjogMTAxCiAgICAgICAgfQogICAgICB9CiAgICBdLAogICAgImhlYWRlckV4dGVuc2lvbnMiOiBbCiAgICAgIHsKICAgICAgICAia2luZCI6ICJhdWRpbyIsCiAgICAgICAgInVyaSI6ICJ1cm46aWV0ZjpwYXJhbXM6cnRwLWhkcmV4dDpzc3JjLWF1ZGlvLWxldmVsIiwKICAgICAgICAicHJlZmVycmVkSWQiOiAxCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJ2aWRlbyIsCiAgICAgICAgInVyaSI6ICJ1cm46aWV0ZjpwYXJhbXM6cnRwLWhkcmV4dDp0b2Zmc2V0IiwKICAgICAgICAicHJlZmVycmVkSWQiOiAyCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJ2aWRlbyIsCiAgICAgICAgInVyaSI6ICJodHRwOi8vd3d3LndlYnJ0Yy5vcmcvZXhwZXJpbWVudHMvcnRwLWhkcmV4dC9hYnMtc2VuZC10aW1lIiwKICAgICAgICAicHJlZmVycmVkSWQiOiAzCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAia2luZCI6ICJ2aWRlbyIsCiAgICAgICAgInVyaSI6ICJ1cm46M2dwcDp2aWRlby1vcmllbnRhdGlvbiIsCiAgICAgICAgInByZWZlcnJlZElkIjogNAogICAgICB9CiAgICBdLAogICAgImZlY01lY2hhbmlzbXMiOiBbXQogIH0sCiAgImFwcERhdGEiOiB7CiAgICAiZGlzcGxheU5hbWUiOiAiRGFubmllIEhhemVsZXR0IiwKICAgICJkZXZpY2UiOiB7CiAgICAgICJmbGFnIjogImNocm9tZSIsCiAgICAgICJuYW1lIjogIkNocm9tZSIsCiAgICAgICJ2ZXJzaW9uIjogIjY2LjAiLAogICAgICAiYm93c2VyIjogewogICAgICAgICJuYW1lIjogIkNocm9tZSIsCiAgICAgICAgImNocm9tZSI6IHRydWUsCiAgICAgICAgInZlcnNpb24iOiAiNjYuMCIsCiAgICAgICAgImJsaW5rIjogdHJ1ZSwKICAgICAgICAibGludXgiOiB0cnVlLAogICAgICAgICJvc25hbWUiOiAiTGludXgiLAogICAgICAgICJhIjogdHJ1ZQogICAgICB9CiAgICB9CiAgfQp9Cgp7CiAgIm1ldGhvZCI6ICJjcmVhdGVUcmFuc3BvcnQiLAogICJ0YXJnZXQiOiAicGVlciIsCiAgImlkIjogODE5MTMwNjIsCiAgImRpcmVjdGlvbiI6ICJzZW5kIiwKICAib3B0aW9ucyI6IHsKICAgICJ0Y3AiOiBmYWxzZQogIH0sCiAgImFwcERhdGEiOiB7CiAgICAibWVkaWEiOiAiU0VORF9NSUNfV0VCQ0FNIgogIH0sCiAgImR0bHNQYXJhbWV0ZXJzIjogewogICAgInJvbGUiOiAic2VydmVyIiwKICAgICJmaW5nZXJwcmludHMiOiBbCiAgICAgIHsKICAgICAgICAiYWxnb3JpdGhtIjogInNoYS0yNTYiLAogICAgICAgICJ2YWx1ZSI6ICI2MzowRjo2QTpGMzoyODo0RToxOTo3MToyOTpGNzo3QzozMzo1ODpFQzo5NjpCMTpBODpFRDo3MTo3MjpBQzo0Mjo0MTpERDo2ODozQjoyMzo4QjpBMzpBMTo2RDo3NSIKICAgICAgfQogICAgXQogIH0KfQoKewogICJtZXRob2QiOiAiY3JlYXRlUHJvZHVjZXIiLAogICJ0YXJnZXQiOiAicGVlciIsCiAgImlkIjogNjE2MjA3MzksCiAgImtpbmQiOiAiYXVkaW8iLAogICJ0cmFuc3BvcnRJZCI6IDIxMDYxMTcyLAogICJydHBQYXJhbWV0ZXJzIjogewogICAgIm11eElkIjogbnVsbCwKICAgICJjb2RlY3MiOiBbCiAgICAgIHsKICAgICAgICAibmFtZSI6ICJvcHVzIiwKICAgICAgICAibWltZVR5cGUiOiAiYXVkaW8vb3B1cyIsCiAgICAgICAgImNsb2NrUmF0ZSI6IDQ4MDAwLAogICAgICAgICJwYXlsb2FkVHlwZSI6IDExMSwKICAgICAgICAiY2hhbm5lbHMiOiAyLAogICAgICAgICJydGNwRmVlZGJhY2siOiBbXSwKICAgICAgICAicGFyYW1ldGVycyI6IHsKICAgICAgICAgICJ1c2VpbmJhbmRmZWMiOiAxCiAgICAgICAgfQogICAgICB9CiAgICBdLAogICAgImhlYWRlckV4dGVuc2lvbnMiOiBbCiAgICAgIHsKICAgICAgICAidXJpIjogInVybjppZXRmOnBhcmFtczpydHAtaGRyZXh0OnNzcmMtYXVkaW8tbGV2ZWwiLAogICAgICAgICJpZCI6IDEKICAgICAgfQogICAgXSwKICAgICJlbmNvZGluZ3MiOiBbCiAgICAgIHsKICAgICAgICAic3NyYyI6IDE0MDA5NzQwMTEKICAgICAgfQogICAgXSwKICAgICJydGNwIjogewogICAgICAiY25hbWUiOiAiQ2d2a08rUGJ2MldlYzZzSyIsCiAgICAgICJyZWR1Y2VkU2l6ZSI6IHRydWUsCiAgICAgICJtdXgiOiB0cnVlCiAgICB9CiAgfSwKICAicGF1c2VkIjogZmFsc2UsCiAgImFwcERhdGEiOiB7CiAgICAic291cmNlIjogIm1pYyIKICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlsZXQgc3R1cyA9IFtdCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJaWYoc3R1cy5maW5kKF9zdHUgPT4gewoJCQkJcmV0dXJuIHN0dS51bmlxdWVVc2VySWQgPT0gX3N0dS51bmlxdWVVc2VySWQKCQkJfSkgIT0gbnVsbCl7CgkJCQljb25zb2xlLmxvZygncmVwZWF0IHVpZCcsIHN0dS51bmlxdWVVc2VySWQpCgkJCX1lbHNlewoJCQkJc3R1cy5wdXNoKHN0dSkKCQkJfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnc3R1cy5sZW5ndGgnLCBzdHVzLmxlbmd0aCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWNoYW5nZU51bShudW0pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWNoYW5nZU51bShudW0pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmVycm9yKCdyZXF1ZXN0IGF1dGhJbmZvJywgZXJyLm1lc3NhZ2UpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coQnVmZmVyLmFsbG9jVW5zYWZlKDApKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coQnVmZmVyLmFsbG9jVW5zYWZlKDApKQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>queryRoom: {
+             &quot;method&quot;: &quot;queryRoom&quot;,
+             &quot;target&quot;: &quot;room&quot;
+           }
+
+
+
+
+join: {
+  &quot;method&quot;: &quot;join&quot;,
+  &quot;target&quot;: &quot;room&quot;,
+  &quot;peerName&quot;: &quot;ha7kk9xh&quot;,
+  &quot;rtpCapabilities&quot;: {
+    &quot;codecs&quot;: [
+      {
+        &quot;name&quot;: &quot;opus&quot;,
+        &quot;mimeType&quot;: &quot;audio/opus&quot;,
+        &quot;kind&quot;: &quot;audio&quot;,
+        &quot;clockRate&quot;: 48000,
+        &quot;preferredPayloadType&quot;: 100,
+        &quot;channels&quot;: 2,
+        &quot;rtcpFeedback&quot;: [],
+        &quot;parameters&quot;: {
+          &quot;useinbandfec&quot;: 1
+        }
+      },
+      {
+        &quot;name&quot;: &quot;VP8&quot;,
+        &quot;mimeType&quot;: &quot;video/VP8&quot;,
+        &quot;kind&quot;: &quot;video&quot;,
+        &quot;clockRate&quot;: 90000,
+        &quot;preferredPayloadType&quot;: 101,
+        &quot;rtcpFeedback&quot;: [
+          {
+            &quot;type&quot;: &quot;goog-remb&quot;
+          },
+          {
+            &quot;type&quot;: &quot;ccm&quot;,
+            &quot;parameter&quot;: &quot;fir&quot;
+          },
+          {
+            &quot;type&quot;: &quot;nack&quot;
+          },
+          {
+            &quot;type&quot;: &quot;nack&quot;,
+            &quot;parameter&quot;: &quot;pli&quot;
+          }
+        ],
+        &quot;parameters&quot;: {}
+      },
+      {
+        &quot;name&quot;: &quot;rtx&quot;,
+        &quot;mimeType&quot;: &quot;video/rtx&quot;,
+        &quot;kind&quot;: &quot;video&quot;,
+        &quot;clockRate&quot;: 90000,
+        &quot;preferredPayloadType&quot;: 102,
+        &quot;parameters&quot;: {
+          &quot;apt&quot;: 101
+        }
+      }
+    ],
+    &quot;headerExtensions&quot;: [
+      {
+        &quot;kind&quot;: &quot;audio&quot;,
+        &quot;uri&quot;: &quot;urn:ietf:params:rtp-hdrext:ssrc-audio-level&quot;,
+        &quot;preferredId&quot;: 1
+      },
+      {
+        &quot;kind&quot;: &quot;video&quot;,
+        &quot;uri&quot;: &quot;urn:ietf:params:rtp-hdrext:toffset&quot;,
+        &quot;preferredId&quot;: 2
+      },
+      {
+        &quot;kind&quot;: &quot;video&quot;,
+        &quot;uri&quot;: &quot;http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time&quot;,
+        &quot;preferredId&quot;: 3
+      },
+      {
+        &quot;kind&quot;: &quot;video&quot;,
+        &quot;uri&quot;: &quot;urn:3gpp:video-orientation&quot;,
+        &quot;preferredId&quot;: 4
+      }
+    ],
+    &quot;fecMechanisms&quot;: []
+  },
+  &quot;appData&quot;: {
+    &quot;displayName&quot;: &quot;Dannie Hazelett&quot;,
+    &quot;device&quot;: {
+      &quot;flag&quot;: &quot;chrome&quot;,
+      &quot;name&quot;: &quot;Chrome&quot;,
+      &quot;version&quot;: &quot;66.0&quot;,
+      &quot;bowser&quot;: {
+        &quot;name&quot;: &quot;Chrome&quot;,
+        &quot;chrome&quot;: true,
+        &quot;version&quot;: &quot;66.0&quot;,
+        &quot;blink&quot;: true,
+        &quot;linux&quot;: true,
+        &quot;osname&quot;: &quot;Linux&quot;,
+        &quot;a&quot;: true
+      }
+    }
+  }
+}
+
+{
+  &quot;method&quot;: &quot;createTransport&quot;,
+  &quot;target&quot;: &quot;peer&quot;,
+  &quot;id&quot;: 81913062,
+  &quot;direction&quot;: &quot;send&quot;,
+  &quot;options&quot;: {
+    &quot;tcp&quot;: false
+  },
+  &quot;appData&quot;: {
+    &quot;media&quot;: &quot;SEND_MIC_WEBCAM&quot;
+  },
+  &quot;dtlsParameters&quot;: {
+    &quot;role&quot;: &quot;server&quot;,
+    &quot;fingerprints&quot;: [
+      {
+        &quot;algorithm&quot;: &quot;sha-256&quot;,
+        &quot;value&quot;: &quot;63:0F:6A:F3:28:4E:19:71:29:F7:7C:33:58:EC:96:B1:A8:ED:71:72:AC:42:41:DD:68:3B:23:8B:A3:A1:6D:75&quot;
+      }
+    ]
+  }
+}
+
+{
+  &quot;method&quot;: &quot;createProducer&quot;,
+  &quot;target&quot;: &quot;peer&quot;,
+  &quot;id&quot;: 61620739,
+  &quot;kind&quot;: &quot;audio&quot;,
+  &quot;transportId&quot;: 21061172,
+  &quot;rtpParameters&quot;: {
+    &quot;muxId&quot;: null,
+    &quot;codecs&quot;: [
+      {
+        &quot;name&quot;: &quot;opus&quot;,
+        &quot;mimeType&quot;: &quot;audio/opus&quot;,
+        &quot;clockRate&quot;: 48000,
+        &quot;payloadType&quot;: 111,
+        &quot;channels&quot;: 2,
+        &quot;rtcpFeedback&quot;: [],
+        &quot;parameters&quot;: {
+          &quot;useinbandfec&quot;: 1
+        }
+      }
+    ],
+    &quot;headerExtensions&quot;: [
+      {
+        &quot;uri&quot;: &quot;urn:ietf:params:rtp-hdrext:ssrc-audio-level&quot;,
+        &quot;id&quot;: 1
+      }
+    ],
+    &quot;encodings&quot;: [
+      {
+        &quot;ssrc&quot;: 1400974011
+      }
+    ],
+    &quot;rtcp&quot;: {
+      &quot;cname&quot;: &quot;CgvkO+Pbv2Wec6sK&quot;,
+      &quot;reducedSize&quot;: true,
+      &quot;mux&quot;: true
+    }
+  },
+  &quot;paused&quot;: false,
+  &quot;appData&quot;: {
+    &quot;source&quot;: &quot;mic&quot;
+  }
+}
+
+{
+  &quot;method&quot;: &quot;createProducer&quot;,
+  &quot;target&quot;: &quot;peer&quot;,
+  &quot;id&quot;: 38177889,
+  &quot;kind&quot;: &quot;video&quot;,
+  &quot;transportId&quot;: 44688837,
+  &quot;rtpParameters&quot;: {
+    &quot;muxId&quot;: null,
+    &quot;codecs&quot;: [
+      {
+        &quot;name&quot;: &quot;VP8&quot;,
+        &quot;mimeType&quot;: &quot;video/VP8&quot;,
+        &quot;clockRate&quot;: 90000,
+        &quot;payloadType&quot;: 96,
+        &quot;rtcpFeedback&quot;: [
+          {
+            &quot;type&quot;: &quot;goog-remb&quot;
+          },
+          {
+            &quot;type&quot;: &quot;ccm&quot;,
+            &quot;parameter&quot;: &quot;fir&quot;
+          },
+          {
+            &quot;type&quot;: &quot;nack&quot;
+          },
+          {
+            &quot;type&quot;: &quot;nack&quot;,
+            &quot;parameter&quot;: &quot;pli&quot;
+          }
+        ],
+        &quot;parameters&quot;: {}
+      },
+      {
+        &quot;name&quot;: &quot;rtx&quot;,
+        &quot;mimeType&quot;: &quot;video/rtx&quot;,
+        &quot;clockRate&quot;: 90000,
+        &quot;payloadType&quot;: 97,
+        &quot;parameters&quot;: {
+          &quot;apt&quot;: 96
+        }
+      }
+    ],
+    &quot;headerExtensions&quot;: [
+      {
+        &quot;uri&quot;: &quot;urn:ietf:params:rtp-hdrext:toffset&quot;,
+        &quot;id&quot;: 2
+      },
+      {
+        &quot;uri&quot;: &quot;http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time&quot;,
+        &quot;id&quot;: 3
+      },
+      {
+        &quot;uri&quot;: &quot;urn:3gpp:video-orientation&quot;,
+        &quot;id&quot;: 4
+      }
+    ],
+    &quot;encodings&quot;: [
+      {
+        &quot;ssrc&quot;: 399793077,
+        &quot;rtx&quot;: {
+          &quot;ssrc&quot;: 1594539490
+        },
+        &quot;profile&quot;: &quot;low&quot;
+      },
+      {
+        &quot;ssrc&quot;: 399793078,
+        &quot;rtx&quot;: {
+          &quot;ssrc&quot;: 1594539491
+        },
+        &quot;profile&quot;: &quot;medium&quot;
+      },
+      {
+        &quot;ssrc&quot;: 399793079,
+        &quot;rtx&quot;: {
+          &quot;ssrc&quot;: 1594539492
+        },
+        &quot;profile&quot;: &quot;high&quot;
+      }
+    ],
+    &quot;rtcp&quot;: {
+      &quot;cname&quot;: &quot;1SAVEC10dt216jEa&quot;,
+      &quot;reducedSize&quot;: true,
+      &quot;mux&quot;: true
+    }
+  },
+  &quot;paused&quot;: false,
+  &quot;appData&quot;: {
+    &quot;source&quot;: &quot;webcam&quot;
+  }
+}</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CSAgLy8gam9pbgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlsZXQgc3R1cyA9IFtdCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJc3R1cy5wdXNoKHN0dSkK</text>
+        <text encoding="base64">CQkJaWYoc3R1cy5maW5kKF9zdHUgPT4gewoJCQkJcmV0dXJuIHN0dS51bmlxdWVVc2VySWQgPT0gX3N0dS51bmlxdWVVc2VySWQKCQkJfSkgIT0gbnVsbCl7CgkJCQljb25zb2xlLmxvZygncmVwZWF0IHVpZCcsIHN0dS51bmlxdWVVc2VySWQpCgkJCX1lbHNlewoJCQkJc3R1cy5wdXNoKHN0dSkKCQkJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
