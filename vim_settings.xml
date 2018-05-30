@@ -16,13 +16,13 @@
       <file name="/a.dummy" timestamp="1526032830015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" timestamp="1527652714823">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" timestamp="1527661786712">
         <mark key="a" line="136" column="15" />
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-        <mark key="^" line="3" column="21" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="204" column="2" />
+        <mark key="]" line="204" column="2" />
+        <mark key="." line="204" column="2" />
+        <mark key="^" line="166" column="20" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1526385073102">
         <mark key="[" line="0" column="0" />
@@ -48,6 +48,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fakeConfig.json" timestamp="1527661845720">
+        <mark key="'" line="7" column="29" />
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="46" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/package.json" timestamp="1526368425920">
         <mark key="[" line="22" column="23" />
@@ -122,12 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
-      <jump line="13" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
-      <jump line="23" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
-      <jump line="71" column="37" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
-      <jump line="72" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
-      <jump line="126" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="10" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="110" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="194" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
@@ -202,7 +203,6 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/list4" />
       <jump line="165" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="8" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fakeConfig.json" />
-      <jump line="7" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fakeConfig.json" />
       <jump line="17" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/list" />
       <jump line="139" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="181" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
@@ -218,74 +218,79 @@
       <jump line="21" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="80" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="185" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="4" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="156" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="2" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="163" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="166" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="1" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fakeConfig.json" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fakeConfig.json" />
+      <jump line="11" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fakeConfig.json" />
+      <jump line="201" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
+      <jump line="7" column="29" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fakeConfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+      <register name="&quot;" type="4">
+        <text>jz0fb467445c134e098a54d9fd76e216d9</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSJjb25jdXJyZW5jeSI6IDUwLAo=</text>
+        <text encoding="base64">CQkiaHR0cDovL3dzNS5kdW9iZWl5dW4uY29tIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text encoding="base64">ewoJImNvbmN1cnJlbmN5IjogNTAsCgkiYXV0aEluZm9Eb21haW4iOiAiYXBpLmR1b2JlaXl1bi5jb20iLAoJInBhcnRuZXIiOiAiMjAxNzA3MTAxODA4NDMzMjQ2NjEiLAoJImFwcEtleSI6ICI5MDUyZmZlNDFlZmM0NWU0OTM5M2I1N2I2OGRjOTY4ZiIsCgkiYWRkcnMiOiBbCgkJImh0dHA6Ly93czUuZHVvYmVpeXVuLmNvbSIsCgkJImh0dHA6Ly93czYuZHVvYmVpeXVuLmNvbSIsCgkJImh0dHA6Ly93czcuZHVvYmVpeXVuLmNvbSIKCV0sCgkicm9vbUlkIjogImp6M2E0YmQxY2NlZjBkNDYzZGFjZmRlZDZiYzkzYzhmODQiCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaWYoYXV0aEluZm8gPT0gbnVsbCl7CgkJCQljb25zb2xlLmxvZygnJykKCQkJCXJldHVybiBudWxsCgkJCX0K</text>
+        <text encoding="base64">CWNvbnN0IGNsaWVudE51bUNoYW5nZSA9IGNsaWVudHMubGVuZ3RoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWNsaWVudC5zb2NrZXQuaW8ucmVjb25uZWN0aW9uKGZhbHNlKQo=</text>
+        <text encoding="base64">CWFkZCA/IG9ubGluZU51bSArPSBjbGllbnROdW1DaGFuZ2UgOiBvbmxpbmVOdW0gLT0gY2xpZW50TnVtQ2hhbmdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWNsaWVudC5zb2NrZXQuaW8ucmVjb25uZWN0aW9uKGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2cobm4rKywgc3R1ICE9IG51bGwpCg==</text>
+        <text encoding="base64">LyoqCiAqIAogKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlsZXQgbm4gPSAxCg==</text>
+        <text encoding="base64">CQkJaWYoYXV0aEluZm8gPT0gbnVsbCl7CgkJCQljb25zb2xlLmxvZygnJykKCQkJCXJldHVybiBudWxsCgkJCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBjb25zdCBzdHVzID0gKGF3YWl0IFByb21pc2UuYWxsKGF3YWl0IGdldFN0dXMobnVtKSkpLmZpbHRlcigoc3R1KSA9PiB7cmV0dXJuIHN0dSAhPSBudWxsfSkKCQkvLyBjb25zdCBnb3RDbGllbnRzID0gc3R1cy5tYXAoKHN0dSkgPT4gewoJCS8vIAlsZXQgY2xpZW50CgkJLy8gCWlmIChhZGRySW5kZXggPT0gYWRkcnMubGVuZ3RoKSB7CgkJLy8gCQlhZGRySW5kZXggPSAwCgkJLy8gCX0KCQkvLyAJY29uc3QgYWRkciA9IGFkZHJzW2FkZHJJbmRleCsrXQoJCS8vIAljbGllbnQgPSBuZXcgQ2xpZW50KGZha2VDb25maWcucm9vbUlkLCBhZGRyLCB7CgkJLy8gCQlpbmZvOiB7CgkJLy8gCQkJdW5pcXVlVXNlcklkOiBzdHUudW5pcXVlVXNlcklkLAoJCS8vIAkJCWFjY2Vzc1Rva2VuOiBzdHUuYWNjZXNzVG9rZW4sCgkJLy8gCQkJbmlja25hbWU6IHN0dS5uaWNrbmFtZSwKCQkvLyAJCX0sCgkJLy8gCQljdXN0b21Sb29tOiB0cnVlLAoJCS8vIAkJY3VzdG9tQWRkcjogdHJ1ZSwKCQkvLyAJfSkKCQkvLyAJY2xpZW50cy5wdXNoKGNsaWVudCkKCQkvLyAJcmV0dXJuIGNsaWVudAoJCS8vIH0pCg==</text>
+        <text encoding="base64">CQkJCWNsaWVudC5zb2NrZXQuaW8ucmVjb25uZWN0aW9uKGZhbHNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWlmICgtLV9udW0gPT0gMCkgewoJCQkJCWJyZWFrCgkJCQl9Cg==</text>
+        <text encoding="base64">CQkJCWNsaWVudC5zb2NrZXQuaW8ucmVjb25uZWN0aW9uKGZhbHNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsZXQgbm4gPSAxIC8vIFRPRE8K</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2cobm4rKywgc3R1ICE9IG51bGwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>5</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>5</last-pattern>
       <last-replace>remainNum</last-replace>
       <last-substitute>num</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>wa</entry>
         <entry>808</entry>
         <entry>e</entry>
         <entry encoding="base64">Pj4=</entry>
         <entry>list</entry>
         <entry>num</entry>
         <entry>lo</entry>
-        <entry>5</entry>
         <entry>Dawn Chan</entry>
         <entry>Pro</entry>
         <entry>map</entry>
@@ -298,9 +303,10 @@
         <entry>60</entry>
         <entry>50</entry>
         <entry>get</entry>
+        <entry>onlineN</entry>
+        <entry>5</entry>
       </history-search>
       <history-cmd>
-        <entry>860</entry>
         <entry>866</entry>
         <entry>911</entry>
         <entry>746</entry>
@@ -319,6 +325,7 @@
         <entry>q</entry>
         <entry>+15</entry>
         <entry>W</entry>
+        <entry>-22</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
