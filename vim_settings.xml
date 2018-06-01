@@ -20,6 +20,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/mediasoup/.gitignore" timestamp="1527833618511">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1526032830015">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,14 +93,20 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527671266896">
-        <mark key="[" line="0" column="17" />
+      <file name="/Dummy.txt" timestamp="1527833625015">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="22" />
       </file>
       <file name="internal/child_process.js" timestamp="1526538168740">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Producer.js" timestamp="1527833300116">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="25" column="17" />
+        <mark key="^" line="25" column="17" />
+        <mark key="." line="25" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1527668690342">
         <mark key="[" line="0" column="0" />
@@ -106,8 +118,12 @@
         <mark key="^" line="133" column="27" />
         <mark key="." line="133" column="27" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" timestamp="1527825491521">
-        <mark key="[" line="922" column="3" />
+      <file name="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" timestamp="1527833585598">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="862" column="20" />
+        <mark key="]" line="862" column="25" />
+        <mark key="^" line="862" column="25" />
+        <mark key="." line="862" column="25" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fakeConfig.json" timestamp="1527664143342">
         <mark key="'" line="7" column="29" />
@@ -170,9 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
-      <jump line="98" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
-      <jump line="85" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="107" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="97" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
       <jump line="100" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/fake.js" />
@@ -270,43 +283,46 @@
       <jump line="387" column="2" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
       <jump line="373" column="72" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
       <jump line="375" column="13" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
+      <jump line="829" column="78" filename="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" />
+      <jump line="832" column="44" filename="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" />
+      <jump line="15" column="0" filename="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcXVlcnk6IHt1aWR9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>streamId</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>streamId</text>
       </register>
       <register name="/" type="4">
-        <text>mediapeer.peer</text>
+        <text>stream</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCWxvZ2dlci5kZWJ1ZygnbWVkaWFzb3VwLWNsaWVudCByZXF1ZXN0LCBwZWVyTmFtZScsIG1lZGlhUGVlci5wZWVyTmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcXVlcnk6IHt1aWR9LAo=</text>
+        <text encoding="base64">CQkJcHJvZHVjZXJJZCAgOiBpZCB8fCB1dGlscy5yYW5kb21OdW1iZXIoKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb25zdCBxdWVyeVN0ciA9IGxvY2F0aW9uLnNlYXJjaAoJCWNvbnN0IGVuZCA9IHF1ZXJ5U3RyLmluZGV4T2YoJyYnLCBxdWVyeVN0ci5pbmRleE9mKCd1aWQnKSkKCQljb25zdCB1aWQgPSBxdWVyeVN0ci5zbGljZShxdWVyeVN0ci5pbmRleE9mKCd1aWQnKSArIDQsIGVuZCA9PSAtMSA/IHVuZGVmaW5lZCA6IGVuZCkK</text>
+        <text encoding="base64">CQkJcXVlcnk6IHt1aWR9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljb25zdCBlbmQgPSBxdWVyeVN0ci5pbmRleE9mKCcmJywgcXVlcnlTdHIuaW5kZXhPZigndWlkJykpCgkJY29uc3QgdWlkID0gcXVlcnlTdHIuc2xpY2UocXVlcnlTdHIuaW5kZXhPZigndWlkJykgKyA0LCBlbmQgPT0gLTEgPyB1bmRlZmluZWQgOiBlbmQpCg==</text>
+        <text encoding="base64">CQljb25zdCBxdWVyeVN0ciA9IGxvY2F0aW9uLnNlYXJjaAoJCWNvbnN0IGVuZCA9IHF1ZXJ5U3RyLmluZGV4T2YoJyYnLCBxdWVyeVN0ci5pbmRleE9mKCd1aWQnKSkKCQljb25zdCB1aWQgPSBxdWVyeVN0ci5zbGljZShxdWVyeVN0ci5pbmRleE9mKCd1aWQnKSArIDQsIGVuZCA9PSAtMSA/IHVuZGVmaW5lZCA6IGVuZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJaWYoZW5kID09IC0xKXsKCQkJZW5kID0gCgkJCX0K</text>
+        <text encoding="base64">CQljb25zdCBlbmQgPSBxdWVyeVN0ci5pbmRleE9mKCcmJywgcXVlcnlTdHIuaW5kZXhPZigndWlkJykpCgkJY29uc3QgdWlkID0gcXVlcnlTdHIuc2xpY2UocXVlcnlTdHIuaW5kZXhPZigndWlkJykgKyA0LCBlbmQgPT0gLTEgPyB1bmRlZmluZWQgOiBlbmQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlyZXF1ZXN0LmFwcERhdGEuc3RyZWFtSWQgPSBzb2NrZXQuaWQK</text>
+        <text encoding="base64">CQkJaWYoZW5kID09IC0xKXsKCQkJZW5kID0gCgkJCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJc3RyZWFtSWQ6IAo=</text>
+        <text encoding="base64">CQkJCQlyZXF1ZXN0LmFwcERhdGEuc3RyZWFtSWQgPSBzb2NrZXQuaWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJc3RyZWFtSWQ6IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkJCQkK</text>
@@ -316,9 +332,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mediapeer.peer</last-search>
+      <last-search>stream</last-search>
       <last-offset />
-      <last-pattern>mediapeer.peer</last-pattern>
+      <last-pattern>stream</last-pattern>
       <last-replace>remainNum</last-replace>
       <last-substitute>num</last-substitute>
       <last-dir>1</last-dir>
@@ -326,9 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nn</entry>
-        <entry>nnn</entry>
-        <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry>60</entry>
         <entry>50</entry>
         <entry>get</entry>
@@ -346,6 +359,9 @@
         <entry>re</entry>
         <entry>pee</entry>
         <entry>mediapeer.peer</entry>
+        <entry>st</entry>
+        <entry>id</entry>
+        <entry>stream</entry>
       </history-search>
       <history-cmd>
         <entry>866</entry>
