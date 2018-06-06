@@ -47,7 +47,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/utils/token.js" timestamp="1528274392334" />
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo-my/app/lib/RoomClient.js" timestamp="1528103502396">
         <mark key="'" line="613" column="14" />
         <mark key="[" line="643" column="1" />
@@ -122,12 +121,12 @@
         <mark key="^" line="827" column="39" />
         <mark key="." line="870" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" timestamp="1528274707089">
-        <mark key="'" line="7" column="21" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="^" line="84" column="33" />
-        <mark key="." line="84" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" timestamp="1528279611565">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="57" column="10" />
+        <mark key="]" line="58" column="9" />
+        <mark key="." line="58" column="9" />
+        <mark key="^" line="58" column="9" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/package.json" timestamp="1526368425920">
         <mark key="[" line="22" column="23" />
@@ -182,11 +181,11 @@
         <mark key="^" line="622" column="31" />
         <mark key="." line="622" column="31" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/start.sh" timestamp="1528274647946">
-        <mark key="[" line="4" column="44" />
-        <mark key="]" line="4" column="60" />
-        <mark key="^" line="4" column="60" />
-        <mark key="." line="4" column="60" />
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/start.sh" timestamp="1528274789706">
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="4" column="68" />
+        <mark key="^" line="4" column="68" />
+        <mark key="." line="4" column="68" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1528268885619">
         <mark key="[" line="97" column="0" />
@@ -289,7 +288,7 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528274733729">
+      <file name="/Dummy.txt" timestamp="1528279672237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -320,8 +319,8 @@
         <mark key="." line="73" column="13" />
         <mark key="^" line="73" column="13" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/bin/www" timestamp="1528274562682">
-        <mark key="[" line="3" column="38" />
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/bin/www" timestamp="1528274879732">
+        <mark key="[" line="4" column="0" />
         <mark key="]" line="3" column="51" />
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="64" />
@@ -367,7 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" />
       <jump line="751" column="80" filename="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" />
       <jump line="377" column="42" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
       <jump line="89" column="4" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
@@ -467,56 +465,56 @@
       <jump line="66" column="6" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
       <jump line="7" column="21" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
       <jump line="8" column="51" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" />
+      <jump line="17" column="0" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>添加基站重连逻辑，并更新主动断开逻辑</text>
+        <text>现在可以配置 webServerAddr</text>
       </register>
       <register name="-" type="4">
-        <text>添加基站重连逻辑，并更新主动断开逻辑</text>
+        <text>现在可以配置 webServerAddr</text>
       </register>
       <register name="/" type="4">
-        <text>fail</text>
+        <text>getusers</text>
       </register>
       <register name="0" type="4">
         <text>webServerAddr</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHN0YXJ0Q2xhc3MoKQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8g6YeN6K+VCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7cmVhbE5hbWV9ID0gdGhpcy5rZXlTTl91c2VybmFtZVtrZXlTTl0KICAgICAgICB0aGlzLnNldE5hbWUoa2V5U04sIHJlYWxOYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmdldFVzZXJzKHRhcmdldFJvb21JZCkudGhlbigoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nZXRVc2Vycyh0YXJnZXRSb29tSWQpLnRoZW4oKHVzZXJzKSA9PiB7CiAgICAgICAgbG9nZ2VyLmluZm8oe3VzZXJzfSwgJ2dldFVzZXJzIHJlc3VsdCcpCiAgICAgICAgcmV0dXJuIHZvdGVEZXZpY2VTZXJ2aWNlLnN0YXJ0Q2xhc3ModXNlcnMsIGlzU2FtZVJvb20pCiAgICAgIH0pLmNhdGNoKChlKSA9PiB7CiAgICAgICAgbG9nZ2VyLmVycm9yKGUsICdnZXRVc2VycyBmYWlsJykKICAgICAgICAvLyBUT0RPIOmHjeivlQogICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">emVyb21xQF40LjUuMDoKICB2ZXJzaW9uICI0LjUuMCIKICByZXNvbHZlZCAiaHR0cDovLzE5Mi4xNjguMC4xMTM6NDg3My96ZXJvbXEvLS96ZXJvbXEtNC41LjAudGd6IzdiMWNhMTljZjc0MGY0ODRhYmZiOTM1ODQzMDcyOGYxMzM5ZjAzZGIiCiAgZGVwZW5kZW5jaWVzOgogICAgbmFuICJeMi42LjIiCiAgICBwcmVidWlsZC1pbnN0YWxsICJeMi4yLjIiCg==</text>
+        <text encoding="base64">ICAgICAgZ2V0Um9vbVVzZXJzLnRoZW4oKCkpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>优化互踢逻辑，现在在鉴权通过后踢出。
-修复小 bug</text>
+        <text encoding="base64">KCkgPT4gewogICAgICAgIAogICAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHNvY2tldC5zZXRzb2Nrb3B0KHptcS5aTVFfVENQX0tFRVBBTElWRSwgMSk7CiAgICBzb2NrZXQuc2V0c29ja29wdCh6bXEuWk1RX1RDUF9LRUVQQUxJVkVfQ05ULCA1KTsKICAgIHNvY2tldC5zZXRzb2Nrb3B0KHptcS5aTVFfVENQX0tFRVBBTElWRV9JTlRWTCwgNSk7IC8vIOWNleS9jeenkgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgY29uc3QgZ2V0Um9vbVVzZXJzID0gKCkgPT4gewogICAgICAgIAogICAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNvY2tldC5jb25uZWN0KGFkZHIpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cod2ViU2VydmVyQWRkcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fail</last-search>
+      <last-search>getusers</last-search>
       <last-offset />
-      <last-pattern>fail</last-pattern>
+      <last-pattern>getusers</last-pattern>
       <last-replace>remainNum</last-replace>
       <last-substitute>num</last-substitute>
       <last-dir>1</last-dir>
@@ -524,7 +522,6 @@
     </search>
     <history>
       <history-search>
-        <entry>My</entry>
         <entry>MyP</entry>
         <entry>coinst</entry>
         <entry>producer</entry>
@@ -544,6 +541,7 @@
         <entry>6</entry>
         <entry>zwt</entry>
         <entry>fail</entry>
+        <entry>getusers</entry>
       </history-search>
       <history-cmd>
         <entry>-37</entry>
