@@ -111,6 +111,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/package.json" timestamp="1526368425920">
         <mark key="[" line="22" column="23" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-edge-nodejs/src/service/index.js" timestamp="1528261313275">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/app/lib/urlFactory.js" timestamp="1527836375388">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="39" />
@@ -232,12 +238,6 @@
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1528254753668">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="internal/child_process.js" timestamp="1526538168740">
         <mark key="[" line="0" column="0" />
@@ -401,8 +401,8 @@
       <jump line="42" column="0" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>现在重启时重新设置一遍答题器名字，以免之前设置失败</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmVxdWlyZSgnLi4vdXRpbHMvaGVhcGR1bXAnKQo=</text>
       </register>
       <register name="-" type="4">
         <text>现在重启时重新设置一遍答题器名字，以免之前设置失败</text>
