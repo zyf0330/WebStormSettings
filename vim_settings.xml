@@ -241,10 +241,13 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="/JavaScript Console" timestamp="1528341777483">
+      <file name="/JavaScript Console" timestamp="1528346717070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/yarn.lock" timestamp="1528342831344" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/yarn.lock" timestamp="1528342980998">
+        <mark key="[" line="991" column="20" />
+        <mark key="]" line="991" column="39" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" timestamp="1527836487892">
         <mark key="'" line="397" column="52" />
         <mark key="[" line="406" column="0" />
@@ -299,11 +302,11 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528342045075">
+      <file name="/Dummy.txt" timestamp="1528342882718">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="6" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="internal/child_process.js" timestamp="1526538168740">
         <mark key="[" line="0" column="0" />
@@ -336,10 +339,12 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="64" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" timestamp="1528339634648">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" timestamp="1528346705690">
+        <mark key="'" line="75" column="49" />
+        <mark key="[" line="75" column="26" />
+        <mark key="]" line="75" column="26" />
+        <mark key="." line="75" column="26" />
+        <mark key="^" line="75" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1528083286787">
         <mark key="'" line="291" column="23" />
@@ -376,7 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="4" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
       <jump line="178" column="54" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
       <jump line="187" column="20" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
       <jump line="196" column="54" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
@@ -476,16 +480,17 @@
       <jump line="17" column="0" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
       <jump line="80" column="25" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="60" column="14" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="75" column="49" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgc29ja2V0Lm9uKCdkaXNjb25uZWN0JywgKCkgPT4gewogICAgICBjb25zdCBhdWRpdG9yID0gYXVkaXRvcnNbc29ja2V0SWRdCiAgICAgIGlmIChhdWRpdG9yID09IG51bGwpIHsKICAgICAgICByZXR1cm4KICAgICAgfQoKICAgICAgdG9nZ2xlTXNnQXVkaXQoc29ja2V0LCBmYWxzZSkKICAgICAgZGVsZXRlIGF1ZGl0b3JzW3NvY2tldElkXQoKICAgICAgY29uc3Qgcm9vbUlkID0gYXVkaXRvci5yb29tSWQKICAgICAgaWYgKHJvb21zW3Jvb21JZF0ub25saW5lQXVkaXRvcnMubGVuZ3RoID09IDApIHsKICAgICAgICBkZWxldGUgcm9vbXNbcm9vbUlkXQogICAgICB9CiAgICB9KQo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>clear</text>
+        <text>http</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc2VuZE1lc3NhZ2UoJ3N0b3BBdWRpdCcsIHtyb29tSWR9KQo=</text>
@@ -522,17 +527,16 @@
       </register>
     </registers>
     <search>
-      <last-search>clear</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern>clear</last-pattern>
+      <last-pattern>http</last-pattern>
       <last-replace>remainNum</last-replace>
       <last-substitute>num</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>producer</entry>
         <entry>_addCon</entry>
         <entry>receive</entry>
         <entry>my</entry>
@@ -552,6 +556,7 @@
         <entry>getusers</entry>
         <entry>enter</entry>
         <entry>clear</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
         <entry>-37</entry>
