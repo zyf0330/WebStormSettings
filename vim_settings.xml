@@ -288,11 +288,11 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528279672237">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1528279727064">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="internal/child_process.js" timestamp="1526538168740">
         <mark key="[" line="0" column="0" />
@@ -469,10 +469,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>现在可以配置 webServerAddr</text>
+        <text>现在</text>
       </register>
       <register name="-" type="4">
-        <text>现在可以配置 webServerAddr</text>
+        <text>现在</text>
       </register>
       <register name="/" type="4">
         <text>getusers</text>
