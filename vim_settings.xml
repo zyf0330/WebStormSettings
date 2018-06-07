@@ -76,7 +76,7 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1528270729495">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1528340736684">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
@@ -95,8 +95,8 @@
         <mark key="." line="886" column="3" />
         <mark key="^" line="886" column="3" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" timestamp="1528271549771">
-        <mark key="[" line="15" column="18" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" timestamp="1528339308195">
+        <mark key="[" line="18" column="0" />
         <mark key="]" line="15" column="18" />
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
@@ -187,11 +187,12 @@
         <mark key="^" line="4" column="68" />
         <mark key="." line="4" column="68" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1528268885619">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-        <mark key="^" line="96" column="16" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1528340837847">
+        <mark key="'" line="80" column="25" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="94" column="20" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup/.gitignore" timestamp="1527833618511">
         <mark key="[" line="0" column="0" />
@@ -231,7 +232,7 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="/JavaScript Console" timestamp="1528271450536">
+      <file name="/JavaScript Console" timestamp="1528340615142">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" timestamp="1527836487892">
@@ -288,8 +289,8 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528279727064">
-        <mark key="[" line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1528340558309">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -325,11 +326,10 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="64" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" timestamp="1528268975742">
-        <mark key="[" line="74" column="28" />
-        <mark key="]" line="74" column="54" />
-        <mark key="^" line="74" column="54" />
-        <mark key="." line="74" column="54" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" timestamp="1528339634648">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1528083286787">
         <mark key="'" line="291" column="23" />
@@ -366,7 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="751" column="80" filename="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" />
       <jump line="377" column="42" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
       <jump line="89" column="4" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
       <jump line="178" column="54" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
@@ -466,55 +465,56 @@
       <jump line="7" column="21" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
       <jump line="8" column="51" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" />
       <jump line="17" column="0" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/service.js" />
+      <jump line="80" column="25" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>现在</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZW50ZXJSb29tOiB0cnVlLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>现在</text>
+        <text encoding="base64">IHx8ICFhdWRpdG9yLmVudGVyUm9vbQ==</text>
       </register>
       <register name="/" type="4">
-        <text>getusers</text>
+        <text>enter</text>
       </register>
       <register name="0" type="4">
         <text>webServerAddr</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZW50ZXJSb29tOiB0cnVlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0Q2xhc3MoKQo=</text>
+        <text encoding="base64">ICAgIGF1ZGl0b3IuZW50ZXJSb29tID0gdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8g6YeN6K+VCg==</text>
+        <text encoding="base64">ICAgICAgICBzZW5kTWVzc2FnZSgnc3RvcEF1ZGl0Jywge3Jvb21JZH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmdldFVzZXJzKHRhcmdldFJvb21JZCkudGhlbigoKSkK</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGUgcm9vbXNbcm9vbUlkXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nZXRVc2Vycyh0YXJnZXRSb29tSWQpLnRoZW4oKHVzZXJzKSA9PiB7CiAgICAgICAgbG9nZ2VyLmluZm8oe3VzZXJzfSwgJ2dldFVzZXJzIHJlc3VsdCcpCiAgICAgICAgcmV0dXJuIHZvdGVEZXZpY2VTZXJ2aWNlLnN0YXJ0Q2xhc3ModXNlcnMsIGlzU2FtZVJvb20pCiAgICAgIH0pLmNhdGNoKChlKSA9PiB7CiAgICAgICAgbG9nZ2VyLmVycm9yKGUsICdnZXRVc2VycyBmYWlsJykKICAgICAgICAvLyBUT0RPIOmHjeivlQogICAgICB9KQo=</text>
+        <text encoding="base64">CiAgc29ja2V0Lm9uKCdkaXNjb25uZWN0JywgKCkgPT4gewogICAgY29uc3QgYXVkaXRvciA9IGF1ZGl0b3JzW3NvY2tldElkXQogICAgaWYgKGF1ZGl0b3IgPT0gbnVsbCB8fCAhYXVkaXRvci5lbnRlclJvb20pIHsKICAgICAgcmV0dXJuCiAgICB9CgogICAgdG9nZ2xlTXNnQXVkaXQoc29ja2V0LCBmYWxzZSkKICAgIGRlbGV0ZSBhdWRpdG9yc1tzb2NrZXRJZF0KCiAgICBjb25zdCByb29tSWQgPSBhdWRpdG9yLnJvb21JZAogICAgaWYgKHJvb21zW3Jvb21JZF0ub25saW5lQXVkaXRvcnMubGVuZ3RoID09IDApIHsKICAgICAgc2VuZE1lc3NhZ2UoJ3N0b3BBdWRpdCcsIHtyb29tSWR9KQogICAgICBkZWxldGUgcm9vbXNbcm9vbUlkXQogICAgfQogIH0pCgogIGNvbnN0IGF1ZGl0b3IgPSBhdWRpdG9yc1tzb2NrZXRJZF0gPSB7CiAgICBlbnRlclJvb206IGZhbHNlLAogICAgdWlkOiB1aWQsCiAgICByb29tSWQ6IHJvb21JZCwKICAgIHdhaXRGb3JBdXRoOiBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgc29ja2V0LmRpc2Nvbm5lY3QoKQogICAgfSwgMTAgKiAxMDAwKSwKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZ2V0Um9vbVVzZXJzLnRoZW4oKCkpCg==</text>
+        <text encoding="base64">CiAgc29ja2V0Lm9uKCdkaXNjb25uZWN0JywgKCkgPT4gewogICAgY29uc3QgYXVkaXRvciA9IGF1ZGl0b3JzW3NvY2tldElkXQogICAgaWYgKGF1ZGl0b3IgPT0gbnVsbCB8fCAhYXVkaXRvci5lbnRlclJvb20pIHsKICAgICAgcmV0dXJuCiAgICB9CgogICAgdG9nZ2xlTXNnQXVkaXQoc29ja2V0LCBmYWxzZSkKICAgIGRlbGV0ZSBhdWRpdG9yc1tzb2NrZXRJZF0KCiAgICBjb25zdCByb29tSWQgPSBhdWRpdG9yLnJvb21JZAogICAgaWYgKHJvb21zW3Jvb21JZF0ub25saW5lQXVkaXRvcnMubGVuZ3RoID09IDApIHsKICAgICAgc2VuZE1lc3NhZ2UoJ3N0b3BBdWRpdCcsIHtyb29tSWR9KQogICAgICBkZWxldGUgcm9vbXNbcm9vbUlkXQogICAgfQogIH0pCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICAgIAogICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzb2NrZXQub24oJ2Rpc2Nvbm5lY3QnLCAoKSA9PiB7CiAgICBjb25zdCBhdWRpdG9yID0gYXVkaXRvcnNbc29ja2V0SWRdCiAgICBpZiAoYXVkaXRvciA9PSBudWxsIHx8ICFhdWRpdG9yLmVudGVyUm9vbSkgewogICAgICByZXR1cm4KICAgIH0KCiAgICB0b2dnbGVNc2dBdWRpdChzb2NrZXQsIGZhbHNlKQogICAgZGVsZXRlIGF1ZGl0b3JzW3NvY2tldElkXQoKICAgIGNvbnN0IHJvb21JZCA9IGF1ZGl0b3Iucm9vbUlkCiAgICBpZiAocm9vbXNbcm9vbUlkXS5vbmxpbmVBdWRpdG9ycy5sZW5ndGggPT0gMCkgewogICAgICBzZW5kTWVzc2FnZSgnc3RvcEF1ZGl0Jywge3Jvb21JZH0pCiAgICAgIGRlbGV0ZSByb29tc1tyb29tSWRdCiAgICB9CiAgfSkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgY29uc3QgZ2V0Um9vbVVzZXJzID0gKCkgPT4gewogICAgICAgIAogICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZW50ZXJSb29tJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cod2ViU2VydmVyQWRkcikK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getusers</last-search>
+      <last-search>enter</last-search>
       <last-offset />
-      <last-pattern>getusers</last-pattern>
+      <last-pattern>enter</last-pattern>
       <last-replace>remainNum</last-replace>
       <last-substitute>num</last-substitute>
       <last-dir>1</last-dir>
@@ -522,7 +522,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MyP</entry>
         <entry>coinst</entry>
         <entry>producer</entry>
         <entry>_addCon</entry>
@@ -542,6 +541,7 @@
         <entry>zwt</entry>
         <entry>fail</entry>
         <entry>getusers</entry>
+        <entry>enter</entry>
       </history-search>
       <history-cmd>
         <entry>-37</entry>
