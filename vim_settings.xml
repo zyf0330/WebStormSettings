@@ -94,6 +94,20 @@
         <mark key="." line="24" column="50" />
         <mark key="^" line="24" column="50" />
       </file>
+      <file name="$USER_HOME$/Desktop/test/python/greeter_server.py" timestamp="1528700412828">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="43" column="58" />
+        <mark key="." line="43" column="40" />
+        <mark key="^" line="43" column="38" />
+      </file>
+      <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1528701021289">
+        <mark key="'" line="20" column="29" />
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="61" />
+        <mark key="." line="17" column="61" />
+        <mark key="^" line="17" column="61" />
+      </file>
       <file name="/worker.js" timestamp="1528341635060">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="39" />
@@ -312,11 +326,18 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/test/python/helloworld/greeter_server.py" timestamp="1528699640520">
-        <mark key="[" line="36" column="35" />
-        <mark key="]" line="36" column="38" />
-        <mark key="^" line="36" column="38" />
-        <mark key="." line="36" column="38" />
+      <file name="$USER_HOME$/Desktop/test/python/helloworld/greeter_server.py" timestamp="1528699947783">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="37" column="66" />
+        <mark key="]" line="37" column="65" />
+        <mark key="^" line="37" column="65" />
+        <mark key="." line="37" column="65" />
+      </file>
+      <file name="$USER_HOME$/Desktop/test/python/greeter_client.py" timestamp="1528700902033">
+        <mark key="'" line="28" column="37" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1528352152675">
         <mark key="[" line="0" column="0" />
@@ -362,6 +383,11 @@
         <mark key="." line="75" column="26" />
         <mark key="^" line="75" column="26" />
       </file>
+      <file name="$USER_HOME$/Desktop/test/server.js" timestamp="1528700923367">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1528083286787">
         <mark key="'" line="291" column="23" />
         <mark key="[" line="297" column="19" />
@@ -397,18 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="54" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
-      <jump line="187" column="20" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
-      <jump line="196" column="54" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
-      <jump line="340" column="12" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
-      <jump line="362" column="56" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
-      <jump line="397" column="52" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" />
-      <jump line="56" column="4" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/app/lib/RoomClient.js" />
-      <jump line="57" column="13" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/app/lib/RoomClient.js" />
-      <jump line="106" column="19" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/server.js" />
-      <jump line="33" column="3" filename="/media/zyf/data/Programming/project/duobei/mediasoup/lib/MyProducer.js" />
-      <jump line="9" column="39" filename="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" />
-      <jump line="847" column="17" filename="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" />
       <jump line="853" column="3" filename="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" />
       <jump line="855" column="4" filename="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" />
       <jump line="870" column="16" filename="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" />
@@ -497,82 +511,94 @@
       <jump line="80" column="25" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="60" column="14" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="75" column="49" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
+      <jump line="37" column="4" filename="$USER_HOME$/Desktop/test/python/helloworld/greeter_server.py" />
+      <jump line="25" column="3" filename="$USER_HOME$/Desktop/test/python/greeter_client.py" />
+      <jump line="38" column="3" filename="$USER_HOME$/Desktop/test/python/greeter_server.py" />
+      <jump line="37" column="6" filename="$USER_HOME$/Desktop/test/python/greeter_server.py" />
+      <jump line="39" column="17" filename="$USER_HOME$/Desktop/test/python/greeter_server.py" />
+      <jump line="34" column="8" filename="$USER_HOME$/Desktop/test/python/greeter_client.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/Desktop/test/python/greeter_client.py" />
+      <jump line="29" column="12" filename="$USER_HOME$/Desktop/test/python/greeter_client.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/Desktop/test/python/greeter_client.py" />
+      <jump line="30" column="4" filename="$USER_HOME$/Desktop/test/python/greeter_client.py" />
+      <jump line="28" column="37" filename="$USER_HOME$/Desktop/test/python/greeter_client.py" />
+      <jump line="20" column="29" filename="$USER_HOME$/Desktop/test/client.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>50051</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="-" type="4">
-        <text>50051</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text>127</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VuZE1lc3NhZ2UoJ3N0b3BBdWRpdCcsIHtyb29tSWR9KQo=</text>
+        <text encoding="base64">ICAgIGNoYW5uZWwgPSBncnBjLnNlY3VyZV9jaGFubmVsKCdsb2NhbGhvc3Q6OTk5OCcsIGNyZWRlbnRpYWxzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgc29ja2V0Lm9uKCdkaXNjb25uZWN0JywgKCkgPT4gewogICAgICBjb25zdCBhdWRpdG9yID0gYXVkaXRvcnNbc29ja2V0SWRdCiAgICAgIGlmIChhdWRpdG9yID09IG51bGwpIHsKICAgICAgICByZXR1cm4KICAgICAgfQoKICAgICAgdG9nZ2xlTXNnQXVkaXQoc29ja2V0LCBmYWxzZSkKICAgICAgZGVsZXRlIGF1ZGl0b3JzW3NvY2tldElkXQoKICAgICAgY29uc3Qgcm9vbUlkID0gYXVkaXRvci5yb29tSWQKICAgICAgaWYgKHJvb21zW3Jvb21JZF0ub25saW5lQXVkaXRvcnMubGVuZ3RoID09IDApIHsKICAgICAgICBkZWxldGUgcm9vbXNbcm9vbUlkXQogICAgICB9CiAgICB9KQo=</text>
+        <text encoding="base64">Z3JwY1NlcnZlci5iaW5kKCcwLjAuMC4wOjk5OTgnLCBjcmVkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5sb2cocm9vbUlkLCAnYXV0aFN1Y2Nlc3MnLCB1aWQpCg==</text>
+        <text encoding="base64">Y29uc3QgY3JlZCA9IGdycGMuU2VydmVyQ3JlZGVudGlhbHMuY3JlYXRlSW5zZWN1cmUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1ZGl0b3JzW3NvY2tldElkXSA9IHsKICAgICAgdWlkOiB1aWQsCiAgICAgIHJvb21JZDogcm9vbUlkLAogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsZWFyVGltZW91dCh3YWl0Rm9yQXV0aCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kTWVzc2FnZSgnc3RvcEF1ZGl0Jywge3Jvb21JZH0pCg==</text>
+        <text encoding="base64">ICAgICMgY3JlZGVudGlhbHMgPSBncnBjLnNzbF9jaGFubmVsX2NyZWRlbnRpYWxzKG9wZW4oJy4uL3NlcnZlci1jZXJ0LnBlbScpLnJlYWQoKSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1ZGl0b3IuZW50ZXJSb29tID0gdHJ1ZQo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">IyAKIyAKIyA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW50ZXJSb29tOiBmYWxzZSwK</text>
+      <register name="7" type="8">
+        <text encoding="base64">IyAKIyAKIyA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgY2hhbm5lbCA9IGdycGMuc2VjdXJlX2NoYW5uZWwoJ3t9Ont9Jy5mb3JtYXQoJ2xvY2FsaG9zdCcsIDk5OTgpLCBjcmVkZW50aWFscykK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">IyAKIyA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search>127</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern>127</last-pattern>
       <last-replace>remainNum</last-replace>
       <last-substitute>num</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_addCon</entry>
-        <entry>receive</entry>
-        <entry>my</entry>
-        <entry>room</entry>
-        <entry>pr</entry>
-        <entry>myP</entry>
-        <entry>vi</entry>
-        <entry>pro</entry>
-        <entry>fo</entry>
-        <entry>set</entry>
-        <entry>connect</entry>
-        <entry>disconnect</entry>
-        <entry>startclass</entry>
-        <entry>6</entry>
-        <entry>zwt</entry>
         <entry>fail</entry>
         <entry>getusers</entry>
         <entry>enter</entry>
         <entry>clear</entry>
         <entry>http</entry>
+        <entry>.</entry>
+        <entry>\.</entry>
+        <entry>my</entry>
+        <entry>in</entry>
+        <entry>ser</entry>
+        <entry>rb</entry>
+        <entry>op</entry>
+        <entry>server.</entry>
+        <entry>host</entry>
+        <entry>9999</entry>
+        <entry>cred</entry>
+        <entry>cre</entry>
+        <entry>root</entry>
+        <entry>re</entry>
+        <entry>127</entry>
       </history-search>
       <history-cmd>
         <entry>-37</entry>
