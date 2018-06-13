@@ -119,6 +119,13 @@
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="39" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" timestamp="1528855599791">
+        <mark key="'" line="53" column="8" />
+        <mark key="[" line="53" column="42" />
+        <mark key="]" line="53" column="51" />
+        <mark key="." line="53" column="51" />
+        <mark key="^" line="53" column="51" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" timestamp="1528103372866">
         <mark key="'" line="858" column="0" />
         <mark key="[" line="885" column="28" />
@@ -196,11 +203,6 @@
         <mark key="^" line="67" column="43" />
         <mark key="." line="67" column="43" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" timestamp="1528265865958">
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/config.js" timestamp="1528270118666">
         <mark key="[" line="26" column="2" />
         <mark key="]" line="26" column="11" />
@@ -217,11 +219,6 @@
         <mark key="]" line="4" column="68" />
         <mark key="^" line="4" column="68" />
         <mark key="." line="4" column="68" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/.npmrc" timestamp="1528342684182">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1528341987824">
         <mark key="'" line="60" column="14" />
@@ -353,7 +350,6 @@
         <mark key="." line="29" column="48" />
         <mark key="^" line="29" column="48" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/src/services.js" timestamp="1528793897701" />
       <file name="/Dummy.txt" timestamp="1528707633136">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -438,7 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="/media/zyf/data/Programming/project/duobei/mediasoup/lib/MyProducer.js" />
       <jump line="63" column="23" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo-my/app/lib/RoomClient.js" />
       <jump line="31" column="14" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo-my/app/lib/RoomClient.js" />
       <jump line="54" column="10" filename="/media/zyf/data/Programming/project/duobei/mediasoup-demo-my/app/lib/RoomClient.js" />
@@ -538,19 +533,20 @@
       <jump line="57" column="0" filename="$USER_HOME$/Desktop/test/server.go" />
       <jump line="56" column="0" filename="$USER_HOME$/Desktop/test/client.go" />
       <jump line="24" column="4" filename="$USER_HOME$/Desktop/test/python/greeter_client.py" />
+      <jump line="53" column="8" filename="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/registerService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Disconnected</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>Disconnected</text>
       </register>
       <register name="/" type="4">
-        <text>9999</text>
+        <text>Dis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWwgPSBncnBjLnNlY3VyZV9jaGFubmVsKCdsb2NhbGhvc3Q6OTk5OCcsIGNyZWRlbnRpYWxzKQo=</text>
+        <text encoding="base64">ICAgICAgICB7bmFtZTogJ2Nvbm5lY3RCZWdpbicsIGZyb206IHJzc2UuRGlzY29ubmVjdGVkLCB0bzogcnNzZS5Db25uZWN0aW5nfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIAo=</text>
@@ -580,13 +576,13 @@
         <text encoding="base64">IyAKIyAKIyA=</text>
       </register>
       <register name=":" type="4">
-        <text>50</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>9999</last-search>
+      <last-search>Dis</last-search>
       <last-offset />
-      <last-pattern>9999</last-pattern>
+      <last-pattern>Dis</last-pattern>
       <last-replace>remainNum</last-replace>
       <last-substitute>num</last-substitute>
       <last-dir>1</last-dir>
@@ -594,7 +590,6 @@
     </search>
     <history>
       <history-search>
-        <entry>enter</entry>
         <entry>clear</entry>
         <entry>http</entry>
         <entry>.</entry>
@@ -614,6 +609,7 @@
         <entry>9998</entry>
         <entry>999</entry>
         <entry>9999</entry>
+        <entry>Dis</entry>
       </history-search>
       <history-cmd>
         <entry>668</entry>
@@ -634,8 +630,8 @@
         <entry>119</entry>
         <entry>wq</entry>
         <entry>120</entry>
-        <entry>w</entry>
         <entry>50</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
