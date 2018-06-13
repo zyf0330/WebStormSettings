@@ -350,10 +350,10 @@
         <mark key="." line="29" column="48" />
         <mark key="^" line="29" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528707633136">
+      <file name="/Dummy.txt" timestamp="1528859789179">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="4" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="internal/child_process.js" timestamp="1526538168740">
@@ -537,7 +537,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Disconnected</text>
+        <text />
       </register>
       <register name="-" type="4">
         <text>Disconnected</text>
