@@ -89,10 +89,9 @@
         <mark key="." line="3" column="34" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1528961610270">
-        <mark key="[" line="158" column="24" />
-        <mark key="]" line="159" column="45" />
-        <mark key="." line="159" column="45" />
-        <mark key="^" line="159" column="45" />
+        <mark key="]" line="61" column="45" />
+        <mark key="." line="61" column="45" />
+        <mark key="^" line="61" column="45" />
       </file>
       <file name="/helper.js" timestamp="1528952213632" />
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo-my/server/server.js" timestamp="1528087486549">
@@ -132,12 +131,12 @@
         <mark key="." line="53" column="51" />
         <mark key="^" line="53" column="51" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Apps.js" timestamp="1528948214704">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Apps.js" timestamp="1528963059244">
         <mark key="'" line="13" column="32" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="96" column="23" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="83" column="23" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Peer.js" timestamp="1528873395179">
         <mark key="'" line="858" column="0" />
@@ -230,6 +229,12 @@
         <mark key="^" line="4" column="68" />
         <mark key="." line="4" column="68" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1528963356067">
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="207" column="0" />
+        <mark key="." line="207" column="0" />
+        <mark key="^" line="300" column="3" />
+      </file>
       <file name="$USER_HOME$/Desktop/test/client.go" timestamp="1528705254594">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="31" column="27" />
@@ -272,7 +277,7 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="/JavaScript Console" timestamp="1528961049227">
+      <file name="/JavaScript Console" timestamp="1528963071796">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" timestamp="1527836487892">
@@ -281,12 +286,6 @@
         <mark key="]" line="406" column="0" />
         <mark key="." line="406" column="0" />
         <mark key="^" line="377" column="42" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Room.js" timestamp="1528707387471">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="340" column="0" />
-        <mark key="]" line="340" column="0" />
-        <mark key="." line="340" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/roomService.js" timestamp="1527667215416">
         <mark key="'" line="46" column="8" />
@@ -349,7 +348,7 @@
         <mark key="." line="29" column="48" />
         <mark key="^" line="29" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528961517088">
+      <file name="/Dummy.txt" timestamp="1528963277180">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Producer.js" timestamp="1528096620147">
@@ -384,11 +383,11 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="64" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" timestamp="1528956026902">
-        <mark key="'" line="94" column="33" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" timestamp="1528962221255">
+        <mark key="'" line="91" column="9" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/project/duobei/duobeiyun-mobile-server/helper.js" timestamp="1528945859878">
         <mark key="[" line="134" column="0" />
@@ -436,7 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="177" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="178" column="45" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="121" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
@@ -536,55 +534,56 @@
       <jump line="142" column="36" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="135" column="38" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="127" column="50" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="91" column="9" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBjb25zdCB7ZGVueUNoYXRMaXN0fSA9IHJvb21zW3Jvb21JZF0KICBjb25zdCBkZW55Q2hhdE9iaiA9IGRlbnlDaGF0TGlzdC5maW5kKCh7dXNlcm5hbWU6IF91c2VybmFtZX0pID0+IHsKICAgIHJldHVybiBfdXNlcm5hbWUgPT0gdXNlcm5hbWUKICB9KQogIGlmIChkZW55Q2hhdE9iaiAhPSBudWxsKSB7CiAgICByZXR1cm4KICB9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>toggleAud</text>
+        <text>room.denyChatList</text>
       </register>
       <register name="/" type="4">
-        <text>ws1</text>
+        <text>us</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJvb21BdWRpdFtyb29tSWRdID0gdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBjb25zdCB7ZGVueUNoYXRMaXN0fSA9IHJvb21zW3Jvb21JZF0KICBjb25zdCBkZW55Q2hhdE9iaiA9IGRlbnlDaGF0TGlzdC5maW5kKCh7dXNlcm5hbWU6IF91c2VybmFtZX0pID0+IHsKICAgIHJldHVybiBfdXNlcm5hbWUgPT0gdXNlcm5hbWUKICB9KQogIGlmIChkZW55Q2hhdE9iaiAhPSBudWxsKSB7CiAgICByZXR1cm4KICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChoYXNTdWJbcm9vbUlkXSAhPSB0cnVlKSB7CiAgICAgIGhhc1N1Yltyb29tSWRdID0gdHJ1ZQogICAgICBjb25zdCBzb2NrX3N1YiA9IGhlbHBlci5zb2NrX3N1Yl9yb3V0ZShyb29tSWQpCiAgICAgIHNvY2tfc3ViLnN1YnNjcmliZSgnRVZFTlQ6YXBwcy8nICsgcm9vbUlkKQo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgogICAg</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJvb21BdWRpdFtyb29tSWRdID0gdHJ1ZQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdCBkZW55Q2hhdE9iaiA9IGRlbnlDaGF0TGlzdC5maW5kKCh7dXNlcm5hbWU6IF91c2VybmFtZX0pID0+IHsKICAgIHJldHVybiBfdXNlcm5hbWUgPT0gdXNlcm5hbWUKICB9KQogIGlmIChkZW55Q2hhdE9iaiA9PSBudWxsKSB7CiAgICByZXR1cm4KICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zdCB7ZGVueUNoYXRMaXN0fSA9IHJvb21zW3Jvb21JZF0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIOS4uuS6humYsuatoiBhbGxvd0NoYXQg5pe25rKh5pyJ55u45YWz5L+h5oGvCiAgICBldnNbdXNlcm5hbWVdID0gZXYK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">5L+u5aSN5LmL5YmN55m75b2V5bCx5a6h5qC45pe277yM5rKh5pyJ6K6i6ZiF56aB6KiA55u45YWz55qE5LqL5Lu2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgaGFzU3ViID0ge30K</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnJvb21JbmZvcy5oYXMocm9vbUlkKSkgewogICAgICBwcm9jZXNzLm5leHRUaWNrKCgpID0+IHsKICAgICAgICBjYih0aGlzLnJvb21JbmZvcy5nZXQocm9vbUlkKSkKICAgICAgfSkKICAgICAgcmV0dXJuCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChoYXNTdWJbcm9vbUlkXSAhPSB0cnVlKSB7CiAgICAgIGhhc1N1Yltyb29tSWRdID0gdHJ1ZQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucm9vbUluZm9zID0gbmV3IE1hcCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc29ja19zdWIgPSBoZWxwZXIuc29ja19zdWJfcm91dGUocm9vbUlkKQogICAgICBzb2NrX3N1Yi5zdWJzY3JpYmUoJ0VWRU5UOmFwcHMvJyArIHJvb21JZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ws1</last-search>
+      <last-search>us</last-search>
       <last-offset />
-      <last-pattern>ws1</last-pattern>
+      <last-pattern>us</last-pattern>
       <last-replace>remainNum</last-replace>
       <last-substitute>num</last-substitute>
       <last-dir>1</last-dir>
@@ -592,7 +591,6 @@
     </search>
     <history>
       <history-search>
-        <entry>apps</entry>
         <entry>star</entry>
         <entry>jz</entry>
         <entry>'</entry>
@@ -612,6 +610,7 @@
         <entry>uid</entry>
         <entry>sub</entry>
         <entry>ws1</entry>
+        <entry>us</entry>
       </history-search>
       <history-cmd>
         <entry>+345</entry>
