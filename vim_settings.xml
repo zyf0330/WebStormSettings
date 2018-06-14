@@ -66,10 +66,10 @@
         <mark key="^" line="104" column="33" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1528948387167">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1528950028755">
         <mark key="'" line="142" column="66" />
-        <mark key="[" line="142" column="43" />
-        <mark key="]" line="142" column="50" />
+        <mark key="[" line="138" column="24" />
+        <mark key="]" line="138" column="31" />
         <mark key="." line="142" column="50" />
         <mark key="^" line="142" column="50" />
       </file>
@@ -153,12 +153,12 @@
         <mark key="^" line="622" column="31" />
         <mark key="." line="622" column="31" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1528888167190">
-        <mark key="'" line="300" column="48" />
-        <mark key="[" line="88" column="31" />
-        <mark key="]" line="88" column="31" />
-        <mark key="^" line="133" column="47" />
-        <mark key="." line="88" column="31" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1528950509078">
+        <mark key="'" line="301" column="2" />
+        <mark key="[" line="114" column="4" />
+        <mark key="]" line="114" column="6" />
+        <mark key="^" line="114" column="6" />
+        <mark key="." line="114" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/test/client.go" timestamp="1528705254594">
         <mark key="'" line="56" column="0" />
@@ -208,9 +208,9 @@
         <mark key="^" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1528947300845">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="88" column="1" />
+      <file name="$USER_HOME$/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1528950430730">
+        <mark key="[" line="630" column="10" />
+        <mark key="]" line="630" column="28" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1528947980946">
         <mark key="'" line="122" column="60" />
@@ -255,7 +255,7 @@
         <mark key="]" line="400" column="0" />
         <mark key="." line="400" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1528941023938" />
+      <file name="$USER_HOME$/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1528950419164" />
       <file name="/media/zyf/data/Programming/project/duobei/vdqa-base-station/src/voteDeviceService.js" timestamp="1528274259911">
         <mark key="'" line="8" column="51" />
         <mark key="[" line="73" column="9" />
@@ -303,7 +303,6 @@
       <file name="/index.html" timestamp="1528888561924" />
     </filemarks>
     <jumps>
-      <jump line="294" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="282" column="73" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="17" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
@@ -403,19 +402,20 @@
       <jump line="141" column="56" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="44" column="16" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
       <jump line="142" column="66" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" />
+      <jump line="301" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2IoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>{denyChatList: roomInfo.DENYCHATLIST}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>deny</text>
+        <text>onA</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtyb29tSWR9ID0gbXNnCg==</text>
+        <text encoding="base64">ICB9IGVsc2UgaWYgKG1ldGhvZCA9PSAnb25BdWRpdENoYW5nZScpIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY2IoKQo=</text>
@@ -449,17 +449,16 @@
       </register>
     </registers>
     <search>
-      <last-search>deny</last-search>
+      <last-search>onA</last-search>
       <last-offset />
-      <last-pattern>deny</last-pattern>
+      <last-pattern>onA</last-pattern>
       <last-replace>remainNum</last-replace>
       <last-substitute>num</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry>st</entry>
         <entry>nu</entry>
         <entry>fal</entry>
@@ -479,6 +478,7 @@
         <entry>jz</entry>
         <entry>'</entry>
         <entry>deny</entry>
+        <entry>onA</entry>
       </history-search>
       <history-cmd>
         <entry>873</entry>
