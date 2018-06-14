@@ -88,12 +88,12 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1528970723642">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1528971514098">
         <mark key="'" line="153" column="29" />
-        <mark key="[" line="150" column="39" />
-        <mark key="]" line="150" column="46" />
-        <mark key="." line="150" column="46" />
-        <mark key="^" line="150" column="46" />
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="5" />
+        <mark key="^" line="34" column="5" />
       </file>
       <file name="/helper.js" timestamp="1528952213632" />
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo-my/server/server.js" timestamp="1528087486549">
@@ -122,7 +122,7 @@
         <mark key="." line="17" column="66" />
         <mark key="^" line="17" column="66" />
       </file>
-      <file name="/worker.js" timestamp="1528964920774">
+      <file name="/worker.js" timestamp="1528972112378">
         <mark key="[" line="215" column="0" />
         <mark key="]" line="215" column="25" />
       </file>
@@ -233,12 +233,12 @@
         <mark key="^" line="4" column="68" />
         <mark key="." line="4" column="68" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1528969890864">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1528972349894">
         <mark key="'" line="206" column="9" />
-        <mark key="[" line="162" column="16" />
-        <mark key="]" line="162" column="30" />
-        <mark key="." line="162" column="30" />
-        <mark key="^" line="162" column="30" />
+        <mark key="[" line="172" column="2" />
+        <mark key="]" line="172" column="7" />
+        <mark key="." line="172" column="7" />
+        <mark key="^" line="172" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/test/client.go" timestamp="1528705254594">
         <mark key="'" line="56" column="0" />
@@ -279,7 +279,7 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="/JavaScript Console" timestamp="1528970727500">
+      <file name="/JavaScript Console" timestamp="1528972351855">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" timestamp="1527836487892">
@@ -350,11 +350,11 @@
         <mark key="." line="29" column="48" />
         <mark key="^" line="29" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528968363253">
+      <file name="/Dummy.txt" timestamp="1528972027610">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="44" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Producer.js" timestamp="1528096620147">
         <mark key="[" line="3" column="0" />
@@ -543,10 +543,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.length == 0</text>
+        <text encoding="base64">ICBudWxs</text>
       </register>
       <register name="-" type="4">
-        <text>.length == 0</text>
+        <text encoding="base64">ICBudWxs</text>
       </register>
       <register name="/" type="4">
         <text>roominfo</text>
@@ -555,34 +555,34 @@
         <text encoding="base64">ICAgICAgICBjb25zdCBzb2NrX3N1YiA9IGhlbHBlci5zb2NrX3N1Yl9yb3V0ZShyb29tSWQpCiAgICAgICAgaWYgKG1zZ0F1ZGl0KSB7CiAgICAgICAgICBzb2NrX3N1Yi5zdWJzY3JpYmUoJ0FVRElUOmFwcHMvJyArIHJvb21JZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmlyc3QpIHsK</text>
+        <text encoding="base64">ICBpZihldnMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBjb25zdCBkZW55Q2hhdExpc3QgPSByb29tc1tyb29tSWRdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzb2NrX3N1YiA9IGhlbHBlci5zb2NrX3N1Yl9yb3V0ZShyb29tSWQpCiAgICAgICAgc29ja19zdWIuc3Vic2NyaWJlKCdBVURJVDphcHBzLycgKyByb29tSWQpCg==</text>
+      <register name="4" type="4">
+        <text>现在收到审核状态回调才会通知客户端和处理审核消息的订阅。</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByb29tc1tyb29tSWRdCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmlyc3QpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJvb21Qb2xpY3kubXNnQXVkaXQpIHsKICAgICAgICBjb25zdCBzb2NrX3N1YiA9IGhlbHBlci5zb2NrX3N1Yl9yb3V0ZShyb29tSWQpCiAgICAgICAgc29ja19zdWIuc3Vic2NyaWJlKCdBVURJVDphcHBzLycgKyByb29tSWQpCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzb2NrX3N1YiA9IGhlbHBlci5zb2NrX3N1Yl9yb3V0ZShyb29tSWQpCiAgICAgICAgc29ja19zdWIuc3Vic2NyaWJlKCdBVURJVDphcHBzLycgKyByb29tSWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByb29tc1tyb29tSWRdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>171</text>
       </register>
     </registers>
     <search>
@@ -618,9 +618,6 @@
         <entry>roominfo</entry>
       </history-search>
       <history-cmd>
-        <entry>153</entry>
-        <entry>152</entry>
-        <entry>66</entry>
         <entry>119</entry>
         <entry>wq</entry>
         <entry>120</entry>
@@ -638,6 +635,9 @@
         <entry>228</entry>
         <entry>162</entry>
         <entry>w</entry>
+        <entry>31</entry>
+        <entry>246</entry>
+        <entry>171</entry>
       </history-cmd>
       <history-expr />
       <history-input />
