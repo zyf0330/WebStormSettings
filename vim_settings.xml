@@ -244,12 +244,12 @@
         <mark key="^" line="4" column="68" />
         <mark key="." line="4" column="68" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1529036076092">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1529038308016">
         <mark key="'" line="53" column="6" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="." line="221" column="0" />
-        <mark key="^" line="222" column="19" />
+        <mark key="[" line="172" column="12" />
+        <mark key="]" line="172" column="15" />
+        <mark key="." line="172" column="15" />
+        <mark key="^" line="172" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/test/client.go" timestamp="1528705254594">
         <mark key="'" line="56" column="0" />
@@ -293,7 +293,7 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="/JavaScript Console" timestamp="1529036219923">
+      <file name="/JavaScript Console" timestamp="1529038238364">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/lib/Room.js" timestamp="1527836487892">
@@ -341,11 +341,11 @@
         <mark key="^" line="57" column="68" />
         <mark key="." line="57" column="68" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/doc.md" timestamp="1528965554146">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="23" column="21" />
-        <mark key="^" line="23" column="21" />
-        <mark key="." line="23" column="21" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/doc.md" timestamp="1529038588199">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="14" column="28" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/config.js" timestamp="1527675202409">
         <mark key="[" line="12" column="16" />
@@ -371,7 +371,7 @@
         <mark key="." line="29" column="48" />
         <mark key="^" line="29" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529036115287">
+      <file name="/Dummy.txt" timestamp="1529036244751">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -567,10 +567,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: wid</text>
+        <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>: wid</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
         <text>ins</text>
@@ -578,34 +578,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleCA9IHRoaXMuZGVueVVzZXJzLmZpbmRJbmRleCgoe3VpZDogX3VpZH0pID0+IHsKICAgICAgICAgIHJldHVybiBfdWlkID09IHVpZAogICAgICAgIH0pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fSBlbHNlIGlmIChwcm9jZXNzLmFyZ3ZbMl0pIHsKICB3aWQgPSBwYXJzZUludChwcm9jZXNzLmFyZ3ZbMl0pCg==</text>
+      <register name="1" type="4">
+        <text>denyChat 消息数组元素从字符串变为对象，添加 uid 信息
+allowChat 消息改为 uid
+evs 现在使用 uid 作为键，避免重复</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgaWYoaGVscGVyLndpZCA9PSAxKQogIHByb2Nlc3MuZXhpdCgxKQp9LCAyMDAwKQo=</text>
+        <text encoding="base64">fSBlbHNlIGlmIChwcm9jZXNzLmFyZ3ZbMl0pIHsKICB3aWQgPSBwYXJzZUludChwcm9jZXNzLmFyZ3ZbMl0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLScsIHVpZCwgZXZzKQo=</text>
+        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgaWYoaGVscGVyLndpZCA9PSAxKQogIHByb2Nlc3MuZXhpdCgxKQp9LCAyMDAwKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLScsIHVpZCwgZXZzKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBjb25zdCB7dXNlcm5hbWV9ID0gZXZzW3VpZF0uYXJnc1swXQo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>this.
 this.
 this.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGluZGV4ID0gdGhpcy5kZW55VXNlcnMuZmluZEluZGV4KCh7dWlkOiBfdWlkfSkgPT4gewogICAgICAgICAgICByZXR1cm4gdWlkID09IF91aWQKICAgICAgICAgIH0pCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySW5kZXggPSB0aGlzLmRlbnlVc2Vycy5maW5kSW5kZXgoKHt1aWQ6IF91aWR9KSA9PiB7CiAgICAgICAgICByZXR1cm4gX3VpZCA9PSBtc2cudWlkCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGluZGV4ID0gdGhpcy5kZW55VXNlcnMuZmluZEluZGV4KCh7dWlkOiBfdWlkfSkgPT4gewogICAgICAgICAgICByZXR1cm4gdWlkID09IF91aWQKICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySW5kZXggPSB0aGlzLmRlbnlVc2Vycy5maW5kSW5kZXgoKHt1aWQ6IF91aWR9KSA9PiB7CiAgICAgICAgICByZXR1cm4gX3VpZCA9PSBtc2cudWlkCiAgICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleCA9IHRoaXMuZGVueVVzZXJzLmZpbmRJbmRleCgoe3VpZDogX3VpZH0pID0+IHsKICAgICAgICAgIHJldHVybiBfdWlkID09IHVpZAogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySW5kZXggPSB0aGlzLmRlbnlVc2Vycy5maW5kSW5kZXgoKHt1aWQ6IF91aWR9KSA9PiB7CiAgICAgICAgICByZXR1cm4gX3VpZCA9PSBtc2cudWlkCiAgICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>99</text>
