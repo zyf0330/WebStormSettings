@@ -95,7 +95,6 @@
         <mark key="." line="34" column="5" />
         <mark key="^" line="34" column="5" />
       </file>
-      <file name="/helper.js" timestamp="1528952213632" />
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo-my/server/server.js" timestamp="1528087486549">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -160,7 +159,6 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/project/duobei/duobeiyun-mobile-server/msgCenter/Dispatch.js" timestamp="1528952767338" />
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/server.js" timestamp="1527837644595">
         <mark key="'" line="106" column="19" />
         <mark key="[" line="92" column="35" />
@@ -180,6 +178,12 @@
         <mark key="]" line="58" column="9" />
         <mark key="." line="58" column="9" />
         <mark key="^" line="58" column="9" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/confd/templates/config.js.tmpl" timestamp="1528974348259">
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="53" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-edge-nodejs/src/service/index.js" timestamp="1528261313275">
         <mark key="[" line="8" column="0" />
@@ -233,12 +237,12 @@
         <mark key="^" line="4" column="68" />
         <mark key="." line="4" column="68" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1528972349894">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1529029446604">
         <mark key="'" line="206" column="9" />
-        <mark key="[" line="172" column="2" />
-        <mark key="]" line="172" column="7" />
-        <mark key="." line="172" column="7" />
-        <mark key="^" line="172" column="7" />
+        <mark key="[" line="263" column="15" />
+        <mark key="]" line="266" column="9" />
+        <mark key="." line="266" column="9" />
+        <mark key="^" line="266" column="9" />
       </file>
       <file name="$USER_HOME$/Desktop/test/client.go" timestamp="1528705254594">
         <mark key="'" line="56" column="0" />
@@ -258,6 +262,9 @@
         <mark key="]" line="24" column="13" />
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="13" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/config.js" timestamp="1528974344705">
+        <mark key="^" line="1" column="26" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup/lib/MyProducer.js" timestamp="1528095107125">
         <mark key="'" line="13" column="0" />
@@ -309,9 +316,14 @@
         <mark key="^" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1528967061780">
+      <file name="$USER_HOME$/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1528974187216">
         <mark key="[" line="630" column="10" />
         <mark key="]" line="630" column="28" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1529029325149">
+        <mark key="[" line="105" column="18" />
+        <mark key="]" line="105" column="18" />
+        <mark key="." line="105" column="18" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/app/lib/RoomClient.js" timestamp="1527836423182">
         <mark key="'" line="57" column="13" />
@@ -350,7 +362,7 @@
         <mark key="." line="29" column="48" />
         <mark key="^" line="29" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528972027610">
+      <file name="/Dummy.txt" timestamp="1529029353956">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -431,7 +443,6 @@
         <mark key="." line="379" column="0" />
         <mark key="^" line="377" column="56" />
       </file>
-      <file name="/index.html" timestamp="1528888561924" />
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/config.js" timestamp="1528192519601">
         <mark key="[" line="8" column="72" />
         <mark key="]" line="8" column="72" />
@@ -543,46 +554,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBudWxs</text>
+        <text>取消禁言改为使用 denyChatList 的数据
+修复微小 bug</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBudWxs</text>
+        <text>exports.sock_subs =</text>
       </register>
       <register name="/" type="4">
         <text>roominfo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzb2NrX3N1YiA9IGhlbHBlci5zb2NrX3N1Yl9yb3V0ZShyb29tSWQpCiAgICAgICAgaWYgKG1zZ0F1ZGl0KSB7CiAgICAgICAgICBzb2NrX3N1Yi5zdWJzY3JpYmUoJ0FVRElUOmFwcHMvJyArIHJvb21JZCkK</text>
+      <register name="0" type="4">
+        <text>{{getv &quot;zmqSocketServers.subs&quot;}}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBpZihldnMpCg==</text>
+      <register name="1" type="4">
+        <text>取消禁言改为使用 denyChatList 的数据
+修复微小 bug</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBkZW55Q2hhdExpc3QgPSByb29tc1tyb29tSWRdCg==</text>
+        <text encoding="base64">ICAgICAgICAnZCc6IGFyZ3MuZCwKICAgICAgICAnaW1hZ2VVcmwnOiAnJywKICAgICAgICAncm9sZSc6IGFyZ3Mucm9sZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjbwo=</text>
+        <text encoding="base64">ICBpZihldnMpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>现在收到审核状态回调才会通知客户端和处理审核消息的订阅。</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zdCBkZW55Q2hhdExpc3QgPSByb29tc1tyb29tSWRdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmlyc3QpIHsK</text>
+        <text encoding="base64">ICBjbwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text>现在收到审核状态回调才会通知客户端和处理审核消息的订阅。</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmlyc3QpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzb2NrX3N1YiA9IGhlbHBlci5zb2NrX3N1Yl9yb3V0ZShyb29tSWQpCiAgICAgICAgc29ja19zdWIuc3Vic2NyaWJlKCdBVURJVDphcHBzLycgKyByb29tSWQpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByb29tc1tyb29tSWRdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>171</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -618,8 +631,6 @@
         <entry>roominfo</entry>
       </history-search>
       <history-cmd>
-        <entry>119</entry>
-        <entry>wq</entry>
         <entry>120</entry>
         <entry>50</entry>
         <entry>q</entry>
@@ -634,10 +645,12 @@
         <entry>269</entry>
         <entry>228</entry>
         <entry>162</entry>
-        <entry>w</entry>
         <entry>31</entry>
         <entry>246</entry>
         <entry>171</entry>
+        <entry>166</entry>
+        <entry>279</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
