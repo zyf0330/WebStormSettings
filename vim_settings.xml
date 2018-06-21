@@ -88,11 +88,11 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1528971514098">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1529563251420">
         <mark key="'" line="153" column="29" />
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="34" column="5" />
-        <mark key="." line="34" column="5" />
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="16" />
+        <mark key="." line="30" column="16" />
         <mark key="^" line="34" column="5" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo-my/server/server.js" timestamp="1528087486549">
@@ -567,12 +567,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>denyChat 消息数组元素从字符串变为对象，添加 uid 信息
-allowChat 消息改为 uid
-evs 现在使用 uid 作为键，避免重复</text>
+        <text>W</text>
       </register>
       <register name="-" type="4">
-        <text>pid</text>
+        <text>W</text>
       </register>
       <register name="/" type="4">
         <text>pid</text>
