@@ -153,12 +153,17 @@
         <mark key="." line="886" column="3" />
         <mark key="^" line="886" column="3" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" timestamp="1529906045093">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" timestamp="1529906698189">
         <mark key="'" line="24" column="3" />
-        <mark key="[" line="24" column="34" />
-        <mark key="]" line="24" column="32" />
-        <mark key="." line="24" column="32" />
-        <mark key="^" line="24" column="32" />
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="29" column="9" />
+        <mark key="^" line="29" column="9" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/.arcconfig" timestamp="1529906212637">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/server.js" timestamp="1527837644595">
         <mark key="'" line="106" column="19" />
@@ -179,6 +184,12 @@
         <mark key="]" line="58" column="9" />
         <mark key="." line="58" column="9" />
         <mark key="^" line="58" column="9" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/setup.js" timestamp="1529906303193">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="1" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/confd/templates/config.js.tmpl" timestamp="1528974348259">
         <mark key="[" line="6" column="54" />
@@ -420,6 +431,12 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="64" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/cluster.spec.js" timestamp="1529906761821">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" timestamp="1529035744134">
         <mark key="'" line="17" column="18" />
         <mark key="[" line="100" column="14" />
@@ -574,11 +591,11 @@
       <jump line="24" column="3" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>jest</text>
@@ -587,33 +604,31 @@
         <text encoding="base64">cG0yIGdldCBwbTItbG9ncm90YXRlID4vZGV2L251bGwgfHwgXAoJeyBwbTIgaW5zdGFsbCBwbTItbG9ncm90YXRlICYmIFwKCXBtMiBzZXQgcG0yLWxvZ3JvdGF0ZTptYXhfc2l6ZSAxRyAmJiBcCglwbTIgc2V0IHBtMi1sb2dyb3RhdGU6Y29tcHJlc3MgZmFsc2UgJiYgXAoJcG0yIHNldCBwbTItbG9ncm90YXRlOnJvdGF0ZUludGVydmFsICc1OSA1OSAyMyAqICogKicgJiYgXAoJcG0yIHNldCBwbTItbG9ncm90YXRlOnJldGFpbiA2MCAmJiBcCglwbTIgc2V0IHBtMi1sb2dyb3RhdGU6ZGF0ZUZvcm1hdCAnWVlZWS1NTS1ERCcKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJzZXR1cFRlc3RGcmFtZXdvcmtTY3JpcHRGaWxlIjogIjxyb290RGlyPi9fX3Rlc3RfXy9zZXR1cC5qcyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJqZXN0IjogIl4yMy4xLjAiLAogICAgImplc3QtdGFwLXJlcG9ydGVyIjogIl4xLjkuMCIsCg==</text>
+        <text encoding="base64">ICAgICAgImpzeCIsCiAgICAgICJqc29uIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiLmFyY2FuaXN0LWV4dGVuc2lvbnMvZXNsaW50X2xpbnRlciIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJtYWluIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJqZXN0IjogIl4yMy4xLjAiLAogICAgImplc3QtdGFwLXJlcG9ydGVyIjogIl4xLjkuMCIsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">CSJtYWluIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb25zb2xlLmRhdGUoMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>denyChat 消息数组元素从字符串变为对象，添加 uid 信息
-allowChat 消息改为 uid
-evs 现在使用 uid 作为键，避免重复</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -652,7 +667,6 @@ evs 现在使用 uid 作为键，避免重复</text>
         <entry>jest</entry>
       </history-search>
       <history-cmd>
-        <entry>295</entry>
         <entry>144</entry>
         <entry>301</entry>
         <entry>+7</entry>
@@ -671,6 +685,7 @@ evs 现在使用 uid 作为键，避免重复</text>
         <entry>138</entry>
         <entry>227</entry>
         <entry>99</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
