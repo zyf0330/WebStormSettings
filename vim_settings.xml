@@ -153,11 +153,12 @@
         <mark key="." line="886" column="3" />
         <mark key="^" line="886" column="3" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" timestamp="1528339308195">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="18" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" timestamp="1529906045093">
+        <mark key="'" line="24" column="3" />
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+        <mark key="^" line="24" column="32" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup-demo/server/server.js" timestamp="1527837644595">
         <mark key="'" line="106" column="19" />
@@ -471,10 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="61" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="163" column="33" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="301" column="24" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="315" column="39" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="320" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="331" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="95" column="33" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" />
@@ -571,61 +568,61 @@
       <jump line="7" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/start.sh" />
       <jump line="2" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/start.sh" />
       <jump line="1" column="10" filename="/tmp/1.js" />
+      <jump line="11" column="27" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" />
+      <jump line="15" column="5" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" />
+      <jump line="16" column="5" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" />
+      <jump line="24" column="3" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3QgYXJyID0gW10KY29uc3QgbWV0aG9kID0gJ3Vuc2hpZnQnCmNvbnN0IG4gPSAxMjAwMDAKY29uc3Qgc3RlcCA9IDEwMDAwCmZvciAobGV0IGkgPSAwOyBpIDwgbjsgaSsrKSB7CiAgaWYgKGkgJSBzdGVwID09IDApIHsKICAgIGNvbnNvbGUudGltZShpKQogIH0KICBhcnJbbWV0aG9kXShpKQogIGlmIChpICUgc3RlcCA9PSAwKSB7CiAgICBjb25zb2xlLnRpbWVFbmQoaSkKICB9Cn0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>pu</text>
+        <text>jest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cG0yIGdldCBwbTItbG9ncm90YXRlID4vZGV2L251bGwgfHwgXAoJeyBwbTIgaW5zdGFsbCBwbTItbG9ncm90YXRlICYmIFwKCXBtMiBzZXQgcG0yLWxvZ3JvdGF0ZTptYXhfc2l6ZSAxRyAmJiBcCglwbTIgc2V0IHBtMi1sb2dyb3RhdGU6Y29tcHJlc3MgZmFsc2UgJiYgXAoJcG0yIHNldCBwbTItbG9ncm90YXRlOnJvdGF0ZUludGVydmFsICc1OSA1OSAyMyAqICogKicgJiYgXAoJcG0yIHNldCBwbTItbG9ncm90YXRlOnJldGFpbiA2MCAmJiBcCglwbTIgc2V0IHBtMi1sb2dyb3RhdGU6ZGF0ZUZvcm1hdCAnWVlZWS1NTS1ERCcKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb25zb2xlLmRhdGUoMSkK</text>
+        <text encoding="base64">ICAgICJqZXN0IjogIl4yMy4xLjAiLAogICAgImplc3QtdGFwLXJlcG9ydGVyIjogIl4xLjkuMCIsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>denyChat 消息数组元素从字符串变为对象，添加 uid 信息
-allowChat 消息改为 uid
-evs 现在使用 uid 作为键，避免重复</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>denyChat 消息数组元素从字符串变为对象，添加 uid 信息
-allowChat 消息改为 uid
-evs 现在使用 uid 作为键，避免重复</text>
+      <register name="4" type="2">
+        <text encoding="base64">CSJtYWluIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSBlbHNlIGlmIChwcm9jZXNzLmFyZ3ZbMl0pIHsKICB3aWQgPSBwYXJzZUludChwcm9jZXNzLmFyZ3ZbMl0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgaWYoaGVscGVyLndpZCA9PSAxKQogIHByb2Nlc3MuZXhpdCgxKQp9LCAyMDAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLScsIHVpZCwgZXZzKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB7dXNlcm5hbWV9ID0gZXZzW3VpZF0uYXJnc1swXQo=</text>
+        <text encoding="base64">CQljb25zb2xlLmRhdGUoMSkK</text>
       </register>
-      <register name="9" type="8">
-        <text>this.
-this.
-this.</text>
+      <register name="9" type="4">
+        <text>denyChat 消息数组元素从字符串变为对象，添加 uid 信息
+allowChat 消息改为 uid
+evs 现在使用 uid 作为键，避免重复</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pu</last-search>
+      <last-search>jest</last-search>
       <last-offset />
-      <last-pattern>pu</last-pattern>
+      <last-pattern>jest</last-pattern>
       <last-replace>remainNum</last-replace>
       <last-substitute>num</last-substitute>
       <last-dir>1</last-dir>
@@ -633,7 +630,6 @@ this.</text>
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
         <entry>us</entry>
         <entry>allowChat</entry>
         <entry>args</entry>
@@ -653,6 +649,7 @@ this.</text>
         <entry>60</entry>
         <entry>pid</entry>
         <entry>pu</entry>
+        <entry>jest</entry>
       </history-search>
       <history-cmd>
         <entry>295</entry>
