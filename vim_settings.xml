@@ -160,7 +160,7 @@
         <mark key="." line="29" column="9" />
         <mark key="^" line="29" column="9" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/.arcconfig" timestamp="1529906212637">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/.arcconfig" timestamp="1529980210482">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -388,10 +388,11 @@
         <mark key="." line="29" column="48" />
         <mark key="^" line="29" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529919004662">
+      <file name="/Dummy.txt" timestamp="1529980654855">
+        <mark key="w" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="44" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/mediasoup/lib/Producer.js" timestamp="1528096620147">
@@ -588,10 +589,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stopWorkerAudit</text>
+        <text encoding="base64">IG1hc3RlciDnmoTpg6jliIbmtYvor5U=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IG1hc3RlciDnmoTpg6jliIbmtYvor5U=</text>
       </register>
       <register name="/" type="4">
         <text>ma</text>
@@ -600,31 +601,31 @@
         <text>DENYCHATLIST</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIHN0YXIK</text>
+        <text encoding="base64">ICAgICAgICAiLmFyY2FuaXN0LWV4dGVuc2lvbnMvZXNsaW50X2xpbnRlciIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIG1ldGhvZCwgbXNnCgo=</text>
+        <text encoding="base64">ICAvLyBUT0RPIHN0YXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIG1ldGhvZCwgbXNnCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbW92ZSB3b3JrZXIgd2hlbiB3b3JrZXIgZXhpdHMnLCAoKSA9PiB7CiAgICBtYXN0ZXIubmV3V29ya2VyKHdvcmtlci5pZCwgd29ya2VyKQogIH0pCgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hc3Rlci53b3JrZXJFeGl0KHdvcmtlci5pZCkKICAgIGV4cGVjdChtYXN0ZXIud29ya2VycykudG9FcXVhbCh7fSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbW92ZSB3b3JrZXIgd2hlbiB3b3JrZXIgZXhpdHMnLCAoKSA9PiB7CiAgICBtYXN0ZXIubmV3V29ya2VyKHdvcmtlci5pZCwgd29ya2VyKQogIH0pCgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG1hc3Rlci53b3JrZXJFeGl0KHdvcmtlci5pZCkKICAgIGV4cGVjdChtYXN0ZXIud29ya2VycykudG9FcXVhbCh7fSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhZnRlckVhY2goKCkgPT4gewogICAgLy8gbWFzdGVyLndvcmtlckV4aXQod29ya2VyLmlkKQogIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd29ya2VyLgo=</text>
+        <text encoding="base64">ICBhZnRlckVhY2goKCkgPT4gewogICAgLy8gbWFzdGVyLndvcmtlckV4aXQod29ya2VyLmlkKQogIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2IoKQo=</text>
+        <text encoding="base64">ICAgICAgd29ya2VyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
