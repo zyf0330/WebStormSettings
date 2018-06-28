@@ -3,14 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1530172176721">
-        <mark key="'" line="163" column="9" />
-        <mark key="[" line="49" column="14" />
-        <mark key="]" line="49" column="29" />
-        <mark key="^" line="49" column="29" />
-        <mark key="." line="49" column="29" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" timestamp="1530177847364">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
       </file>
-      <file name="/fragment.js" timestamp="1530068764493">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1530177395213">
+        <mark key="'" line="83" column="15" />
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="5" />
+        <mark key="^" line="30" column="5" />
+        <mark key="." line="30" column="5" />
+      </file>
+      <file name="/fragment.js" timestamp="1530175528100">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -28,7 +34,7 @@
         <mark key="[" line="209" column="24" />
         <mark key="]" line="209" column="38" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530171806809">
+      <file name="/JavaScript Console" timestamp="1530176022911">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.js" timestamp="1530011778741">
@@ -44,6 +50,7 @@
         <mark key="." line="212" column="4" />
         <mark key="^" line="212" column="4" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/node_modules/jest-mock/build/index.js" timestamp="1530175937045" />
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1530171275641">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="122" column="0" />
@@ -61,11 +68,12 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" timestamp="1530172487078">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
-        <mark key="^" line="10" column="23" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" timestamp="1530177771311">
+        <mark key="'" line="7" column="10" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="14" column="10" />
       </file>
       <file name="internal/module.js" timestamp="1530080553814">
         <mark key="[" line="0" column="0" />
@@ -86,6 +94,7 @@
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/views/index.html" timestamp="1529980795955">
         <mark key="'" line="17" column="18" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/node_modules/socket.io/lib/index.js" timestamp="1530175797221" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.js" timestamp="1530170334994">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="52" />
@@ -111,20 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="30" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
-      <jump line="91" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
-      <jump line="149" column="12" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
-      <jump line="178" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
-      <jump line="173" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
-      <jump line="191" column="74" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
-      <jump line="213" column="67" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
-      <jump line="109" column="16" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
-      <jump line="111" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
-      <jump line="106" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
-      <jump line="108" column="32" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
-      <jump line="172" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
-      <jump line="138" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
-      <jump line="175" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
       <jump line="31" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
       <jump line="264" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
       <jump line="214" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
@@ -211,68 +206,76 @@
       <jump line="145" column="43" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="354" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="163" column="9" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="49" column="30" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="26" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
+      <jump line="17" column="29" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
+      <jump line="83" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
+      <jump line="16" column="9" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
+      <jump line="33" column="34" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
+      <jump line="21" column="19" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
+      <jump line="25" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
+      <jump line="19" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
+      <jump line="5" column="43" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
+      <jump line="53" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
+      <jump line="7" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
+      <jump line="55" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
+      <jump line="53" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>expect(worker.roomConfigs).toEqual({})</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>roominfo</text>
+        <text>nu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh3b3JrZXIucm9vbUNvbmZpZ3MpLnRvRXF1YWwoe30pCg==</text>
+      <register name="0" type="4">
+        <text>Server.instance._sockets</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqCiAqIEB0eXBlIHtTZXJ2ZXJ9CiAqLwpTZXJ2ZXIuaW5zdGFuY2UgPSBudWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">amVzdAo=</text>
+        <text encoding="base64">cHJvY2Vzcy5lbnYud2lkID0gJzEnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2IoKQo=</text>
+        <text encoding="base64">Y29uc3Qge0V2ZW50RW1pdHRlcn0gPSByZXF1aXJlKCdldmVudHMnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJvY2Vzcy5zZW5kID0gKG9iaikgPT4gewogIHByb2Nlc3MubmV4dFRpY2soKCkgPT4gewogICAgbWFzdGVyLmVtaXQoJ21lc3NhZ2UnLCBvYmopCiAgfSkKfQo=</text>
+        <text encoding="base64">ICAgIHNvY2tldElPLmluc3RhbmNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaWQgPSBPYmplY3Qua2V5cyh0aGlzLnNvY2tldHMpLmxlbmd0aCArICcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtYXN0ZXIuZW1pdCgnbWVzc2FnZScsIG9iaikK</text>
+        <text encoding="base64">ICAgIHRoaXMuaWQgPSBPYmplY3Qua2V5cyh0aGlzLnNvY2tldHMpLmxlbmd0aCArICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudFNvY2tldC5qb2luCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0cy5vblJvb21Db25maWcgPSBvblJvb21Db25maWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>roominfo</last-search>
+      <last-search>nu</last-search>
       <last-offset />
-      <last-pattern>roominfo</last-pattern>
+      <last-pattern>nu</last-pattern>
       <last-replace>wid</last-replace>
       <last-substitute>workerId</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>st</entry>
-        <entry>false</entry>
-        <entry>'</entry>
-        <entry>len</entry>
-        <entry>repeat</entry>
-        <entry>to</entry>
         <entry>w</entry>
         <entry>start</entry>
         <entry>quit</entry>
@@ -287,6 +290,12 @@
         <entry>process.on</entry>
         <entry>wid</entry>
         <entry>roominfo</entry>
+        <entry>join</entry>
+        <entry>disconnect</entry>
+        <entry>this.soc</entry>
+        <entry>th</entry>
+        <entry>this</entry>
+        <entry>nu</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
