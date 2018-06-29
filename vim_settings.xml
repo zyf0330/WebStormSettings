@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" timestamp="1530255291023">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" timestamp="1530260306777">
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="37" column="13" />
+        <mark key="." line="37" column="13" />
+        <mark key="^" line="37" column="12" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" timestamp="1530245059631">
         <mark key="'" line="54" column="0" />
@@ -33,7 +34,7 @@
         <mark key="[" line="209" column="24" />
         <mark key="]" line="209" column="38" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530255217552">
+      <file name="/JavaScript Console" timestamp="1530260304953">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.js" timestamp="1530011778741">
@@ -57,7 +58,7 @@
         <mark key="." line="107" column="10" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530244985990">
+      <file name="/Dummy.txt" timestamp="1530255309130">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -73,12 +74,12 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" timestamp="1530244918344">
-        <mark key="'" line="52" column="7" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="60" column="14" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" timestamp="1530260303311">
+        <mark key="'" line="82" column="4" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="83" column="5" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" timestamp="1530243970480">
         <mark key="'" line="28" column="4" />
@@ -86,11 +87,6 @@
         <mark key="]" line="29" column="31" />
         <mark key="." line="29" column="31" />
         <mark key="^" line="29" column="31" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/.arcconfig" timestamp="1529980210482">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="internal/module.js" timestamp="1530080553814">
         <mark key="[" line="0" column="0" />
@@ -137,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="26" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
       <jump line="114" column="45" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
       <jump line="123" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
       <jump line="131" column="30" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/master.spec.js" />
@@ -237,55 +232,56 @@
       <jump line="62" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="52" column="7" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="51" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
+      <jump line="82" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8KICAgIGh0dHBTZXJ2ZXIuY2xvc2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>setTimeout</text>
       </register>
       <register name="/" type="4">
-        <text>_roo</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbWFzdGVyLm9uY2UoJ21lc3NhZ2UnLCAoe21ldGhvZCwgbXNnOiB7cm9vbUlkOiBfcm9vbUlkfX0pID0+IHsKICAgICAgICBuKysKICAgICAgICBleHBlY3QoX3Jvb21JZCkudG9FcXVhbChyb29tSWQpCiAgICAgICAgaWYgKG4gPT0gMSkgewogICAgICAgICAgd29ya2VyLm9uTWVzc2FnZSh7bWV0aG9kOiAnb25Sb29tQ29uZmlnJywgbXNnOiB7cm9vbUFjY2Vzc0tleSwgcm9vbUlkfX0pCiAgICAgICAgfSBlbHNlIGlmIChuID09IDIpIHsKICAgICAgICAgIGV4cGVjdChtZXRob2QpLnRvRXF1YWwoJ3Jvb21JbmZvJykKICAgICAgICAgIHdvcmtlci5vbk1lc3NhZ2UoewogICAgICAgICAgICBtZXRob2Q6ICdvblJvb21JbmZvJywKICAgICAgICAgICAgbXNnOiB7CiAgICAgICAgICAgICAgcm9vbUlkLAogICAgICAgICAgICAgIHJvb21Qb2xpY3k6IHsKICAgICAgICAgICAgICAgIG1zZ0F1ZGl0LAogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgZGVueUNoYXRMaXN0LAogICAgICAgICAgICB9LAogICAgICAgICAgfSkKICAgICAgICAgIHJlcygpCiAgICAgICAgfQogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoT2JqZWN0LmtleXMoaW8uX3NvY2tldHMpLmxlbmd0aCkudG9CZSgxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8KICAgIGh0dHBTZXJ2ZXIuY2xvc2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aHR0cFNlcnZlci5mbwogIC4K</text>
+        <text encoding="base64">ICAgIGV4cGVjdChPYmplY3Qua2V5cyhpby5fc29ja2V0cykubGVuZ3RoKS50b0JlKDApCiAgICBjYigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHAyID0gbmV3IFByb21pc2UoKHJlcykgPT4gewogICAgICBjbGllbnQub25jZSgnZGlzY29ubmVjdCcpCiAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ldyBQcm9taXNlKChyZXMpID0+IHsKICAgICAgbWFzdGVyLm9uY2UoJ21lc3NhZ2UnLCAoe21ldGhvZCwgbXNnOiB7cm9vbUlkOiBfcm9vbUlkfX0pID0+IHsKICAgICAgICBleHBlY3QoX3Jvb21JZCkudG9FcXVhbChyb29tSWQpCiAgICAgICAgZXhwZWN0KG1ldGhvZCkudG9FcXVhbCgncm9vbUluZm8nKQogICAgICAgIHdvcmtlci5vbk1lc3NhZ2UoewogICAgICAgICAgbWV0aG9kOiAnb25Sb29tSW5mbycsCiAgICAgICAgICBtc2c6IHsKICAgICAgICAgICAgcm9vbUlkLAogICAgICAgICAgICByb29tUG9saWN5OiB7CiAgICAgICAgICAgICAgbXNnQXVkaXQsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGRlbnlDaGF0TGlzdCwKICAgICAgICAgIH0sCiAgICAgICAgfSkKICAgICAgICByZXMoKQogICAgICB9KQogICAgfSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHAyID0gbmV3IFByb21pc2UoKHJlcykgPT4gewogICAgICAKICAgIH0pCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8KICAgIGh0dHBTZXJ2ZXIuY2xvc2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hc3Rlci5vbmNlKCdtZXNzYWdlJywgKHttZXRob2QsIG1zZzoge3Jvb21JZH19KSA9PiB7CiAgICAgIHdvcmtlci5vbk1lc3NhZ2Uoe21ldGhvZDogJ29uUm9vbUNvbmZpZycsIG1zZzoge3Jvb21BY2Nlc3NLZXksIHJvb21JZH19KQogICAgfSkK</text>
+        <text encoding="base64">aHR0cFNlcnZlci5mbwogIC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJvb21JZCA9ICdramhmeGhjYmt2JwogICAgY29uc3QgdWlkID0gJ3hrY3YnCiAgICBjb25zdCBhY2Nlc3NUb2tlbiA9ICc0ODVmNDhiNzJmMDgxYTdhOTliM2Y5MWJmMWJjNmE2MCcKICAgIGNvbnN0IHJvb21BY2Nlc3NLZXkgPSAnc2RmZmZmZmZidmN4YmprJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KF9yb29tSWQpLnRvRXF1YWwocm9vbUlkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_roo</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>_roo</last-pattern>
+      <last-pattern>1</last-pattern>
       <last-replace>wid</last-replace>
       <last-substitute>workerId</last-substitute>
       <last-dir>1</last-dir>
@@ -293,7 +289,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nu</entry>
         <entry>instance</entry>
         <entry>enterroom</entry>
         <entry>_r</entry>
@@ -313,6 +308,7 @@
         <entry>await</entry>
         <entry>so</entry>
         <entry>_roo</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
