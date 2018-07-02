@@ -58,7 +58,7 @@
         <mark key="." line="107" column="10" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530260311937">
+      <file name="/Dummy.txt" timestamp="1530263596585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -75,11 +75,11 @@
         <mark key="." line="72" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" timestamp="1530263483814">
-        <mark key="'" line="208" column="2" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="0" />
-        <mark key="." line="210" column="0" />
-        <mark key="^" line="208" column="1" />
+        <mark key="'" line="212" column="2" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+        <mark key="^" line="212" column="1" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" timestamp="1530243970480">
         <mark key="'" line="28" column="4" />
@@ -235,11 +235,11 @@
       <jump line="208" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>完善 socket.io.mock.js，从 coverage 统计中忽略</text>
       </register>
       <register name="-" type="4">
-        <text>allowMsg</text>
+        <text>完善 socket.io.mock.js，从 coverage 统计中忽略</text>
       </register>
       <register name="/" type="4">
         <text>all</text>
