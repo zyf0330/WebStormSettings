@@ -38,10 +38,10 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" timestamp="1530600302278">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" timestamp="1530602223299">
         <mark key="'" line="404" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+        <mark key="[" line="413" column="15" />
+        <mark key="]" line="413" column="23" />
         <mark key="^" line="347" column="26" />
         <mark key="." line="5" column="0" />
       </file>
@@ -237,7 +237,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>处理 toggleAudit</text>
+        <text>enterRoom</text>
       </register>
       <register name="-" type="4">
         <text>处理 toggleAudit</text>
@@ -245,8 +245,8 @@
       <register name="/" type="4">
         <text>allowMsg</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNsaWVudCA9IHNvY2tldElPLm5ld1NvY2tldCh7CiAgICAgIHJvb21JZCwKICAgICAgdW5pcXVlVXNlcklkLAogICAgICBhY2Nlc3NUb2tlbiwKICAgIH0pCg==</text>
+      <register name="0" type="4">
+        <text>enterRoom</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3Qgem1xID0gcmVxdWlyZSgnemVyb21xJykK</text>
