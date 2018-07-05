@@ -52,7 +52,7 @@
         <mark key="[" line="209" column="24" />
         <mark key="]" line="209" column="38" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530783757781">
+      <file name="/JavaScript Console" timestamp="1530784960131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1530597826259">
@@ -143,9 +143,12 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/creator.js" timestamp="1530783848097">
-        <mark key="'" line="24" column="54" />
-        <mark key="^" line="44" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/creator.js" timestamp="1530784281242">
+        <mark key="'" line="41" column="23" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="13" />
+        <mark key="^" line="46" column="13" />
+        <mark key="." line="46" column="13" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/node_modules/zeromq/lib/index.js" timestamp="1530011104647">
         <mark key="[" line="64" column="4" />
@@ -181,11 +184,12 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="33" column="4" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1530783915388">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="34" column="1" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1530785105907">
+        <mark key="'" line="18" column="29" />
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="59" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="21" column="35" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/auth.jsx" timestamp="1530762303638">
         <mark key="'" line="26" column="0" />
@@ -196,10 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
-      <jump line="83" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
-      <jump line="33" column="34" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
-      <jump line="21" column="19" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
       <jump line="25" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
       <jump line="19" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
       <jump line="7" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
@@ -296,55 +296,59 @@
       <jump line="26" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/auth.jsx" />
       <jump line="27" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/auth.jsx" />
       <jump line="20" column="54" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/creator.js" />
+      <jump line="42" column="46" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/creator.js" />
+      <jump line="41" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/creator.js" />
+      <jump line="21" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/pushStudentCount.js" />
+      <jump line="18" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/pushStudentCount.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7IHdvcmtlciB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Stop pushStudentCount</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text>li</text>
+        <text>this.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7IHdvcmtlciB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJvb20uYnJvYWRjYXN0U3R1ZGVudENvdW50KGNvdW50KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJvY2Vzcy5uZXh0VGljaygoKSA9PiB7Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJvY2Vzcy5uZXh0VGljaygoKSA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNyZWF0b3IuY3JlYXRlKCdwdXNoU3R1ZGVudENvdW50JywgeyByb29tSWQgfSwKICAgICAgICAgICAgeyBkZWxheTogNTAwMCwgam9iSWQ6IHRoaXMucm9vbUlkLCByZW1vdmVPbkNvbXBsZXRlOiB0cnVlLCByZW1vdmVPbkZhaWw6IHRydWUgfQogICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIGNyZWF0b3IuY3JlYXRlKCdwdXNoU3R1ZGVudENvdW50JywgeyByb29tSWQgfSwKICAgICAgICAgICAgeyBkZWxheTogNTAwMCwgam9iSWQ6IHRoaXMucm9vbUlkLCByZW1vdmVPbkNvbXBsZXRlOiB0cnVlLCByZW1vdmVPbkZhaWw6IHRydWUgfQogICAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNyZWF0b3IuY3JlYXRlKCdwdXNoU3R1ZGVudENvdW50JywgeyByb29tSWQgfSwKICAgICAgICAgICAgeyBkZWxheTogNTAwMCwgam9iSWQ6IHRoaXMucm9vbUlkLCByZW1vdmVPbkNvbXBsZXRlOiB0cnVlLCByZW1vdmVPbkZhaWw6IHRydWUgfQogICAgICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzLm5leHRUaWNrKCgpID0+IHsKICAgICAgICAgIGNyZWF0b3IuY3JlYXRlKCdwdXNoU3R1ZGVudENvdW50JywgeyByb29tSWQgfSwKICAgICAgICAgICAgeyBkZWxheTogNTAwMCwgam9iSWQ6IHRoaXMucm9vbUlkLCByZW1vdmVPbkNvbXBsZXRlOiB0cnVlLCByZW1vdmVPbkZhaWw6IHRydWUgfQogICAgICAgICAgKQogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CW5ldyBWdWUoewoJCWVsOiAnI2luZGV4JywKCQlkYXRhOiB7CgkJCXVzZXJuYW1lOiBudWxsLAoJCQlwYXNzd29yZDogbnVsbCwKCQkJbXNnOiBudWxsLAoJCX0sCgkJbWV0aG9kczogewoJCQlzdWJtaXQ6IGZ1bmN0aW9uICgpIHsKCQkJCXRoaXMuJGh0dHAucG9zdCgnYXBpL2F1dGgnLCB7dXNlcm5hbWU6IHRoaXMudXNlcm5hbWUsIHBhc3N3b3JkOiB0aGlzLnBhc3N3b3JkfSkKCQkJCQkudGhlbigocmVzKSA9PiB7CgkJCQkJCWlmIChyZXMuYm9keS5zdWNjZXNzKSB7CgkJCQkJCQlsb2NhdGlvbi5ocmVmID0gJy8nCgkJCQkJCX0gZWxzZSB7CgkJCQkJCQl0aGlzLm1zZyA9IHJlcy5ib2R5Lm1zZwoJCQkJCQl9CgkJCQkJfSkKCQkJfSwKCQl9LAoJfSkK</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzLm5leHRUaWNrKCgpID0+IHsKICAgICAgICAgIGNyZWF0b3IuY3JlYXRlKCdwdXNoU3R1ZGVudENvdW50JywgeyByb29tSWQgfSwKICAgICAgICAgICAgeyBkZWxheTogNTAwMCwgam9iSWQ6IHRoaXMucm9vbUlkLCByZW1vdmVPbkNvbXBsZXRlOiB0cnVlLCByZW1vdmVPbkZhaWw6IHRydWUgfQogICAgICAgICAgKQogICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9InZ1ZS5taW4uanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0idnVlLm1pbi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSJ2dWUtcmVzb3VyY2UubWluLmpzIj48L3NjcmlwdD4KPHNjcmlwdCBzcmM9InZ1ZS1yZXNvdXJjZS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">CW5ldyBWdWUoewoJCWVsOiAnI2luZGV4JywKCQlkYXRhOiB7CgkJCXVzZXJuYW1lOiBudWxsLAoJCQlwYXNzd29yZDogbnVsbCwKCQkJbXNnOiBudWxsLAoJCX0sCgkJbWV0aG9kczogewoJCQlzdWJtaXQ6IGZ1bmN0aW9uICgpIHsKCQkJCXRoaXMuJGh0dHAucG9zdCgnYXBpL2F1dGgnLCB7dXNlcm5hbWU6IHRoaXMudXNlcm5hbWUsIHBhc3N3b3JkOiB0aGlzLnBhc3N3b3JkfSkKCQkJCQkudGhlbigocmVzKSA9PiB7CgkJCQkJCWlmIChyZXMuYm9keS5zdWNjZXNzKSB7CgkJCQkJCQlsb2NhdGlvbi5ocmVmID0gJy8nCgkJCQkJCX0gZWxzZSB7CgkJCQkJCQl0aGlzLm1zZyA9IHJlcy5ib2R5Lm1zZwoJCQkJCQl9CgkJCQkJfSkKCQkJfSwKCQl9LAoJfSkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>li</last-search>
+      <last-search>this.</last-search>
       <last-offset />
-      <last-pattern>li</last-pattern>
+      <last-pattern>this.</last-pattern>
       <last-replace>wid</last-replace>
       <last-substitute>workerId</last-substitute>
       <last-dir>1</last-dir>
@@ -352,9 +356,6 @@
     </search>
     <history>
       <history-search>
-        <entry>zmq</entry>
-        <entry>roomId</entry>
-        <entry>ty</entry>
         <entry>Br</entry>
         <entry>func</entry>
         <entry>helper</entry>
@@ -372,6 +373,9 @@
         <entry>type</entry>
         <entry>bab</entry>
         <entry>li</entry>
+        <entry>roomId</entry>
+        <entry>c</entry>
+        <entry>this.</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
