@@ -52,7 +52,7 @@
         <mark key="[" line="209" column="24" />
         <mark key="]" line="209" column="38" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530782313058">
+      <file name="/JavaScript Console" timestamp="1530783757781">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1530597826259">
@@ -143,11 +143,9 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/creator.js" timestamp="1530782310499">
-        <mark key="[" line="20" column="54" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/creator.js" timestamp="1530783848097">
+        <mark key="'" line="24" column="54" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/node_modules/zeromq/lib/index.js" timestamp="1530011104647">
         <mark key="[" line="64" column="4" />
@@ -183,6 +181,12 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="33" column="4" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1530783915388">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="34" column="1" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/auth.jsx" timestamp="1530762303638">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="26" column="17" />
@@ -192,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="30" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="26" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
       <jump line="83" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="33" column="34" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
@@ -292,49 +295,50 @@
       <jump line="28" column="3" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/package.json" />
       <jump line="26" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/auth.jsx" />
       <jump line="27" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/auth.jsx" />
+      <jump line="20" column="54" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/creator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LikeButton</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7IHdvcmtlciB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>LikeButton</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL3JlYWN0QDE2L3VtZC9yZWFjdC5kZXZlbG9wbWVudC5qcyIgY3Jvc3NvcmlnaW4+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSJodHRwczovL3VucGtnLmNvbS9yZWFjdC1kb21AMTYvdW1kL3JlYWN0LWRvbS5kZXZlbG9wbWVudC5qcyIgY3Jvc3NvcmlnaW4+PC9zY3JpcHQ+Cgo8IS0tIExvYWQgb3VyIFJlYWN0IGNvbXBvbmVudC4gLS0+CjxzY3JpcHQgc3JjPSIuLi9zY3JpcHRzX2J1aWxkL2luZGV4LmpzIiB0eXBlPSJ0ZXh0L2JhYmVsIj4KPC9zY3JpcHQ+CjxzY3JpcHQ+CiAgUmVhY3RET00ucmVuZGVyKEluZGV4KQo8L3NjcmlwdD4K</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7IHdvcmtlciB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJvY2Vzcy5uZXh0VGljaygoKSA9PiB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgSW5kZXgK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNyZWF0b3IuY3JlYXRlKCdwdXNoU3R1ZGVudENvdW50JywgeyByb29tSWQgfSwKICAgICAgICAgICAgeyBkZWxheTogNTAwMCwgam9iSWQ6IHRoaXMucm9vbUlkLCByZW1vdmVPbkNvbXBsZXRlOiB0cnVlLCByZW1vdmVPbkZhaWw6IHRydWUgfQogICAgICAgICAgKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jbGkiOiAiXjYuMjYuMCIsCiAgICAiYmFiZWwtcHJlc2V0LXJlYWN0LWFwcCI6ICJeMy4xLjIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNyZWF0b3IuY3JlYXRlKCdwdXNoU3R1ZGVudENvdW50JywgeyByb29tSWQgfSwKICAgICAgICAgICAgeyBkZWxheTogNTAwMCwgam9iSWQ6IHRoaXMucm9vbUlkLCByZW1vdmVPbkNvbXBsZXRlOiB0cnVlLCByZW1vdmVPbkZhaWw6IHRydWUgfQogICAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CW5ldyBWdWUoewoJCWVsOiAnI2luZGV4JywKCQlkYXRhOiB7CgkJCXVzZXJuYW1lOiBudWxsLAoJCQlwYXNzd29yZDogbnVsbCwKCQkJbXNnOiBudWxsLAoJCX0sCgkJbWV0aG9kczogewoJCQlzdWJtaXQ6IGZ1bmN0aW9uICgpIHsKCQkJCXRoaXMuJGh0dHAucG9zdCgnYXBpL2F1dGgnLCB7dXNlcm5hbWU6IHRoaXMudXNlcm5hbWUsIHBhc3N3b3JkOiB0aGlzLnBhc3N3b3JkfSkKCQkJCQkudGhlbigocmVzKSA9PiB7CgkJCQkJCWlmIChyZXMuYm9keS5zdWNjZXNzKSB7CgkJCQkJCQlsb2NhdGlvbi5ocmVmID0gJy8nCgkJCQkJCX0gZWxzZSB7CgkJCQkJCQl0aGlzLm1zZyA9IHJlcy5ib2R5Lm1zZwoJCQkJCQl9CgkJCQkJfSkKCQkJfSwKCQl9LAoJfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9InZ1ZS5taW4uanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0idnVlLm1pbi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSJ2dWUtcmVzb3VyY2UubWluLmpzIj48L3NjcmlwdD4KPHNjcmlwdCBzcmM9InZ1ZS1yZXNvdXJjZS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzLm5leHRUaWNrKCgpID0+IHsKICAgICAgICAgIGNyZWF0b3IuY3JlYXRlKCdwdXNoU3R1ZGVudENvdW50JywgeyByb29tSWQgfSwKICAgICAgICAgICAgeyBkZWxheTogNTAwMCwgam9iSWQ6IHRoaXMucm9vbUlkLCByZW1vdmVPbkNvbXBsZXRlOiB0cnVlLCByZW1vdmVPbkZhaWw6IHRydWUgfQogICAgICAgICAgKQogICAgICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9InZ1ZS5taW4uanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0idnVlLXJlc291cmNlLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">CW5ldyBWdWUoewoJCWVsOiAnI2luZGV4JywKCQlkYXRhOiB7CgkJCXVzZXJuYW1lOiBudWxsLAoJCQlwYXNzd29yZDogbnVsbCwKCQkJbXNnOiBudWxsLAoJCX0sCgkJbWV0aG9kczogewoJCQlzdWJtaXQ6IGZ1bmN0aW9uICgpIHsKCQkJCXRoaXMuJGh0dHAucG9zdCgnYXBpL2F1dGgnLCB7dXNlcm5hbWU6IHRoaXMudXNlcm5hbWUsIHBhc3N3b3JkOiB0aGlzLnBhc3N3b3JkfSkKCQkJCQkudGhlbigocmVzKSA9PiB7CgkJCQkJCWlmIChyZXMuYm9keS5zdWNjZXNzKSB7CgkJCQkJCQlsb2NhdGlvbi5ocmVmID0gJy8nCgkJCQkJCX0gZWxzZSB7CgkJCQkJCQl0aGlzLm1zZyA9IHJlcy5ib2R5Lm1zZwoJCQkJCQl9CgkJCQkJfSkKCQkJfSwKCQl9LAoJfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmFuZ2VfbW9kZTogJ3ByZWZpeCcsCiAgICAgIGxpc3Q6IFtdLAogICAgICBrZXk6IG51bGwsCiAgICAgIHZhbHVlOiBudWxsLAogICAgICBkZWxldGVkOiBudWxsLAogICAgICBtc2c6IG51bGwsCg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9InZ1ZS5taW4uanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0idnVlLm1pbi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSJ2dWUtcmVzb3VyY2UubWluLmpzIj48L3NjcmlwdD4KPHNjcmlwdCBzcmM9InZ1ZS1yZXNvdXJjZS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -385,11 +389,11 @@
         <entry>open</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
-        <entry>q</entry>
         <entry>-18</entry>
         <entry>221</entry>
         <entry>-31</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
