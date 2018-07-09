@@ -48,7 +48,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531117279050">
+      <file name="/JavaScript Console" timestamp="1531121057408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1530597826259">
@@ -63,6 +63,12 @@
         <mark key="]" line="23" column="18" />
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/auth.html" timestamp="1531120407689">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="17" column="14" />
+        <mark key="^" line="17" column="14" />
+        <mark key="." line="17" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1530608456863">
         <mark key="'" line="0" column="0" />
@@ -162,6 +168,12 @@
         <mark key="^" line="46" column="13" />
         <mark key="." line="46" column="13" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/msg.jsx" timestamp="1531121316170">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/static/scripts/auth.js" timestamp="1530862642681">
         <mark key="'" line="2" column="10" />
       </file>
@@ -192,16 +204,15 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="21" column="35" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/auth.jsx" timestamp="1531119017193">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/auth.jsx" timestamp="1531121233988">
+        <mark key="'" line="12" column="5" />
+        <mark key="[" line="46" column="22" />
+        <mark key="]" line="46" column="27" />
+        <mark key="^" line="46" column="27" />
+        <mark key="." line="46" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="14" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="59" column="33" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="61" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="28" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" />
@@ -301,13 +312,14 @@
       <jump line="11" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/.babelrc" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/.arclint" />
       <jump line="30" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/.arclint" />
+      <jump line="12" column="5" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/auth.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFByb21pc2UuYW55Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGRpdj48L2Rpdj4=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">PGRpdj48L2Rpdj4=</text>
       </register>
       <register name="/" type="4">
         <text>pr</text>
@@ -315,32 +327,32 @@
       <register name="0" type="4">
         <text>babel-cli</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFByb21pc2UuYW55Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ewogICAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiLmFyY2FuaXN0LWV4dGVuc2lvbnMvZXNsaW50X2xpbnRlciIK</text>
+        <text encoding="base64">ICAgIFByb21pc2UuYW55Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHJ1ZSAmJiBjb25zb2xlCg==</text>
+        <text encoding="base64">ICAgICAgICAiLmFyY2FuaXN0LWV4dGVuc2lvbnMvZXNsaW50X2xpbnRlciIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">dHJ1ZSAmJiBjb25zb2xlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgInR5cGUiOiAiZXNsaW50IgogICAgICB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ1bml0LmVuZ2luZSI6ICJUQVBUZXN0RW5naW5lIiwKICAgICJ1bml0LmVuZ2luZS50YXAuY29tbWFuZCI6ICJOT0RFX0VOVj10ZXN0IG5vZGVfbW9kdWxlcy8uYmluL2plc3QgLS1mb3JjZUV4aXQgLS1yZXBvcnRlcnMgamVzdC10YXAtcmVwb3J0ZXIgLS1jb3ZlcmFnZVJlcG9ydGVycyBjb2JlcnR1cmEiLAogICAgInVuaXQuZW5naW5lLnRhcC5jb3ZlciI6ICJOT0RFX0VOVj10ZXN0IG5vZGVfbW9kdWxlcy8uYmluL2plc3QgLS1mb3JjZUV4aXQgLS1yZXBvcnRlcnMgamVzdC10YXAtcmVwb3J0ZXIgLS1jb3ZlcmFnZVJlcG9ydGVycyBjb2JlcnR1cmEiCg==</text>
+        <text encoding="base64">ICAgICAgInR5cGUiOiAiZXNsaW50IgogICAgICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiLmFyY2FuaXN0LWV4dGVuc2lvbnMvdGFwX3Rlc3RfZW5naW5lIgo=</text>
+        <text encoding="base64">ICAgICJ1bml0LmVuZ2luZSI6ICJUQVBUZXN0RW5naW5lIiwKICAgICJ1bml0LmVuZ2luZS50YXAuY29tbWFuZCI6ICJOT0RFX0VOVj10ZXN0IG5vZGVfbW9kdWxlcy8uYmluL2plc3QgLS1mb3JjZUV4aXQgLS1yZXBvcnRlcnMgamVzdC10YXAtcmVwb3J0ZXIgLS1jb3ZlcmFnZVJlcG9ydGVycyBjb2JlcnR1cmEiLAogICAgInVuaXQuZW5naW5lLnRhcC5jb3ZlciI6ICJOT0RFX0VOVj10ZXN0IG5vZGVfbW9kdWxlcy8uYmluL2plc3QgLS1mb3JjZUV4aXQgLS1yZXBvcnRlcnMgamVzdC10YXAtcmVwb3J0ZXIgLS1jb3ZlcmFnZVJlcG9ydGVycyBjb2JlcnR1cmEiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICAiamF2YXNjcmlwdCI6IHsKICAgICAgInR5cGUiOiAiZXNsaW50Igo=</text>
+        <text encoding="base64">ICAgICAgICAiLmFyY2FuaXN0LWV4dGVuc2lvbnMvdGFwX3Rlc3RfZW5naW5lIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiLmFyY2FuaXN0LWV4dGVuc2lvbnMvZXNsaW50X2xpbnRlciIK</text>
+        <text encoding="base64">ICAgIH0sCiAgICAiamF2YXNjcmlwdCI6IHsKICAgICAgInR5cGUiOiAiZXNsaW50Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
