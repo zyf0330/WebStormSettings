@@ -36,10 +36,11 @@
         <mark key="^" line="14" column="64" />
         <mark key="." line="14" column="64" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Msg.jsx" timestamp="1531122956947">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Msg.jsx" timestamp="1531124872195">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="18" column="27" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/.arcconfig" timestamp="1530875124076">
         <mark key="[" line="3" column="0" />
@@ -73,11 +74,12 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/auth.html" timestamp="1531122884591">
-        <mark key="[" line="23" column="38" />
-        <mark key="]" line="23" column="41" />
-        <mark key="^" line="23" column="41" />
-        <mark key="." line="23" column="41" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/auth.html" timestamp="1531124219196">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="17" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1530608456863">
         <mark key="'" line="0" column="0" />
@@ -92,7 +94,7 @@
         <mark key="." line="55" column="15" />
         <mark key="^" line="55" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531122935351">
+      <file name="/Dummy.txt" timestamp="1531124584665">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -118,12 +120,12 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="27" column="40" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Auth.jsx" timestamp="1531123260716">
-        <mark key="'" line="1" column="9" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="38" column="24" />
-        <mark key="." line="39" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Auth.jsx" timestamp="1531124568057">
+        <mark key="'" line="31" column="9" />
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="31" column="17" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/.babelrc" timestamp="1530871648660">
         <mark key="[" line="3" column="0" />
@@ -233,8 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
-      <jump line="66" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="47" column="33" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="62" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="51" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/socket.io.mock.js" />
@@ -333,64 +333,64 @@
       <jump line="16" column="3" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/msg.jsx" />
       <jump line="0" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Auth.jsx" />
       <jump line="1" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Auth.jsx" />
+      <jump line="21" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/auth.html" />
+      <jump line="31" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Auth.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZS50ZXh0ID0gbmV4dFByb3BzLnRleHQK</text>
       </register>
       <register name="-" type="4">
-        <text>showMsg</text>
+        <text>组件 auth 改为大写开头</text>
       </register>
       <register name="/" type="4">
-        <text>ms</text>
+        <text>wai</text>
       </register>
-      <register name="0" type="4">
-        <text>babel-cli</text>
+      <register name="0" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9InNjcmlwdHMvQXV0aC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZS50ZXh0ID0gbmV4dFByb3BzLnRleHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBzaG93TXNnID0gKHRleHQpID0+IHsKICAgIHRoaXMuc3RhdGUuCiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2hvd01zZygnd2FpdGluZy4uLicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyDnirbmgIHmmL7npLrnu4Tku7YK</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUubXNnID0gdGV4dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzLmRhdGEubXNnKQo=</text>
+        <text encoding="base64">ICAgIE1zZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICBzaG93TXNnID0gKHRleHQpID0+IHsKICAgIAogIH0K</text>
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0eXBlIj48L3NjcmlwdD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9InNjcmlwdHMvTXNnLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgbXNnCg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9InNjcmlwdHMvTXNnLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAKICBzaG93TXNnID0gKHRleHQpID0+IHsKICAgIHRoaXMuc3RhdGUuCiAgICAKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ms</last-search>
+      <last-search>wai</last-search>
       <last-offset />
-      <last-pattern>ms</last-pattern>
+      <last-pattern>wai</last-pattern>
       <last-replace>wid</last-replace>
       <last-substitute>workerId</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>index</entry>
-        <entry>sp</entry>
         <entry encoding="base64">PA==</entry>
         <entry>'</entry>
         <entry>:</entry>
@@ -409,6 +409,8 @@
         <entry>pr</entry>
         <entry>=</entry>
         <entry>ms</entry>
+        <entry>au</entry>
+        <entry>wai</entry>
       </history-search>
       <history-cmd>
         <entry>+19</entry>
