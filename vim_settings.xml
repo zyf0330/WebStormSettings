@@ -48,7 +48,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530871750131">
+      <file name="/JavaScript Console" timestamp="1531117279050">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1530597826259">
@@ -64,10 +64,6 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/auth.html" timestamp="1530862784837">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="35" column="11" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1530608456863">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="120" column="8" />
@@ -81,7 +77,7 @@
         <mark key="." line="55" column="15" />
         <mark key="^" line="55" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530873205996">
+      <file name="/Dummy.txt" timestamp="1531118905817">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -93,7 +89,6 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/.eslintignore" timestamp="1530874086386" />
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views_react/index.js" timestamp="1530760084485">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="22" column="7" />
@@ -167,7 +162,6 @@
         <mark key="^" line="46" column="13" />
         <mark key="." line="46" column="13" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/.arcanist-extensions/eslint_linter/src/ArcanistEslintLinter.php" timestamp="1530873544102" />
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/static/scripts/auth.js" timestamp="1530862642681">
         <mark key="'" line="2" column="10" />
       </file>
@@ -198,12 +192,12 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="21" column="35" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/auth.jsx" timestamp="1530872404750">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/auth.jsx" timestamp="1531119017193">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="27" column="26" />
-        <mark key="]" line="28" column="3" />
-        <mark key="^" line="28" column="3" />
-        <mark key="." line="28" column="3" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -310,7 +304,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiLmFyY2FuaXN0LWV4dGVuc2lvbnMvZXNsaW50X2xpbnRlciIK</text>
+        <text encoding="base64">ICAgIFByb21pc2UuYW55Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -322,31 +316,31 @@
         <text>babel-cli</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiLmFyY2FuaXN0LWV4dGVuc2lvbnMvZXNsaW50X2xpbnRlciIK</text>
+        <text encoding="base64">ICAgIFByb21pc2UuYW55Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHJ1ZSAmJiBjb25zb2xlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgInR5cGUiOiAiZXNsaW50IgogICAgICB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJ1bml0LmVuZ2luZSI6ICJUQVBUZXN0RW5naW5lIiwKICAgICJ1bml0LmVuZ2luZS50YXAuY29tbWFuZCI6ICJOT0RFX0VOVj10ZXN0IG5vZGVfbW9kdWxlcy8uYmluL2plc3QgLS1mb3JjZUV4aXQgLS1yZXBvcnRlcnMgamVzdC10YXAtcmVwb3J0ZXIgLS1jb3ZlcmFnZVJlcG9ydGVycyBjb2JlcnR1cmEiLAogICAgInVuaXQuZW5naW5lLnRhcC5jb3ZlciI6ICJOT0RFX0VOVj10ZXN0IG5vZGVfbW9kdWxlcy8uYmluL2plc3QgLS1mb3JjZUV4aXQgLS1yZXBvcnRlcnMgamVzdC10YXAtcmVwb3J0ZXIgLS1jb3ZlcmFnZVJlcG9ydGVycyBjb2JlcnR1cmEiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiLmFyY2FuaXN0LWV4dGVuc2lvbnMvdGFwX3Rlc3RfZW5naW5lIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICAiamF2YXNjcmlwdCI6IHsKICAgICAgInR5cGUiOiAiZXNsaW50Igo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAiLmFyY2FuaXN0LWV4dGVuc2lvbnMvZXNsaW50X2xpbnRlciIK</text>
       </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">dHJ1ZSAmJiBjb25zb2xlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgInR5cGUiOiAiZXNsaW50IgogICAgICB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJ1bml0LmVuZ2luZSI6ICJUQVBUZXN0RW5naW5lIiwKICAgICJ1bml0LmVuZ2luZS50YXAuY29tbWFuZCI6ICJOT0RFX0VOVj10ZXN0IG5vZGVfbW9kdWxlcy8uYmluL2plc3QgLS1mb3JjZUV4aXQgLS1yZXBvcnRlcnMgamVzdC10YXAtcmVwb3J0ZXIgLS1jb3ZlcmFnZVJlcG9ydGVycyBjb2JlcnR1cmEiLAogICAgInVuaXQuZW5naW5lLnRhcC5jb3ZlciI6ICJOT0RFX0VOVj10ZXN0IG5vZGVfbW9kdWxlcy8uYmluL2plc3QgLS1mb3JjZUV4aXQgLS1yZXBvcnRlcnMgamVzdC10YXAtcmVwb3J0ZXIgLS1jb3ZlcmFnZVJlcG9ydGVycyBjb2JlcnR1cmEiCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAiLmFyY2FuaXN0LWV4dGVuc2lvbnMvdGFwX3Rlc3RfZW5naW5lIgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0sCiAgICAiamF2YXNjcmlwdCI6IHsKICAgICAgInR5cGUiOiAiZXNsaW50Igo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAiLmFyY2FuaXN0LWV4dGVuc2lvbnMvZXNsaW50X2xpbnRlciIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
