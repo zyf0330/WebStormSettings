@@ -22,6 +22,8 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" timestamp="1531219606843" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/utils/hls.js" timestamp="1531219472383" />
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1530597826259">
         <mark key="'" line="214" column="0" />
         <mark key="[" line="28" column="10" />
@@ -157,7 +159,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531217717004">
+      <file name="/JavaScript Console" timestamp="1531219679234">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -186,6 +188,12 @@
         <mark key="." line="107" column="10" />
         <mark key="^" line="8" column="31" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" timestamp="1531219747917">
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="44" />
+        <mark key="." line="52" column="44" />
+        <mark key="^" line="52" column="44" />
+      </file>
       <file name="/Dummy.txt" timestamp="1531218033484">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -211,6 +219,7 @@
         <mark key="." line="491" column="0" />
         <mark key="^" line="472" column="51" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/cdnList.js" timestamp="1531219275381" />
       <file name="internal/module.js" timestamp="1530080553814">
         <mark key="[" line="0" column="0" />
       </file>
@@ -355,16 +364,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWdub3JlOiA=</text>
+        <text>e.message</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWdub3JlOiA=</text>
+        <text>e.message</text>
       </register>
       <register name="/" type="4">
         <text>ignore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlnbm9yZTogKHRhcmdldCkgPT4gewogICAgICB0YXJnZXQuYXJncy5mb3JFYWNoKChhcmcpID0+IHsKICAgICAgICBkZWxldGUgYXJnLnRzCiAgICAgIH0pCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZXJyb3Ioe2Vycm9yOiBlLm1lc3NhZ2UsIHVybH0sICdTaW5nbGUgVGFzayBFcnJvcicpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgaWYoKQo=</text>
