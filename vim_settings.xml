@@ -16,7 +16,7 @@
         <mark key="^" line="53" column="22" />
         <mark key="." line="53" column="22" />
       </file>
-      <file name="/fragment.js" timestamp="1530785567578">
+      <file name="/fragment.js" timestamp="1531215829877">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -42,7 +42,16 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1531201578220" />
+      <file name="_stream_transform.js" timestamp="1531214834304">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1531215899692">
+        <mark key="'" line="87" column="23" />
+        <mark key="[" line="86" column="62" />
+        <mark key="]" line="87" column="10" />
+        <mark key="^" line="87" column="10" />
+        <mark key="." line="87" column="10" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Msg.jsx" timestamp="1531126479955">
         <mark key="[" line="12" column="53" />
         <mark key="]" line="13" column="17" />
@@ -65,7 +74,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531202364492">
+      <file name="/JavaScript Console" timestamp="1531215791577">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1530597826259">
@@ -157,6 +166,7 @@
       <file name="internal/module.js" timestamp="1530080553814">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/node_modules/engine.io/lib/socket.js" timestamp="1531215902142" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" timestamp="1530092633622">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="16" />
@@ -203,6 +213,7 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/node_modules/socket.io/lib/client.js" timestamp="1531215653301" />
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views_react/index.html" timestamp="1530761325972">
         <mark key="'" line="83" column="37" />
         <mark key="[" line="83" column="20" />
@@ -247,8 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
-      <jump line="226" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="230" column="24" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="234" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="311" column="37" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
@@ -347,55 +356,57 @@
       <jump line="177" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/index.html" />
       <jump line="202" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/index.html" />
       <jump line="203" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/index.html" />
+      <jump line="82" column="21" filename="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="87" column="23" filename="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/src/Connection.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.close</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGUuYXJnc1swXS5tc2cgPSAn5L2g5aW9Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>this.close</text>
+        <text>hello</text>
       </register>
       <register name="/" type="4">
-        <text>msg</text>
+        <text>he</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBkb21Db250YWluZXIgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjYXV0aCcpOwogIFJlYWN0RE9NLnJlbmRlcihSZWFjdC5jcmVhdGVFbGVtZW50KEF1dGguZGVmYXVsdCksIGRvbUNvbnRhaW5lcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1zZyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGUuYXJnc1swXS5tc2cgPSAn5L2g5aW9Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIG1zZy5yZW5kZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPCiAgICAgICAgdGhpcy5jbGllbnRTb2NrZXQub24oJ2Vycm9yJywgKGUpID0+IHsKICAgICAgICAgIGUKICAgICAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJlYWN0RE9NLnJlbmRlcihtc2csIGRvbUNvbnRhaW5lcikK</text>
+        <text encoding="base64">ICAgICAgICAgZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1zZy5wcm9wcy50ZXh0ID0gdGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0nLCBlLmV2ZW50TmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBtc2cgPSBSZWFjdC5jcmVhdGVFbGVtZW50KE1zZy5kZWZhdWx0LCB7dGV4dDogJyd9KQogIFJlYWN0RE9NLnJlbmRlcihtc2csIGRvbUNvbnRhaW5lcikK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1zZyA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQl0aGlzLm1zZyA9IGJvZHkubXNnCg==</text>
+        <text encoding="base64">ICAgIC8vIG1zZy5yZW5kZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXRoaXMubXNnID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgIFJlYWN0RE9NLnJlbmRlcihtc2csIGRvbUNvbnRhaW5lcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCXRoaXMubXNnID0gYm9keS5tc2cK</text>
+        <text encoding="base64">ICAgIG1zZy5wcm9wcy50ZXh0ID0gdGV4dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXRoaXMubXNnID0gbnVsbAo=</text>
+        <text encoding="base64">ICBjb25zdCBtc2cgPSBSZWFjdC5jcmVhdGVFbGVtZW50KE1zZy5kZWZhdWx0LCB7dGV4dDogJyd9KQogIFJlYWN0RE9NLnJlbmRlcihtc2csIGRvbUNvbnRhaW5lcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>msg</last-search>
+      <last-search>he</last-search>
       <last-offset />
-      <last-pattern>msg</last-pattern>
+      <last-pattern>he</last-pattern>
       <last-replace>wid</last-replace>
       <last-substitute>workerId</last-substitute>
       <last-dir>1</last-dir>
@@ -403,8 +414,6 @@
     </search>
     <history>
       <history-search>
-        <entry>present</entry>
-        <entry>\.</entry>
         <entry>,</entry>
         <entry>plu</entry>
         <entry>source</entry>
@@ -423,6 +432,8 @@
         <entry>this.msg</entry>
         <entry>text</entry>
         <entry>msg</entry>
+        <entry>e</entry>
+        <entry>he</entry>
       </history-search>
       <history-cmd>
         <entry>!pwd</entry>
