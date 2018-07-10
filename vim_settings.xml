@@ -42,6 +42,12 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1531192842815">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+        <mark key="^" line="28" column="17" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Msg.jsx" timestamp="1531126479955">
         <mark key="[" line="12" column="53" />
         <mark key="]" line="13" column="17" />
@@ -100,7 +106,7 @@
         <mark key="." line="55" column="15" />
         <mark key="^" line="55" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531190174062">
+      <file name="/Dummy.txt" timestamp="1531191394871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -202,9 +208,6 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/static/scripts/auth.js" timestamp="1530862642681">
-        <mark key="'" line="2" column="10" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views_react/index.html" timestamp="1530761325972">
         <mark key="'" line="83" column="37" />
         <mark key="[" line="83" column="20" />
@@ -222,6 +225,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="22" column="10" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1531197745801" />
       <file name="/Clipboard.txt" timestamp="1528965672600">
         <mark key="[" line="0" column="0" />
       </file>
@@ -350,11 +354,11 @@
       <jump line="203" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1zZyA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>this.close</text>
       </register>
       <register name="-" type="4">
-        <text>msg</text>
+        <text>this.close</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
@@ -426,7 +430,6 @@
         <entry>msg</entry>
       </history-search>
       <history-cmd>
-        <entry>!ls</entry>
         <entry>!pwd</entry>
         <entry>ls</entry>
         <entry>open</entry>
@@ -445,6 +448,7 @@
         <entry>-2</entry>
         <entry>-24</entry>
         <entry>+11</entry>
+        <entry>64</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
