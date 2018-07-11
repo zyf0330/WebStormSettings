@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1531272975163">
+      <file name="/fragment.js" timestamp="1531274694613">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="4" />
+        <mark key="[" line="0" column="57" />
+        <mark key="]" line="0" column="57" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Logout.jsx" timestamp="1531190050378">
         <mark key="[" line="10" column="0" />
@@ -73,6 +73,10 @@
       <file name="/Clipboard.txt" timestamp="1528965672600">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Connector.js" timestamp="1531274691571">
+        <mark key="[" line="157" column="24" />
+        <mark key="]" line="157" column="74" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/index.html" timestamp="1531191322307">
         <mark key="'" line="204" column="15" />
         <mark key="[" line="204" column="0" />
@@ -99,7 +103,7 @@
       <file name="internal/async_hooks.js" timestamp="1531273216779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531273274016">
+      <file name="/JavaScript Console" timestamp="1531274676437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/node_modules/tinder-center-sdk/src/index.d.ts" timestamp="1531273111749" />
@@ -270,7 +274,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>QueueMessage</text>
+        <text>protos.proto.lookup(`tinder.${app}.${messageType}`)</text>
       </register>
       <register name="-" type="4">
         <text>.argument.content</text>
@@ -309,7 +313,7 @@
         <text encoding="base64">ICAgIFJlYWN0RE9NLnJlbmRlcihtc2csIGRvbUNvbnRhaW5lcikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>118</text>
       </register>
     </registers>
     <search>
@@ -345,7 +349,6 @@
         <entry>e</entry>
       </history-search>
       <history-cmd>
-        <entry>!pwd</entry>
         <entry>ls</entry>
         <entry>open</entry>
         <entry>sp</entry>
@@ -365,6 +368,7 @@
         <entry>+11</entry>
         <entry>64</entry>
         <entry>w</entry>
+        <entry>118</entry>
       </history-cmd>
       <history-expr />
       <history-input />
