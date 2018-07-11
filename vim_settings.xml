@@ -9,12 +9,12 @@
         <mark key="." line="135" column="8" />
         <mark key="^" line="135" column="8" />
       </file>
-      <file name="/fragment.js" timestamp="1531283190770">
+      <file name="/fragment.js" timestamp="1531304651035">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="21" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/app.sync.json" timestamp="1531295380609">
         <mark key="'" line="3" column="0" />
@@ -29,18 +29,17 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1531304535027" />
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Msg.jsx" timestamp="1531126479955">
         <mark key="[" line="12" column="53" />
         <mark key="]" line="13" column="17" />
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/index.js" timestamp="1531285151614">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/src/transform/fromServer.js" timestamp="1531302905281">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" timestamp="1531272542878" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/utils/hls.js" timestamp="1531219472383" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-pusher/node_modules/grpc/src/client.js" timestamp="1531272937248" />
+      <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/src/transform/fromServer.js" timestamp="1531304831765">
         <mark key="[" line="243" column="13" />
         <mark key="]" line="243" column="26" />
         <mark key="^" line="243" column="26" />
@@ -144,6 +143,10 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/service/SyncResultConsumer.js" timestamp="1531286566527">
         <mark key="[" line="20" column="11" />
       </file>
+      <file name="$USER_HOME$/project/duobei/duobeiyun-mobile-server/dbyms-events.md" timestamp="1531304245110">
+        <mark key="[" line="25" column="2" />
+        <mark key="]" line="25" column="16" />
+      </file>
       <file name="internal/async_hooks.js" timestamp="1531273216779">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,9 +156,10 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531303010942">
+      <file name="/JavaScript Console" timestamp="1531304355535">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/node_modules/tinder-center-sdk/src/index.d.ts" timestamp="1531273111749" />
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
         <mark key="[" line="49" column="4" />
         <mark key="]" line="49" column="4" />
@@ -210,9 +214,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="6" column="52" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/cdnList.js" timestamp="1531219275381" />
       <file name="internal/module.js" timestamp="1530080553814">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/node_modules/engine.io/lib/socket.js" timestamp="1531215902142" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" timestamp="1531296883274">
         <mark key="[" line="19" column="28" />
         <mark key="]" line="19" column="37" />
@@ -232,6 +238,7 @@
         <mark key="." line="42" column="22" />
         <mark key="^" line="42" column="22" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1531197745801" />
       <file name="/index.html" timestamp="1531285698217">
         <mark key="[" line="202" column="0" />
         <mark key="]" line="205" column="2" />
@@ -353,8 +360,8 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/up.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOgo=</text>
+      <register name="&quot;" type="4">
+        <text>ControlRoomActivityCallback</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
