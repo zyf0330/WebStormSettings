@@ -111,6 +111,10 @@
       <file name="_stream_transform.js" timestamp="1531214834304">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile" timestamp="1531294317693">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="17" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/service/SyncResultConsumer.js" timestamp="1531286566527">
         <mark key="[" line="20" column="11" />
       </file>
@@ -123,7 +127,7 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531283182852">
+      <file name="/JavaScript Console" timestamp="1531293858354">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -144,6 +148,12 @@
         <mark key="]" line="22" column="65" />
         <mark key="^" line="20" column="17" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/package.json" timestamp="1531294124163">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" timestamp="1531273189561">
         <mark key="[" line="34" column="25" />
@@ -298,16 +308,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>async sendActionToStreamSync(action, isVideo) {
-    const streamName = `${isVideo ? 'video-' : ''}${this.roomId}`;
-    return await producer.send(consts.ROUTINGKEY_TASK, Buffer.from(JSON.stringify({
-      action,
-      streamName
-    })))
-  }</text>
+        <text>node:8-alpine</text>
       </register>
       <register name="-" type="4">
-        <text>domContainer</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>dom</text>
