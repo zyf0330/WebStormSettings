@@ -40,6 +40,12 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/src/transform/fromServer.js" timestamp="1531302905281">
+        <mark key="[" line="243" column="13" />
+        <mark key="]" line="243" column="26" />
+        <mark key="^" line="243" column="26" />
+        <mark key="." line="243" column="26" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-sync" timestamp="1531295456347">
         <mark key="'" line="24" column="18" />
         <mark key="[" line="24" column="25" />
@@ -147,7 +153,7 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531293858354">
+      <file name="/JavaScript Console" timestamp="1531302851047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -182,8 +188,8 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531294790822">
-        <mark key="[" line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1531298340118">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -347,8 +353,8 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/up.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lOgo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -360,31 +366,31 @@
         <text encoding="base64">IC1mIERvY2tlcmZpbGUtc3RyZWFtU3luYw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwdXNoLXN0cmVhbVN5bmMiOiAiZG9ja2VyIHB1c2ggZG9ja2VyLWh1Yi5kdW9iZWl5dW4uY29tOjUwMDAvdGluZGVyL3RpbmRlci1hcHBzLXN0cmVhbS1TeW5jOmxhdGVzdCIK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9InNjcmlwdHMvTXNnLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICJwdXNoLXN0cmVhbVN5bmMiOiAiZG9ja2VyIHB1c2ggZG9ja2VyLWh1Yi5kdW9iZWl5dW4uY29tOjUwMDAvdGluZGVyL3RpbmRlci1hcHBzLXN0cmVhbS1TeW5jOmxhdGVzdCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMubXNnID0gJ25vIGtleScK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9InNjcmlwdHMvTXNnLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubXNnID0gYm9keS5tc2cK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMubXNnID0gJ25vIGtleScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1zZyA9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubXNnID0gYm9keS5tc2cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLm1zZyA9IGJvZHkubXNnCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1zZyA9IG51bGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1zZyA9IG51bGwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLm1zZyA9IGJvZHkubXNnCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLm1zZyA9IG51bGwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLm1zZyA9IGJvZHkubXNnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
