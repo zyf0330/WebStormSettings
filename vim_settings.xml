@@ -9,12 +9,12 @@
         <mark key="." line="135" column="8" />
         <mark key="^" line="135" column="8" />
       </file>
-      <file name="/fragment.js" timestamp="1531274726087">
+      <file name="/fragment.js" timestamp="1531283190770">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Logout.jsx" timestamp="1531190050378">
         <mark key="[" line="10" column="0" />
@@ -29,11 +29,10 @@
         <mark key="^" line="13" column="17" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" timestamp="1531272542878" />
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/index.js" timestamp="1531278764204">
-        <mark key="[" line="126" column="39" />
-        <mark key="]" line="126" column="44" />
-        <mark key="^" line="126" column="44" />
-        <mark key="." line="126" column="44" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/index.js" timestamp="1531285151614">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/utils/hls.js" timestamp="1531219472383" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder-pusher/node_modules/grpc/src/client.js" timestamp="1531272937248" />
@@ -57,6 +56,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/errorHandler.js" timestamp="1531285150319">
+        <mark key="'" line="9" column="25" />
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" timestamp="1530092633622">
         <mark key="[" line="4" column="17" />
@@ -123,7 +129,7 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531278862449">
+      <file name="/JavaScript Console" timestamp="1531283182852">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/node_modules/tinder-center-sdk/src/index.d.ts" timestamp="1531273111749" />
@@ -191,7 +197,6 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1531197745801" />
     </filemarks>
     <jumps>
-      <jump line="329" column="7" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="333" column="7" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="319" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/worker.js" />
       <jump line="344" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
@@ -291,55 +296,56 @@
       <jump line="9" column="36" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/index.js" />
       <jump line="157" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="155" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="9" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/errorHandler.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fix(Forwarder): grpc 调用添加超时 deadline</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaWYoZXJyb3IgaW5zdGFuY2VvZiAgRXJyb3IpewogICAgICAgIGVycm9yID0gZXJyb3Iuc3RhY2sKICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>fix(Forwarder): grpc 调用添加超时 deadline</text>
+        <text>{message: error.message, stack: error.stack}</text>
       </register>
       <register name="/" type="4">
-        <text>let</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoY29udGVudFR5cGUgPT0gbnVsbCkgewogICAgICAgICAgbG9nLmVycm9yKGBubyBzdWNoIFR5cGUgZGVmaW5lZCBpbiBwcm90byBvZiAke2FwcH06ICR7bWVzc2FnZVR5cGV9YCkKICAgICAgICAgIGNiKG5ldyBFcnJvcihgbm8gc3VjaCBUeXBlIGRlZmluZWQgaW4gcHJvdG8gb2YgJHthcHB9OiAke21lc3NhZ2VUeXBlfWApKQogICAgICAgICAgcmV0dXJuCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoZXJyb3IgaW5zdGFuY2VvZiAgRXJyb3IpewogICAgICAgIGVycm9yID0gZXJyb3Iuc3RhY2sKICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICBlcnJvciA9IHttZXNzYWdlOiBlcnJvci5tZXNzYWdlLCBzdGFjazogZXJyb3J9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBjb250ZW50VHlwZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJz09PT09PT09PT09PT09PT09PT0nLGVycm9yKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgY29udGVudFR5cGUK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKGBubyBzdWNoIFR5cGUgZGVmaW5lZCBpbiBwcm90byBvZiAke2FwcH06ICR7bWVzc2FnZVR5cGV9YCkKICAgICAgICAgICAgY2IobmV3IEVycm9yKGBubyBzdWNoIFR5cGUgZGVmaW5lZCBpbiBwcm90byBvZiAke2FwcH06ICR7bWVzc2FnZVR5cGV9YCkpCiAgICAgICAgICAgIHJldHVybgogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBjb250ZW50VHlwZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwYXRoID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgY29udGVudFR5cGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICBsb2cuZXJyb3IoZSwgYGxvb2t1cCBtZXNzYWdlVHlwZSAke3BhdGh9IGZhaWxgKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKGBubyBzdWNoIFR5cGUgZGVmaW5lZCBpbiBwcm90byBvZiAke2FwcH06ICR7bWVzc2FnZVR5cGV9YCkKICAgICAgICAgICAgY2IobmV3IEVycm9yKGBubyBzdWNoIFR5cGUgZGVmaW5lZCBpbiBwcm90byBvZiAke2FwcH06ICR7bWVzc2FnZVR5cGV9YCkpCiAgICAgICAgICAgIHJldHVybgogICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>let</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>let</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace>wid</last-replace>
       <last-substitute>workerId</last-substitute>
       <last-dir>1</last-dir>
@@ -347,7 +353,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.</entry>
         <entry>pr</entry>
         <entry>=</entry>
         <entry>ms</entry>
@@ -367,6 +372,7 @@
         <entry>e</entry>
         <entry>pa</entry>
         <entry>let</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
