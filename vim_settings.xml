@@ -42,11 +42,6 @@
         <mark key="." line="55" column="15" />
         <mark key="^" line="55" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/index.js" timestamp="1531272602229">
-        <mark key="'" line="9" column="36" />
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="42" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/node_modules/tinder-center-sdk/src/broadcast/index.js" timestamp="1531273164429">
         <mark key="[" line="25" column="40" />
         <mark key="]" line="25" column="51" />
@@ -119,7 +114,9 @@
       <file name="_stream_transform.js" timestamp="1531214834304">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/service/SyncResultConsumer.js" timestamp="1531273249947" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/service/SyncResultConsumer.js" timestamp="1531286566527">
+        <mark key="[" line="20" column="11" />
+      </file>
       <file name="internal/async_hooks.js" timestamp="1531273216779">
         <mark key="[" line="0" column="0" />
       </file>
@@ -158,17 +155,15 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531285798824">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="35" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views_react/index.js" timestamp="1530760084485">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="22" column="7" />
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/Room.js" timestamp="1531291424466">
+        <mark key="[" line="122" column="2" />
+        <mark key="]" line="128" column="2" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/.babelrc" timestamp="1530871648660">
         <mark key="[" line="3" column="0" />
@@ -310,7 +305,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>domContainer</text>
+        <text>async sendActionToStreamSync(action, isVideo) {
+    const streamName = `${isVideo ? 'video-' : ''}${this.roomId}`;
+    return await producer.send(consts.ROUTINGKEY_TASK, Buffer.from(JSON.stringify({
+      action,
+      streamName
+    })))
+  }</text>
       </register>
       <register name="-" type="4">
         <text>domContainer</text>
