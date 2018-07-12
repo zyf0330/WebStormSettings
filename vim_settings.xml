@@ -189,10 +189,10 @@
         <mark key="^" line="20" column="17" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/package.json" timestamp="1531295675797">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/package.json" timestamp="1531361534476">
         <mark key="'" line="16" column="102" />
-        <mark key="[" line="16" column="92" />
-        <mark key="]" line="16" column="92" />
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="19" />
         <mark key="^" line="16" column="92" />
         <mark key="." line="16" column="92" />
       </file>
@@ -370,8 +370,8 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/up.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyDliJ3lp4vljJYgcm9vbVBvbGljeQo=</text>
+      <register name="&quot;" type="4">
+        <text>push-streamSync</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
