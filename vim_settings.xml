@@ -50,7 +50,7 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/User.js" timestamp="1531471373832">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/User.js" timestamp="1531718590295">
         <mark key="[" line="363" column="0" />
         <mark key="]" line="363" column="0" />
         <mark key="." line="363" column="0" />
@@ -211,7 +211,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531472761496">
+      <file name="/JavaScript Console" timestamp="1531717960428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -234,6 +234,12 @@
         <mark key="^" line="20" column="17" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/config/default.yaml" timestamp="1531717956603">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="33" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/package.json" timestamp="1531361534476">
         <mark key="'" line="16" column="102" />
         <mark key="[" line="16" column="5" />
@@ -254,8 +260,8 @@
         <mark key="." line="57" column="51" />
         <mark key="^" line="57" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531472233070">
-        <mark key="[" line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1531720214107">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="4" />
@@ -434,11 +440,11 @@
       <jump line="9" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-edge/.eslintrc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhc3luYyByZXBlYXQodXJsLCBjZG5OYW1lLCBzdHJlYW1OYW1lKSB7CiAgICB3aGlsZSAodGhpcy5ydW5uaW5nKSB7CiAgICAgIGNvbnN0IHN0YXJ0VHMgPSBEYXRlLm5vdygpOwogICAgICBsZXQgZGVsYXkgPSBOT1JNQUxfREVMQVk7CiAgICAgIHRyeSB7CiAgICAgICAgY29uc3QgcmVzID0gYXdhaXQgdGhpcy5mZXRjaEFuZFNlbmRUaW1lc3RhbXAodXJsLCBjZG5OYW1lKTsKICAgICAgICBjb25zdCByZW1haW5UaW1lID0gTk9STUFMX0RFTEFZIC0gKERhdGUubm93KCkgLSBzdGFydFRzKTsKICAgICAgICBpZiAocmVzKSB7CiAgICAgICAgICBsb2cuaW5mbyh7dXJsLCBzdHJlYW1OYW1lfSwgJ1NpbmdsZSBUYXNrIFN1Y2Nlc3MnKQogICAgICAgICAgZGVsYXkgPSBNYXRoLm1heChyZW1haW5UaW1lLCAwKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgbG9nLmVycm9yKHtlcnJvcjogJ3Jlc3BvbnNlIGlzIG51bGwnLCB1cmwsIHN0cmVhbU5hbWV9LCAnU2luZ2xlIFRhc2sgRXJyb3InKTsKICAgICAgICAgIGRlbGF5ID0gRkFJTEVEX0RFTEFZOwogICAgICAgIH0KICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgIGxvZy5lcnJvcih7ZXJyb3I6IGUubWVzc2FnZSwgdXJsLCBzdHJlYW1OYW1lfSwgJ1NpbmdsZSBUYXNrIEVycm9yJyk7CiAgICAgICAgZGVsYXkgPSBGQUlMRURfREVMQVk7CiAgICAgIH0KICAgICAgYXdhaXQgUHJvbWlzZS5kZWxheShkZWxheSk7CiAgICB9CiAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>001</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>001</text>
       </register>
       <register name="/" type="4">
         <text>ack</text>
@@ -474,7 +480,7 @@
         <text encoding="base64">ICAgICJwdXNoLXN0cmVhbVN5bmMiOiAiZG9ja2VyIHB1c2ggZG9ja2VyLWh1Yi5kdW9iZWl5dW4uY29tOjUwMDAvdGluZGVyL3RpbmRlci1hcHBzLXN0cmVhbS1TeW5jOmxhdGVzdCIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>22</text>
       </register>
     </registers>
     <search>
@@ -510,7 +516,6 @@
         <entry>ack</entry>
       </history-search>
       <history-cmd>
-        <entry>sp</entry>
         <entry>vsp</entry>
         <entry>-18</entry>
         <entry>221</entry>
@@ -530,6 +535,7 @@
         <entry>-16</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>22</entry>
       </history-cmd>
       <history-expr />
       <history-input />
