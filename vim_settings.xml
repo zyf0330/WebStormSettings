@@ -211,11 +211,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/schemas/index.js" timestamp="1531725114617">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="13" />
-        <mark key="^" line="20" column="1" />
-        <mark key="." line="20" column="2" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/schemas/index.js" timestamp="1531725925532">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="43" />
+        <mark key="^" line="23" column="43" />
+        <mark key="." line="23" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.js" timestamp="1531724544842">
         <mark key="'" line="2" column="8" />
@@ -224,7 +224,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="55" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531724105729">
+      <file name="/JavaScript Console" timestamp="1531725781655">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -273,7 +273,7 @@
         <mark key="." line="57" column="51" />
         <mark key="^" line="57" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531720383295">
+      <file name="/Dummy.txt" timestamp="1531725188493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="12" />
@@ -313,6 +313,9 @@
         <mark key="]" line="42" column="22" />
         <mark key="." line="42" column="22" />
         <mark key="^" line="42" column="22" />
+      </file>
+      <file name="vm:170" timestamp="1531725760092">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/jobs/creator.js" timestamp="1530785750734">
         <mark key="'" line="41" column="23" />
@@ -454,7 +457,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>coerceTypes</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -466,33 +469,33 @@
         <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi91dGlscycpLmdldExvZ2dlcignQ29ubmVjdGlvbicpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICB1c2VEZWZhdWx0czogdHJ1ZSwK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBfLnppcFdpdGgoY29uc3RzLkNMSUVOVF9JTkZPX0ZJRUxEUywgKCkgPT4gewoKICAgICAgICAgICAgICB9KQoKICAgICAgICAgICAgICB1c2VySW5mbyA9IHt1aWR9Cgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>{
   return 
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhhLGIpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Xy5tYXAoYXJyLCAoYSwgYikgPT4gewogIGNvbnNvbGUubG9nKGEsYikKICByZXR1cm4gewogICAgW2FdOm51bGwKICB9Cn0p</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhhKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Xy5tYXAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Xy5tYXBWYWx1ZXMoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgbyA9IF8uemlwT2JqZWN0KGFyciwgJycucmVwZWF0KDIpLmZpbGwobnVsbCkpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobykK</text>
+        <text encoding="base64">Y29uc3QgbyA9IF8uemlwT2JqZWN0KGFyciwgJycucmVwZWF0KDIpLmZpbGwobnVsbCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
