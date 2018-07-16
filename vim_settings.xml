@@ -260,15 +260,18 @@
         <mark key="." line="57" column="51" />
         <mark key="^" line="57" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531720214107">
+      <file name="/Dummy.txt" timestamp="1531720383295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/Room.js" timestamp="1531291424466">
-        <mark key="[" line="122" column="2" />
-        <mark key="]" line="135" column="2" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/Room.js" timestamp="1531722894954">
+        <mark key="'" line="276" column="10" />
+        <mark key="[" line="280" column="1" />
+        <mark key="]" line="281" column="14" />
+        <mark key="^" line="281" column="14" />
+        <mark key="." line="281" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" timestamp="1530611632479">
         <mark key="'" line="481" column="8" />
@@ -312,6 +315,10 @@
         <mark key="^" line="46" column="13" />
         <mark key="." line="46" column="13" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/redisUtils.js" timestamp="1531722358920">
+        <mark key="[" line="64" column="8" />
+        <mark key="]" line="64" column="20" />
+      </file>
       <file name="/index.html" timestamp="1531285698217">
         <mark key="[" line="202" column="0" />
         <mark key="]" line="205" column="2" />
@@ -338,7 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="427" column="22" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="426" column="7" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="429" column="9" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
       <jump line="37" column="3" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" />
@@ -438,16 +444,17 @@
       <jump line="138" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="136" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="9" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-edge/.eslintrc" />
+      <jump line="276" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/Room.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>001</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>001</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>ack</text>
+        <text>\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi91dGlscycpLmdldExvZ2dlcignQ29ubmVjdGlvbicpOwo=</text>
@@ -484,17 +491,16 @@
       </register>
     </registers>
     <search>
-      <last-search>ack</last-search>
+      <last-search>\.</last-search>
       <last-offset />
-      <last-pattern>ack</last-pattern>
+      <last-pattern>\.</last-pattern>
       <last-replace>wid</last-replace>
       <last-substitute>workerId</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>msg</entry>
         <entry>he</entry>
         <entry>tar</entry>
         <entry>ignore</entry>
@@ -514,6 +520,7 @@
         <entry>ut</entry>
         <entry>con</entry>
         <entry>ack</entry>
+        <entry>\.</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
