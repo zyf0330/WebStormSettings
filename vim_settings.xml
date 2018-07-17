@@ -126,14 +126,14 @@
         <mark key="^" line="16" column="92" />
         <mark key="." line="16" column="92" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" timestamp="1531820038218">
-        <mark key="'" line="130" column="16" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="88" column="17" />
-        <mark key="." line="92" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" timestamp="1531821623418">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="95" column="8" />
+        <mark key="]" line="95" column="19" />
+        <mark key="^" line="95" column="19" />
+        <mark key="." line="95" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531820857835">
+      <file name="/Dummy.txt" timestamp="1531820861842">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -171,11 +171,11 @@
       <file name="vm:170" timestamp="1531725760092">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.js" timestamp="1531820380034">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="11" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.js" timestamp="1531821149115">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-edge/Service.js" timestamp="1531471073910">
         <mark key="[" line="15" column="0" />
@@ -185,8 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/errorHandler.js" />
-      <jump line="91" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/index.html" />
       <jump line="197" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/index.html" />
       <jump line="199" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/index.html" />
       <jump line="201" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/index.html" />
@@ -285,24 +283,29 @@
       <jump line="23" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder-center-sdk/src/utils/log.js" />
       <jump line="15" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder-edge-nodejs/src/utils/log.js" />
       <jump line="23" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder-edge-nodejs/src/utils/log.js" />
+      <jump line="77" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" />
+      <jump line="95" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlcmlhbGl6ZXJzOiB7CiAgICAgIGVycm9yOiBwaW5vLnN0ZFNlcmlhbGl6ZXJzLmVyciwKICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>task == null</text>
       </register>
       <register name="-" type="4">
-        <text>Pinorint</text>
+        <text>task == null</text>
       </register>
       <register name="/" type="4">
-        <text>m</text>
+        <text>t</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlcmlhbGl6ZXJzOiB7CiAgICAgIGVycm9yOiBwaW5vLnN0ZFNlcmlhbGl6ZXJzLmVyciwKICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIF8uaXNFbXB0eSgpCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Y29uc3QgcGlubyA9IFAoe30pOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>{
   log = pino(
 
@@ -312,35 +315,32 @@
   );
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBzZXJpYWxpemVyczogewogICAgZXJyb3I6IFAuc3RkU2VyaWFsaXplcnMuZXJyCiAgfSwK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">KGVycikgPT4gewogICAgICBlcnIKICAgIGRlYnVnZ2VyCiAgfSw=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVidWdnZXIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ZGVidWdnZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFub3RoZXI6IGFub3RoZXJTZXJpYWxpemVyCg==</text>
+        <text encoding="base64">ZGVidWdnZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IGJyb3dzZXI6ICB7CiAgIAogICAgc2VyaWFsaXplOiB0cnVlCiAgfQo=</text>
+        <text encoding="base64">ICAgIGFub3RoZXI6IGFub3RoZXJTZXJpYWxpemVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpCmNvbnN0IHBvc3RmaXhlcyA9IHsKICAnL2luZGV4Lm0zdTgnOiAnMScsCiAgJ19iMS9pbmRleC5tM3U4JzogJzInLAogICdfYjIvaW5kZXgubTN1OCc6ICczJywKICAnX2IzL2luZGV4Lm0zdTgnOiAnNCcsCn07Cgpjb25zdCBvbGQgPSB7CiAgYXVkaW9DZG5zOiBbCiAgICB7CiAgICAgIG5hbWU6ICdiZCcsCiAgICAgIGRvbWFpbjogJ2h0dHA6Ly9oYmQtbGl2ZS5kdW9iZWl5dW4uY29tJywKICAgICAgYXBwOiAnL2R1b2JlaS8nLAogICAgICBwb3N0Zml4ZXMsCiAgICB9LAogICAgewogICAgICBuYW1lOiAnZncnLAogICAgICBkb21haW46ICdodHRwOi8vaGZ3LmxpdmUuZHVvYmVpeXVuLmNvbScsCiAgICAgIGFwcDogJy9kdW9iZWkvJywKICAgICAgcG9zdGZpeGVzLAogICAgfSwKICAgIHsKICAgICAgbmFtZTogJ2RsJywKICAgICAgZG9tYWluOiAnaHR0cDovL2hkbC1saXZlLmR1b2JlaXl1bi5jb20nLAogICAgICBhcHA6ICcvZHVvYmVpLycsCiAgICAgIHBvc3RmaXhlcywKICAgIH0sCiAgXSwKICB2aWRlb0NkbnM6IFsKICAgIHsKICAgICAgbmFtZTogJ2NjJywKICAgICAgZG9tYWluOiAnaHR0cDovL2hjYy5saXZlLmR1b2JlaXl1bi5jb20nLAogICAgICBhcHA6ICcvZHVvYmVpLycsCiAgICAgIHBvc3RmaXhlcywKICAgIH0sCiAgICB7CiAgICAgIG5hbWU6ICdiZCcsCiAgICAgIGRvbWFpbjogJ2h0dHA6Ly9oYmQtbGl2ZS5kdW9iZWl5dW4uY29tJywKICAgICAgYXBwOiAnL2R1b2JlaS8nLAogICAgICBwb3N0Zml4ZXMsCiAgICB9LAogICAgewogICAgICBuYW1lOiAnZncnLAogICAgICBkb21haW46ICdodHRwOi8vaGZ3LmxpdmUuZHVvYmVpeXVuLmNvbScsCiAgICAgIGFwcDogJy9kdW9iZWkvJywKICAgICAgcG9zdGZpeGVzLAogICAgfSwKICAgIHsKICAgICAgbmFtZTogJ2RsJywKICAgICAgZG9tYWluOiAnaHR0cDovL2hkbC1saXZlLmR1b2JlaXl1bi5jb20nLAogICAgICBhcHA6ICcvZHVvYmVpLycsCiAgICAgIHBvc3RmaXhlcywKICAgIH0sCiAgXSwKfQpjb25zdCBuID0gewogIGF1ZGlvQ2RuczogWwogICAgewogICAgICBuYW1lOiAnY2MnLAogICAgICBkb21haW46ICdodHRwOi8vaGNjLmxpdmUuZHVvYmVpeXVuLmNvbScsCiAgICAgIGFwcDogJy9kdW9iZWkvJywKCiAgICAgIHBvc3RmaXhlczogewogICdfYjEvaW5kZXgubTN1OCc6ICcyJywKICAnX2IyL2luZGV4Lm0zdTgnOiAnMycsCn0sCiAgICB9LAogICAgewogICAgICBuYW1lOiAnYmQnLAogICAgICBkb21haW46ICdodHRwOi8vaGJkLWxpdmUuZHVvYmVpeXVuLmNvbScsCiAgICAgIGFwcDogJy9kdW9iZWkvJywKICAgICAgcG9zdGZpeGVzLAogICAgfSwKICAgIHsKICAgICAgbmFtZTogJ2Z3JywKICAgICAgZG9tYWluOiAnaHR0cDovL2hmdy5saXZlLmR1b2JlaXl1bi5jb20nLAogICAgICBhcHA6ICcvZHVvYmVpLycsCiAgICAgIHBvc3RmaXhlcywKICAgIH0sCiAgICB7CiAgICAgIG5hbWU6ICdkbCcsCiAgICAgIGRvbWFpbjogJ2h0dHA6Ly9oZGwtbGl2ZS5kdW9iZWl5dW4uY29tJywKICAgICAgYXBwOiAnL2R1b2JlaS8nLAogICAgICBwb3N0Zml4ZXMsCiAgICB9LAogIF0sCiAgdmlkZW9DZG5zOiBbCiAgICB7CiAgICAgIG5hbWU6ICdjYycsCiAgICAgIGRvbWFpbjogJ2h0dHA6Ly9oY2MubGl2ZS5kdW9iZWl5dW4uY29tJywKICAgICAgYXBwOiAnL2R1b2JlaS8nLAogICAgICBwb3N0Zml4ZXMsCiAgICB9LAogICAgewogICAgICBuYW1lOiAnYmQnLAogICAgICBkb21haW46ICdodHRwOi8vaGJkLWxpdmUuZHVvYmVpeXVuLmNvbScsCiAgICAgIGFwcDogJy9kdW9iZWkvJywKICAgICAgcG9zdGZpeGVzLAogICAgfSwKICAgIHsKICAgICAgbmFtZTogJ2Z3JywKICAgICAgZG9tYWluOiAnaHR0cDovL2hmdy5saXZlLmR1b2JlaXl1bi5jb20nLAogICAgICBhcHA6ICcvZHVvYmVpLycsCiAgICAgIHBvc3RmaXhlcywKICAgIH0sCiAgXSwKfQpjb25zdCBkaWZmQ2RuTGlzdCA9IGZ1bmN0aW9uIChvbGRDZG5zLCBuZXdDZG5zKSB7Cgljb25zdCByZXN1bHQgPSBbXQoJZm9yIChjb25zdCBjZG4gb2Ygb2xkQ2RucykgewoJICBjb25zdCBwb3N0Zml4ZXMgPSBjZG4ucG9zdGZpeGVzCgkJaWYgKG5ld0NkbnMuZmluZCgoX2NkbikgPT4gX2Nkbi5uYW1lID09IGNkbi5uYW1lKSA9PSBmYWxzZSkgewoJCQlyZXN1bHQucHVzaCh7CgkJCQljZG4sCgkJCQlwb3N0Zml4ZXMsCgkJCQlraW5kOiAnLScKCQkJfSkKICAgICAgY29udGludWUKCQl9CgkJZm9yKGNvbnN0IHBvc3RmaXggb2YgcG9zdGZpeGVzKXsKCiAgICB9CgoJfQoJaWYgKE9iamVjdC5rZXlzKG9sZENkbnMpLmxlbmd0aCAtIHJlc3VsdC5sZW5ndGggPCBPYmplY3Qua2V5cyhuZXdDZG5zKS5sZW5ndGgpIHsKCQlmb3IgKGNvbnN0IGsgaW4gbmV3Q2RucykgewoJCQlpZiAoayBpbiBvbGRDZG5zID09IGZhbHNlKSB7CgkJCQlyZXN1bHQucHVzaCh7CgkJCQkJa2V5OiBrLAoJCQkJCXZhbHVlOiBuZXdDZG5zW2tdLAoJCQkJCWtpbmQ6ICcrJwoJCQkJfSkKCQkJfQoJCX0KCX0KCXJldHVybiByZXN1bHQKfQpjb25zdCByID0gXy5kaWZmZXJlbmNlKFtvbGQsIG5dKQpyCmRlYnVnZ2VyCg==</text>
+        <text encoding="base64">IGJyb3dzZXI6ICB7CiAgIAogICAgc2VyaWFsaXplOiB0cnVlCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>m</last-search>
+      <last-search>t</last-search>
       <last-offset />
-      <last-pattern>m</last-pattern>
+      <last-pattern>t</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -348,7 +348,6 @@
     </search>
     <history>
       <history-search>
-        <entry>old</entry>
         <entry>new</entry>
         <entry>this.promises</entry>
         <entry>run</entry>
@@ -368,6 +367,7 @@
         <entry>P</entry>
         <entry>,</entry>
         <entry>m</entry>
+        <entry>t</entry>
       </history-search>
       <history-cmd>
         <entry>10</entry>
