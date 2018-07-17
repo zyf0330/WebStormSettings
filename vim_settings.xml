@@ -135,6 +135,12 @@
         <mark key="^" line="6" column="83" />
         <mark key="." line="6" column="83" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/vendors/dispatch.js" timestamp="1531795129981">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views_react/index.html" timestamp="1530761325972">
         <mark key="'" line="83" column="37" />
         <mark key="[" line="83" column="20" />
@@ -257,7 +263,7 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/package.json" timestamp="1531361534476">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/package.json" timestamp="1531792230142">
         <mark key="'" line="16" column="102" />
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="19" />
@@ -277,17 +283,14 @@
         <mark key="." line="57" column="51" />
         <mark key="^" line="57" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531725188493">
+      <file name="/Dummy.txt" timestamp="1531795278337">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="4" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/Room.js" timestamp="1531731988604">
-        <mark key="[" line="274" column="6" />
-        <mark key="]" line="274" column="12" />
-        <mark key="." line="274" column="12" />
-        <mark key="^" line="274" column="12" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/Room.js" timestamp="1531795124645">
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="44" column="26" />
+        <mark key="." line="44" column="26" />
+        <mark key="^" line="44" column="82" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" timestamp="1530611632479">
         <mark key="'" line="481" column="8" />
@@ -467,11 +470,11 @@
       <jump line="29" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/schemas/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGVycm9y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC5jYXRjaCgoZSkgPT4gewogICAgICAvLyDljrvpmaTlhpfplb/nmoTplJnor6/lsZ7mgKcKICAgICAgY29uc3QgX2UgPSBuZXcgRXJyb3IoZS5tZXNzYWdlKQogICAgICBfZS5zdGFjayA9IGUuc3RhY2sKICAgICAgcmV0dXJuIF9lCiAgICB9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVycm9y</text>
+        <text>.stack</text>
       </register>
       <register name="/" type="4">
         <text>n</text>
@@ -480,31 +483,31 @@
         <text>role</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBDTElFTlRfSU5GT19GSUVMRFM6IHsgYWNjZXNzVG9rZW46ICcnLCBjbGllbnRJbmZvOiAnJywgcm9sZTogMiwgaW1hZ2VVcmw6ICcnLCBjbGllbnRUeXBlOiAnJywgbmlja25hbWU6ICcnIH0sCg==</text>
+        <text encoding="base64">ICAgICAgX2UubWVzc2FnZSA9IGUubWVzc2FnZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgX2Uuc3RhY2sgPSBlLnN0YWNrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICBDTElFTlRfSU5GT19GSUVMRFM6IHsgYWNjZXNzVG9rZW46ICcnLCBjbGllbnRJbmZvOiAnJywgcm9sZTogMiwgaW1hZ2VVcmw6ICcnLCBjbGllbnRUeXBlOiAnJywgbmlja25hbWU6ICcnIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNvbnN0IF8gPSByZXF1aXJlKCdsb2Rhc2gnKQpjb25zb2xlLmxvZyhvKQo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB1c2VySW5mbyA9IHsgdWlkIH0KICAgICAgICAgICAgICAvLyDkvb/nlKggYWp2IOeUn+aIkOm7mOiupOWAvAogICAgICAgICAgICAgIHNjaGVtYXMudXNlckluZm9WYWxpZGF0ZSh1c2VySW5mbykK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB1c2VySW5mby51aWQgPSAndWlkJwo=</text>
+        <text encoding="base64">CmNvbnN0IF8gPSByZXF1aXJlKCdsb2Rhc2gnKQpjb25zb2xlLmxvZyhvKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB1c2VySW5mbyA9IHsgdWlkIH0KICAgICAgICAgICAgICAvLyDkvb/nlKggYWp2IOeUn+aIkOm7mOiupOWAvAogICAgICAgICAgICAgIHNjaGVtYXMudXNlckluZm9WYWxpZGF0ZSh1c2VySW5mbykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgbyA9IF8ubWFwVmFsdWVzKG1vZHVsZS5leHBvcnRzLnVzZXJJbmZvVmFsaWRhdGUuc2NoZW1hLnByb3BlcnRpZXMsICh2LCBrKSA9PiB7CiAgcmV0dXJuIHYuZGVmYXVsdAoKfSkKby51aWQgPSAndWlkJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB1c2VySW5mby51aWQgPSAndWlkJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZihrID09ICd1aWQnKXt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -543,7 +546,6 @@
         <entry>n</entry>
       </history-search>
       <history-cmd>
-        <entry>-18</entry>
         <entry>221</entry>
         <entry>-31</entry>
         <entry>10</entry>
@@ -563,6 +565,7 @@
         <entry>272</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>;w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
