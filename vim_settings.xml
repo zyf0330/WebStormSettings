@@ -33,6 +33,10 @@
         <mark key="^" line="36" column="44" />
         <mark key="." line="36" column="44" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/pushServerList.js" timestamp="1531795806572">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="25" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/.arcconfig" timestamp="1530875124076">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -283,12 +287,14 @@
         <mark key="." line="57" column="51" />
         <mark key="^" line="57" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531795278337">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1531795292741">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/Room.js" timestamp="1531795124645">
-        <mark key="[" line="44" column="26" />
-        <mark key="]" line="44" column="26" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/Room.js" timestamp="1531795776890">
+        <mark key="[" line="85" column="42" />
+        <mark key="]" line="85" column="59" />
         <mark key="." line="44" column="26" />
         <mark key="^" line="44" column="82" />
       </file>
@@ -470,11 +476,11 @@
       <jump line="29" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/schemas/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaCgoZSkgPT4gewogICAgICAvLyDljrvpmaTlhpfplb/nmoTplJnor6/lsZ7mgKcKICAgICAgY29uc3QgX2UgPSBuZXcgRXJyb3IoZS5tZXNzYWdlKQogICAgICBfZS5zdGFjayA9IGUuc3RhY2sKICAgICAgcmV0dXJuIF9lCiAgICB9KQo=</text>
+      <register name="&quot;" type="4">
+        <text>39.106.14.173</text>
       </register>
       <register name="-" type="4">
-        <text>.stack</text>
+        <text>完善 user online 错误处理</text>
       </register>
       <register name="/" type="4">
         <text>n</text>
