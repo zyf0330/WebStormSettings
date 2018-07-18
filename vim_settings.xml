@@ -92,7 +92,7 @@
         <mark key="[" line="372" column="0" />
         <mark key="]" line="395" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531898827541">
+      <file name="/JavaScript Console" timestamp="1531901249619">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/cdnList.yaml" timestamp="1531812041291">
@@ -115,19 +115,19 @@
         <mark key="^" line="16" column="92" />
         <mark key="." line="16" column="92" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" timestamp="1531900085750">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" timestamp="1531901248137">
         <mark key="'" line="40" column="59" />
         <mark key="[" line="42" column="12" />
         <mark key="]" line="42" column="12" />
         <mark key="." line="42" column="12" />
         <mark key="^" line="42" column="12" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" timestamp="1531900157572">
-        <mark key="'" line="94" column="16" />
-        <mark key="[" line="101" column="10" />
-        <mark key="]" line="101" column="12" />
-        <mark key="." line="101" column="12" />
-        <mark key="^" line="101" column="12" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" timestamp="1531901273908">
+        <mark key="'" line="6" column="45" />
+        <mark key="[" line="109" column="52" />
+        <mark key="]" line="109" column="52" />
+        <mark key="." line="109" column="52" />
+        <mark key="^" line="109" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1531899380083">
         <mark key="[" line="0" column="0" />
@@ -168,9 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/templates/cdnList.tmpl" />
-      <jump line="17" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/templates/cdnList.tmpl" />
-      <jump line="69" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
       <jump line="4" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
       <jump line="9" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
       <jump line="14" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
@@ -265,63 +262,61 @@
       <jump line="32" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
       <jump line="28" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
       <jump line="96" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
-      <jump line="97" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
-      <jump line="6" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
       <jump line="94" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
+      <jump line="97" column="59" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
+      <jump line="118" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
+      <jump line="100" column="45" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
+      <jump line="98" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
+      <jump line="6" column="45" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>..</text>
+        <text>cb</text>
       </register>
       <register name="0" type="4">
-        <text>../src/consts/cdnList</text>
+        <text>streamName</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-      app: '/duobei/',
-      audioCdns: {
-        csd: {}
-      }
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGFtcHFqZXN0LnNweU9uKCd0aW5kZXItY2VudGVyLXNkaycsICdhbXFwJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFN5bmNXb3JrZXIgPSByZXF1aXJlKCcuLi9zcmMvd29ya2Vycy9TeW5jV29ya2VyJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGplc3QubW9jaygnLi4vc3JjL2NvbnN0cycsICgpID0+ICh7CiAgICAgIENETl9MSVNUOiBtb2NrQ2RuTGlzdCgpCiAgICB9KSkK</text>
+        <text encoding="base64">ICAgIGplc3QudGltZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGplc3QubW9jaygnLi4vc3JjL2NvbnN0cycsICgpID0+ICh7CiAgICAgIENETl9MSVNUOiBtb2NrQ2RuTGlzdCgpCiAgICB9KSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBzdHJlYW1TeW5jID0gcmVxdWlyZSgnLi4vc3JjL3dvcmtlcnMvc3RyZWFtU3luYy5qcycpCg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhc3luYyBmZXRjaFRzKHVybCkgewogICAgcmV0dXJuIAogIH0KCg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgdGhyb3cgZQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIOWBnOatouaXtumcgOimgeWPkemAgSB0czogMAo=</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHByb2R1Y2VyLnNlbmQoUk9VVElOR0tFWV9TWU5DLCBCdWZmZXIuZnJvbShKU09OLnN0cmluZ2lmeSh7CiAgICAgIHRzOiAwLAogICAgICBzdHJlYW1OYW1lOiB0aGlzLnN0cmVhbU5hbWUsCiAgICAgIGNkbk5hbWUsCiAgICB9KSkpOwo=</text>
+        <text encoding="base64">ICAgICAgY3NkOiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0cyAhPSBudWxsKXsKICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>..</last-search>
+      <last-search>cb</last-search>
       <last-offset />
-      <last-pattern>..</last-pattern>
+      <last-pattern>cb</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -329,9 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cb</entry>
-        <entry>no</entry>
-        <entry>,</entry>
         <entry>=</entry>
         <entry>(</entry>
         <entry>\.</entry>
@@ -343,12 +335,15 @@
         <entry>{</entry>
         <entry>1</entry>
         <entry>fet</entry>
-        <entry>cdn</entry>
         <entry>fetchts</entry>
         <entry>aw</entry>
         <entry>m</entry>
         <entry>cur</entry>
         <entry>..</entry>
+        <entry>tru</entry>
+        <entry>cdn</entry>
+        <entry>do</entry>
+        <entry>cb</entry>
       </history-search>
       <history-cmd>
         <entry>10</entry>
