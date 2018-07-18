@@ -31,7 +31,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" timestamp="1531881232529" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" timestamp="1531883217657">
+        <mark key="'" line="19" column="17" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/index.js" timestamp="1531471429928">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
@@ -149,14 +151,14 @@
         <mark key="^" line="95" column="19" />
         <mark key="." line="95" column="19" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" timestamp="1531882734452">
-        <mark key="'" line="9" column="12" />
-        <mark key="[" line="10" column="49" />
-        <mark key="]" line="10" column="49" />
-        <mark key="." line="10" column="49" />
-        <mark key="^" line="10" column="59" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" timestamp="1531883426603">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531879248158">
+      <file name="/Dummy.txt" timestamp="1531882934147">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -207,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/index.html" />
       <jump line="14" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/up.json" />
       <jump line="3" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/app.sync.json" />
       <jump line="26" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-sync" />
@@ -307,13 +308,14 @@
       <jump line="0" column="61" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.js" />
       <jump line="10" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
       <jump line="8" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
+      <jump line="19" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>CDN_LIST</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>CDN_LIST</text>
       </register>
       <register name="/" type="4">
         <text>ne</text>
@@ -322,31 +324,31 @@
         <text encoding="base64">ICBpdCgncnVubmluZyB3b3JrZXIgc2hvdWxkIGFkZCBjZG4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">Y29uc3Qgc3RyZWFtU3luYyA9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIHVwZGF0ZSBjZG4gbGlzdCcpCg==</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbW92ZSBjZG4gZm9yIHJ1bm5pbmcgd29ya2VyJykK</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkIHVwZGF0ZSBjZG4gbGlzdCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNjMTogewogICAgICBuYW1lOiBjZG5zLmNjLAogICAgICBkb21haW46IGRvbWFpbnMuY2MsCiAgICAgIHBvc3RmaXg6ICdfbDEvaW5kZXgubTN1OCcsCiAgICB9LAo=</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbW92ZSBjZG4gZm9yIHJ1bm5pbmcgd29ya2VyJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ3MTogewogICAgICBuYW1lOiBjZG5zLmZ3LAogICAgICBkb21haW46IGRvbWFpbnMuZncsCiAgICAgIHBvc3RmaXg6ICcvaW5kZXgubTN1OCcsCiAgICB9LAogICAgZGwzOiB7CiAgICAgIG5hbWU6IGNkbnMuZGwsCiAgICAgIGRvbWFpbjogZG9tYWlucy5kbCwKICAgICAgcG9zdGZpeDogJ19iMi9pbmRleC5tM3U4JywKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNjMTogewogICAgICBuYW1lOiBjZG5zLmNjLAogICAgICBkb21haW46IGRvbWFpbnMuY2MsCiAgICAgIHBvc3RmaXg6ICdfbDEvaW5kZXgubTN1OCcsCiAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ3MTogewogICAgICBuYW1lOiBjZG5zLmZ3LAogICAgICBkb21haW46IGRvbWFpbnMuZncsCiAgICAgIHBvc3RmaXg6ICcvaW5kZXgubTN1OCcsCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGZ3MTogewogICAgICBuYW1lOiBjZG5zLmZ3LAogICAgICBkb21haW46IGRvbWFpbnMuZncsCiAgICAgIHBvc3RmaXg6ICcvaW5kZXgubTN1OCcsCiAgICB9LAogICAgZGwzOiB7CiAgICAgIG5hbWU6IGNkbnMuZGwsCiAgICAgIGRvbWFpbjogZG9tYWlucy5kbCwKICAgICAgcG9zdGZpeDogJ19iMi9pbmRleC5tM3U4JywKICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gVE9ETyBjb25mZCDoh6rliqjnlJ/miJDphY3nva4K</text>
+        <text encoding="base64">ICAgIGZ3MTogewogICAgICBuYW1lOiBjZG5zLmZ3LAogICAgICBkb21haW46IGRvbWFpbnMuZncsCiAgICAgIHBvc3RmaXg6ICcvaW5kZXgubTN1OCcsCiAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBzdXBwb3J0IGR5bmFtaWMgdXBkYXRlLgo=</text>
+        <text encoding="base64">Ly8gVE9ETyBjb25mZCDoh6rliqjnlJ/miJDphY3nva4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNjMTogewogICAgICBuYW1lOiBjZG5zLmNjLAogICAgICBkb21haW46IGRvbWFpbnMuY2MsCiAgICAgIHBvc3RmaXg6ICdfbDEvaW5kZXgubTN1OCcsCiAgICB9LAo=</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBzdXBwb3J0IGR5bmFtaWMgdXBkYXRlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
