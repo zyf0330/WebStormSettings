@@ -407,11 +407,12 @@
       <file name="internal/module.js" timestamp="1530080553814">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" timestamp="1531966544136">
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="28" />
-        <mark key="." line="23" column="28" />
-        <mark key="^" line="23" column="28" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" timestamp="1531966566822">
+        <mark key="'" line="25" column="5" />
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="44" />
+        <mark key="." line="25" column="44" />
+        <mark key="^" line="25" column="19" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/fromserver.spec.js" timestamp="1531217714447">
         <mark key="'" line="13" column="8" />
@@ -475,8 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/cdnList.js" />
-      <jump line="35" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/cdnList.js" />
       <jump line="36" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/cdnList.js" />
       <jump line="40" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/cdnList.js" />
       <jump line="41" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/cdnList.js" />
@@ -575,28 +574,30 @@
       <jump line="14" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSync.json" />
       <jump line="26" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSyncConfd.sh" />
       <jump line="13" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSync.json" />
+      <jump line="10" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" />
+      <jump line="25" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>confd-stream-sync</text>
+        <text>startWorker.js</text>
       </register>
       <register name="-" type="4">
-        <text>confd-stream-sync</text>
+        <text>startWorker.js</text>
       </register>
       <register name="/" type="4">
-        <text>0</text>
+        <text>star</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Q09QWSBjb25mZC1zdHJlYW0tc3luYy8gL2FwcC9jb25mZC1zdHJlYW0tc3luYwo=</text>
+      <register name="0" type="4">
+        <text>streamSyncConfd.sh</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAidGluZGVyLWFwcHMtc3RyZWFtLXN5bmMtY29uZmQiLAogICAgICAic2NyaXB0IjogInN0cmVhbVN5bmNDb25mZC5zaCIsCiAgICAgICJpbnN0YW5jZXMiOiAxLAogICAgICAiZXhlY19tb2RlIjogImZvcmsiLAogICAgICAid2F0Y2giOiBmYWxzZSwKICAgICAgIm1lcmdlX2xvZ3MiOiB0cnVlCiAgICB9Cg==</text>
+        <text encoding="base64">Q09QWSBzdHJlYW1TeW5jQ29uZmQuc2ggL2FwcC8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uZmQgb25ldGltZQo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAidGluZGVyLWFwcHMtc3RyZWFtLXN5bmMtY29uZmQiLAogICAgICAic2NyaXB0IjogInN0cmVhbVN5bmNDb25mZC5zaCIsCiAgICAgICJpbnN0YW5jZXMiOiAxLAogICAgICAiZXhlY19tb2RlIjogImZvcmsiLAogICAgICAid2F0Y2giOiBmYWxzZSwKICAgICAgIm1lcmdlX2xvZ3MiOiB0cnVlCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uZmQgb25ldGltZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -605,25 +606,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b3A9d2F0Y2gKaWYgWyAiJDEiID0gb25ldGltZSBdOyB0aGVuCiAgb3A9b25ldGltZQpmaQoKQ09ORkRfQ09ORj0iLWNvbmZkaXIgLi9jb25mZC1zdHJlYW0tc3luYwogLWJhY2tlbmQgZXRjZHYzCiAtbm9kZSAkbm9kZTEKIC1ub2RlICRub2RlMgogLW5vZGUgJG5vZGUzCiAtYmFzaWMtYXV0aAogLXVzZXJuYW1lIFwiJGV0Y2R1c2VyXCIKIC1wYXNzd29yZCBcIiRldGNkcHdkXCIiCgppZiBbICRvcCA9IG9uZXRpbWUgXTsgdGhlbgogIGVjaG8gIiRDT05GRF9DT05GIiB8IHhhcmdzIGNvbmZkIC1vbmV0aW1lIC1zeW5jLW9ubHkKZWxzZQogIGVjaG8gIiRDT05GRF9DT05GIiB8IHhhcmdzIGNvbmZkIC13YXRjaApmaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIm91dF9maWxlIjogIi92YXIvbG9nL3RpbmRlci1hcHBzLXN0cmVhbS1zeW5jL291dC5sb2ciLAogICAgICAiZXJyb3JfZmlsZSI6ICIvdmFyL2xvZy90aW5kZXItYXBwcy1zdHJlYW0tc3luYy9lcnJvci5sb2ciCg==</text>
+        <text encoding="base64">b3A9d2F0Y2gKaWYgWyAiJDEiID0gb25ldGltZSBdOyB0aGVuCiAgb3A9b25ldGltZQpmaQoKQ09ORkRfQ09ORj0iLWNvbmZkaXIgLi9jb25mZC1zdHJlYW0tc3luYwogLWJhY2tlbmQgZXRjZHYzCiAtbm9kZSAkbm9kZTEKIC1ub2RlICRub2RlMgogLW5vZGUgJG5vZGUzCiAtYmFzaWMtYXV0aAogLXVzZXJuYW1lIFwiJGV0Y2R1c2VyXCIKIC1wYXNzd29yZCBcIiRldGNkcHdkXCIiCgppZiBbICRvcCA9IG9uZXRpbWUgXTsgdGhlbgogIGVjaG8gIiRDT05GRF9DT05GIiB8IHhhcmdzIGNvbmZkIC1vbmV0aW1lIC1zeW5jLW9ubHkKZWxzZQogIGVjaG8gIiRDT05GRF9DT05GIiB8IHhhcmdzIGNvbmZkIC13YXRjaApmaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIm1heF9tZW1vcnlfcmVzdGFydCIgOiAiMTAyNE0iLAo=</text>
+        <text encoding="base64">ICAgICAgIm91dF9maWxlIjogIi92YXIvbG9nL3RpbmRlci1hcHBzLXN0cmVhbS1zeW5jL291dC5sb2ciLAogICAgICAiZXJyb3JfZmlsZSI6ICIvdmFyL2xvZy90aW5kZXItYXBwcy1zdHJlYW0tc3luYy9lcnJvci5sb2ciCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIm1heF9tZW1vcnlfcmVzdGFydCIgOiAiMTAyNE0iLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>0</last-search>
+      <last-search>star</last-search>
       <last-offset />
-      <last-pattern>0</last-pattern>
+      <last-pattern>star</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -631,7 +632,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fetchts</entry>
         <entry>aw</entry>
         <entry>m</entry>
         <entry>cur</entry>
@@ -651,6 +651,7 @@
         <entry>=</entry>
         <entry>tin</entry>
         <entry>0</entry>
+        <entry>star</entry>
       </history-search>
       <history-cmd>
         <entry>10</entry>
