@@ -43,7 +43,7 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="13" column="6" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/pushServerList.js" timestamp="1531795806572">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/pushServerList.js" timestamp="1532075051326">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="25" />
       </file>
@@ -54,7 +54,6 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-center-sdk/src/broadcast/index.js" timestamp="1531735500218" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/.gitignore" timestamp="1531907353323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -87,12 +86,18 @@
         <mark key="." line="212" column="4" />
         <mark key="^" line="212" column="4" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/node_modules/jest-cli/build/test_scheduler.js" timestamp="1531884918663" />
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/src/transform/fromServer.js" timestamp="1531304831765">
         <mark key="[" line="243" column="13" />
         <mark key="]" line="243" column="26" />
         <mark key="^" line="243" column="26" />
         <mark key="." line="243" column="26" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-edge-nodejs/.npmignore" timestamp="1532077930797">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-sync" timestamp="1531295456347">
         <mark key="'" line="24" column="18" />
@@ -243,7 +248,6 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/service/Broadcaster.js" timestamp="1531808616373" />
       <file name="/tmp/te/consts.js" timestamp="1531808908506">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="23" />
@@ -287,6 +291,11 @@
       </file>
       <file name="/JavaScript Console" timestamp="1531909608097">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-edge-nodejs/package.json" timestamp="1532077692979">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/cdnList.yaml" timestamp="1531812041291">
         <mark key="'" line="24" column="6" />
@@ -373,8 +382,6 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1532051504003" />
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/Room.js" timestamp="1531882278342" />
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" timestamp="1530611632479">
         <mark key="'" line="481" column="8" />
         <mark key="[" line="491" column="0" />
@@ -399,7 +406,6 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="16" column="22" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-center-sdk/src/session/index.js" timestamp="1531735088937" />
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/fromserver.spec.js" timestamp="1531217714447">
         <mark key="'" line="13" column="8" />
         <mark key="[" line="13" column="47" />
@@ -463,7 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="76" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
       <jump line="63" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" />
       <jump line="77" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
       <jump line="85" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
@@ -563,10 +568,11 @@
       <jump line="21" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" />
       <jump line="9" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" />
       <jump line="2" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd-stream-sync/conf.d/cdnList.toml" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-edge-nodejs/.npmignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$environment</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIOa3u+WKoCBwcmUtcHVibGlzaO+8jOajgOWHugo=</text>
       </register>
       <register name="-" type="4">
         <text>$environment</text>
@@ -578,22 +584,22 @@
         <text>wget https://raw.githubusercontent.com/zyf0330/confd/master/bin/confd -O/usr/bin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAkTk9ERV9FTlYK</text>
+        <text encoding="base64">ICAgIC8vIOa3u+WKoCBwcmUtcHVibGlzaO+8jOajgOWHugo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09QWSBjb25mZCAvdXNyL2Jpbi9jb25mZAoK</text>
+        <text encoding="base64">ZWNobyAkTk9ERV9FTlYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09QWSBzdHJlYW1TeW5jQ29uZmQuc2ggL2FwcC8K</text>
+        <text encoding="base64">Q09QWSBjb25mZCAvdXNyL2Jpbi9jb25mZAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAidGluZGVyLWFwcHMtc3RyZWFtLXN5bmMtY29uZmQiLAogICAgICAic2NyaXB0IjogInN0cmVhbVN5bmNDb25mZC5zaCIsCiAgICAgICJpbnN0YW5jZXMiOiAxLAogICAgICAiZXhlY19tb2RlIjogImZvcmsiLAogICAgICAid2F0Y2giOiBmYWxzZSwKICAgICAgIm1lcmdlX2xvZ3MiOiB0cnVlCiAgICB9Cg==</text>
+        <text encoding="base64">Q09QWSBzdHJlYW1TeW5jQ29uZmQuc2ggL2FwcC8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uZmQgb25ldGltZQo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAidGluZGVyLWFwcHMtc3RyZWFtLXN5bmMtY29uZmQiLAogICAgICAic2NyaXB0IjogInN0cmVhbVN5bmNDb25mZC5zaCIsCiAgICAgICJpbnN0YW5jZXMiOiAxLAogICAgICAiZXhlY19tb2RlIjogImZvcmsiLAogICAgICAid2F0Y2giOiBmYWxzZSwKICAgICAgIm1lcmdlX2xvZ3MiOiB0cnVlCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uZmQgb25ldGltZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -602,10 +608,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3A9d2F0Y2gKaWYgWyAiJDEiID0gb25ldGltZSBdOyB0aGVuCiAgb3A9b25ldGltZQpmaQoKQ09ORkRfQ09ORj0iLWNvbmZkaXIgLi9jb25mZC1zdHJlYW0tc3luYwogLWJhY2tlbmQgZXRjZHYzCiAtbm9kZSAkbm9kZTEKIC1ub2RlICRub2RlMgogLW5vZGUgJG5vZGUzCiAtYmFzaWMtYXV0aAogLXVzZXJuYW1lIFwiJGV0Y2R1c2VyXCIKIC1wYXNzd29yZCBcIiRldGNkcHdkXCIiCgppZiBbICRvcCA9IG9uZXRpbWUgXTsgdGhlbgogIGVjaG8gIiRDT05GRF9DT05GIiB8IHhhcmdzIGNvbmZkIC1vbmV0aW1lIC1zeW5jLW9ubHkKZWxzZQogIGVjaG8gIiRDT05GRF9DT05GIiB8IHhhcmdzIGNvbmZkIC13YXRjaApmaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -641,7 +647,6 @@
         <entry>test</entry>
       </history-search>
       <history-cmd>
-        <entry>+10</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>+13</entry>
         <entry>81</entry>
@@ -658,9 +663,10 @@
         <entry>;w</entry>
         <entry>62</entry>
         <entry>%s/P/pino/gc</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>we</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
