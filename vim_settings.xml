@@ -17,10 +17,6 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/confd/templates/streamSyncConfig.js.tmpl" timestamp="1531906390337">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="38" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Logout.jsx" timestamp="1531190050378">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -38,10 +34,6 @@
         <mark key="]" line="9" column="36" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/confd.sh" timestamp="1531906594113">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="13" column="6" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/pushServerList.js" timestamp="1532079075833">
         <mark key="[" line="7" column="13" />
@@ -105,10 +97,6 @@
         <mark key="]" line="24" column="36" />
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="15" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/javascript/extLibs/global-types/node_modules/@types/jest/index.d.ts" timestamp="1531894096785">
-        <mark key="[" line="128" column="13" />
-        <mark key="]" line="128" column="31" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-edge-nodejs/src/utils/log.js" timestamp="1531820710352">
         <mark key="'" line="23" column="4" />
@@ -211,6 +199,18 @@
       <file name="/Clipboard.txt" timestamp="1531276506095">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/confd/conf.d/config.js.toml" timestamp="1532318101147">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1532318304007">
+        <mark key="[" line="90" column="27" />
+        <mark key="]" line="90" column="27" />
+        <mark key="^" line="90" column="81" />
+        <mark key="." line="90" column="27" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/index.html" timestamp="1531285988186">
         <mark key="'" line="202" column="7" />
         <mark key="[" line="202" column="55" />
@@ -285,11 +285,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="55" />
       </file>
-      <file name="$USER_HOME$/project/duobei/duobeiyun-mobile-server/streamSync.js" timestamp="1531813905647">
-        <mark key="[" line="372" column="0" />
-        <mark key="]" line="395" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1531909608097">
+      <file name="/JavaScript Console" timestamp="1532318110431">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-edge-nodejs/package.json" timestamp="1532077692979">
@@ -364,10 +360,10 @@
         <mark key="^" line="80" column="85" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532068381878">
+      <file name="/Dummy.txt" timestamp="1532318318137">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/conf.d/cdnList.toml" timestamp="1531906917191">
         <mark key="[" line="2" column="29" />
@@ -375,6 +371,7 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="2" column="29" />
       </file>
+      <file name="/config.js.toml" timestamp="1532317595404" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder-center-sdk/src/utils/log.js" timestamp="1531820653787">
         <mark key="'" line="23" column="13" />
         <mark key="[" line="7" column="0" />
@@ -445,6 +442,7 @@
         <mark key="]" line="18" column="2" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1532317948440" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/up.json" timestamp="1531298195199">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="19" />
@@ -576,10 +574,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>39.106.14.173</text>
+        <text>添加消息事件延迟的日志，并发送到 logstash。将音视频流事件延迟发送到 logstash</text>
       </register>
       <register name="-" type="4">
-        <text>$environment</text>
+        <text>添加消息事件延迟的日志，并发送到 logstash。将音视频流事件延迟发送到 logstash</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
