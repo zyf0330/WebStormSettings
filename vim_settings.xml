@@ -212,6 +212,7 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1532403690961" />
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/views/index.html" timestamp="1531285988186">
         <mark key="'" line="202" column="7" />
         <mark key="[" line="202" column="55" />
@@ -286,7 +287,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="55" />
       </file>
-      <file name="/JavaScript Console" timestamp="1532403083460">
+      <file name="/JavaScript Console" timestamp="1532403934523">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-edge-nodejs/package.json" timestamp="1532077692979">
@@ -361,7 +362,7 @@
         <mark key="^" line="80" column="85" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532402946941">
+      <file name="/Dummy.txt" timestamp="1532403912637">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="0" />
@@ -443,11 +444,11 @@
         <mark key="]" line="18" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1532403511832">
-        <mark key="[" line="536" column="26" />
-        <mark key="]" line="536" column="29" />
-        <mark key="^" line="536" column="29" />
-        <mark key="." line="536" column="29" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1532404301993">
+        <mark key="[" line="587" column="9" />
+        <mark key="]" line="537" column="28" />
+        <mark key="^" line="522" column="29" />
+        <mark key="." line="522" column="29" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1532338340864">
         <mark key="[" line="40" column="2" />
@@ -584,7 +585,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>checkIfNoMicOnAir</text>
+        <text>clientOnline</text>
       </register>
       <register name="-" type="4">
         <text>'allClientCount] '</text>
