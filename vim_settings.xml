@@ -115,6 +115,13 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSync.sh" timestamp="1531910798675">
         <mark key="[" line="0" column="19" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/checkCount.js" timestamp="1532398242326">
+        <mark key="'" line="11" column="68" />
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="20" column="49" />
+        <mark key="." line="20" column="49" />
+        <mark key="^" line="20" column="49" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" timestamp="1530243970480">
         <mark key="'" line="28" column="4" />
         <mark key="[" line="29" column="31" />
@@ -205,10 +212,10 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1532397020896">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1532401917587">
         <mark key="'" line="85" column="8" />
-        <mark key="[" line="90" column="24" />
-        <mark key="]" line="90" column="37" />
+        <mark key="[" line="221" column="31" />
+        <mark key="]" line="221" column="42" />
         <mark key="^" line="90" column="81" />
         <mark key="." line="90" column="27" />
       </file>
@@ -479,9 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
-      <jump line="85" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
-      <jump line="89" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
       <jump line="20" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" />
       <jump line="22" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" />
       <jump line="80" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" />
@@ -579,13 +583,16 @@
       <jump line="2" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd-stream-sync/conf.d/cdnList.toml" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-edge-nodejs/.npmignore" />
       <jump line="85" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
+      <jump line="6" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/checkCount.js" />
+      <jump line="10" column="31" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/checkCount.js" />
+      <jump line="11" column="68" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/checkCount.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>allClientCount</text>
+        <text>AUDIENCELIST</text>
       </register>
       <register name="-" type="4">
-        <text>添加消息事件延迟的日志，并发送到 logstash。将音视频流事件延迟发送到 logstash</text>
+        <text>'allClientCount] '</text>
       </register>
       <register name="/" type="4">
         <text>all</text>
@@ -594,22 +601,22 @@
         <text>wget https://raw.githubusercontent.com/zyf0330/confd/master/bin/confd -O/usr/bin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIOa3u+WKoCBwcmUtcHVibGlzaO+8jOajgOWHugo=</text>
+        <text encoding="base64">Ly8gMjAxOC0wNy0yNCAwMDowMzowOTogW3dpZC00XVtqejZlM2JkZjIzYjE3ZTQ2MzE5ZmQ5NzcwZDk5NDEzY2U4XVthbGxDbGllbnRDb3VudF0geyJjb3VudCI6NCwiY291bnRNYXAiOnsiaHN0IjozNTksIm9ubGluZSI6NH0sInRzIjoxNTMyMzYxNzg5Njc4fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAkTk9ERV9FTlYK</text>
+        <text encoding="base64">Y29uc3QgYSA9IHt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09QWSBjb25mZCAvdXNyL2Jpbi9jb25mZAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09QWSBzdHJlYW1TeW5jQ29uZmQuc2ggL2FwcC8K</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAidGluZGVyLWFwcHMtc3RyZWFtLXN5bmMtY29uZmQiLAogICAgICAic2NyaXB0IjogInN0cmVhbVN5bmNDb25mZC5zaCIsCiAgICAgICJpbnN0YW5jZXMiOiAxLAogICAgICAiZXhlY19tb2RlIjogImZvcmsiLAogICAgICAid2F0Y2giOiBmYWxzZSwKICAgICAgIm1lcmdlX2xvZ3MiOiB0cnVlCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uZmQgb25ldGltZQo=</text>
+        <text encoding="base64">Ly8gMjAxOC0wNy0yNCAwMDowMzowOTogW3dpZC00XVtqejZlM2JkZjIzYjE3ZTQ2MzE5ZmQ5NzcwZDk5NDEzY2U4XVthbGxDbGllbnRDb3VudF0geyJjb3VudCI6NCwiY291bnRNYXAiOnsiaHN0IjozNTksIm9ubGluZSI6NH0sInRzIjoxNTMyMzYxNzg5Njc4fQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -618,7 +625,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIOa3u+WKoCBwcmUtcHVibGlzaO+8jOajgOWHugo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
