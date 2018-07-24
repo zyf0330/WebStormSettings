@@ -205,9 +205,10 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1532344532861">
-        <mark key="[" line="545" column="15" />
-        <mark key="]" line="545" column="26" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1532397020896">
+        <mark key="'" line="85" column="8" />
+        <mark key="[" line="90" column="24" />
+        <mark key="]" line="90" column="37" />
         <mark key="^" line="90" column="81" />
         <mark key="." line="90" column="27" />
       </file>
@@ -478,7 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" />
       <jump line="77" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
       <jump line="85" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
       <jump line="89" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
@@ -578,16 +578,17 @@
       <jump line="9" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" />
       <jump line="2" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd-stream-sync/conf.d/cdnList.toml" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-edge-nodejs/.npmignore" />
+      <jump line="85" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>roomInfo</text>
+        <text>allClientCount</text>
       </register>
       <register name="-" type="4">
         <text>添加消息事件延迟的日志，并发送到 logstash。将音视频流事件延迟发送到 logstash</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>all</text>
       </register>
       <register name="0" type="4">
         <text>wget https://raw.githubusercontent.com/zyf0330/confd/master/bin/confd -O/usr/bin</text>
@@ -624,9 +625,9 @@
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>all</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>all</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -634,7 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cur</entry>
         <entry>..</entry>
         <entry>tru</entry>
         <entry>cdn</entry>
@@ -654,6 +654,7 @@
         <entry>star</entry>
         <entry>confd</entry>
         <entry>test</entry>
+        <entry>all</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
