@@ -445,11 +445,11 @@
         <mark key="]" line="18" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1532404301993">
-        <mark key="[" line="587" column="9" />
-        <mark key="]" line="537" column="28" />
-        <mark key="^" line="522" column="29" />
-        <mark key="." line="522" column="29" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1532417285226">
+        <mark key="[" line="592" column="0" />
+        <mark key="]" line="592" column="0" />
+        <mark key="^" line="585" column="32" />
+        <mark key="." line="592" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1532338340864">
         <mark key="[" line="40" column="2" />
@@ -585,8 +585,8 @@
       <jump line="11" column="68" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/checkCount.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>clientOnline</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCS8vIFRPRE8g5aSE55CGIGNhbWVyYWxpc3QK</text>
       </register>
       <register name="-" type="4">
         <text>'allClientCount] '</text>
@@ -594,35 +594,35 @@
       <register name="/" type="4">
         <text>all</text>
       </register>
-      <register name="0" type="4">
-        <text>wget https://raw.githubusercontent.com/zyf0330/confd/master/bin/confd -O/usr/bin</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQluZWVkQ2hlY2tNaWNPbkFpciA9IHRydWUKCQkJCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gMjAxOC0wNy0yNCAwMDowMzowOTogW3dpZC00XVtqejZlM2JkZjIzYjE3ZTQ2MzE5ZmQ5NzcwZDk5NDEzY2U4XVthbGxDbGllbnRDb3VudF0geyJjb3VudCI6NCwiY291bnRNYXAiOnsiaHN0IjozNTksIm9ubGluZSI6NH0sInRzIjoxNTMyMzYxNzg5Njc4fQo=</text>
+        <text encoding="base64">CQkJCS8vIFRPRE8g5aSE55CGIGNhbWVyYWxpc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgYSA9IHt9Cg==</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJCQl2YXIgcm9sZSA9IHJvb21JbmZvLm1pY0xpc3RbdWlkXS5yb2xlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlkZWxldGUgcm9vbUluZm8ubWljTGlzdFt1aWRdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gMjAxOC0wNy0yNCAwMDowMzowOTogW3dpZC00XVtqejZlM2JkZjIzYjE3ZTQ2MzE5ZmQ5NzcwZDk5NDEzY2U4XVthbGxDbGllbnRDb3VudF0geyJjb3VudCI6NCwiY291bnRNYXAiOnsiaHN0IjozNTksIm9ubGluZSI6NH0sInRzIjoxNTMyMzYxNzg5Njc4fQo=</text>
+        <text encoding="base64">CQkJCS8vIFRPRE8g5aSE55CGIGNhbWVyYWxpc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlpZiAocm9vbUluZm8uc3RyZWFtT25saW5lICYmIGNoZWNrSWZOb01pY09uQWlyKHJvb21JZCkpIHsKCQkJCQkJcm9vbUluZm8uc3RyZWFtT25saW5lID0gZmFsc2U7CgkJCQkJCXNlbmQoInN0cmVhbU9ubGluZSIsIHsKCQkJCQkJCSJ2YWwiOiBmYWxzZSwKCQkJCQkJCSJ0cyI6IGV2LnRpbWVzdGFtcAoJCQkJCQl9LCByb29tSWQpOwoJCQkJCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gMjAxOC0wNy0yNCAwMDowMzowOTogW3dpZC00XVtqejZlM2JkZjIzYjE3ZTQ2MzE5ZmQ5NzcwZDk5NDEzY2U4XVthbGxDbGllbnRDb3VudF0geyJjb3VudCI6NCwiY291bnRNYXAiOnsiaHN0IjozNTksIm9ubGluZSI6NH0sInRzIjoxNTMyMzYxNzg5Njc4fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIOa3u+WKoCBwcmUtcHVibGlzaO+8jOajgOWHugo=</text>
+        <text encoding="base64">Y29uc3QgYSA9IHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
