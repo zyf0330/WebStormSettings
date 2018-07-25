@@ -295,6 +295,12 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="98" column="11" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" timestamp="1532510367999">
+        <mark key="[" line="173" column="17" />
+        <mark key="]" line="173" column="17" />
+        <mark key="." line="173" column="17" />
+        <mark key="^" line="279" column="22" />
+      </file>
       <file name="/JavaScript Console" timestamp="1532509212254">
         <mark key="[" line="0" column="0" />
       </file>
@@ -482,7 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
       <jump line="130" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.js" />
       <jump line="17" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder-center-sdk/src/utils/log.js" />
       <jump line="23" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder-center-sdk/src/utils/log.js" />
@@ -582,66 +587,66 @@
       <jump line="258" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" />
       <jump line="261" column="32" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" />
       <jump line="394" column="57" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" />
+      <jump line="166" column="32" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/Client.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Process finished with exit code 139 (interrupted by signal 11: SIGSEGV)</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>fo</text>
+        <text>this.w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coYC0tLS0tLS0tLS0tLS0tLS0tIGFsbCBjaGF0IGxhdGVuY3ksIG9yZGVyOiAke3BhZChvcmRlciArICcnLCBTdHJpbmcoY2xpZW50c0xlbikubGVuZ3RoKX0gLS0tLS1gKQo=</text>
+        <text encoding="base64">CQkJCWRlbGV0ZSB0aGlzLndhaXRDaGF0TGlzdGVuZXJzW2NoYXRJZF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJY29uc3Qgd2FpdENoYXRMaXN0ZW5lcnMgPSB0aGlzLndhaXRDaGF0TGlzdGVuZXJzCg==</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tXG4nKQo=</text>
+        <text encoding="base64">CQl0aGlzLndhaXRDaGF0TGlzdGVuZXJzID0ge30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBmb3IgKGNvbnN0IFt0aW1lLCBvYmpdIG9mIHJlc3VsdCkgewoJCS8vIAlvYmoucmVjZWl2ZWQgLz0gbXNnQ291bnQKCQkvLyAJb2JqLndyb25nIC89IG1zZ0NvdW50CgkJLy8gfQo=</text>
+        <text encoding="base64">CQljb25zdCB3YWl0Q2hhdExpc3RlbmVycyA9IHRoaXMud2FpdENoYXRMaXN0ZW5lcnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQljb25zdCB3YWl0Q2hhdExpc3RlbmVycyA9IHRoaXMud2FpdENoYXRMaXN0ZW5lcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlsZXQgc3RyID0gJycK</text>
+        <text encoding="base64">CQkJCQlkZWxldGUgd2FpdENoYXRMaXN0ZW5lcnNbY2hhdElkXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJc3RyICs9IGZvcm1hdE1zZ1N0YXRpc3RpY3MobXNnU3RhdGlzdGljc3MpCg==</text>
+        <text encoding="base64">CQl0aGlzLndhaXRDaGF0TGlzdGVuZXJzID0gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbXNnU3RhdGlzdGljcywgaQo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQltc2dTdGF0aXN0aWNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fo</last-search>
+      <last-search>this.w</last-search>
       <last-offset />
-      <last-pattern>fo</last-pattern>
+      <last-pattern>this.w</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>confd</entry>
         <entry>test</entry>
         <entry>all</entry>
         <entry>c</entry>
@@ -661,6 +666,7 @@
         <entry>obj</entry>
         <entry>msg</entry>
         <entry>fo</entry>
+        <entry>this.w</entry>
       </history-search>
       <history-cmd>
         <entry>+13</entry>
