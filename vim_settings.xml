@@ -39,10 +39,11 @@
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="25" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" timestamp="1532502436317">
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="257" column="0" />
-        <mark key="." line="257" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" timestamp="1532503743951">
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="^" line="384" column="53" />
+        <mark key="." line="262" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Socket.js" timestamp="1532502688140">
         <mark key="'" line="136" column="31" />
@@ -577,10 +578,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnN0IG1zZ1N0YXRpc3RpY3NzID0gW10KCS8qKgoJICog5oC757uTCgkgKi8KCWNvbnN0IHN1bW1hcnlNc2dTdGF0aXN0aWNzID0gKG1zZ1N0YXRpc3RpY3MsIHttc2dDb3VudH0pID0+IHsKCgkJbXNnU3RhdGlzdGljcwoJfQo=</text>
+        <text encoding="base64">CQltc2dTdGF0aXN0aWNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>i</text>
@@ -589,37 +590,37 @@
         <text>elapsedTime</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnN0IG1zZ1N0YXRpc3RpY3NzID0gW10KCS8qKgoJICog5oC757uTCgkgKi8KCWNvbnN0IHN1bW1hcnlNc2dTdGF0aXN0aWNzID0gKG1zZ1N0YXRpc3RpY3MsIHttc2dDb3VudH0pID0+IHsKCgkJbXNnU3RhdGlzdGljcwoJfQo=</text>
+        <text encoding="base64">CQltc2dTdGF0aXN0aWNzCg==</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQltc2dTdGF0aXN0aWNzcy5wdXNoKG1zZ1N0YXRpc3RpY3MpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQkvLyBjb25zb2xlLmxvZyhzdW1tYXJ5TXNnU3RhdGlzdGljcyhtc2dTdGF0aXN0aWNzLCB7CgkJCQkJLy8gCW1zZ0NvdW50OiBjbGllbnRzLmxlbmd0aCwKCQkJCQkvLyB9KSkKCQkJCQltc2dTdGF0aXN0aWNzcy5sZW5ndGggPSAwCgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJY29uc3Qgb3JkZXIgPSBvcmRlcgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CWNvbnN0IG1zZ1N0YXRpc3RpY3NzID0gW10KCS8qKgoJICog5oC757uTCgkgKi8KCWNvbnN0IHN1bW1hcnlNc2dTdGF0aXN0aWNzID0gKG1zZ1N0YXRpc3RpY3MsIHttc2dDb3VudH0pID0+IHsKCgkJbXNnU3RhdGlzdGljcwoJfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQltc2dTdGF0aXN0aWNzcy5wdXNoKG1zZ1N0YXRpc3RpY3MpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkvLyBjb25zb2xlLmxvZyhzdW1tYXJ5TXNnU3RhdGlzdGljcyhtc2dTdGF0aXN0aWNzLCB7CgkJCQkJLy8gCW1zZ0NvdW50OiBjbGllbnRzLmxlbmd0aCwKCQkJCQkvLyB9KSkKCQkJCQltc2dTdGF0aXN0aWNzcy5sZW5ndGggPSAwCgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQltc2dTdGF0aXN0aWNzcy5sZW5ndGggPSAwCg==</text>
+        <text encoding="base64">CQkJY29uc3Qgb3JkZXIgPSBvcmRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmb3IgKGxldCBpID0gMDsgaSA8IGNvbmN1cnJlbnRDaGF0OyBpKyspIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJY29uc3Qgb3JkZXIgPSBpCg==</text>
+        <text encoding="base64">CQkJCQltc2dTdGF0aXN0aWNzcy5sZW5ndGggPSAwCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cmUgPQoJCQkJ</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQlmb3IgKGxldCBpID0gMDsgaSA8IGNvbmN1cnJlbnRDaGF0OyBpKyspIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>387</text>
       </register>
     </registers>
     <search>
@@ -655,7 +656,6 @@
         <entry>i</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>+13</entry>
         <entry>81</entry>
         <entry>e</entry>
@@ -675,6 +675,7 @@
         <entry>we</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>387</entry>
       </history-cmd>
       <history-expr />
       <history-input />
