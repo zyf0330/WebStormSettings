@@ -39,11 +39,12 @@
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="25" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" timestamp="1532427416962">
-        <mark key="[" line="361" column="30" />
-        <mark key="]" line="361" column="31" />
-        <mark key="." line="361" column="31" />
-        <mark key="^" line="361" column="31" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" timestamp="1532499740965">
+        <mark key="'" line="260" column="15" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="13" />
+        <mark key="." line="261" column="0" />
+        <mark key="^" line="349" column="25" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Socket.js" timestamp="1531453936576">
         <mark key="'" line="136" column="31" />
@@ -207,7 +208,6 @@
       <file name="/Clipboard.txt" timestamp="1531276506095">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Connector.js" timestamp="1532489471531" />
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/confd/conf.d/config.js.toml" timestamp="1532318101147">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="14" />
@@ -264,7 +264,6 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/service/Broadcaster.js" timestamp="1532489519332" />
       <file name="internal/async_hooks.js" timestamp="1531273216779">
         <mark key="[" line="0" column="0" />
       </file>
@@ -296,7 +295,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="55" />
       </file>
-      <file name="/JavaScript Console" timestamp="1532489460237">
+      <file name="/JavaScript Console" timestamp="1532499640269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/cdnList.yaml" timestamp="1531812041291">
@@ -474,7 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" />
       <jump line="25" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" />
       <jump line="68" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" />
       <jump line="66" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/SyncWorker.js" />
@@ -574,55 +572,56 @@
       <jump line="561" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
       <jump line="81" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
       <jump line="289" column="14" filename="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="260" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>msgStatistics</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>summaryMsgStatistics(msgStatistics)</text>
       </register>
       <register name="/" type="4">
-        <text>au</text>
+        <text>msg</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQluZWVkQ2hlY2tNaWNPbkFpciA9IHRydWUKCQkJCX0K</text>
+      <register name="0" type="4">
+        <text>msgStatistics</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXJnczogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXJvb21JbmZvLmF1ZGllbmNlQ291bnQgKz0gMTsK</text>
+        <text encoding="base64">CQkJCQkJCWlmIChpc0xhc3QpIHsKCQkJCQkJCQljb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbicucmVwZWF0KDMpKQoJCQkJCQkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlyb29tSW5mby5hdWRpZW5jZUNvdW50IC09IDE7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQljb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXJvb21JbmZvLmF1ZGllbmNlQ291bnQgLT0gMTsK</text>
+        <text encoding="base64">CQkJCQkJCQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlsb2dnZXIubG9nKHJvb21JZCwgJ2FsbENsaWVudENvdW50JywgeyBjb3VudE1hcCwgdHN9KQo=</text>
+        <text encoding="base64">CQkJCQkJCQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb25zdCBhdWRpZW5jZUNvdW50ID0gcm9vbUluZm8uYXVkaWVuY2VDb3VudDsK</text>
+        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZiAoYXVkaWVuY2VDb3VudCkgewoJCX0K</text>
+        <text encoding="base64">ICAgICAgYXJnczogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdGhpcy5yb29tQnJvYWRjYXN0KHJvb21JZCwgJ2NvdW50JywgewoJCQkJY291bnQ6IGF1ZGllbmNlQ291bnQsCgkJCQl0czogdHMKCQkJfSk7Cg==</text>
+        <text encoding="base64">CQkJCXJvb21JbmZvLmF1ZGllbmNlQ291bnQgKz0gMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zdCBhdWRpZW5jZUNvdW50ID0gcm9vbUluZm8uYXVkaWVuY2VDb3VudDsK</text>
+        <text encoding="base64">CQkJCQlyb29tSW5mby5hdWRpZW5jZUNvdW50IC09IDE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>au</last-search>
+      <last-search>msg</last-search>
       <last-offset />
-      <last-pattern>au</last-pattern>
+      <last-pattern>msg</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -630,7 +629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cdn</entry>
         <entry>do</entry>
         <entry>cb</entry>
         <entry>sdk</entry>
@@ -650,6 +648,7 @@
         <entry>all</entry>
         <entry>c</entry>
         <entry>au</entry>
+        <entry>msg</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
