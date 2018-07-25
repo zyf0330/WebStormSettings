@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
+    <option name="defaultProjectDirectory" value="$USER_HOME$/project" />
     <option name="inactiveTimeout" value="60" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="autoSaveFiles" value="false" />
@@ -13,5 +14,6 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="ide.tooltip.show.with.actions" value="true" />
   </component>
 </application>

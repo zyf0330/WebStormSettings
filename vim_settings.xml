@@ -66,12 +66,6 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.js" timestamp="1532502820593">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/utils/hls.js" timestamp="1531909550984">
         <mark key="[" line="54" column="33" />
         <mark key="]" line="54" column="39" />
@@ -129,6 +123,20 @@
         <mark key="]" line="20" column="49" />
         <mark key="." line="20" column="49" />
         <mark key="^" line="20" column="49" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.js" timestamp="1531724544842">
+        <mark key="'" line="2" column="8" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="44" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="55" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.js" timestamp="1530093741740">
+        <mark key="'" line="9" column="2" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/package.json" timestamp="1530243970480">
         <mark key="'" line="28" column="4" />
@@ -280,13 +288,6 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.js" timestamp="1530093741740">
-        <mark key="'" line="9" column="2" />
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/schemas/index.js" timestamp="1531727120470">
         <mark key="'" line="29" column="37" />
         <mark key="[" line="91" column="0" />
@@ -294,14 +295,7 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="98" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.js" timestamp="1531724544842">
-        <mark key="'" line="2" column="8" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="44" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="55" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1532508661390">
+      <file name="/JavaScript Console" timestamp="1532509212254">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/consts/cdnList.yaml" timestamp="1531812041291">
@@ -396,6 +390,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/Room.js" timestamp="1532079039365">
         <mark key="[" line="72" column="8" />
         <mark key="]" line="72" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.js" timestamp="1532502820593">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/worker.spec.js" timestamp="1530611632479">
         <mark key="'" line="481" column="8" />
@@ -585,7 +585,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>Process finished with exit code 139 (interrupted by signal 11: SIGSEGV)</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
