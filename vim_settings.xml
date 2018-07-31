@@ -397,10 +397,11 @@
         <mark key="^" line="80" column="85" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533021814762">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1533022067613">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/conf.d/cdnList.toml" timestamp="1531906917191">
         <mark key="[" line="2" column="29" />
@@ -629,10 +630,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix(streamSync): 修复小问题</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>fix(streamSync): 修复小问题</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>P</text>
