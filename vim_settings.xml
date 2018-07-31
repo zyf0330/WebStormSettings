@@ -29,6 +29,13 @@
         <mark key="^" line="36" column="44" />
         <mark key="." line="36" column="44" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.js" timestamp="1533020858919">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="10" />
+        <mark key="." line="21" column="10" />
+        <mark key="^" line="21" column="10" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd.sh" timestamp="1531910514297">
         <mark key="[" line="9" column="35" />
         <mark key="]" line="9" column="36" />
@@ -65,12 +72,12 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/utils/hls.js" timestamp="1533018312925">
-        <mark key="'" line="96" column="22" />
-        <mark key="[" line="100" column="19" />
-        <mark key="]" line="100" column="25" />
-        <mark key="^" line="100" column="25" />
-        <mark key="." line="100" column="25" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/utils/hls.js" timestamp="1533020679323">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="110" column="6" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/master.js" timestamp="1530597826259">
         <mark key="'" line="214" column="0" />
@@ -390,8 +397,10 @@
         <mark key="^" line="80" column="85" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532933322618">
+      <file name="/Dummy.txt" timestamp="1533021028128">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/conf.d/cdnList.toml" timestamp="1531906917191">
         <mark key="[" line="2" column="29" />
@@ -405,7 +414,8 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/Room.js" timestamp="1533017911471">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/Room.js" timestamp="1533020578979">
+        <mark key="'" line="83" column="13" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="50" />
         <mark key="." line="83" column="41" />
@@ -516,9 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.js" />
-      <jump line="0" column="61" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.js" />
-      <jump line="10" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
       <jump line="8" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
       <jump line="19" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/workers/streamSync.js" />
       <jump line="17" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
@@ -616,58 +623,61 @@
       <jump line="111" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/utils/hls.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/utils/hls.js" />
       <jump line="96" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/utils/hls.js" />
+      <jump line="83" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/models/Room.js" />
+      <jump line="78" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/utils/hls.js" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bG9nLmVycm9yKHtlcnJvcjpuZXcgRXJyb3IoJ2VlZWUnKX0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>fix(streamSync): 修复小问题</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>fix(streamSync): 修复小问题</text>
       </register>
       <register name="/" type="4">
-        <text>s</text>
+        <text>P</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3Qgc2VudHJ5ID0gcmVxdWlyZSgndGluZGVyLWNlbnRlci1zZGsnKS5zZW50cnk7Cg==</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gcmV0cnkoZnVuYykgewogIGZvciAobGV0IGkgPSAwOyBpIDwgMzsgaSsrKSB7CiAgICB0cnkgewogICAgICByZXR1cm4gYXdhaXQgZnVuYygpCiAgICB9IGNhdGNoIChlKSB7CiAgICAgIGlmKGkgPT09IDIpewogICAgICAgIHRocm93IGUKICAgICAgfQogICAgfQogICAgYXdhaXQgUHJvbWlzZS5kZWxheSgxMDAgKiBNYXRoLnBvdygyLCBpKSkKICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nLmVycm9yKHtlcnJvcjpuZXcgRXJyb3IoJ2VlZWUnKX0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qgc2VudHJ5ID0gcmVxdWlyZSgndGluZGVyLWNlbnRlci1zZGsnKS5zZW50cnk7Cg==</text>
+        <text encoding="base64">ICBzZXRUaW1lb3V0KHJlcywgdGltZSkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LmNhdGNoKGUgPT4gewogICAgICBzZW50cnkuY2FwdHVyZUV4Y2VwdGlvbihlLCB7IGV4dHJhOiB7IHBheWxvYWQsIGlzVmlkZW8gfSwgdGFnczogeyBzZXJ2aWNlOiAnaGxzJyB9IH0pOwogICAgICBsb2cuZXJyb3IoeyBlLCBwYXlsb2FkLCBpc1ZpZGVvIH0sICd0cmlnZ2VyIGhscyBmYWlsZWQnKTsKICAgIH0p</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0Vk0uc3RvcCgpLAo=</text>
+        <text encoding="base64">ICAgIC8vIOmHjeivlQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VkIC1pIC1lICJzL3NldGlkY2hlcmUvJGlkY0lkLyIgY29uZmQvY29uZi5kL3Rlc3RWTS50b21sCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGVzdFZNLmluaXQoY29ubmVjdG9yQ29uZmlnLmhvc3QsIGNvbm5lY3Rvci5wb3J0LCAoKSA9PiB7CiAgcmV0dXJuIGNvbm5lY3Rvci5zb2NrZXRzLnNpemUKfSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgdGVzdFZNID0gcmVxdWlyZSgnLi4vdXRpbHMvdGVzdFZNJykK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2FkWWFtbCgndGVzdFZNJyksCg==</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgUHJvbWlzZS5kZWxheSgxMDAgKiBNYXRoLnBvdygyLCBpKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
-      <last-search>s</last-search>
+      <last-search>P</last-search>
       <last-offset />
-      <last-pattern>s</last-pattern>
+      <last-pattern>P</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -675,7 +685,6 @@
     </search>
     <history>
       <history-search>
-        <entry>all</entry>
         <entry>c</entry>
         <entry>au</entry>
         <entry>g</entry>
@@ -695,9 +704,9 @@
         <entry>this.w</entry>
         <entry>msg</entry>
         <entry>s</entry>
+        <entry>P</entry>
       </history-search>
       <history-cmd>
-        <entry>+13</entry>
         <entry>81</entry>
         <entry>e</entry>
         <entry>-2</entry>
@@ -717,6 +726,7 @@
         <entry>wq</entry>
         <entry>387</entry>
         <entry>w</entry>
+        <entry>s</entry>
       </history-cmd>
       <history-expr />
       <history-input />
