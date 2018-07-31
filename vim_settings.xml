@@ -227,6 +227,10 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="22" column="10" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/config.js" timestamp="1533009748318">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="27" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1531276506095">
         <mark key="[" line="0" column="0" />
       </file>
@@ -613,8 +617,8 @@
       <jump line="310" column="54" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0Vk0uc3RvcCgpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>httpAudioPushServers</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
