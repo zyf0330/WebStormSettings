@@ -153,11 +153,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/protos/tinder/chat/index.proto" timestamp="1533104099549" />
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/protos/run.sh" timestamp="1533121082178">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="13" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/protos/run.sh" timestamp="1533179500044">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1533109655361">
         <mark key="[" line="0" column="0" />
@@ -169,6 +168,12 @@
         <mark key="^" line="49" column="3" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-center-sdk/src/application.js" timestamp="1533098123893" />
+      <file name="/Dummy.txt" timestamp="1533121337663">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/conf.d/cdnList.toml" timestamp="1531906917191">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="29" />
@@ -313,8 +318,8 @@
       <jump line="80" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/protos/tinder/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>I</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2xlZXAgMTAwMDAwMDAwCg==</text>
       </register>
       <register name="-" type="4">
         <text>I</text>
@@ -326,35 +331,34 @@
         <text>fsWatche</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJwYyBQYXRjaChQYXRjaFJlcXVlc3QpIHJldHVybnMgKFBhdGNoUmVzcG9uc2UpIHt9Cg==</text>
+        <text encoding="base64">c2xlZXAgMTAwMDAwMDAwCg==</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJwYyBQUFRPcGVyYXRpb25BY2soUFBUT3BlcmF0aW9uQWNrUmVxdWVzdCkgcmV0dXJucyAoUFBUT3BlcmF0aW9uQWNrUmVzcG9uc2UpIHt9Cg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgc2gK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0sIDEwKQo=</text>
+        <text encoding="base64">ICAgIHJwYyBQYXRjaChQYXRjaFJlcXVlc3QpIHJldHVybnMgKFBhdGNoUmVzcG9uc2UpIHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgIHJwYyBQUFRPcGVyYXRpb25BY2soUFBUT3BlcmF0aW9uQWNrUmVxdWVzdCkgcmV0dXJucyAoUFBUT3BlcmF0aW9uQWNrUmVzcG9uc2UpIHt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgIC8vIHdhdGNoQ2hhbmdlKCkK</text>
+        <text encoding="base64">ICAgIH0sIDEwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHdhdGNoIOebruagh+iiq+abv+aNouWQjuW/hemhu+mHjeaWsCB3YXRjaAogICAgLy8g5ZCM5pe26YG/5YWN6YeN5aSN6Kem5Y+R5LqL5Lu2CiAgICAvLyBmc1dhdGNoZXIuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAoZnNXYXRjaGVyICE9IG51bGwpIHsKICAgIC8vIGZzV2F0Y2hlci5jbG9zZSgpCiAgfQo=</text>
+        <text encoding="base64">CiAgICAgIC8vIHdhdGNoQ2hhbmdlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IGZzV2F0Y2hlciA9IG51bGwK</text>
+        <text encoding="base64">ICAgIC8vIHdhdGNoIOebruagh+iiq+abv+aNouWQjuW/hemhu+mHjeaWsCB3YXRjaAogICAgLy8g5ZCM5pe26YG/5YWN6YeN5aSN6Kem5Y+R5LqL5Lu2CiAgICAvLyBmc1dhdGNoZXIuY2xvc2UoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>)
-  fsWatcher.on('change',</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBpZiAoZnNXYXRjaGVyICE9IG51bGwpIHsKICAgIC8vIGZzV2F0Y2hlci5jbG9zZSgpCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
