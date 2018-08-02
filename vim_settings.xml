@@ -48,12 +48,12 @@
         <mark key="." line="309" column="8" />
         <mark key="^" line="303" column="12" />
       </file>
-      <file name="$USER_HOME$/Desktop/git.md" timestamp="1533196785458">
+      <file name="$USER_HOME$/Desktop/git.md" timestamp="1533198224069">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+        <mark key="^" line="36" column="13" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Socket.js" timestamp="1533024575424">
         <mark key="'" line="7" column="34" />
@@ -644,10 +644,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>differential</text>
+        <text>，拆分为尽量细小的逻辑作为 revision 的内容</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tdXBkYXRl</text>
+        <text>，拆分为尽量细小的逻辑作为 revision 的内容</text>
       </register>
       <register name="/" type="4">
         <text>di</text>
@@ -656,34 +656,34 @@
         <text>sleep 9999999999999999999</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSByZXZpc2lvbi9kaWZmZXJlbnRpYWwK</text>
+        <text encoding="base64">ICAtIOS4gOenje+8jOavj+S4qiByZXZpc2lvbiDpg73mmK/kuIDkuKrlrozmlbTnmoTlpKflip/og73vvIzpgqPkuYjlj6/ku6Xmr4/mrKEgZGlmZiDmj5DkuqTlhbbkuK3kuIDpg6jliIbmm7TmlLkgIAogIOavlOWmguWJjeerr+eahOS4gOS4quaUueWKqOWPr+iDvea2ieWPiuWIsOS/ruaUuSBjc3PvvIxqcyDlkowgaHRtbCDlpJrpg6jliIbvvIzlsLHlj6/ku6Xov5nmoLflrp7ot7UK</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSB3aGljaDog5Y+v5Lul5p+l55yLIGRpZmYg55qE6IyD5Zu0562J5L+h5oGvCg==</text>
+        <text encoding="base64">LSBicmFuY2gvZmVhdHVyZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBsaXN0OiAK</text>
+        <text encoding="base64">LSByZXZpc2lvbi9kaWZmZXJlbnRpYWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBmZWF0dXJlCg==</text>
+        <text encoding="base64">LSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">LSB3aGljaDog5Y+v5Lul5p+l55yLIGRpZmYg55qE6IyD5Zu0562J5L+h5oGvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAvcHJvdG9zIOaYryBwdiDmjILovb3nmoTnm67lvZUK</text>
+        <text encoding="base64">LSBsaXN0OiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2xlZXAgMTAwMDAwCg==</text>
+        <text encoding="base64">LSBmZWF0dXJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2xlZXAgMTAwMDAwCg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
