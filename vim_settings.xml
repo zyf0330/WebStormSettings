@@ -242,7 +242,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="22" column="10" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1533278122514">
+      <file name="/Clipboard.txt" timestamp="1533278604327">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="107" column="45" />
         <mark key="^" line="107" column="45" />
@@ -501,6 +501,12 @@
         <mark key="." line="6" column="77" />
         <mark key="^" line="6" column="77" />
       </file>
+      <file name="/tmp/b/new" timestamp="1533279100523">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="47" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="21" column="7" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/__test__/app.spec.js" timestamp="1530085429454">
         <mark key="'" line="24" column="5" />
         <mark key="[" line="33" column="5" />
@@ -561,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
       <jump line="31" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
       <jump line="35" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
       <jump line="58" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
@@ -661,13 +666,14 @@
       <jump line="25" column="0" filename="$USER_HOME$/Desktop/git.md" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/git.md" />
       <jump line="16" column="20" filename="$USER_HOME$/Desktop/git.md" />
+      <jump line="8" column="4" filename="/tmp/b/new" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>098f5640-9632-11e8-a5f2-a367f0f0568c</text>
       </register>
       <register name="-" type="4">
-        <text>yarn install 后 clean cache</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>di</text>
@@ -675,35 +681,35 @@
       <register name="0" type="4">
         <text>sleep 9999999999999999999</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">anh4Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIOS4gOenje+8jOavj+S4qiByZXZpc2lvbiDpg73mmK/kuIDkuKrlrozmlbTnmoTlpKflip/og73vvIzpgqPkuYjlj6/ku6Xmr4/mrKEgZGlmZiDmj5DkuqTlhbbkuK3kuIDpg6jliIbmm7TmlLkgIAogIOavlOWmguWJjeerr+eahOS4gOS4quaUueWKqOWPr+iDvea2ieWPiuWIsOS/ruaUuSBjc3PvvIxqcyDlkowgaHRtbCDlpJrpg6jliIbvvIzlsLHlj6/ku6Xov5nmoLflrp7ot7UK</text>
+        <text encoding="base64">ICAgICJxdWVyeSI6IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewogICJpbmRleCI6ICIwOThmNTY0MC05NjMyLTExZTgtYTVmMi1hMzY3ZjBmMDU2OGMiLAogICJxdWVyeSI6IHsKICAgICJxdWVyeSI6IHsKICAgICAgInF1ZXJ5X3N0cmluZyI6IHsKICAgICAgICAicXVlcnkiOiAidHlwZTI6XCJldmVudERlbGF5XCIgJiYga2luZDpcIm1lc3NhZ2VcIiAmJiBkZWxheTo8MTAwMCIsCiAgICAgICAgImFuYWx5emVfd2lsZGNhcmQiOiB0cnVlCiAgICAgIH0KICAgIH0KICAgICJsYW5ndWFnZSI6ICJsdWNlbmUiCiAgfSwKICAiZmlsdGVyIjogW10KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBicmFuY2gvZmVhdHVyZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSByZXZpc2lvbi9kaWZmZXJlbnRpYWwK</text>
+        <text encoding="base64">anh4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSAK</text>
+        <text encoding="base64">ICAtIOS4gOenje+8jOavj+S4qiByZXZpc2lvbiDpg73mmK/kuIDkuKrlrozmlbTnmoTlpKflip/og73vvIzpgqPkuYjlj6/ku6Xmr4/mrKEgZGlmZiDmj5DkuqTlhbbkuK3kuIDpg6jliIbmm7TmlLkgIAogIOavlOWmguWJjeerr+eahOS4gOS4quaUueWKqOWPr+iDvea2ieWPiuWIsOS/ruaUuSBjc3PvvIxqcyDlkowgaHRtbCDlpJrpg6jliIbvvIzlsLHlj6/ku6Xov5nmoLflrp7ot7UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSB3aGljaDog5Y+v5Lul5p+l55yLIGRpZmYg55qE6IyD5Zu0562J5L+h5oGvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBsaXN0OiAK</text>
+        <text encoding="base64">LSBicmFuY2gvZmVhdHVyZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
