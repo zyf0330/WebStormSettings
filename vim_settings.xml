@@ -49,10 +49,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSync.sh" timestamp="1531910798675">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1533790924366">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1533791842854">
+        <mark key="'" line="12" column="9" />
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/node_modules/a.js" timestamp="1533107558712">
         <mark key="[" line="0" column="23" />
@@ -162,7 +164,7 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533712690773">
+      <file name="/JavaScript Console" timestamp="1533791069256">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -189,7 +191,7 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533790830666">
+      <file name="/Dummy.txt" timestamp="1533791044372">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -282,14 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
-      <jump line="60" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
-      <jump line="70" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
-      <jump line="93" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
-      <jump line="127" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
-      <jump line="46" column="41" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/templates/cdnList.tmpl" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/templates/cdnList.tmpl" />
-      <jump line="8" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/templates/cdnList.tmpl" />
       <jump line="15" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/templates/cdnList.tmpl" />
       <jump line="14" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSync.json" />
       <jump line="26" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSyncConfd.sh" />
@@ -382,58 +376,66 @@
       <jump line="8" column="4" filename="/tmp/b/new" />
       <jump line="79" column="4" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/Server.ts" />
       <jump line="68" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="56" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="57" column="36" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="71" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="80" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="83" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="86" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="87" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="12" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>reason</text>
       </register>
       <register name="-" type="4">
-        <text>fix(Proxy): 没有把连接加入到连接列表中</text>
+        <text>reason</text>
       </register>
       <register name="/" type="4">
-        <text>this</text>
+        <text>disconnect</text>
       </register>
-      <register name="0" type="4">
-        <text>await this.etcdClient.getAll().prefix(this._prefix)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChyZWFzb24gPT09ICdpbyBzZXJ2ZXIgZGlzY29ubmVjdCcpIHsKICAgICAgICAgICAgdGhpcy5jbG9zZSgpOwogICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2xpZW50U29ja2V0LmRpc2Nvbm5lY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlYXNvbiA9PT0gJ2lvIGNsaWVudCBkaXNjb25uZWN0Jykgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGlzY29ubmVjdGVkID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jbG9zZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ0NsaWVudCBkaXNjb25uZWN0Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgbyA9IHsKICAwOiAxLAogIDE6IDIsCiAgMzogNCwKICAyOiAzCn0KZm9yKGNvbnN0IGsgaW4gbyl7CiAgY29uc29sZS5sb2coaykKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuY2xpZW50U29ja2V0LmRpc2Nvbm5lY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0LmNvbm5lY3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuY2xvc2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhlIGRpc2Nvbm5lY3Rpb24gd2FzIGluaXRpYXRlZCBieSB0aGUgc2VydmVyLCB5b3UgbmVlZCB0byByZWNvbm5lY3QgbWFudWFsbHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jb25uZWN0aW9ucy5kZWxldGUoY2xpZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhlIGRpc2Nvbm5lY3Rpb24gd2FzIGluaXRpYXRlZCBieSB0aGUgc2VydmVyLCB5b3UgbmVlZCB0byByZWNvbm5lY3QgbWFudWFsbHkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this</last-search>
+      <last-search>disconnect</last-search>
       <last-offset />
-      <last-pattern>this</last-pattern>
+      <last-pattern>disconnect</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -441,9 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s</entry>
-        <entry>e</entry>
-        <entry>la</entry>
         <entry>sdcF</entry>
         <entry>sdc</entry>
         <entry>ser</entry>
@@ -461,6 +460,9 @@
         <entry encoding="base64">XDzlh6DkuKrlj6/og73luLjnlKjnmoTlkb3ku6RcPg==</entry>
         <entry>di</entry>
         <entry>this</entry>
+        <entry>(</entry>
+        <entry>discconnect</entry>
+        <entry>disconnect</entry>
       </history-search>
       <history-cmd>
         <entry>-2</entry>
