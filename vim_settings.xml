@@ -93,11 +93,12 @@
         <mark key="[" line="462" column="0" />
         <mark key="]" line="471" column="1" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533809285123">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="16" />
-        <mark key="^" line="9" column="16" />
-        <mark key="." line="9" column="16" />
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533809911987">
+        <mark key="'" line="13" column="22" />
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="21" column="17" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile" timestamp="1533204927785">
         <mark key="[" line="7" column="22" />
@@ -302,11 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/templates/cdnList.tmpl" />
-      <jump line="14" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSync.json" />
-      <jump line="26" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSyncConfd.sh" />
-      <jump line="13" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSync.json" />
-      <jump line="10" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" />
       <jump line="25" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" />
       <jump line="4" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSyncConfd.sh" />
       <jump line="28" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSyncConfd.sh" />
@@ -402,58 +398,63 @@
       <jump line="87" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
       <jump line="12" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
       <jump line="80" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
+      <jump line="24" column="5" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
+      <jump line="20" column="5" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
+      <jump line="13" column="22" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x-delayed-type:</text>
+        <text>'jobs'</text>
       </register>
       <register name="-" type="4">
-        <text>x-delayed-type:</text>
+        <text>'jobs'</text>
       </register>
       <register name="/" type="4">
-        <text>con</text>
+        <text>jobs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChyZWFzb24gPT09ICdpbyBzZXJ2ZXIgZGlzY29ubmVjdCcpIHsKICAgICAgICAgICAgdGhpcy5jbG9zZSgpOwogICAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>delayTime</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnNlcnZlclNvY2tldCAmJiB0aGlzLnNlcnZlclNvY2tldC5jb25uZWN0ZWQpIHsK</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmNsaWVudFNvY2tldC5jb25uZWN0ZWQpIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlYXNvbiA9PT0gJ2lvIGNsaWVudCBkaXNjb25uZWN0Jykgewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jbG9zZSgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ0NsaWVudCBkaXNjb25uZWN0Jyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAneC1kZWxheWVkLXR5cGUnOiAnZGlyZWN0JywK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmICh0aGlzLnNlcnZlclNvY2tldCAmJiB0aGlzLnNlcnZlclNvY2tldC5jb25uZWN0ZWQpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmICh0aGlzLmNsaWVudFNvY2tldC5jb25uZWN0ZWQpIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0LmNvbm5lY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlYXNvbiA9PT0gJ2lvIGNsaWVudCBkaXNjb25uZWN0Jykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>con</last-search>
+      <last-search>jobs</last-search>
       <last-offset />
-      <last-pattern>con</last-pattern>
+      <last-pattern>jobs</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -461,11 +462,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sdc</entry>
-        <entry>ser</entry>
-        <entry>ful</entry>
-        <entry>..</entry>
-        <entry>\.</entry>
         <entry>pro</entry>
         <entry>w</entry>
         <entry>__</entry>
@@ -481,6 +477,11 @@
         <entry>discconnect</entry>
         <entry>disconnect</entry>
         <entry>con</entry>
+        <entry>ch</entry>
+        <entry>content</entry>
+        <entry>,</entry>
+        <entry>ex</entry>
+        <entry>jobs</entry>
       </history-search>
       <history-cmd>
         <entry>-2</entry>
