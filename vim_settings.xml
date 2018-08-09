@@ -56,7 +56,6 @@
         <mark key="^" line="14" column="30" />
         <mark key="." line="80" column="26" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/node_modules/socket.io-client/lib/manager.js" timestamp="1533792276741" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/node_modules/a.js" timestamp="1533107558712">
         <mark key="[" line="0" column="23" />
       </file>
@@ -93,6 +92,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/node_modules/socket.io/lib/socket.js" timestamp="1533792366858">
         <mark key="[" line="462" column="0" />
         <mark key="]" line="471" column="1" />
+      </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533799718662">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile" timestamp="1533204927785">
         <mark key="[" line="7" column="22" />
@@ -140,6 +145,7 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="23" column="28" />
       </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/service/record.js" timestamp="1533798705711" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder-jsonpatch-center/Dockerfile" timestamp="1533205093260">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="21" column="22" />
@@ -399,10 +405,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>exchangeOption</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>exchangeOption</text>
       </register>
       <register name="/" type="4">
         <text>con</text>
