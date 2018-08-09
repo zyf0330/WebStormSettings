@@ -49,6 +49,11 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSync.sh" timestamp="1531910798675">
         <mark key="[" line="0" column="19" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1533790924366">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/node_modules/a.js" timestamp="1533107558712">
         <mark key="[" line="0" column="23" />
       </file>
@@ -184,10 +189,10 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533724408729">
+      <file name="/Dummy.txt" timestamp="1533790830666">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/conf.d/cdnList.toml" timestamp="1531906917191">
         <mark key="[" line="2" column="29" />
@@ -277,7 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
       <jump line="58" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
       <jump line="60" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
       <jump line="70" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/__test__/streamSync.spec.js" />
@@ -377,13 +381,14 @@
       <jump line="16" column="20" filename="$USER_HOME$/Desktop/git.md" />
       <jump line="8" column="4" filename="/tmp/b/new" />
       <jump line="79" column="4" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/Server.ts" />
+      <jump line="68" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>fix(Proxy): 没有把连接加入到连接列表中</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
@@ -392,34 +397,34 @@
         <text>await this.etcdClient.getAll().prefix(this._prefix)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4KCk6IHNvY2tldCBkaXNjb25uZWN0IOaXtuayoeacieS7jiBTZXJ2ZXIg56e76ZmkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY2xpZW50U29ja2V0LmRpc2Nvbm5lY3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgc29ja2V0LnJ1bigpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZGlzY29ubmVjdGVkID0gdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNvY2tldC5faW50ZXJuYWxFbWl0dGVyLm9uKCdjb25uZWN0ZWQnLCAoKSA9PiB7CiAgICAgIHRoaXMuZW1pdCgnY29ubmVjdGlvbicsIHNvY2tldCk7CiAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgX3NvY2tldHMucmUK</text>
+        <text encoding="base64">Y29uc3QgbyA9IHsKICAwOiAxLAogIDE6IDIsCiAgMzogNCwKICAyOiAzCn0KZm9yKGNvbnN0IGsgaW4gbyl7CiAgY29uc29sZS5sb2coaykKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgW10uZmluZEluCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuY2xpZW50U29ja2V0LmRpc2Nvbm5lY3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeXsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH1jYXRjaChlKXsKICAgICAgZQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jb25uZWN0aW9ucy5kZWxldGUoY2xpZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -458,7 +463,6 @@
         <entry>this</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
         <entry>-2</entry>
         <entry>-24</entry>
         <entry>+11</entry>
@@ -477,6 +481,7 @@
         <entry>387</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
