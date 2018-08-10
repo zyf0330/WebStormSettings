@@ -117,12 +117,12 @@
         <mark key="[" line="462" column="0" />
         <mark key="]" line="471" column="1" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533875696546">
-        <mark key="'" line="13" column="22" />
-        <mark key="[" line="50" column="39" />
-        <mark key="]" line="50" column="39" />
-        <mark key="^" line="50" column="38" />
-        <mark key="." line="50" column="39" />
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533876409370">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="26" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile" timestamp="1533204927785">
         <mark key="[" line="7" column="22" />
@@ -213,7 +213,7 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533875684837">
+      <file name="/JavaScript Console" timestamp="1533876212028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -352,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="14" filename="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
       <jump line="350" column="37" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" />
       <jump line="260" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" />
       <jump line="257" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" />
@@ -438,7 +437,6 @@
       <jump line="19" column="4" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
       <jump line="24" column="5" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
       <jump line="20" column="5" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
-      <jump line="13" column="22" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
       <jump line="31" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" />
       <jump line="51" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" />
       <jump line="15" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" />
@@ -452,58 +450,60 @@
       <jump line="25" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
       <jump line="16" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
       <jump line="64" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
+      <jump line="50" column="42" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>routingKey</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgcXVldWVOYW1lID0gJ2pvYnMnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>routingKey</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>setr</text>
+        <text>queuename</text>
       </register>
       <register name="0" type="4">
         <text>delayTime</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgcm91dGluZ0tleSA9ICdyb3V0aW5nS2V5Jwo=</text>
+        <text encoding="base64">Y29uc3QgcXVldWVOYW1lID0gJ2pvYnMnCg==</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qgcm91dGluZ0tkZGV5ID0gJ3JvdXRpbmdLZXknCg==</text>
+        <text encoding="base64">bGV0IGxhc3RNc2dUaW1lID0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjaGFubmVsLmJpbmRRdWV1ZShxdWV1ZU5hbWUsIGV4TmFtZSwgcm91dGluZ0tleSk7Cg==</text>
+        <text encoding="base64">Y29uc3Qgcm91dGluZ0tleSA9ICdyb3V0aW5nS2V5Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgcm91dGluZ0tkZGV5ID0gJ3JvdXRpbmdLZXknCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjaGFubmVsLmJpbmRRdWV1ZShxdWV1ZU5hbWUsIGV4TmFtZSwgcm91dGluZ0tleSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhc3luYyBpbml0Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
       </register>
     </registers>
     <search>
-      <last-search>setr</last-search>
+      <last-search>queuename</last-search>
       <last-offset />
-      <last-pattern>setr</last-pattern>
+      <last-pattern>queuename</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -511,8 +511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this</entry>
-        <entry>(</entry>
         <entry>discconnect</entry>
         <entry>disconnect</entry>
         <entry>con</entry>
@@ -531,6 +529,8 @@
         <entry>ar</entry>
         <entry>initi</entry>
         <entry>setr</entry>
+        <entry>c</entry>
+        <entry>queuename</entry>
       </history-search>
       <history-cmd>
         <entry>-24</entry>
