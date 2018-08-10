@@ -93,12 +93,12 @@
         <mark key="[" line="462" column="0" />
         <mark key="]" line="471" column="1" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533809911987">
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533812479953">
         <mark key="'" line="13" column="22" />
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="21" column="17" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile" timestamp="1533204927785">
         <mark key="[" line="7" column="22" />
@@ -183,7 +183,7 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533796116225">
+      <file name="/JavaScript Console" timestamp="1533813005928">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -242,6 +242,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533813005150">
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="33" column="5" />
+        <mark key="." line="33" column="5" />
+        <mark key="^" line="30" column="10" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-edge/node_modules/tinder-edge-nodejs/package.json" timestamp="1533711054368">
         <mark key="[" line="39" column="23" />
@@ -406,19 +412,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'jobs'</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>'jobs'</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>jobs</text>
       </register>
       <register name="0" type="4">
-        <text>delayTime</text>
+        <text>channel</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
@@ -430,22 +436,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAneC1kZWxheWVkLXR5cGUnOiAnZGlyZWN0JywK</text>
+        <text encoding="base64">ICBhd2FpdCBwdWJDaGFubmVsLnB1Ymxpc2goZXhOYW1lLCByb3V0aW5nS2V5LCBuZXcgQnVmZmVyKCdtZXNzYWdlQm9keScpLCB7CiAgICBoZWFkZXJzOiB7ICd4LWRlbGF5JzogZGVsYXlUaW1lIH0KICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnNlcnZlclNvY2tldCAmJiB0aGlzLnNlcnZlclNvY2tldC5jb25uZWN0ZWQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmNsaWVudFNvY2tldC5jb25uZWN0ZWQpIHsK</text>
+        <text encoding="base64">ICB9LCA1MDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBzZXRUaW1lb3V0KCgpID0+IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlYXNvbiA9PT0gJ2lvIGNsaWVudCBkaXNjb25uZWN0Jykgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
