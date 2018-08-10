@@ -183,7 +183,7 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533813005928">
+      <file name="/JavaScript Console" timestamp="1533865832033">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -243,11 +243,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533813005150">
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="33" column="5" />
-        <mark key="." line="33" column="5" />
-        <mark key="^" line="30" column="10" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533865830781">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="36" column="29" />
+        <mark key="]" line="36" column="29" />
+        <mark key="^" line="36" column="40" />
+        <mark key="." line="36" column="29" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-edge/node_modules/tinder-edge-nodejs/package.json" timestamp="1533711054368">
         <mark key="[" line="39" column="23" />
@@ -309,9 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" />
-      <jump line="4" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSyncConfd.sh" />
-      <jump line="28" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSyncConfd.sh" />
       <jump line="21" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" />
       <jump line="9" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" />
       <jump line="2" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd-stream-sync/conf.d/cdnList.toml" />
@@ -409,58 +407,61 @@
       <jump line="24" column="5" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
       <jump line="20" column="5" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
       <jump line="13" column="22" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" />
+      <jump line="31" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" />
+      <jump line="51" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" />
+      <jump line="15" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>jobs</text>
+        <text>delayTime</text>
       </register>
-      <register name="0" type="4">
-        <text>channel</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgnbXNnJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhc3RNc2dUaW1lID0gRGF0ZS5ub3coKQo=</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1zZyA9IERhdGUubm93KCkgKyAnJwogICAgY29uc29sZS5sb2coJ21hc3RlcicsIG1zZykKICAgIGF3YWl0IGNoYW5uZWwucHVibGlzaChleE5hbWUsIHJvdXRpbmdLZXksIG5ldyBCdWZmZXIobXNnKSwgewogICAgICBoZWFkZXJzOiB7ICd4LWRlbGF5JzogZGVsYXlUaW1lIH0sCiAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhd2FpdCBwdWJDaGFubmVsLnB1Ymxpc2goZXhOYW1lLCByb3V0aW5nS2V5LCBuZXcgQnVmZmVyKCdtZXNzYWdlQm9keScpLCB7CiAgICBoZWFkZXJzOiB7ICd4LWRlbGF5JzogZGVsYXlUaW1lIH0KICB9KTsK</text>
+        <text encoding="base64">ICBhd2FpdCBwdWJsaXNoKGNoYW5uZWwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9LCAzMDAwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZXRJbnRlcnZhbChhc3luYyAoKSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9LCA1MDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXRUaW1lb3V0KCgpID0+IHsK</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jobs</last-search>
+      <last-search>delayTime</last-search>
       <last-offset />
-      <last-pattern>jobs</last-pattern>
+      <last-pattern>delayTime</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -468,9 +469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pro</entry>
-        <entry>w</entry>
-        <entry>__</entry>
         <entry>exports</entry>
         <entry>fs</entry>
         <entry>watcher</entry>
@@ -488,6 +486,9 @@
         <entry>,</entry>
         <entry>ex</entry>
         <entry>jobs</entry>
+        <entry>me</entry>
+        <entry>ti</entry>
+        <entry>delayTime</entry>
       </history-search>
       <history-cmd>
         <entry>-2</entry>
