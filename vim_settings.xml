@@ -117,12 +117,12 @@
         <mark key="[" line="462" column="0" />
         <mark key="]" line="471" column="1" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533812479953">
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533875696546">
         <mark key="'" line="13" column="22" />
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+        <mark key="[" line="50" column="39" />
+        <mark key="]" line="50" column="39" />
+        <mark key="^" line="50" column="38" />
+        <mark key="." line="50" column="39" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile" timestamp="1533204927785">
         <mark key="[" line="7" column="22" />
@@ -213,7 +213,7 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533866188874">
+      <file name="/JavaScript Console" timestamp="1533875684837">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -280,12 +280,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533872069205">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533875661475">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="39" />
-        <mark key="^" line="59" column="25" />
-        <mark key="." line="59" column="25" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/consts/index.js" timestamp="1533872043106">
         <mark key="[" line="11" column="2" />
@@ -456,10 +455,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setRecordCOSTimer</text>
+        <text>routingKey</text>
       </register>
       <register name="-" type="4">
-        <text>setRecordCOSTimer</text>
+        <text>routingKey</text>
       </register>
       <register name="/" type="4">
         <text>setr</text>
@@ -468,34 +467,34 @@
         <text>delayTime</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgcm91dGluZ0tleSA9ICdyb3V0aW5nS2V5Jwo=</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgcm91dGluZ0tkZGV5ID0gJ3JvdXRpbmdLZXknCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICBjaGFubmVsLmJpbmRRdWV1ZShxdWV1ZU5hbWUsIGV4TmFtZSwgcm91dGluZ0tleSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhc3luYyBpbml0Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVjb3JkZXIuc3RvcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UHJvbWlzZS5hbGwoWwo=</text>
+        <text encoding="base64">ICBhc3luYyBpbml0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
