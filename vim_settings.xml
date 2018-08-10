@@ -46,6 +46,7 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/index.js" timestamp="1533867263357" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSync.sh" timestamp="1531910798675">
         <mark key="[" line="0" column="19" />
       </file>
@@ -183,7 +184,7 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533865832033">
+      <file name="/JavaScript Console" timestamp="1533866188874">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -243,12 +244,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533865830781">
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="29" />
-        <mark key="^" line="36" column="40" />
-        <mark key="." line="36" column="29" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533867142781">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="20" />
+        <mark key="]" line="59" column="25" />
+        <mark key="^" line="59" column="25" />
+        <mark key="." line="59" column="25" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-edge/node_modules/tinder-edge-nodejs/package.json" timestamp="1533711054368">
         <mark key="[" line="39" column="23" />
@@ -310,9 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" />
-      <jump line="9" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile-streamSync" />
-      <jump line="2" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd-stream-sync/conf.d/cdnList.toml" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder-edge-nodejs/.npmignore" />
       <jump line="85" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
       <jump line="6" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/checkCount.js" />
@@ -410,13 +408,16 @@
       <jump line="31" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" />
       <jump line="51" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" />
       <jump line="15" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" />
+      <jump line="37" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" />
+      <jump line="5" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>disable</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>disable</text>
       </register>
       <register name="/" type="4">
         <text>delayTime</text>
