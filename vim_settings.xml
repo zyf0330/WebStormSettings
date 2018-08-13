@@ -9,7 +9,7 @@
         <mark key="^" line="212" column="19" />
         <mark key="." line="212" column="19" />
       </file>
-      <file name="/fragment.js" timestamp="1534141468205">
+      <file name="/fragment.js" timestamp="1534150769060">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
@@ -63,6 +63,7 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/node_modules/rtmp-message-server/dist/Socket.js" timestamp="1534150729809" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/.gitignore" timestamp="1531907353323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -175,6 +176,12 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="9" column="14" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/node_modules/rtmp-message-server/dist/protocol.js" timestamp="1534151108023">
+        <mark key="[" line="234" column="46" />
+        <mark key="]" line="234" column="73" />
+        <mark key="^" line="234" column="73" />
+        <mark key="." line="234" column="73" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/Dockerfile" timestamp="1533204927785">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="22" column="6" />
@@ -238,6 +245,9 @@
         <mark key="^" line="41" column="95" />
         <mark key="." line="41" column="95" />
       </file>
+      <file name="events.js" timestamp="1534150684827">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/protos/tinder/jsonpatch2/index.proto" timestamp="1533093132276">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="23" />
@@ -256,7 +266,7 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1534150448727">
+      <file name="/JavaScript Console" timestamp="1534151117373">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -290,6 +300,7 @@
         <mark key="." line="100" column="8" />
         <mark key="^" line="100" column="8" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/node_modules/pino-pretty/index.js" timestamp="1534150630068" />
       <file name="$USER_HOME$/project/duobei/node-rtmp-message-server/src/amf/Encoder.ts" timestamp="1534148555628" />
       <file name="/Dummy.txt" timestamp="1534141673804">
         <mark key="[" line="0" column="0" />
@@ -501,8 +512,8 @@
       <jump line="42" column="16" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PresentationDrawLine</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobWVzc2FnZVBhcnNlW2hlYWRlci5tZXNzYWdlVHlwZUlEXSkgewogICAgICAgICAgICBtZXNzYWdlUGFyc2VbaGVhZGVyLm1lc3NhZ2VUeXBlSURdKHNlc3Npb24sIGJ1ZmZlcl8xLkJ1ZmZlci5jb25jYXQobWVzc2FnZS5jaHVua3MpKTsKICAgICAgICAgICAgbWVzc2FnZS5jaHVua3MgPSBbXTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>msgDecoded.</text>
