@@ -75,13 +75,9 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="21" column="32" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1533893370853">
-        <mark key="'" line="89" column="5" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="m" line="92" column="5" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="97" column="40" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/protos/tinder/apps/events.proto" timestamp="1534149056082">
+        <mark key="[" line="153" column="8" />
+        <mark key="]" line="153" column="27" />
       </file>
       <file name="$USER_HOME$/e.json" timestamp="1534135301968">
         <mark key="[" line="0" column="0" />
@@ -511,8 +507,8 @@
       <jump line="42" column="16" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcGVhdGVkIGludDMyIHBvaW50cyA9IDE7IC8vIFt4LCB5LCB4LCB5LCAuLi5dCg==</text>
+      <register name="&quot;" type="4">
+        <text>PresentationDrawLine</text>
       </register>
       <register name="-" type="4">
         <text>msgDecoded.</text>
