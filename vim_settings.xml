@@ -65,6 +65,13 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="18" />
       </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/utils/uploadCOS.js" timestamp="1534129367590">
+        <mark key="'" line="20" column="25" />
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="16" column="30" />
+      </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/1.js" timestamp="1533887882923">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="7" column="16" />
@@ -126,7 +133,6 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1533887099745" />
     </filemarks>
     <jumps>
-      <jump line="127" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="137" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="141" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="7" column="34" filename="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/connector/Socket.js" />
@@ -226,58 +232,59 @@
       <jump line="12" column="15" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
       <jump line="68" column="10" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
       <jump line="89" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
+      <jump line="14" column="25" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/utils/uploadCOS.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8vIEJ1Y2tldCDmoLzlvI/vvJp0ZXN0LTEyNTAwMDAwMDA=</text>
       </register>
       <register name="-" type="4">
-        <text>4 * 3600 * 1000</text>
+        <text encoding="base64">IC8vIEJ1Y2tldCDmoLzlvI/vvJp0ZXN0LTEyNTAwMDAwMDA=</text>
       </register>
       <register name="/" type="4">
-        <text>en</text>
+        <text>a</text>
       </register>
       <register name="0" type="4">
-        <text>RECORD_PERSIST_DELAY</text>
+        <text>contentLen</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZpbGVQYXRoOiAnfi9EZXNrdG9wL2V2ZW50cy5qc29uLjEyMzQ1NjcnCg==</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRlbGF5VGltZSA9IDEwMDAwCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICB9LCAxMDAwKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRlbGF5VGltZSA9IDEwMDAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldEludGVydmFsKGFzeW5jICgpID0+IHsK</text>
+        <text encoding="base64">CiAgICB9LCAxMDAwKQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHNldEludGVydmFsKGFzeW5jICgpID0+IHsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGF3YWl0IGRlbGF5ZWRNZXNzYWdlUHJvZHVjZXIuc2VuZCgKICAgICAgY29uc3RzLlJPVVRJTkdLRVlfUkVDT1JEX1BFUlNJU1QsCiAgICAgIEJ1ZmZlci5mcm9tKHsgYXBwOiAnYXBwcycsIHJvb21JZDogdGhpcy5yb29tSWQgfSksCiAgICAgIHsgaGVhZGVyczogeyAneC1kZWxheSc6IGRlbGF5VGltZSB9IH0sCiAgICApCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">KCkgPT4gewp9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgaGFuZGxlU2lnbmFsID0gKCkgPT4gewogIHJlY29yZGVyLnN0b3AoKQogIHJlY29yZFBlcnNpc3Quc3RvcCgpCn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>en</last-search>
+      <last-search>a</last-search>
       <last-offset />
-      <last-pattern>en</last-pattern>
+      <last-pattern>a</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -285,7 +292,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ar</entry>
         <entry>initi</entry>
         <entry>setr</entry>
         <entry>c</entry>
@@ -305,6 +311,7 @@
         <entry>con</entry>
         <entry>extype</entry>
         <entry>en</entry>
+        <entry>a</entry>
       </history-search>
       <history-cmd>
         <entry>-24</entry>
