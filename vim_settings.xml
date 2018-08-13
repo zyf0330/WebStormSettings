@@ -98,10 +98,10 @@
         <mark key="]" line="4" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/utils/COS.js" timestamp="1534140397404">
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/utils/COS.js" timestamp="1534140632068">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="31" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="43" column="17" />
         <mark key="." line="5" column="0" />
       </file>
@@ -512,38 +512,38 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgeWFtbCA9IHJlcXVpcmUoJ2pzLXlhbWwnKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LyosIChlcnIpID0+IHsKICAgIGlmIChlcnIpIHsKICAgICAgbG9nZ2VyLmVycm9yKGVycikKICAgIH0KICB9Ki8=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc3QgeWFtbCA9IHJlcXVpcmUoJ2pzLXlhbWwnKQo=</text>
       </register>
       <register name="q" type="4">
         <text>onAllClientChatOnceFinish</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">LyosIChlcnIpID0+IHsKICAgIGlmIChlcnIpIHsKICAgICAgbG9nZ2VyLmVycm9yKGVycikKICAgIH0KICB9Ki8=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ZAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>new COS({
   SecretId,
   SecretKey,
 })</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgQ09TID0gcmVxdWlyZSgnY29zLW5vZGVqcy1zZGstdjUnKQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">UHJvbWlzZS5wcm9taXNpZnlBbGwoKQo=</text>
+        <text encoding="base64">Y29uc3QgQ09TID0gcmVxdWlyZSgnY29zLW5vZGVqcy1zZGstdjUnKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">UHJvbWlzZS5wcm9taXNpZnlBbGwoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBQcm9taXNlLnByb21pc2lmeUFsbCgpCg==</text>
+        <text encoding="base64">UHJvbWlzZS5wcm9taXNpZnlBbGwoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgUHJvbWlzZSA9IHJlcXVpcmUoJ2JsdWViaXJkJykK</text>
+        <text encoding="base64">ICBQcm9taXNlLnByb21pc2lmeUFsbCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
