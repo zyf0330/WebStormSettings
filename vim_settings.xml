@@ -88,6 +88,10 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/streamSync.sh" timestamp="1531910798675">
         <mark key="[" line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/project/duobei/node-rtmp-message-server/src/protocol.ts" timestamp="1534215648676">
+        <mark key="[" line="260" column="6" />
+        <mark key="]" line="260" column="24" />
+      </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/config/COS.yaml" timestamp="1534140435467">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="9" />
@@ -327,9 +331,9 @@
         <mark key="[" line="182" column="30" />
         <mark key="]" line="182" column="63" />
       </file>
-      <file name="$USER_HOME$/project/duobei/node-rtmp-message-server/src/Socket.ts" timestamp="1533718599794">
-        <mark key="[" line="143" column="46" />
-        <mark key="]" line="143" column="46" />
+      <file name="$USER_HOME$/project/duobei/node-rtmp-message-server/src/Socket.ts" timestamp="1534212861422">
+        <mark key="[" line="52" column="60" />
+        <mark key="]" line="52" column="72" />
         <mark key="^" line="143" column="46" />
         <mark key="." line="143" column="46" />
       </file>
@@ -521,8 +525,8 @@
       <jump line="42" column="16" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2RjLmluY3JlbWVudCgncmVjb3JkLnBlcnNpc3RlbnQuY29zJykK</text>
+      <register name="&quot;" type="4">
+        <text>message.chunks = []</text>
       </register>
       <register name="-" type="4">
         <text>record.persistent.cos</text>
@@ -564,7 +568,7 @@
         <text encoding="base64">LyosIChlcnIpID0+IHsKICAgIGlmIChlcnIpIHsKICAgICAgbG9nZ2VyLmVycm9yKGVycikKICAgIH0KICB9Ki8=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>59</text>
       </register>
     </registers>
     <search>
@@ -600,7 +604,6 @@
         <entry>room</entry>
       </history-search>
       <history-cmd>
-        <entry>-24</entry>
         <entry>+11</entry>
         <entry>64</entry>
         <entry>118</entry>
@@ -620,6 +623,7 @@
         <entry>41</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>59</entry>
       </history-cmd>
       <history-expr />
       <history-input />
