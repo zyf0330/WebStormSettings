@@ -4,6 +4,7 @@
       <mapping pattern="www" type="JavaScript" />
       <mapping pattern="list3" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-sync" type="PLAIN_TEXT" />
+      <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
       <mapping pattern="etcdConfig" type="PLAIN_TEXT" />
       <mapping pattern="filter" type="PLAIN_TEXT" />
       <mapping pattern="list2" type="PLAIN_TEXT" />
