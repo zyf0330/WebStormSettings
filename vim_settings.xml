@@ -51,10 +51,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1534327506927">
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1534328734123">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="34" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="29" column="3" />
         <mark key="." line="27" column="34" />
         <mark key="^" line="27" column="34" />
       </file>
@@ -537,8 +537,8 @@
       <jump line="15" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-apps-center/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KGFzeW5jICgpID0+IHsKICBjb25zdCBvbGRTZXNzaW9uSWQgPSAgYXdhaXQgc2Vzc2lvblNlcnZpY2UuZ2V0U2Vzc2lvbklkQnlVaWQoJ2p6ZTkwNmIxM2FiODA1NDAzZmI4YzU5NWI0NGIyZThjZjUnLCAnano1MzdlNDMzYWQzOTg0NzI0OGUwNjhmZTA2ZDBmYjU5MycpOwogIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLSBoZWFkJywgb2xkU2Vzc2lvbklkKQoKICBjb25zdCBSZWRpcyA9IHJlcXVpcmUoJ2lvcmVkaXMnKQogIGNvbnN0IHJlZGlzID0gbmV3IFJlZGlzKHsKICAgIHBvcnQ6IDYzODUsCiAgICBob3N0OiAncmVkaXMtc2VydmljZS50aW5kZXJkZXYnLAogICAgcGFzc3dvcmQ6ICdkdW9iZWknCiAgfSkKICBjb25zdCB7IGtleXMsIGNvbnN0c30gPSByZXF1aXJlKCcuL3V0aWxzJyk7CiAgY29uc3QgdXNlclNlc3Npb25LZXkgPSBrZXlzLnVzZXJTZXNzaW9uTWFwKCdqemU5MDZiMTNhYjgwNTQwM2ZiOGM1OTViNDRiMmU4Y2Y1Jyk7CiAgY29uc3Qgb2xkMiA9IGF3YWl0IHJlZGlzLmhnZXQodXNlclNlc3Npb25LZXksICdqejUzN2U0MzNhZDM5ODQ3MjQ4ZTA2OGZlMDZkMGZiNTkzJyk7CiAgY29uc29sZS5sb2coJy0tLS0tLS0tIG9sZDInLCBvbGQyKQoKfSkoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>return</text>
