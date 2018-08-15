@@ -22,12 +22,6 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/helper.js" timestamp="1534241702907">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" timestamp="1533797926969">
         <mark key="[" line="309" column="8" />
         <mark key="]" line="309" column="8" />
@@ -56,6 +50,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="23" column="16" />
+      </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1534327506927">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="34" />
+        <mark key="." line="27" column="34" />
+        <mark key="^" line="27" column="34" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/protos/index.proto" timestamp="1534148195945">
         <mark key="[" line="167" column="0" />
@@ -406,9 +407,9 @@
         <mark key="[" line="105" column="0" />
         <mark key="]" line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-apps-center/src/service/Session.js" timestamp="1534317679821">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="40" column="1" />
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-apps-center/src/service/Session.js" timestamp="1534327452789">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="44" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/Dockerfile" timestamp="1533204624762">
         <mark key="[" line="19" column="16" />
@@ -434,7 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="13" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
       <jump line="64" column="4" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
       <jump line="69" column="2" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
       <jump line="0" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
@@ -534,61 +534,62 @@
       <jump line="168" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="181" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="12" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-apps-center/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toSessionId</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>, zmqSocketRoute</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>route</text>
+        <text>session</text>
       </register>
-      <register name="0" type="4">
-        <text>zmqSocketRoute</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgeyBrZXlzLCBjb25zdHN9ID0gcmVxdWlyZSgnLi4vdXRpbHMnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuem1xU29ja2V0Um91dGUocm9vbUlkKS5zZW5kKGRhdGEpCg==</text>
+        <text encoding="base64">ICByZWRpcy5oZ2V0KCkK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgb2xkU2Vzc2lvbklkID0gIHNlc3Npb25TZXJ2aWNlLmdldFNlc3Npb25JZEJ5VWlkKHNlc3Npb24ucm9vbUlkLCB1c2VySW5mby51aWQpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuem1xU29ja2V0Um91dGUgPSB6bXFTb2NrZXRSb3V0ZQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuem1xU29ja2V0Um91dGUocm9vbUlkKS5zZW5kKGRhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMuem1xU29ja2V0Um91dGUgPSB6bXFTb2NrZXRSb3V0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgfXt9Cg==</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29ubgo=</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>route</last-search>
+      <last-search>session</last-search>
       <last-offset />
-      <last-pattern>route</last-pattern>
+      <last-pattern>session</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -596,7 +597,6 @@
     </search>
     <history>
       <history-search>
-        <entry>crypto</entry>
         <entry>var</entry>
         <entry>mobile</entry>
         <entry>k</entry>
@@ -616,6 +616,7 @@
         <entry>max</entry>
         <entry>zmqSocketRoute</entry>
         <entry>route</entry>
+        <entry>session</entry>
       </history-search>
       <history-cmd>
         <entry>+11</entry>
