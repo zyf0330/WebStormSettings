@@ -22,12 +22,12 @@
         <mark key="^" line="57" column="23" />
         <mark key="." line="57" column="23" />
       </file>
-      <file name="/fragment.js" timestamp="1534150769060">
+      <file name="/fragment.js" timestamp="1534493272605">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="35" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="27" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Logout.jsx" timestamp="1531190050378">
         <mark key="[" line="10" column="0" />
@@ -124,6 +124,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="46" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/protos/tinder/system/push/a.proto" timestamp="1534493363191">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="13" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" timestamp="1534389006598">
         <mark key="'" line="41" column="16" />
@@ -293,13 +299,24 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="11" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/protos/tinder/index.js" timestamp="1534491603106">
+        <mark key="[" line="65" column="71" />
+        <mark key="]" line="68" column="25" />
+        <mark key="^" line="68" column="25" />
+        <mark key="." line="68" column="25" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-example-chat-center/Dockerfile" timestamp="1533205246943">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="21" column="22" />
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1534490241567">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/protos/tinder/system/push/push.proto" timestamp="1534493347140">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="4" column="8" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1534491192798">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -325,11 +342,6 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1534313544281">
-        <mark key="'" line="86" column="2" />
-        <mark key="[" line="83" column="6" />
-        <mark key="]" line="83" column="22" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" timestamp="1534387220424">
         <mark key="'" line="17" column="9" />
@@ -402,6 +414,7 @@
         <mark key="." line="107" column="18" />
         <mark key="^" line="107" column="18" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1534491105445" />
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/package.json" timestamp="1531216905916">
         <mark key="[" line="42" column="18" />
         <mark key="]" line="42" column="22" />
@@ -557,17 +570,17 @@
       <jump line="65" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-proto-models/tinder/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBncnBjTG9hZGVkID1ncnBjLmxvYWRQYWNrYWdlRGVmaW5pdGlvbihwcm90b09iamVjdGopCg==</text>
+      <register name="&quot;" type="4">
+        <text>= &quot;a&quot;;</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>= &quot;a&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>proto</text>
       </register>
-      <register name="0" type="4">
-        <text>packageDefinition</text>
+      <register name="0" type="2">
+        <text encoding="base64">c3ludGF4ID0gInByb3RvMyI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zdCBncnBjTG9hZGVkID1ncnBjLmxvYWRQYWNrYWdlRGVmaW5pdGlvbihwcm90b09iamVjdGopCg==</text>
