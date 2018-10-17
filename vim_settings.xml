@@ -104,9 +104,9 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="21" column="32" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/models/PbCourseDetails.ts" timestamp="1539755881043">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="21" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/models/PbCourseDetails.ts" timestamp="1539757942850">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="50" />
         <mark key="." line="15" column="21" />
         <mark key="^" line="15" column="21" />
       </file>
@@ -228,12 +228,12 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/routes/api.ts" timestamp="1539756481805">
-        <mark key="'" line="9" column="13" />
-        <mark key="[" line="35" column="35" />
-        <mark key="]" line="9" column="14" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="9" column="14" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/routes/api.ts" timestamp="1539758952221">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="25" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/Dockerfile-web" timestamp="1533870332031">
         <mark key="[" line="12" column="16" />
@@ -416,10 +416,11 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="21" column="7" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/playback.ts" timestamp="1539756741110">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/playback.ts" timestamp="1539758887278">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/tsconfig.json" timestamp="1539756284641">
         <mark key="'" line="12" column="13" />
@@ -479,7 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
       <jump line="17" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
       <jump line="30" column="16" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
       <jump line="43" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
@@ -579,55 +579,56 @@
       <jump line="0" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/playback.ts" />
       <jump line="1" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/playback.ts" />
       <jump line="3" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/models/PbCourseDetails.ts" />
+      <jump line="36" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/routes/api.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtJUGJDb3Vyc2VEZXRhaWxEb2N9IGZyb20gIi4uL21vZGVscy9QYkNvdXJzZURldGFpbHMiCg==</text>
+        <text encoding="base64">Zm9ybQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Pbhh</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>source</text>
       </register>
-      <register name="0" type="4">
-        <text>PbCourseDetail</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSVBiQ291cnNlRGV0YWlsIH0gZnJvbSAnLi4vdHlwZXMvbW9kZWxzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtJUGJDb3Vyc2VEZXRhaWxEb2N9IGZyb20gIi4uL21vZGVscy9QYkNvdXJzZURldGFpbHMiCg==</text>
+        <text encoding="base64">Zm9ybQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGEgZnJvbSAiLi4vbW9kZWxzL1BiQ291cnNlRGV0YWlscyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZyb20gIi4uL3R5cGVzLyIK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgbW9kZWw8SVBiQ291cnNlRGV0YWlsRG9jPignUGJDb3Vyc2VEZXRhaWwnLCBQYkNvdXJzZURldGFpbFNjaGVtYSk7Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtJUGJDb3Vyc2VEZXRhaWxEb2N9IGZyb20gIi4uL21vZGVscy9QYkNvdXJzZURldGFpbHMiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGEgZnJvbSAiLi4vbW9kZWxzL1BiQ291cnNlRGV0YWlscyI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBqbAo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgbW9kZWw8SVBiQ291cnNlRGV0YWlsRG9jPignUGJDb3Vyc2VEZXRhaWwnLCBQYkNvdXJzZURldGFpbFNjaGVtYSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -680,9 +681,9 @@
         <entry>53</entry>
         <entry>41</entry>
         <entry>59</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
