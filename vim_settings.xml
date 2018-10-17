@@ -104,6 +104,12 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="21" column="32" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/models/PbCourseDetails.ts" timestamp="1539755881043">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/consts.js" timestamp="1534309079245">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -222,6 +228,13 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/routes/api.ts" timestamp="1539756481805">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="35" column="35" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+      </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/Dockerfile-web" timestamp="1533870332031">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="13" column="22" />
@@ -331,6 +344,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/live.ts" timestamp="1539755819331">
+        <mark key="'" line="1" column="41" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="40" />
+      </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" timestamp="1534387220424">
         <mark key="'" line="17" column="9" />
         <mark key="[" line="84" column="0" />
@@ -398,6 +416,14 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="21" column="7" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/playback.ts" timestamp="1539756741110">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/tsconfig.json" timestamp="1539756284641">
+        <mark key="'" line="12" column="13" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-pusher/src/index.js" timestamp="1532661969047">
         <mark key="[" line="107" column="15" />
         <mark key="]" line="107" column="18" />
@@ -415,6 +441,10 @@
         <mark key="]" line="19" column="35" />
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/models/OnlineUserSession.ts" timestamp="1539755809475">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="61" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/node_modules/tinder-center-sdk/src/healthcheck/index.js" timestamp="1533712700162">
         <mark key="[" line="28" column="0" />
@@ -449,15 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="29" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
-      <jump line="62" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
-      <jump line="35" column="30" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
-      <jump line="56" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
-      <jump line="64" column="8" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="59" column="23" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
-      <jump line="33" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
       <jump line="23" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
       <jump line="17" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
       <jump line="30" column="16" filename="$USER_HOME$/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
@@ -549,71 +570,77 @@
       <jump line="3" column="46" filename="/media/zyf/data/Programming/project/duobei/dby-proto-models/tinder/index.js" />
       <jump line="65" column="38" filename="/media/zyf/data/Programming/project/duobei/dby-proto-models/tinder/index.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-proto-models/tinder/index.js" />
+      <jump line="9" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/routes/api.ts" />
+      <jump line="2" column="41" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/playback.ts" />
+      <jump line="1" column="41" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/live.ts" />
+      <jump line="12" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/tsconfig.json" />
+      <jump line="5" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/playback.ts" />
+      <jump line="13" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/models/PbCourseDetails.ts" />
+      <jump line="0" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/playback.ts" />
+      <jump line="1" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/playback.ts" />
+      <jump line="3" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/models/PbCourseDetails.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>观看时长（分钟）的分位数。</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHtJUGJDb3Vyc2VEZXRhaWxEb2N9IGZyb20gIi4uL21vZGVscy9QYkNvdXJzZURldGFpbHMiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>Pbhh</text>
       </register>
       <register name="/" type="4">
-        <text>pro</text>
+        <text>source</text>
       </register>
       <register name="0" type="4">
-        <text>protoLoader.loadSync(protoFiles)</text>
+        <text>PbCourseDetail</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtJUGJDb3Vyc2VEZXRhaWxEb2N9IGZyb20gIi4uL21vZGVscy9QYkNvdXJzZURldGFpbHMiCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGEgZnJvbSAiLi4vbW9kZWxzL1BiQ291cnNlRGV0YWlscyI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBqbAo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgbW9kZWw8SVBiQ291cnNlRGV0YWlsRG9jPignUGJDb3Vyc2VEZXRhaWwnLCBQYkNvdXJzZURldGFpbFNjaGVtYSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJncnBjIjogIjEuMTMuMSIsCiAgICAibG9kYXNoIjogIl40LjE3LjEwIiwKICAgICJwcm90b2J1ZmpzIjogIl42LjguOCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgcHJvdG9Mb2FkZXIubG9hZFN5bmMocHJvdG9GaWxlcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBwcm90b0xvYWRlciA9IHJlcXVpcmUoJ3Byb3RvYnVmanMnKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBvbGRHcnBjID0gZ3JwYy5sb2FkT2JqZWN0KG9sZCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcm90b2J1ZmpzCg==</text>
+        <text encoding="base64">ICBqbAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>pro</last-search>
+      <last-search>source</last-search>
       <last-offset />
-      <last-pattern>pro</last-pattern>
+      <last-pattern>source</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>frame1</entry>
-        <entry>func</entry>
-        <entry>di</entry>
         <entry>dis</entry>
         <entry>mc_client</entry>
         <entry>ev</entry>
@@ -631,6 +658,9 @@
         <entry>protobufjs</entry>
         <entry>load</entry>
         <entry>pro</entry>
+        <entry>live</entry>
+        <entry>OnlineUserSession</entry>
+        <entry>source</entry>
       </history-search>
       <history-cmd>
         <entry>+11</entry>
@@ -644,15 +674,15 @@
         <entry>62</entry>
         <entry>%s/P/pino/gc</entry>
         <entry>we</entry>
-        <entry>wq</entry>
         <entry>387</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>53</entry>
         <entry>41</entry>
         <entry>59</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -721,10 +751,10 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
