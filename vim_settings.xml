@@ -130,6 +130,10 @@
         <mark key="." line="44" column="39" />
         <mark key="^" line="44" column="39" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/models/PbCourseByHour.ts" timestamp="1539747559173">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="51" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/vendors/dispatch.js" timestamp="1531796609937">
         <mark key="[" line="12" column="6" />
         <mark key="]" line="12" column="10" />
@@ -148,6 +152,7 @@
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/types/models.ts" timestamp="1539747752606" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/config.json" timestamp="1533880373947">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="34" column="4" />
@@ -399,7 +404,6 @@
         <mark key="." line="107" column="18" />
         <mark key="^" line="107" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1534491105445" />
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/package.json" timestamp="1531216905916">
         <mark key="[" line="42" column="18" />
         <mark key="]" line="42" column="22" />
@@ -547,8 +551,8 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-proto-models/tinder/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>观看时长（分钟）的分位数。</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
