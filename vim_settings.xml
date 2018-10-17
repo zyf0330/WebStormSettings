@@ -117,23 +117,22 @@
         <mark key="^" line="38" column="52" />
         <mark key="." line="38" column="52" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/.arclint" timestamp="1539765930771">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="15" />
-        <mark key="^" line="29" column="25" />
-        <mark key="." line="30" column="15" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/.arclint" timestamp="1539765970087">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/protos/tinder/system/push/push.proto" timestamp="1534493347140">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="18" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/__tests__/playback.test.ts" timestamp="1539764948199">
-        <mark key="'" line="20" column="16" />
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="44" />
-        <mark key="." line="20" column="44" />
-        <mark key="^" line="20" column="44" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/__tests__/playback.test.ts" timestamp="1539767590295">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="13" />
       </file>
       <file name="/JavaScript Console" timestamp="1539764709224">
         <mark key="[" line="0" column="0" />
@@ -156,11 +155,11 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="83" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539765079985">
+      <file name="/Dummy.txt" timestamp="1539767619576">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/.arc-extensions/tslint/lint/linter/TypescriptLinter.php" timestamp="1539765642905">
         <mark key="'" line="43" column="0" />
@@ -168,7 +167,12 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/__tests__/api.test.ts" timestamp="1539762751934" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/__tests__/api.test.ts" timestamp="1539767655362">
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="46" column="3" />
+        <mark key="^" line="46" column="3" />
+        <mark key="." line="46" column="3" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/playback.ts" timestamp="1539762611611">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -181,11 +185,11 @@
         <mark key="[" line="23" column="45" />
         <mark key="]" line="23" column="61" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/models/PbCourseDetail.ts" timestamp="1539764654740">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="52" />
-        <mark key="^" line="7" column="65" />
-        <mark key="." line="7" column="52" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/models/PbCourseDetail.ts" timestamp="1539767041465">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="52" />
+        <mark key="^" line="6" column="65" />
+        <mark key="." line="3" column="71" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" timestamp="1534314427832">
         <mark key="'" line="12" column="19" />
@@ -299,10 +303,18 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>./node_modules/.bin/</text>
+        <text>feat(playback/courseDetail): 获取教室回放的观看详情
+
+Summary:
+
+Test Plan: null
+
+Reviewers: wsy,chensicheng
+
+Subscribers:</text>
       </register>
       <register name="-" type="4">
-        <text>./node_modules/.bin/</text>
+        <text encoding="base64">ICAgIGF3YWl0IFBiQ291cnNlRGV0YWlsLmNyZWF0ZShwYkNvdXJzZURldGFpbCwge30pOw==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -310,38 +322,46 @@
       <register name="0" type="4">
         <text>./node_modules/.bin/tslint</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImludGVycHJldGVyIjogWyJucHgiXSwK</text>
+      <register name="1" type="4">
+        <text>feat(playback/courseDetail): 获取教室回放的观看详情
+
+Summary:
+
+Test Plan: null
+
+Reviewers: wsy,chensicheng
+
+Subscribers:</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIiIK</text>
+        <text encoding="base64">ICAgICAgImludGVycHJldGVyIjogWyIiXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIi0tLS0tLS0tLS0tLiRrZXkuJHZhbHVlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgImludGVycHJldGVyIjogWyJucHgiXSwK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBodCgiLS0tLS0tLS0tLV8hISEhISEhISEhISEiKTsK</text>
+        <text encoding="base64">ICAgICAgImludGVycHJldGVyIjogWyJucHgiXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIi0tLS0tLS0tLS1fISEhISEhISEhISEhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgImRlZmF1bHRCaW5hcnkiOiAiLi9ub2RlX21vZHVsZXMvLmJpbi90c2xpbnQiLAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIi0tLS0tLS0tLS0tLiRrZXkuJHZhbHVlIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCgpOwo=</text>
+        <text encoding="base64">ICAgIHBodCgiLS0tLS0tLS0tLV8hISEhISEhISEhISEiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChyLmRldGFpbHMpLnRvRXF1YWwoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIi0tLS0tLS0tLS1fISEhISEhISEhISEhIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh7cm9vbUlkOiByLnJvb21JZCAsZGV0YWlsczogcGJDb3Vyc2VEZXRhaWwuZGV0YWlscykudG9FcXVhbChwYkNvdXJzZURldGFpbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgImRlZmF1bHRCaW5hcnkiOiAiLi9ub2RlX21vZHVsZXMvLmJpbi90c2xpbnQiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
