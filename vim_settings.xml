@@ -100,12 +100,12 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1539843562652">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1539846606522">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="70" column="101" />
-        <mark key="^" line="89" column="43" />
-        <mark key="." line="62" column="0" />
+        <mark key="[" line="81" column="22" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="82" column="19" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/vendors/dispatch.js" timestamp="1531796609937">
         <mark key="[" line="12" column="6" />
@@ -274,11 +274,11 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="19" column="13" />
       </file>
-      <file name="/Connection.js" timestamp="1539843558571">
+      <file name="/Connection.js" timestamp="1539846365874">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="72" column="100" />
       </file>
-      <file name="/JavaScript Console" timestamp="1539843314952">
+      <file name="/JavaScript Console" timestamp="1539846489415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -322,11 +322,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539843535659">
+      <file name="/Dummy.txt" timestamp="1539846361345">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/conf.d/cdnList.toml" timestamp="1531906917191">
         <mark key="[" line="2" column="29" />
@@ -454,13 +454,13 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1539839836668">
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1539845174572">
+        <mark key="'" line="214" column="11" />
         <mark key="[" line="217" column="12" />
         <mark key="]" line="217" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/__tests__/playback.test.ts" />
       <jump line="40" column="1" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/__mock__/testData.ts" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/__mock__/testData.ts" />
       <jump line="18" column="41" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/__tests__/playback.test.ts" />
@@ -560,64 +560,65 @@
       <jump line="243" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
       <jump line="262" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
       <jump line="71" column="96" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="214" column="11" filename="$USER_HOME$/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNsaWVudFNvY2tldC5vbignKicsIHRoaXMub25QYWNrZXQodHJhbnNmb3JtZXIuZnJvbUNsaWVudCwgdGhpcy5zZXJ2ZXJTb2NrZXQpKTsKICAgICAgICB0aGlzLnNlcnZlclNvY2tldC5vbignKicsIHRoaXMub25QYWNrZXQodHJhbnNmb3JtZXIuZnJvbVNlcnZlciwgdGhpcy5jbGllbnRTb2NrZXQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgXy5zb3J0QnkK</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>erverSocket</text>
+        <text>cache init</text>
       </register>
       <register name="/" type="4">
-        <text>data.cacheInitMsgs</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBlbWl0dGVyID0gKGFmdGVyVHJhbnNmb3JtTXNnLCB0YXJnZXRTb2NrZXQpID0+IHsKICAgICAgICAgIGlmIChfLmlzRW1wdHkoYWZ0ZXJUcmFuc2Zvcm1Nc2cpKSB7IHJldHVybiB9CiAgICAgICAgICBjb25zdCBldmVudHMgPSBfLmlzQXJyYXkoYWZ0ZXJUcmFuc2Zvcm1Nc2cpID8gYWZ0ZXJUcmFuc2Zvcm1Nc2cgOiBbYWZ0ZXJUcmFuc2Zvcm1Nc2ddOwogICAgICAgICAgXy5mb3JFYWNoKGV2ZW50cywgZSA9PiB7CiAgICAgICAgICAgIHRhcmdldFNvY2tldC5lbWl0KGUuZXZlbnROYW1lLCAuLi5lLmFyZ3MpOwogICAgICAgICAgfSkKICAgICAgICB9CiAgICAgICAgdGhpcy5jbGllbnRTb2NrZXQub24oJyonLCB0aGlzLm9uUGFja2V0KHRyYW5zZm9ybWVyLmZyb21DbGllbnQsIHRoaXMuc2VydmVyU29ja2V0LCBlbWl0dGVyKSk7CiAgICAgICAgdGhpcy5zZXJ2ZXJTb2NrZXQub24oJyonLCB0aGlzLm9uUGFja2V0KHRyYW5zZm9ybWVyLmZyb21TZXJ2ZXIsIHRoaXMuY2xpZW50U29ja2V0LCBlbWl0dGVyKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNsaWVudFNvY2tldC5vbignKicsIHRoaXMub25QYWNrZXQodHJhbnNmb3JtZXIuZnJvbUNsaWVudCwgdGhpcy5zZXJ2ZXJTb2NrZXQpKTsKICAgICAgICB0aGlzLnNlcnZlclNvY2tldC5vbignKicsIHRoaXMub25QYWNrZXQodHJhbnNmb3JtZXIuZnJvbVNlcnZlciwgdGhpcy5jbGllbnRTb2NrZXQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgXy5zb3J0QnkK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNsaWVudFNvY2tldC5vbignKicsIHRoaXMub25QYWNrZXQodHJhbnNmb3JtZXIuZnJvbUNsaWVudCwgdGhpcy5zZXJ2ZXJTb2NrZXQpKTsKICAgICAgICB0aGlzLnNlcnZlclNvY2tldC5vbignKicsIHRoaXMub25QYWNrZXQodHJhbnNmb3JtZXIuZnJvbVNlcnZlciwgdGhpcy5jbGllbnRTb2NrZXQpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1pdHRlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKF8uaXNFbXB0eShhZnRlclRyYW5zZm9ybSkpIHsgcmV0dXJuIH0KICAgICAgY29uc3QgZXZlbnRzID0gXy5pc0FycmF5KGFmdGVyVHJhbnNmb3JtKSA/IGFmdGVyVHJhbnNmb3JtIDogW2FmdGVyVHJhbnNmb3JtXTsKICAgICAgXy5mb3JFYWNoKGV2ZW50cywgZSA9PiB7CiAgICAgICAgdGFyZ2V0U29ja2V0LmVtaXQoZS5ldmVudE5hbWUsIC4uLmUuYXJncyk7CiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW1pdHRlcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKF8uaXNFbXB0eShhZnRlclRyYW5zZm9ybSkpIHsgcmV0dXJuIH0KICAgICAgY29uc3QgZXZlbnRzID0gXy5pc0FycmF5KGFmdGVyVHJhbnNmb3JtKSA/IGFmdGVyVHJhbnNmb3JtIDogW2FmdGVyVHJhbnNmb3JtXTsKICAgICAgXy5mb3JFYWNoKGV2ZW50cywgZSA9PiB7CiAgICAgICAgdGFyZ2V0U29ja2V0LmVtaXQoZS5ldmVudE5hbWUsIC4uLmUuYXJncyk7CiAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIOWcqCAxcyDlhoXnvJPlrZjliJ3lp4vljJbkuovku7bvvIzlubbkuJTph43mlrDmjpLluo8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIOWcqCAxcyDlhoXnvJPlrZjliJ3lp4vljJbkuovku7bvvIzlubbkuJTph43mlrDmjpLluo8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>data.cacheInitMsgs</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>data.cacheInitMsgs</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>lodash</last-substitute>
       <last-dir>1</last-dir>
@@ -625,7 +626,6 @@
     </search>
     <history>
       <history-search>
-        <entry>InitMicList</entry>
         <entry>InitCameraList</entry>
         <entry>data</entry>
         <entry>InitDenyMicList</entry>
@@ -645,6 +645,7 @@
         <entry>initing</entry>
         <entry>initmicli</entry>
         <entry>data.cacheInitMsgs</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
