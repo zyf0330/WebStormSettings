@@ -108,19 +108,18 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1539856698989">
-        <mark key="'" line="111" column="27" />
-        <mark key="[" line="111" column="15" />
-        <mark key="]" line="111" column="19" />
-        <mark key="." line="111" column="19" />
-        <mark key="^" line="111" column="19" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1539856798929">
+        <mark key="[" line="129" column="12" />
+        <mark key="]" line="129" column="12" />
+        <mark key="." line="129" column="12" />
+        <mark key="^" line="109" column="31" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" timestamp="1539856633794">
-        <mark key="'" line="276" column="2" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="120" column="5" />
-        <mark key="^" line="293" column="19" />
-        <mark key="." line="262" column="28" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" timestamp="1539856931201">
+        <mark key="'" line="136" column="16" />
+        <mark key="[" line="136" column="14" />
+        <mark key="]" line="136" column="16" />
+        <mark key="^" line="136" column="16" />
+        <mark key="." line="136" column="16" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/vendors/dispatch.js" timestamp="1531796609937">
         <mark key="[" line="12" column="6" />
@@ -294,7 +293,7 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="30" column="7" />
       </file>
-      <file name="/JavaScript Console" timestamp="1539855271887">
+      <file name="/JavaScript Console" timestamp="1539857056138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.js" timestamp="1539847574620">
@@ -309,7 +308,7 @@
         <mark key="." line="49" column="4" />
         <mark key="^" line="49" column="3" />
       </file>
-      <file name="/fromServer.js" timestamp="1539855851624">
+      <file name="/fromServer.js" timestamp="1539856951394">
         <mark key="[" line="37" column="7" />
         <mark key="]" line="44" column="4" />
       </file>
@@ -481,7 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="526" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="527" column="14" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="539" column="19" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="540" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
@@ -572,7 +570,6 @@
       <jump line="97" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
       <jump line="110" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
       <jump line="111" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
-      <jump line="116" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
       <jump line="130" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
       <jump line="131" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
       <jump line="136" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
@@ -581,64 +578,66 @@
       <jump line="266" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
       <jump line="276" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
       <jump line="111" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="116" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="138" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5aaC5p6c5rKh5pyJ5Yid5aeL5YyW55qEIHBwdO+8jOmcgOimgeWIneWni+WMlum7mOiupCBwcHQKICAgICAgICAgICAgaWYgKGRhdGEuY2FjaGVJbml0TXNncy5maW5kKChvKSA9PiBvLmV2ZW50TmFtZSA9PSAndHVyblBhZ2UnKSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgZGF0YS5jYWNoZUluaXRNc2dzLnB1c2goewogICAgICAgICAgICAgICAgZXZlbnROYW1lOiAndHVyblBhZ2UnLAogICAgICAgICAgICAgICAgYXJnczogW3sKICAgICAgICAgICAgICAgICAgc2xpZGVDb3VudDogZGF0YS5wcHQuc2xpZGVDb3VudCwKICAgICAgICAgICAgICAgICAgdXVpZDogcmVzLnByZXNlbnRhdGlvblJldHVybmVkLnV1aWQsCiAgICAgICAgICAgICAgICAgIHBhZ2U6IHJlcy5wcmVzZW50YXRpb25SZXR1cm5lZC5jdXJyZW50U2xpZGVQYWdlTnVtYmVyLAogICAgICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>res.presentationReturned</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>一个</text>
+        <text>res.presentationReturned</text>
       </register>
       <register name="/" type="4">
-        <text>initpre</text>
+        <text>ppt.scroll</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRhdGEuY2FjaGVJbml0TXNncy5wdXNoKHsKICAgICAgZXZlbnROYW1lOiAndHVyblBhZ2UnLAogICAgICBhcmdzOiBbewogICAgICAgIHNsaWRlQ291bnQ6IGRhdGEucHB0LnNsaWRlQ291bnQsCiAgICAgICAgdXVpZDogcmVzLnByZXNlbnRhdGlvblJldHVybmVkLnV1aWQsCiAgICAgICAgcGFnZTogcmVzLnByZXNlbnRhdGlvblJldHVybmVkLmN1cnJlbnRTbGlkZVBhZ2VOdW1iZXIsCiAgICAgIH1dLAogICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5aaC5p6c5rKh5pyJ5Yid5aeL5YyW55qEIHBwdO+8jOmcgOimgeWIneWni+WMlum7mOiupCBwcHQKICAgICAgICAgICAgaWYgKGRhdGEuY2FjaGVJbml0TXNncy5maW5kKChvKSA9PiBvLmV2ZW50TmFtZSA9PSAndHVyblBhZ2UnKSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgZGF0YS5jYWNoZUluaXRNc2dzLnB1c2goewogICAgICAgICAgICAgICAgZXZlbnROYW1lOiAndHVyblBhZ2UnLAogICAgICAgICAgICAgICAgYXJnczogW3sKICAgICAgICAgICAgICAgICAgc2xpZGVDb3VudDogZGF0YS5wcHQuc2xpZGVDb3VudCwKICAgICAgICAgICAgICAgICAgdXVpZDogcmVzLnByZXNlbnRhdGlvblJldHVybmVkLnV1aWQsCiAgICAgICAgICAgICAgICAgIHBhZ2U6IHJlcy5wcmVzZW50YXRpb25SZXR1cm5lZC5jdXJyZW50U2xpZGVQYWdlTnVtYmVyLAogICAgICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6ZyA6KaB5Yid5aeL5YyW5LiA5Liq6buY6K6kIHBwdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyZ3M6IGRhdGEucHB0LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgICBkYXRhLmNhY2hlSW5pdE1zZ3MucHVzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5aaC5p6c5rKh5pyJ5Yid5aeL5YyW55qEIHBwdO+8jOmcgOimgeWIneWni+WMlum7mOiupCBwcHQKICAgICAgICAgICAgaWYgKGRhdGEuY2FjaGVJbml0TXNncy5maW5kKChvKSA9PiBvLmV2ZW50TmFtZSA9PSAndHVyblBhZ2UnKSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgZGF0YS5jYWNoZUluaXRNc2dzLnB1c2goewogICAgICAgICAgICAgICAgZXZlbnROYW1lOiAndHVyblBhZ2UnLAogICAgICAgICAgICAgICAgYXJnczogW3sKICAgICAgICAgICAgICAgICAgc2xpZGVDb3VudDogZGF0YS5wcHQuc2xpZGVDb3VudCwKICAgICAgICAgICAgICAgICAgdXVpZDogcmVzLnByZXNlbnRhdGlvblJldHVybmVkLnV1aWQsCiAgICAgICAgICAgICAgICAgIHBhZ2U6IHJlcy5wcmVzZW50YXRpb25SZXR1cm5lZC5jdXJyZW50U2xpZGVQYWdlTnVtYmVyLAogICAgICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzb3J0ZWRJbml0TXNncy5mb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g6ZyA6KaB5Yid5aeL5YyW5LiA5Liq6buY6K6kIHBwdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgICBkYXRhLmNhY2hlSW5pdE1zZ3MucHVzaCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZGF0YS5jYWNoZUluaXRNc2dzLmZpbmQoKG8pID0+IG8uZXZlbnROYW1lID09ICd0dXJuUGFnZScpID09IG51bGwpewogICAgICAgICAgICAgc29ydGVkSW5pdE1zZ3MuZm9yCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzb3J0ZWRJbml0TXNncy5mb3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHB0OiB7fSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZGF0YS5jYWNoZUluaXRNc2dzLmZpbmQoKG8pID0+IG8uZXZlbnROYW1lID09ICd0dXJuUGFnZScpID09IG51bGwpewogICAgICAgICAgICAgc29ydGVkSW5pdE1zZ3MuZm9yCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1pdHRlcigKICAgICAgICAgICAgICBtc2csCiAgICAgICAgICAgICAgdGhpcy5jbGllbnRTb2NrZXQsCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgcHB0OiB7fSwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>initpre</last-search>
+      <last-search>ppt.scroll</last-search>
       <last-offset />
-      <last-pattern>initpre</last-pattern>
+      <last-pattern>ppt.scroll</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>lodash</last-substitute>
       <last-dir>1</last-dir>
@@ -646,7 +645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
         <entry>announceContent</entry>
         <entry>roompolicy</entry>
         <entry>find</entry>
@@ -666,6 +664,7 @@
         <entry>ppt</entry>
         <entry>data.ppt</entry>
         <entry>initpre</entry>
+        <entry>ppt.scroll</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
