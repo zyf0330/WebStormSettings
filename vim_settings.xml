@@ -166,10 +166,10 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1539848620792">
-        <mark key="'" line="252" column="30" />
-        <mark key="[" line="271" column="30" />
-        <mark key="]" line="271" column="43" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1539853590240">
+        <mark key="'" line="567" column="15" />
+        <mark key="[" line="599" column="15" />
+        <mark key="]" line="599" column="26" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/node_modules/@types/lodash/index.d.ts" timestamp="1539763923565">
         <mark key="[" line="0" column="11" />
@@ -294,7 +294,7 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="72" column="100" />
       </file>
-      <file name="/JavaScript Console" timestamp="1539853221041">
+      <file name="/JavaScript Console" timestamp="1539853547065">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.js" timestamp="1539847574620">
@@ -556,7 +556,6 @@
       <jump line="294" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
       <jump line="364" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
       <jump line="600" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
-      <jump line="567" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
       <jump line="252" column="30" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
       <jump line="505" column="27" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="446" column="12" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
@@ -577,10 +576,11 @@
       <jump line="137" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
       <jump line="113" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
       <jump line="66" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="567" column="15" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>缓存1s后排序发出</text>
+        <text>sendChatRate</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -589,10 +589,10 @@
         <text>缓存1s后排序发出</text>
       </register>
       <register name="/" type="4">
-        <text>onp</text>
+        <text>sendch</text>
       </register>
       <register name="0" type="4">
-        <text>targetSocket</text>
+        <text>sendChatRate</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -632,9 +632,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onp</last-search>
+      <last-search>sendch</last-search>
       <last-offset />
-      <last-pattern>onp</last-pattern>
+      <last-pattern>sendch</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>lodash</last-substitute>
       <last-dir>1</last-dir>
@@ -642,9 +642,6 @@
     </search>
     <history>
       <history-search>
-        <entry>InitTeacherInfo</entry>
-        <entry>InitDenyChatList</entry>
-        <entry>initRoomActivityPolicy</entry>
         <entry>wheninit</entry>
         <entry>initing</entry>
         <entry>initmicli</entry>
@@ -662,6 +659,9 @@
         <entry>data.cacheInitMsgs</entry>
         <entry>clientcount</entry>
         <entry>onp</entry>
+        <entry>sendra</entry>
+        <entry>sandc</entry>
+        <entry>sendch</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
