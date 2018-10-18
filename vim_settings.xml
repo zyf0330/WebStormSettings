@@ -100,12 +100,18 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" timestamp="1539832196712">
-        <mark key="'" line="20" column="12" />
-        <mark key="[" line="309" column="0" />
-        <mark key="]" line="309" column="74" />
-        <mark key="^" line="308" column="14" />
-        <mark key="." line="309" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1539833662494">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" timestamp="1539834004098">
+        <mark key="'" line="312" column="4" />
+        <mark key="[" line="303" column="24" />
+        <mark key="]" line="303" column="25" />
+        <mark key="^" line="312" column="40" />
+        <mark key="." line="303" column="25" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/vendors/dispatch.js" timestamp="1531796609937">
         <mark key="[" line="12" column="6" />
@@ -150,8 +156,8 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1539832189361">
-        <mark key="'" line="186" column="2" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1539833915504">
+        <mark key="'" line="242" column="9" />
         <mark key="[" line="559" column="0" />
         <mark key="]" line="559" column="71" />
       </file>
@@ -274,7 +280,7 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="19" column="13" />
       </file>
-      <file name="/JavaScript Console" timestamp="1539831848541">
+      <file name="/JavaScript Console" timestamp="1539834025971">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/__test__/convertTestCase.js" timestamp="1531217697964">
@@ -318,7 +324,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539773640431">
+      <file name="/Dummy.txt" timestamp="1539834095001">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="25" />
@@ -449,13 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
-      <jump line="22" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
-      <jump line="36" column="9" filename="$USER_HOME$/project/duobei/duobeiyun-mobile-server/msgCenter/Apps.js" />
-      <jump line="786" column="106" filename="$USER_HOME$/project/duobei/duobeiyun-mobile-server/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/duobei/duobeiyun-mobile-server/app.js" />
-      <jump line="62" column="44" filename="$USER_HOME$/project/duobei/duobeiyun-mobile-server/app.js" />
-      <jump line="83" column="34" filename="$USER_HOME$/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="86" column="2" filename="$USER_HOME$/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="53" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
       <jump line="7" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
@@ -549,69 +548,68 @@
       <jump line="498" column="14" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="20" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
       <jump line="186" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
+      <jump line="301" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="308" column="69" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="302" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="312" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="240" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
+      <jump line="242" column="9" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXNvY2tldC5lbWl0KCJzdHJlYW1PbmxpbmUiLCB7InZhbCI6IHJvb21JbmZvLnN0cmVhbU9ubGluZSwgInRzIjogdHN9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>mic</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mic</text>
       </register>
       <register name="/" type="4">
-        <text>streamonline</text>
+        <text>mic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXNvY2tldC5lbWl0KCJzdHJlYW1PbmxpbmUiLCB7InZhbCI6IHJvb21JbmZvLnN0cmVhbU9ubGluZSwgInRzIjogdHN9KTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGV2ZW50TmFtZTogJ3N0cmVhbW9ubGluZScsCiAgICAgIGFyZ3M6IFt7IHZhbDogIV8uaXNFbXB0eShyZXMubWljTGlzdCksIHRzOiBEYXRlLm5vdygpIH1dLAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgcyA9IG5ldyBTZXNzaW9uKCd0ZXJtSWQnLCApCmNvbnNvbGUubG9nKHMuaWQsIHMucGVlcklkLCBzLnJlc1N0cmVhbUlkKQo=</text>
+        <text encoding="base64">ICAgIHNvY2tldC5lbWl0KCdzdHJlYW1PbmxpbmUnLCB7IHZhbDogIV8uaXNFbXB0eShyZXMuY2FtZXJhTGlzdCksIHRzOiBEYXRlLm5vdygpIH0pOwo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsICdCZWFyZXIgJyArIHRva2VuKQo=</text>
+        <text encoding="base64">ICAgIHNvY2tldC5lbWl0KCdzdHJlYW1vbmxpbmUnLCB7IHZhbDogIV8uaXNFbXB0eShyZXMubWljTGlzdCksIHRzOiBEYXRlLm5vdygpIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcwo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29sbGVjdERhdGEsIHNlc3Npb25zIH0gZnJvbSAiLi4vX19tb2NrX18vdGVzdERhdGEiOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChfLm9taXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHJlcy5taWNMaXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdAo=</text>
+        <text encoding="base64">ICAgICAgc3RyZWFtT25saW5lU2VudDogZmFsc2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBiQ291cnNlRGV0YWlsLmNyZWF0ZSgpCg==</text>
+        <text encoding="base64">Y29uc3QgcyA9IG5ldyBTZXNzaW9uKCd0ZXJtSWQnLCApCmNvbnNvbGUubG9nKHMuaWQsIHMucGVlcklkLCBzLnJlc1N0cmVhbUlkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsICdCZWFyZXIgJyArIHRva2VuKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>feat(playback/courseDetail): 获取教室回放的观看详情
-
-Summary:
-
-Test Plan: null
-
-Reviewers: wsy,chensicheng
-
-Subscribers:</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>streamonline</last-search>
+      <last-search>mic</last-search>
       <last-offset />
-      <last-pattern>streamonline</last-pattern>
+      <last-pattern>mic</last-pattern>
       <last-replace>pino</last-replace>
       <last-substitute>lodash</last-substitute>
       <last-dir>1</last-dir>
@@ -619,11 +617,6 @@ Subscribers:</text>
     </search>
     <history>
       <history-search>
-        <entry>proto</entry>
-        <entry>protobufjs</entry>
-        <entry>load</entry>
-        <entry>pro</entry>
-        <entry>live</entry>
         <entry>OnlineUserSession</entry>
         <entry>source</entry>
         <entry>get</entry>
@@ -639,6 +632,11 @@ Subscribers:</text>
         <entry>streamOnline</entry>
         <entry>initmic</entry>
         <entry>streamonline</entry>
+        <entry>va</entry>
+        <entry>room</entry>
+        <entry>ts</entry>
+        <entry>came</entry>
+        <entry>mic</entry>
       </history-search>
       <history-cmd>
         <entry>+11</entry>
@@ -659,8 +657,8 @@ Subscribers:</text>
         <entry>41</entry>
         <entry>59</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
