@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/__tests__/live.test.ts" timestamp="1539760430881">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="12" column="2" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/__mock__/testData.ts" timestamp="1539763811621">
         <mark key="'" line="38" column="13" />
         <mark key="[" line="40" column="21" />
@@ -104,16 +100,12 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" timestamp="1539831872903">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" timestamp="1539832106688">
         <mark key="'" line="20" column="12" />
-        <mark key="[" line="306" column="23" />
-        <mark key="]" line="307" column="6" />
-        <mark key="^" line="307" column="6" />
-        <mark key="." line="307" column="6" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/models/PbCourseByHour.ts" timestamp="1539747559173">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="51" />
+        <mark key="[" line="308" column="7" />
+        <mark key="]" line="307" column="11" />
+        <mark key="^" line="307" column="11" />
+        <mark key="." line="307" column="11" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/vendors/dispatch.js" timestamp="1531796609937">
         <mark key="[" line="12" column="6" />
@@ -344,6 +336,10 @@
         <mark key="^" line="143" column="46" />
         <mark key="." line="143" column="46" />
       </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-apps-center/src/models/User.js" timestamp="1539831965054">
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="367" column="93" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/test.js" timestamp="1533105448498">
         <mark key="[" line="7" column="50" />
         <mark key="]" line="7" column="41" />
@@ -420,10 +416,6 @@
         <mark key="]" line="19" column="35" />
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/models/OnlineUserSession.ts" timestamp="1539755809475">
-        <mark key="[" line="23" column="45" />
-        <mark key="]" line="23" column="61" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/node_modules/tinder-center-sdk/src/healthcheck/index.js" timestamp="1533712700162">
         <mark key="[" line="28" column="0" />
@@ -559,8 +551,8 @@
       <jump line="20" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>streamOnline</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5yb29tLmZldGNoQ2FtZXJhTGlzdCgpLnRoZW4ocDJwSWZOb3RFbXB0eS5iaW5kKHRoaXMsICdJbml0Q2FtZXJhTGlzdCcsICdtaWNMaXN0JykpLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
