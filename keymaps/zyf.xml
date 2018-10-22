@@ -38,9 +38,11 @@
   <action id="MethodHierarchy" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
