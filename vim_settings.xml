@@ -288,8 +288,8 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1540177723325">
-        <mark key="'" line="20" column="55" />
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1540201624128">
+        <mark key="'" line="238" column="23" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/config.yml.template" timestamp="1540191828415">
         <mark key="'" line="25" column="4" />
@@ -389,6 +389,9 @@
         <mark key="]" line="21" column="22" />
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/Dockerfile" timestamp="1540200241050">
+        <mark key="'" line="49" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-edge/node_modules/tinder-edge-nodejs/config/edge.yaml" timestamp="1533710360795">
         <mark key="[" line="7" column="9" />
@@ -613,15 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
-      <jump line="54" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/b1.js" />
-      <jump line="99" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
-      <jump line="179" column="15" filename="/Clipboard.txt" />
-      <jump line="9" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" />
-      <jump line="28" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" />
-      <jump line="29" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" />
-      <jump line="106" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" />
-      <jump line="201" column="48" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" />
       <jump line="222" column="27" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" />
       <jump line="225" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" />
       <jump line="382" column="31" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" />
@@ -713,6 +707,15 @@
       <jump line="199" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
       <jump line="42" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
+      <jump line="21" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/Dockerfile" />
+      <jump line="49" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/Dockerfile" />
+      <jump line="72" column="40" filename="$USER_HOME$/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="100" column="15" filename="$USER_HOME$/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="162" column="23" filename="$USER_HOME$/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="175" column="23" filename="$USER_HOME$/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="186" column="21" filename="$USER_HOME$/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="227" column="23" filename="$USER_HOME$/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="238" column="23" filename="$USER_HOME$/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -725,7 +728,7 @@
         <text encoding="base64">ICd3ZWJzb2NrZXQn</text>
       </register>
       <register name="/" type="4">
-        <text>web</text>
+        <text>peerid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQljb25zb2xlLmxvZygncmVjb25uZWN0aW5nJywgY2xpZW50LnJvb21JZCkK</text>
@@ -768,13 +771,13 @@
         <text encoding="base64">ICAgIC8vIOWQjOaXtuWPquiDveacieS4gOS4quaLieWPluaTjeS9nAogICAgLy8gVE9ETyDmlK/mjIHlpJrkuKogY2IKICAgIGlmICh0aGlzLnJldHJpZXZpbmdzW3Jvb21JZF0gIT0gbnVsbCkgewogICAgICB0aGlzLnJldHJpZXZpbmdzCiAgICAgIHJldHVybgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>web</last-search>
+      <last-search>peerid</last-search>
       <last-offset />
-      <last-pattern>web</last-pattern>
+      <last-pattern>peerid</last-pattern>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>singleServerClientNum</last-substitute>
       <last-dir>1</last-dir>
@@ -782,9 +785,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setadd</entry>
-        <entry>new client</entry>
-        <entry encoding="base64">XDxodHRwc1w+</entry>
         <entry>singleRoomConcurrentChat</entry>
         <entry>clients num</entry>
         <entry>total</entry>
@@ -802,6 +802,9 @@
         <entry>ondidsconnect</entry>
         <entry>onre</entry>
         <entry>web</entry>
+        <entry>app.yml</entry>
+        <entry>invitecall</entry>
+        <entry>peerid</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
@@ -822,8 +825,8 @@
         <entry encoding="base64">JzwsJz4lcy9zaW5nbGVTZXJ2ZXJDbGllbnROdW0vc2luZ2xlU2VydmVyUm9vbU51bS9nYw==</entry>
         <entry>%s/singleServerClientNum/singleServerRoomNum/gc</entry>
         <entry>noh</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
