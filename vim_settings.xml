@@ -592,6 +592,9 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1540175525147">
+        <mark key="'" line="83" column="20" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-connector-sio/src/protos/package.json" timestamp="1533188519581">
         <mark key="[" line="6" column="77" />
         <mark key="]" line="6" column="77" />
@@ -684,16 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
-      <jump line="125" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
-      <jump line="184" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
-      <jump line="232" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
-      <jump line="49" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
-      <jump line="204" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
-      <jump line="121" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
-      <jump line="122" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
-      <jump line="209" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
       <jump line="126" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
       <jump line="127" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
       <jump line="128" column="27" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
@@ -784,6 +777,16 @@
       <jump line="80" column="31" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
       <jump line="229" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
       <jump line="301" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
+      <jump line="102" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="151" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="152" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="154" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="157" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="40" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="45" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="61" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="82" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="83" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -796,7 +799,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtc2dTdGF0aXN0aWNzXD4=</text>
+        <text>disconnect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCWNvbnN0IG1zZ1QgPSAnbXNnQCcgKyBEYXRlLm5vdygpCg==</text>
@@ -839,12 +842,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtc2dTdGF0aXN0aWNzXD4=</last-search>
+      <last-search>disconnect</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtc2dTdGF0aXN0aWNzXD4=</last-pattern>
+      <last-pattern>disconnect</last-pattern>
       <last-replace />
       <last-substitute>getauthin</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -853,7 +856,6 @@
         <entry>configben</entry>
         <entry>configbench</entry>
         <entry>authfail</entry>
-        <entry>disconnect</entry>
         <entry>teac</entry>
         <entry>clie</entry>
         <entry>clien</entry>
@@ -869,6 +871,7 @@
         <entry>testchat</entry>
         <entry encoding="base64">XDxtc2dTdGF0aXN0aWNzc1w+</entry>
         <entry encoding="base64">XDxtc2dTdGF0aXN0aWNzXD4=</entry>
+        <entry>disconnect</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
