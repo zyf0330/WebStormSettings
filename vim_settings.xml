@@ -363,10 +363,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" timestamp="1540287721376">
-        <mark key="'" line="26" column="27" />
-        <mark key="[" line="43" column="94" />
-        <mark key="]" line="43" column="94" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" timestamp="1540292417760">
+        <mark key="'" line="171" column="9" />
+        <mark key="[" line="96" column="13" />
+        <mark key="]" line="96" column="25" />
         <mark key="^" line="43" column="104" />
         <mark key="." line="43" column="94" />
       </file>
@@ -505,7 +505,7 @@
         <mark key="." line="31" column="4" />
         <mark key="^" line="31" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540263954492">
+      <file name="/Dummy.txt" timestamp="1540291554408">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -656,16 +656,14 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="3" column="71" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" timestamp="1540287605666">
-        <mark key="'" line="344" column="79" />
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" timestamp="1540292433542">
+        <mark key="'" line="346" column="79" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
+        <mark key="." line="212" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
-      <jump line="319" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
       <jump line="70" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
       <jump line="20" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" />
       <jump line="104" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" />
@@ -764,25 +762,27 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/doc.md" />
       <jump line="73" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/doc.md" />
       <jump line="98" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/doc.md" />
+      <jump line="96" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
+      <jump line="171" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>build: 预先创建 /var/duobei/record 目录</text>
       </register>
       <register name="/" type="4">
-        <text>stream</text>
+        <text>_onDisconnect</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjbGllbnQuZW1pdCgnY29tbWFuZCcsICdlY2hvJywgeyBzZW5kVGltZSB9LCAoZXJyLCBfdGltZSkgPT4gewogICAgY29uc29sZS5sb2coJ2xvY2FsUGluZyBpcyBSaWdodDonLCBfdGltZSA9PSBzZW5kVGltZSwgJ2VsYXBzZWQ6JywgRGF0ZS5ub3coKSAtIHNlbmRUaW1lKQogIH0pCg==</text>
+      <register name="0" type="4">
+        <text>_onDisconnect</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
@@ -791,37 +791,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2NhbFBpbmcgaXMgUmlnaHQ6JywgX3RpbWUgPT0gc2VuZFRpbWUsICdlbGFwc2VkOicsIERhdGUubm93KCkgLSBzZW5kVGltZSkK</text>
+        <text encoding="base64">CQkJCQkJY2xpZW50LmNvbm5lY3QoKQo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJY2xpZW50Lm9uZGlzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">CQkJCQkJY2xpZW50Lm9uY2UoJ2RpJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQljb25zdCBzb2NrZXQgPSBjbGllbnQuc29ja2V0Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2NhbFBpbmcgaXMgUmlnaHQ6JywgX3RpbWUgPT0gc2VuZFRpbWUsICdlbGFwc2VkOicsIERhdGUubm93KCkgLSBzZW5kVGltZSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQljbGllbnQuc29ja2V0LmRpc2Nvbm5lY3QoKQoJCQkJCWNsaWVudC5zb2NrZXQuY29ubmVjdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stream</last-search>
+      <last-search>_onDisconnect</last-search>
       <last-offset />
-      <last-pattern>stream</last-pattern>
+      <last-pattern>_onDisconnect</last-pattern>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>singleServerClientNum</last-substitute>
       <last-dir>1</last-dir>
@@ -829,7 +829,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ro</entry>
         <entry>reportRoomChatLatencyNum</entry>
         <entry>register</entry>
         <entry>disconnect</entry>
@@ -849,6 +848,7 @@
         <entry>control</entry>
         <entry>broadcast</entry>
         <entry>stream</entry>
+        <entry>_onDisconnect</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
