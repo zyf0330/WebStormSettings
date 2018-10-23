@@ -37,12 +37,12 @@
         <mark key="." line="129" column="12" />
         <mark key="^" line="109" column="31" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" timestamp="1540287914965">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" timestamp="1540288254669">
         <mark key="'" line="30" column="3" />
-        <mark key="[" line="8" column="48" />
-        <mark key="]" line="8" column="47" />
-        <mark key="." line="8" column="47" />
-        <mark key="^" line="8" column="47" />
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="50" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/package.json" timestamp="1539927064987">
         <mark key="'" line="42" column="24" />
@@ -469,7 +469,7 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1540288154270">
+      <file name="/JavaScript Console" timestamp="1540288256926">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.js" timestamp="1539847574620">
@@ -589,12 +589,12 @@
         <mark key="." line="107" column="18" />
         <mark key="^" line="107" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" timestamp="1540287929175">
-        <mark key="'" line="98" column="15" />
-        <mark key="[" line="266" column="29" />
-        <mark key="]" line="267" column="13" />
-        <mark key="^" line="267" column="13" />
-        <mark key="." line="267" column="13" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" timestamp="1540288297204">
+        <mark key="'" line="77" column="25" />
+        <mark key="[" line="266" column="25" />
+        <mark key="]" line="266" column="42" />
+        <mark key="^" line="266" column="24" />
+        <mark key="." line="266" column="25" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/config.yml" timestamp="1540287777119">
         <mark key="'" line="31" column="15" />
@@ -663,7 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="33" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
       <jump line="22" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
       <jump line="141" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
       <jump line="19" column="95" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
@@ -763,19 +762,20 @@
       <jump line="98" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" />
       <jump line="26" column="27" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/Client.js" />
       <jump line="30" column="3" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
+      <jump line="77" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jzcc97857ff51447dbabac5b2d5009d1a6</text>
+        <text>this.audienceList</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>jzcc97857ff51447dbabac5b2d5009d1a6</text>
+        <text>this.audienceList</text>
       </register>
       <register name="/" type="4">
-        <text>roomconn</text>
+        <text>getau</text>
       </register>
       <register name="0" type="4">
         <text>getAudienceList</text>
@@ -818,9 +818,9 @@
       </register>
     </registers>
     <search>
-      <last-search>roomconn</last-search>
+      <last-search>getau</last-search>
       <last-offset />
-      <last-pattern>roomconn</last-pattern>
+      <last-pattern>getau</last-pattern>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>singleServerClientNum</last-substitute>
       <last-dir>1</last-dir>
@@ -828,7 +828,6 @@
     </search>
     <history>
       <history-search>
-        <entry>app.yml</entry>
         <entry>invitecall</entry>
         <entry>peerid</entry>
         <entry>reportPersonChatLatencyNum</entry>
@@ -848,6 +847,7 @@
         <entry>onreq</entry>
         <entry>clientreq</entry>
         <entry>roomconn</entry>
+        <entry>getau</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
