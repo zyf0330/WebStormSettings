@@ -627,12 +627,11 @@
         <mark key="^" line="129" column="33" />
         <mark key="." line="129" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/config.yml" timestamp="1540352703373">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/config.yml" timestamp="1540358064031">
         <mark key="'" line="31" column="15" />
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="12" />
-        <mark key="." line="31" column="12" />
-        <mark key="^" line="31" column="12" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-vdqa-center/Dockerfile" timestamp="1533204624762">
         <mark key="[" line="19" column="16" />
@@ -685,8 +684,8 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="3" column="71" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" timestamp="1540357860447">
-        <mark key="'" line="128" column="9" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" timestamp="1540358037330">
+        <mark key="'" line="459" column="14" />
         <mark key="[" line="462" column="0" />
         <mark key="]" line="462" column="0" />
         <mark key="." line="462" column="0" />
@@ -694,7 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="80" filename="$USER_HOME$/Desktop/2" />
       <jump line="14" column="137" filename="$USER_HOME$/Desktop/2" />
       <jump line="16" column="163" filename="$USER_HOME$/Desktop/2" />
       <jump line="228" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
@@ -794,10 +792,11 @@
       <jump line="113" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
       <jump line="128" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
       <jump line="115" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
+      <jump line="459" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Xy50aW1lcwo=</text>
+        <text encoding="base64">ICByb29tc0NvbmZpZwo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -812,37 +811,37 @@
         <text>roomSize = config.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Xy50aW1lcwo=</text>
+        <text encoding="base64">ICByb29tc0NvbmZpZwo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QXJyYXkuCg==</text>
+        <text encoding="base64">Xy50aW1lcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmV3IEFycmF5KDIwKS5tYXAoZnVuYyApCg==</text>
+        <text encoding="base64">QXJyYXkuCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgaW50ZXJ2YWwgPSBjb25maWcuaW50ZXJ2YWwgfHwgMAo=</text>
+        <text encoding="base64">bmV3IEFycmF5KDIwKS5tYXAoZnVuYyApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgYWxsQ2xpZW50cyA9IFtdCg==</text>
+        <text encoding="base64">Y29uc3QgaW50ZXJ2YWwgPSBjb25maWcuaW50ZXJ2YWwgfHwgMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb25zdCB7cm9vbUlkLCB0ZWFjaGVyLCBzdHVkZW50fSA9IHJvb21zQ29uZmlnLnVuc2hpZnQoKQoJCWNvbnN0IHByb21pc2VzID0gW10KCQljb25zdCB0ZWFjaGVyQ2xpZW50ID0gbmV3IENsaWVudChyb29tSWQsIGFkZHJzW2kgJSBhZGRycy5sZW5ndGhdLCB7Cg==</text>
+        <text encoding="base64">Y29uc3QgYWxsQ2xpZW50cyA9IFtdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyb29tc0NvbmZpZy51bnNoaQo=</text>
+        <text encoding="base64">CQljb25zdCB7cm9vbUlkLCB0ZWFjaGVyLCBzdHVkZW50fSA9IHJvb21zQ29uZmlnLnVuc2hpZnQoKQoJCWNvbnN0IHByb21pc2VzID0gW10KCQljb25zdCB0ZWFjaGVyQ2xpZW50ID0gbmV3IENsaWVudChyb29tSWQsIGFkZHJzW2kgJSBhZGRycy5sZW5ndGhdLCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgcm9vbXMgPSB7fQo=</text>
+        <text encoding="base64">CQlyb29tc0NvbmZpZy51bnNoaQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgcm9vbXMgPSB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
