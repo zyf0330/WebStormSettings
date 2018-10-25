@@ -283,11 +283,11 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="/fragment.js" timestamp="1540366220456">
+      <file name="/fragment.js" timestamp="1540460082114">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-etcd-browser/scripts/Logout.jsx" timestamp="1531190050378">
         <mark key="[" line="10" column="0" />
@@ -364,6 +364,10 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="77" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/vendors/dispatch.js" timestamp="1540460220543">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="45" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/protos/tinder/system/push/a.proto" timestamp="1534493363191">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="8" />
@@ -410,9 +414,9 @@
         <mark key="^" line="90" column="31" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/config.json" timestamp="1533880373947">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="34" column="4" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/config.json" timestamp="1540460113352">
+        <mark key="[" line="41" column="13" />
+        <mark key="]" line="41" column="48" />
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="28" />
       </file>
@@ -500,7 +504,7 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1540453017074">
+      <file name="/JavaScript Console" timestamp="1540460382824">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.js" timestamp="1539847574620">
@@ -534,7 +538,7 @@
         <mark key="." line="31" column="4" />
         <mark key="^" line="31" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540453027256">
+      <file name="/Dummy.txt" timestamp="1540455806516">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -797,19 +801,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>git describe --abbrev=0 --tag</text>
+        <text>http://106.3.137.170:7009/roomConfig</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text>git</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJkb2NrZXIgYnVpbGQgLXQgZG9ja2VyLWh1Yi5kdW9iZWl5dW4uY29tOjUwMDAvdGluZGVyL2xlZ2FjeS1tb2JpbGUtc29ja2V0aW8tZ2F0ZXdheTpsYXRlc3QgLiIsCiAgICAicHVzaCI6ICJkb2NrZXIgcHVzaCBkb2NrZXItaHViLmR1b2JlaXl1bi5jb206NTAwMC90aW5kZXIvbGVnYWN5LW1vYmlsZS1zb2NrZXRpby1nYXRld2F5OmxhdGVzdCIK</text>
+      <register name="0" type="4">
+        <text>config.get('dispatch.http')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJwdXNoOnJlbGVhc2UiOiAiZG9ja2VyIHRhZyIK</text>
