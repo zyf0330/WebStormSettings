@@ -45,6 +45,13 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/service/Broadcaster.js" timestamp="1540462566323">
+        <mark key="'" line="29" column="11" />
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1540461089463" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1540455018649">
         <mark key="'" line="152" column="6" />
@@ -80,6 +87,7 @@
         <mark key="^" line="160" column="34" />
         <mark key="." line="160" column="34" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/node_modules/tinder-center-sdk/protos/tinder/index.js" timestamp="1540461918886" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/vendors/dispatch.js" timestamp="1531796609937">
         <mark key="[" line="12" column="6" />
         <mark key="]" line="12" column="10" />
@@ -266,11 +274,22 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/package.json" timestamp="1540462196653">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-edge/Service.js" timestamp="1533712024263">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="4" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/index.js" timestamp="1540462098247">
+        <mark key="[" line="79" column="34" />
+        <mark key="]" line="79" column="48" />
+        <mark key="^" line="79" column="48" />
+        <mark key="." line="79" column="48" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/config.js" timestamp="1539930587640">
         <mark key="[" line="6" column="58" />
@@ -284,7 +303,7 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="/fragment.js" timestamp="1540460082114">
+      <file name="/fragment.js" timestamp="1540462021120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="5" />
@@ -434,15 +453,6 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1540451999481">
-        <mark key="'" line="171" column="8" />
-        <mark key="[" line="171" column="26" />
-        <mark key="]" line="171" column="27" />
-        <mark key="." line="171" column="27" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" timestamp="1540452212615">
-        <mark key="'" line="64" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/service/SyncResultConsumer.js" timestamp="1531804483802">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="23" />
@@ -505,7 +515,7 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1540461069461">
+      <file name="/JavaScript Console" timestamp="1540462559836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.js" timestamp="1539847574620">
@@ -699,10 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
-      <jump line="115" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
-      <jump line="459" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
-      <jump line="33" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/api/room.js" />
       <jump line="4" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/generateRoomIDs.js" />
       <jump line="20" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
       <jump line="21" column="33" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
@@ -799,65 +805,68 @@
       <jump line="152" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
       <jump line="16" column="109" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/package.json" />
       <jump line="15" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/package.json" />
+      <jump line="13" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/service/Broadcaster.js" />
+      <jump line="6" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/service/Broadcaster.js" />
+      <jump line="24" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/service/Broadcaster.js" />
+      <jump line="29" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/service/Broadcaster.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://106.3.137.170:7009/roomConfig</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBTREsucHJvdG8ucHJvdG9idWZzLnByb3RvLm5lc3RlZC50aW5kZXIubmVzdGVkLmFwcHMK</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>//</text>
       </register>
       <register name="/" type="4">
-        <text>git</text>
+        <text>appsproto</text>
       </register>
-      <register name="0" type="4">
-        <text>config.get('dispatch.http')</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc29sZS50aW1lKDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwdXNoOnJlbGVhc2UiOiAiZG9ja2VyIHRhZyIK</text>
+        <text encoding="base64">ICBTREsucHJvdG8ucHJvdG9idWZzLnByb3RvLm5lc3RlZC50aW5kZXIubmVzdGVkLmFwcHMK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJkb2NrZXIgYnVpbGQgLXQgcmVnaXN0cnkuY24tYmVpamluZy5hbGl5dW5jcy5jb20vZHVvYmVpeXVuLWNsaWVudC9kYnktbW9iaWxlLXNlcnZlci0xdjE6JChnaXQgZGVzY3JpYmUgLS1hYmJyZXY9MCAtLXRhZykgLiIsCiAgICAicHVzaCI6ICJkb2NrZXIgcHVzaCByZWdpc3RyeS5jbi1iZWlqaW5nLmFsaXl1bmNzLmNvbS9kdW9iZWl5dW4tY2xpZW50L2RieS1tb2JpbGUtc2VydmVyLTF2MTokKGdpdCBkZXNjcmliZSAtLWFiYnJldj0wIC0tdGFnKSIK</text>
+        <text encoding="base64">c2V0SW50ZXJ2YWwoKCkgPT4gewogIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tIGE6JywgYXBwc1Byb3RvLmEpCiAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0gc2hvdWxkIGE6JywgU0RLLnByb3RvLnByb3RvYnVmcy5wcm90by5sb29rdXAoJ2FwcHMnKS5hKQp9LCAxMDAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwdXNoOnJlbGVhc2UiOiAiZG9ja2VyIHRhZyIK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICJidWlsZCI6ICJkb2NrZXIgYnVpbGQgLXQgcmVnaXN0cnkuY24tYmVpamluZy5hbGl5dW5jcy5jb20vZHVvYmVpeXVuLWNsaWVudC9kYnktbW9iaWxlLXNlcnZlci0xdjE6JChnaXQgZGVzY3JpYmUgLS1hYmJyZXY9MCAtLXRhZykgLiIsCiAgICAicHVzaCI6ICJkb2NrZXIgcHVzaCByZWdpc3RyeS5jbi1iZWlqaW5nLmFsaXl1bmNzLmNvbS9kdW9iZWl5dW4tY2xpZW50L2RieS1tb2JpbGUtc2VydmVyLTF2MTokKGdpdCBkZXNjcmliZSAtLWFiYnJldj0wIC0tdGFnKSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByb29tSW5mbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnZGlzY29ubmVjdCcsIHJlYXNvbikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJykK</text>
+        <text encoding="base64">ICAgICAgICByb29tSW5mbwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>crypto.createHash('md5')
-				.update(uniqueUserId + client.roomId + client.roomAccessKey).digest('hex')</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnZGlzY29ubmVjdCcsIHJlYXNvbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQljbGllbnQuc29ja2V0Lm9uY2UoJ2Rpc2Nvbm5lY3QnLCAoKSA9PiB7Cg==</text>
+        <text encoding="base64">Y29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>git</last-search>
+      <last-search>appsproto</last-search>
       <last-offset />
-      <last-pattern>git</last-pattern>
+      <last-pattern>appsproto</last-pattern>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>singleServerClientNum</last-substitute>
       <last-dir>1</last-dir>
@@ -865,7 +874,6 @@
     </search>
     <history>
       <history-search>
-        <entry>access</entry>
         <entry>accesstoken</entry>
         <entry>websocket</entry>
         <entry>retriev</entry>
@@ -885,6 +893,7 @@
         <entry>log'</entry>
         <entry>logger</entry>
         <entry>git</entry>
+        <entry>appsproto</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
