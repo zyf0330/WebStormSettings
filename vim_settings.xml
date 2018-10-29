@@ -250,11 +250,12 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" timestamp="1540782037940">
-        <mark key="'" line="7" column="8" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" timestamp="1540782457214">
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/package.json" timestamp="1531216905916">
         <mark key="[" line="42" column="18" />
@@ -717,11 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
-      <jump line="18" column="28" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/webHelper.js" />
-      <jump line="8" column="31" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
-      <jump line="23" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
-      <jump line="30" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
       <jump line="74" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
       <jump line="72" column="32" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
       <jump line="300" column="3" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
@@ -815,66 +811,71 @@
       <jump line="8" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
       <jump line="9" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
       <jump line="11" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
+      <jump line="12" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
+      <jump line="15" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
+      <jump line="2" column="5" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
+      <jump line="19" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
-      <jump line="7" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
+      <jump line="1" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
+      <jump line="7" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ampqampqampqampqCg==</text>
+        <text encoding="base64">ICAgIHJlcQo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>req</text>
       </register>
       <register name="/" type="4">
-        <text>};</text>
+        <text>req</text>
       </register>
       <register name="0" type="4">
         <text>initMsg.PRESENTATION</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ampqampqampqampqCg==</text>
+        <text encoding="base64">ICAgIHJlcQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNqamQK</text>
+        <text encoding="base64">ICByZXEuamsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNkZmpqCg==</text>
+        <text encoding="base64">ICBjb25zdCByZXEgPSA8SUNvbGxlY3RSZXF1ZXN0PmN0eC5yZXF1ZXN0LmJvZHk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlampqampqCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNvbGxlY3QgPSBhc3luYyAoY3R4OiBDb250ZXh0KSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyDpu5Hmnb8K</text>
+        <text encoding="base64">amo7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKG9ialZhbHVlLCBzcmNWYWx1ZSwga2V5KSA9PiBfLmlzRW1wdHkoc3JjVmFsdWUpID8gb2JqVmFsdWUgOiBzcmNWYWx1ZSksCg==</text>
+        <text encoding="base64">ampqampqampqampqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAob2JqVmFsdWUgPT0gJycpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzcmNWYWx1ZQogICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gb2JqVmFsdWUKICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNqamQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBfLmkK</text>
+        <text encoding="base64">ICAgIHNkZmpqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBTREsucHJvdG8ucHJvdG9idWZzLnByb3RvLm5lc3RlZC50aW5kZXIubmVzdGVkLmFwcHMK</text>
+        <text encoding="base64">ICAgIHJlampqampqCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>};</last-search>
+      <last-search>req</last-search>
       <last-offset />
-      <last-pattern>};</last-pattern>
+      <last-pattern>req</last-pattern>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>singleServerClientNum</last-substitute>
       <last-dir>1</last-dir>
@@ -882,8 +883,6 @@
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
-        <entry encoding="base64">XDxpZA==</entry>
         <entry>streamon</entry>
         <entry>streamonline</entry>
         <entry>log'</entry>
@@ -898,10 +897,12 @@
         <entry>iwatchsession</entry>
         <entry encoding="base64">XDx3YXRjaFNlc3Npb25cPg==</entry>
         <entry>watchsession</entry>
-        <entry>import</entry>
-        <entry encoding="base64">XDxyZXFcPg==</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>};</entry>
+        <entry>import</entry>
+        <entry>status</entry>
+        <entry encoding="base64">XDxyZXFcPg==</entry>
+        <entry>req</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
@@ -920,10 +921,10 @@
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz4lcy9zaW5nbGVTZXJ2ZXJDbGllbnROdW0vc2luZ2xlU2VydmVyUm9vbU51bS9nYw==</entry>
         <entry>%s/singleServerClientNum/singleServerRoomNum/gc</entry>
-        <entry>noh</entry>
         <entry>q</entry>
         <entry>help ctrl+n</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />

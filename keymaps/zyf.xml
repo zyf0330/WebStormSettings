@@ -38,6 +38,7 @@
   </action>
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
+  <action id="IntroduceParameter" />
   <action id="MethodHierarchy" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
@@ -52,9 +53,10 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
   <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="alt p" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt q" />
