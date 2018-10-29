@@ -250,7 +250,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" timestamp="1540781204251">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" timestamp="1540781233091">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -828,7 +828,7 @@
         <text>x: 中心来的初始化 ppt 的 id 错误地为 string</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3YXRjaFNlc3Npb25cPg==</text>
+        <text encoding="base64">XDxzdGF0dXNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>initMsg.PRESENTATION</text>
@@ -871,9 +871,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3YXRjaFNlc3Npb25cPg==</last-search>
+      <last-search encoding="base64">XDxzdGF0dXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3YXRjaFNlc3Npb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0dXNcPg==</last-pattern>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>singleServerClientNum</last-substitute>
       <last-dir>1</last-dir>
@@ -881,7 +881,6 @@
     </search>
     <history>
       <history-search>
-        <entry>retriev</entry>
         <entry>getaudi</entry>
         <entry>parti</entry>
         <entry>par</entry>
@@ -901,6 +900,7 @@
         <entry>appsproto</entry>
         <entry>Session(w</entry>
         <entry encoding="base64">XDx3YXRjaFNlc3Npb25cPg==</entry>
+        <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
@@ -999,6 +999,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>alt pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
