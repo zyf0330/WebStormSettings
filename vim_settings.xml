@@ -250,6 +250,11 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" timestamp="1540781204251">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/legacy-mobile-socketio-gateway/package.json" timestamp="1531216905916">
         <mark key="[" line="42" column="18" />
         <mark key="]" line="42" column="22" />
@@ -813,8 +818,8 @@
       <jump line="29" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/service/Broadcaster.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x: 中心来的初始化 ppt 的 id 错误地为 string</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNqamQK</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -823,52 +828,52 @@
         <text>x: 中心来的初始化 ppt 的 id 错误地为 string</text>
       </register>
       <register name="/" type="4">
-        <text>appsproto</text>
+        <text encoding="base64">XDx3YXRjaFNlc3Npb25cPg==</text>
       </register>
       <register name="0" type="4">
         <text>initMsg.PRESENTATION</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyDpu5Hmnb8K</text>
+        <text encoding="base64">ICAgIGNqamQK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKG9ialZhbHVlLCBzcmNWYWx1ZSwga2V5KSA9PiBfLmlzRW1wdHkoc3JjVmFsdWUpID8gb2JqVmFsdWUgOiBzcmNWYWx1ZSksCg==</text>
+        <text encoding="base64">ICAgIHNkZmpqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAob2JqVmFsdWUgPT0gJycpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzcmNWYWx1ZQogICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gb2JqVmFsdWUKICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHJlampqampqCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBfLmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyDpu5Hmnb8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTREsucHJvdG8ucHJvdG9idWZzLnByb3RvLm5lc3RlZC50aW5kZXIubmVzdGVkLmFwcHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKG9ialZhbHVlLCBzcmNWYWx1ZSwga2V5KSA9PiBfLmlzRW1wdHkoc3JjVmFsdWUpID8gb2JqVmFsdWUgOiBzcmNWYWx1ZSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0SW50ZXJ2YWwoKCkgPT4gewogIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tIGE6JywgYXBwc1Byb3RvLmEpCiAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0gc2hvdWxkIGE6JywgU0RLLnByb3RvLnByb3RvYnVmcy5wcm90by5sb29rdXAoJ2FwcHMnKS5hKQp9LCAxMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAob2JqVmFsdWUgPT0gJycpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzcmNWYWx1ZQogICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gb2JqVmFsdWUKICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJwdXNoOnJlbGVhc2UiOiAiZG9ja2VyIHRhZyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBfLmkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJkb2NrZXIgYnVpbGQgLXQgcmVnaXN0cnkuY24tYmVpamluZy5hbGl5dW5jcy5jb20vZHVvYmVpeXVuLWNsaWVudC9kYnktbW9iaWxlLXNlcnZlci0xdjE6JChnaXQgZGVzY3JpYmUgLS1hYmJyZXY9MCAtLXRhZykgLiIsCiAgICAicHVzaCI6ICJkb2NrZXIgcHVzaCByZWdpc3RyeS5jbi1iZWlqaW5nLmFsaXl1bmNzLmNvbS9kdW9iZWl5dW4tY2xpZW50L2RieS1tb2JpbGUtc2VydmVyLTF2MTokKGdpdCBkZXNjcmliZSAtLWFiYnJldj0wIC0tdGFnKSIK</text>
+        <text encoding="base64">ICBTREsucHJvdG8ucHJvdG9idWZzLnByb3RvLm5lc3RlZC50aW5kZXIubmVzdGVkLmFwcHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0SW50ZXJ2YWwoKCkgPT4gewogIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tIGE6JywgYXBwc1Byb3RvLmEpCiAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0gc2hvdWxkIGE6JywgU0RLLnByb3RvLnByb3RvYnVmcy5wcm90by5sb29rdXAoJ2FwcHMnKS5hKQp9LCAxMDAwKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>help ctrl+n</text>
       </register>
     </registers>
     <search>
-      <last-search>appsproto</last-search>
+      <last-search encoding="base64">XDx3YXRjaFNlc3Npb25cPg==</last-search>
       <last-offset />
-      <last-pattern>appsproto</last-pattern>
+      <last-pattern encoding="base64">XDx3YXRjaFNlc3Npb25cPg==</last-pattern>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>singleServerClientNum</last-substitute>
       <last-dir>1</last-dir>
@@ -876,8 +881,6 @@
     </search>
     <history>
       <history-search>
-        <entry>accesstoken</entry>
-        <entry>websocket</entry>
         <entry>retriev</entry>
         <entry>getaudi</entry>
         <entry>parti</entry>
@@ -896,9 +899,10 @@
         <entry>logger</entry>
         <entry>git</entry>
         <entry>appsproto</entry>
+        <entry>Session(w</entry>
+        <entry encoding="base64">XDx3YXRjaFNlc3Npb25cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>59</entry>
         <entry>reg</entry>
         <entry>62</entry>
         <entry>72</entry>
@@ -918,6 +922,7 @@
         <entry>noh</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>help ctrl+n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -991,6 +996,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
