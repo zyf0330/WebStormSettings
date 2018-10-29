@@ -551,12 +551,12 @@
         <mark key="." line="31" column="4" />
         <mark key="^" line="31" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540455806516">
+      <file name="/Dummy.txt" timestamp="1540536442460">
         <mark key="'" line="0" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="46" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/conf.d/cdnList.toml" timestamp="1531906917191">
         <mark key="[" line="2" column="29" />
@@ -813,14 +813,14 @@
       <jump line="29" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/service/Broadcaster.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyDpu5Hmnb8K</text>
+      <register name="&quot;" type="4">
+        <text>x: 中心来的初始化 ppt 的 id 错误地为 string</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>With</text>
+        <text>x: 中心来的初始化 ppt 的 id 错误地为 string</text>
       </register>
       <register name="/" type="4">
         <text>appsproto</text>
