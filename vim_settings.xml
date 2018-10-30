@@ -32,11 +32,11 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/Dockerfile" timestamp="1540887938018">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/Dockerfile" timestamp="1540892447314">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" timestamp="1539933743475">
         <mark key="'" line="310" column="14" />
@@ -51,12 +51,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" timestamp="1540888316300">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" timestamp="1540892223082">
         <mark key="'" line="68" column="4" />
-        <mark key="[" line="21" column="67" />
-        <mark key="]" line="21" column="88" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="21" />
         <mark key="^" line="21" column="48" />
-        <mark key="." line="21" column="48" />
+        <mark key="." line="21" column="21" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/service/Broadcaster.js" timestamp="1540462575548">
         <mark key="'" line="36" column="11" />
@@ -483,12 +483,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/.dockerignore" timestamp="1540887864754">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/.dockerignore" timestamp="1540892465222">
         <mark key="'" line="14" column="12" />
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="5" column="9" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+        <mark key="^" line="1" column="3" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/service/SyncResultConsumer.js" timestamp="1531804483802">
         <mark key="[" line="14" column="12" />
@@ -861,13 +861,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dby-data-center:latest</text>
+        <text encoding="base64">c3JjIA==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>ENV NODE_ENV production</text>
+        <text encoding="base64">c3JjIA==</text>
       </register>
       <register name="/" type="4">
         <text>tsc</text>
@@ -876,21 +876,30 @@
         <text>node_modules</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IWRpc3QK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IXNyYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RU5WIFRaIEFzaWEvU2hhbmdoYWkKUlVOIGFwayBhZGQgLS1uby1jYWNoZSB0emRhdGEKCg==</text>
+        <text encoding="base64">IWRpc3QK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">RU5WIFRaIEFzaWEvU2hhbmdoYWkKUlVOIGFwayBhZGQgLS1uby1jYWNoZSB0emRhdGEKCg==</text>
+      </register>
+      <register name="7" type="4">
         <text>.arc*
 __mock__
 __tests__
@@ -907,20 +916,11 @@ tsconfig.json
 tslint.json
 npm-debug.log</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5WIEFQUF9JRAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -933,7 +933,7 @@ npm-debug.log</text>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>singleServerClientNum</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
