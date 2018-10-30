@@ -51,10 +51,10 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" timestamp="1540885335102">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" timestamp="1540888316300">
         <mark key="'" line="68" column="4" />
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="48" />
+        <mark key="[" line="21" column="67" />
+        <mark key="]" line="21" column="88" />
         <mark key="^" line="21" column="48" />
         <mark key="." line="21" column="48" />
       </file>
@@ -860,8 +860,8 @@
       <jump line="14" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/.dockerignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dby-data-center:latest</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
