@@ -32,11 +32,10 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/Dockerfile" timestamp="1540883252015">
-        <mark key="[" line="4" column="72" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-        <mark key="^" line="5" column="22" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/Dockerfile" timestamp="1540887115679">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" timestamp="1539933743475">
         <mark key="'" line="310" column="14" />
@@ -51,12 +50,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" timestamp="1540883585640">
-        <mark key="'" line="7" column="60" />
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="37" />
-        <mark key="^" line="21" column="37" />
-        <mark key="." line="21" column="37" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" timestamp="1540885335102">
+        <mark key="'" line="68" column="4" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="48" />
+        <mark key="^" line="21" column="48" />
+        <mark key="." line="21" column="48" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/service/Broadcaster.js" timestamp="1540462575548">
         <mark key="'" line="36" column="11" />
@@ -483,12 +482,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/.dockerignore" timestamp="1540883520566">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/.dockerignore" timestamp="1540887112198">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="6" column="2" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/service/SyncResultConsumer.js" timestamp="1531804483802">
         <mark key="[" line="14" column="12" />
@@ -758,11 +757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/bypassWeb.js" />
-      <jump line="6" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/bypassWeb.js" />
-      <jump line="19" column="51" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/bypassWeb.js" />
-      <jump line="51" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
-      <jump line="75" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
       <jump line="6" column="49" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
       <jump line="15" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
       <jump line="19" column="55" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
@@ -856,24 +850,29 @@
       <jump line="358" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
       <jump line="4" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/.dockerignore" />
       <jump line="5" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/.dockerignore" />
-      <jump line="21" column="37" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" />
       <jump line="7" column="60" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" />
+      <jump line="6" column="28" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" />
+      <jump line="21" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" />
+      <jump line="14" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" />
+      <jump line="15" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" />
+      <jump line="16" column="40" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" />
+      <jump line="68" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>build</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>uction</text>
       </register>
       <register name="/" type="4">
-        <text>copy</text>
+        <text>tsc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">RlJPTSByZWdpc3RyeS5jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20vYWxpeXVuLW5vZGUvYWxpbm9kZTozLjEyLjAtYWxwaW5lIEFTIG5vZGVfbW9kdWxlcwo=</text>
+      <register name="0" type="4">
+        <text>node_modules</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -882,40 +881,41 @@
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmFyYyoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmFyYy1leHRlbnNpb25zCg==</text>
+        <text encoding="base64">RU5WIEFQUF9JRAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eWFybi5sb2NrCg==</text>
+        <text encoding="base64">Q09QWSAtLWZyb209bm9kZV9tb2R1bGVzIG5vZGVfbW9kdWxlcyAvYXBwL25vZGVfbW9kdWxlcwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LmVzbGludCoK</text>
+      <register name="6" type="4">
+        <text>d
+COPY</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LmFyY2xpbnQK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IFwKICAgICYmIG5wbSBydW4gYnVpbGQtdHM=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmVkaXRvcmNvbmZpZwo=</text>
+        <text encoding="base64">ICAgICYmIHlhcm4gYWRkIC1nIHR5cGVzY3JpcHQgXAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3JjCg==</text>
+        <text encoding="base64">ZGlzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>copy</last-search>
+      <last-search>tsc</last-search>
       <last-offset />
-      <last-pattern>copy</last-pattern>
+      <last-pattern>tsc</last-pattern>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>singleServerClientNum</last-substitute>
       <last-dir>1</last-dir>
@@ -923,7 +923,6 @@
     </search>
     <history>
       <history-search>
-        <entry>range)</entry>
         <entry>watchSession</entry>
         <entry>iwatchsession</entry>
         <entry>watchsession</entry>
@@ -943,6 +942,7 @@
         <entry>getDrawTexts</entry>
         <entry>disconnect</entry>
         <entry>copy</entry>
+        <entry>tsc</entry>
       </history-search>
       <history-cmd>
         <entry>72</entry>
