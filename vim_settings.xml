@@ -32,8 +32,11 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/Dockerfile" timestamp="1540879224082">
-        <mark key="[" line="0" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/Dockerfile" timestamp="1540882855139">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="29" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" timestamp="1539933743475">
         <mark key="'" line="310" column="14" />
@@ -476,6 +479,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/.dockerignore" timestamp="1540882545762">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/service/SyncResultConsumer.js" timestamp="1531804483802">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="23" />
@@ -744,8 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/bypassWeb.js" />
-      <jump line="63" column="63" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
       <jump line="11" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/benchmark.js" />
       <jump line="58" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/new/bypassWeb.js" />
@@ -844,58 +851,60 @@
       <jump line="150" column="39" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Presentation.js" />
       <jump line="149" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Presentation.js" />
       <jump line="358" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
+      <jump line="4" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/.dockerignore" />
+      <jump line="5" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/.dockerignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getDrawTexts</text>
+        <text encoding="base64">cGFja2FnZS5qc29uIA==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>ctx.ip</text>
+        <text encoding="base64">cGFja2FnZS5qc29uIA==</text>
       </register>
       <register name="/" type="4">
         <text>disconnect</text>
       </register>
-      <register name="0" type="4">
-        <text>getDrawTexts</text>
+      <register name="0" type="2">
+        <text encoding="base64">RlJPTSByZWdpc3RyeS5jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20vYWxpeXVuLW5vZGUvYWxpbm9kZTozLjEyLjAtYWxwaW5lIEFTIG5vZGVfbW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXEuamsK</text>
+        <text encoding="base64">LmFyYyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCByZXEgPSA8SUNvbGxlY3RSZXF1ZXN0PmN0eC5yZXF1ZXN0LmJvZHk7Cg==</text>
+        <text encoding="base64">LmFyYy1leHRlbnNpb25zCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNvbGxlY3QgPSBhc3luYyAoY3R4OiBDb250ZXh0KSA9PiB7Cg==</text>
+        <text encoding="base64">eWFybi5sb2NrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">amo7Cg==</text>
+        <text encoding="base64">LmVzbGludCoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ampqampqampqampqCg==</text>
+        <text encoding="base64">LmFyY2xpbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNqamQK</text>
+        <text encoding="base64">LmVkaXRvcmNvbmZpZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNkZmpqCg==</text>
+        <text encoding="base64">c3JjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlampqampqCg==</text>
+        <text encoding="base64">Y292ZXJhZ2UKc3JjCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -946,11 +955,11 @@
         <entry encoding="base64">JzwsJz4lcy9zaW5nbGVTZXJ2ZXJDbGllbnROdW0vc2luZ2xlU2VydmVyUm9vbU51bS9nYw==</entry>
         <entry>%s/singleServerClientNum/singleServerRoomNum/gc</entry>
         <entry>help ctrl+n</entry>
-        <entry>w</entry>
         <entry>j</entry>
         <entry>jump</entry>
         <entry>noh</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
