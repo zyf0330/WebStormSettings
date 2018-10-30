@@ -32,10 +32,11 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/Dockerfile" timestamp="1540887115679">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="13" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/Dockerfile" timestamp="1540887938018">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/benchmark.js" timestamp="1539933743475">
         <mark key="'" line="310" column="14" />
@@ -482,12 +483,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/.dockerignore" timestamp="1540887112198">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="6" column="2" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/.dockerignore" timestamp="1540887864754">
+        <mark key="'" line="14" column="12" />
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/service/SyncResultConsumer.js" timestamp="1531804483802">
         <mark key="[" line="14" column="12" />
@@ -757,7 +758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="49" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
       <jump line="15" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
       <jump line="19" column="55" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
       <jump line="28" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
@@ -857,6 +857,7 @@
       <jump line="15" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" />
       <jump line="16" column="40" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" />
       <jump line="68" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/package.json" />
+      <jump line="14" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/.dockerignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -866,7 +867,7 @@
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>uction</text>
+        <text>ENV NODE_ENV production</text>
       </register>
       <register name="/" type="4">
         <text>tsc</text>
@@ -884,29 +885,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFRaIEFzaWEvU2hhbmdoYWkKUlVOIGFwayBhZGQgLS1uby1jYWNoZSB0emRhdGEKCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">RU5WIEFQUF9JRAo=</text>
+      <register name="4" type="4">
+        <text>.arc*
+__mock__
+__tests__
+coverage
+docs
+node_modules
+src
+.eslint*
+.gitignore
+.npmignore
+apidoc.json
+jest.config.js
+tsconfig.json
+tslint.json
+npm-debug.log</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q09QWSAtLWZyb209bm9kZV9tb2R1bGVzIG5vZGVfbW9kdWxlcyAvYXBwL25vZGVfbW9kdWxlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>d
-COPY</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IFwKICAgICYmIG5wbSBydW4gYnVpbGQtdHM=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICYmIHlhcm4gYWRkIC1nIHR5cGVzY3JpcHQgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGlzdAo=</text>
+        <text encoding="base64">RU5WIEFQUF9JRAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
