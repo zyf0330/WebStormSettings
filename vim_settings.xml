@@ -315,12 +315,12 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" timestamp="1540985000072">
-        <mark key="'" line="148" column="27" />
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="16" />
-        <mark key="." line="18" column="16" />
-        <mark key="^" line="18" column="16" />
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" timestamp="1540986241815">
+        <mark key="'" line="152" column="0" />
+        <mark key="[" line="157" column="44" />
+        <mark key="]" line="157" column="53" />
+        <mark key="." line="157" column="44" />
+        <mark key="^" line="152" column="52" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/package.json" timestamp="1540462196653">
         <mark key="[" line="2" column="18" />
@@ -783,8 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
       <jump line="6" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
       <jump line="21" column="1" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
       <jump line="5" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/controllers/collect.ts" />
@@ -883,19 +881,21 @@
       <jump line="14" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
       <jump line="166" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
       <jump line="171" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
+      <jump line="18" column="17" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
+      <jump line="152" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GrpcError</text>
+        <text>ConnectFail</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>GrpcError</text>
+        <text>ConnectFail</text>
       </register>
       <register name="/" type="4">
-        <text>raven.cap</text>
+        <text>conne</text>
       </register>
       <register name="0" type="4">
         <text>GRPCError</text>
@@ -938,9 +938,9 @@
       </register>
     </registers>
     <search>
-      <last-search>raven.cap</last-search>
+      <last-search>conne</last-search>
       <last-offset />
-      <last-pattern>raven.cap</last-pattern>
+      <last-pattern>conne</last-pattern>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>close</last-substitute>
       <last-dir>1</last-dir>
@@ -948,7 +948,6 @@
     </search>
     <history>
       <history-search>
-        <entry>drawtexts</entry>
         <entry>getDrawTexts</entry>
         <entry>copy</entry>
         <entry>tsc</entry>
@@ -968,6 +967,7 @@
         <entry>grpc</entry>
         <entry>ravenTags</entry>
         <entry>raven.cap</entry>
+        <entry>conne</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
