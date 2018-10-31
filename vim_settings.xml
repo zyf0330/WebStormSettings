@@ -20,6 +20,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="18" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" timestamp="1540982199329">
+        <mark key="'" line="30" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/Dockerfile" timestamp="1540892496963">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -75,6 +78,12 @@
         <mark key="." line="16" column="127" />
         <mark key="^" line="16" column="127" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.js" timestamp="1540983360515">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1540191516077">
         <mark key="'" line="179" column="15" />
         <mark key="[" line="0" column="0" />
@@ -89,12 +98,12 @@
         <mark key="^" line="24" column="23" />
         <mark key="." line="24" column="23" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" timestamp="1540973826463">
-        <mark key="'" line="115" column="15" />
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="4" column="8" />
-        <mark key="." line="4" column="8" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" timestamp="1540982942920">
+        <mark key="'" line="65" column="34" />
+        <mark key="[" line="152" column="12" />
+        <mark key="]" line="152" column="12" />
+        <mark key="^" line="152" column="12" />
+        <mark key="." line="152" column="12" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-data-center/.dockerignore" timestamp="1540893870656">
         <mark key="[" line="3" column="0" />
@@ -178,10 +187,10 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" timestamp="1540978863224">
-        <mark key="'" line="145" column="12" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" timestamp="1540982065739">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="99" column="14" />
         <mark key="." line="144" column="0" />
         <mark key="^" line="144" column="29" />
       </file>
@@ -361,19 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/doc.md" />
-      <jump line="118" column="35" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" />
-      <jump line="31" column="1" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
-      <jump line="97" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
-      <jump line="106" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
-      <jump line="142" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
-      <jump line="64" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
-      <jump line="171" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="101" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
-      <jump line="233" column="44" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" />
-      <jump line="154" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Client.js" />
-      <jump line="240" column="31" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Client.js" />
       <jump line="242" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Client.js" />
       <jump line="251" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Client.js" />
       <jump line="252" column="47" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Client.js" />
@@ -461,64 +457,77 @@
       <jump line="111" column="38" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
       <jump line="11" column="41" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
       <jump line="145" column="12" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
+      <jump line="151" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
+      <jump line="54" column="20" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
+      <jump line="16" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
+      <jump line="127" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
+      <jump line="13" column="43" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
+      <jump line="125" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
+      <jump line="100" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
+      <jump line="65" column="34" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
+      <jump line="30" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feat(confd/statsd): 现在由 confd 来生成 statsd 配置</text>
+        <text>:</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat(confd/statsd): 现在由 confd 来生成 statsd 配置</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>ravenTags</text>
+        <text>err</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgUmF2ZW4uY2FwdHVyZU1lc3NhZ2UoaW5mbywgcmF2ZW5UYWdzKCdDb25uZWN0RmFpbCcpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyID0gdGhpcy5faGFuZGxlR3JwY0VycihlcnIsIHsKICAgICAgICAgICAgICBjYWxsVHlwZTogJ2Nvbm5lY3QnLAogICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gMTQgVU5BVkFJTEFCTEUg5Y+v6IO96ZyA6KaB6YeN6K+VCg==</text>
+        <text encoding="base64">ICB3YWl0OiAxMDAwCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gMTQgVU5BVkFJTEFCTEU6IENvbm5lY3QgRmFpbGVkIOaXtuWAmeiHquWKqOaBouWkjeW+iOaFou+8jOaJgOS7peaJi+WKqOmHjei/ngo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsb2cuZXJyb3Ioe2Vycm9yOiBlfSwgJ2Nvbm5lY3QnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVycm1zZyA9IGVyci5tZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldGhvZDogbmFtZSwK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgUmF2ZW4uY2FwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsb2cuZXJyb3Ioe2Vycm9yOiBlfSwgJ2Rpc2Nvbm5lY3QnKQogICAgICAgICAgICAgIHJlaihuZXcgRXJyb3IoJ1Vua25vd25FcnJvcicpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZy5lcnJvcih7ZXJyb3I6IGV9LCAnY29tbWFuZCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGdycGNDbGllbnQuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiByZWooZXJyIHx8IHJlc3AuaGVhZGVyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8g5peg5rOV5oGi5aSN77yM6YeN5ZCvY2FsbENsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZXJ2aWNlOiBzZXJ2aWNlTmFtZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gIjE0IFVOQVZBSUxBQkxFOiBUQ1AgUmVhZCBmYWlsZWQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBncnBjQ2xpZW50ID0gbmV3IHByb3RvLmhlbGxvd29ybGQuR3JlZXRlcignbG9jYWxob3N0Ojk5OTgnLCBjcmVkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChlcnIpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ravenTags</last-search>
+      <last-search>err</last-search>
       <last-offset />
-      <last-pattern>ravenTags</last-pattern>
+      <last-pattern>err</last-pattern>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>singleServerClientNum</last-substitute>
       <last-dir>1</last-dir>
@@ -526,10 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>};</entry>
-        <entry>import</entry>
-        <entry>status</entry>
-        <entry encoding="base64">XDxyZXFcPg==</entry>
         <entry>req</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>{</entry>
@@ -539,13 +544,17 @@
         <entry>kick</entry>
         <entry>drawtexts</entry>
         <entry>getDrawTexts</entry>
-        <entry>disconnect</entry>
         <entry>copy</entry>
         <entry>tsc</entry>
         <entry>grpcClient</entry>
         <entry>grpc</entry>
         <entry>servi</entry>
         <entry>ravenTags</entry>
+        <entry>command</entry>
+        <entry>se</entry>
+        <entry>com</entry>
+        <entry>disconnect</entry>
+        <entry>err</entry>
       </history-search>
       <history-cmd>
         <entry>72</entry>
