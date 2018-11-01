@@ -417,11 +417,11 @@
         <mark key="^" line="16" column="43" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541054198961">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="37" />
+      <file name="/Dummy.txt" timestamp="1541057825751">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/conf.d/cdnList.toml" timestamp="1531906917191">
         <mark key="[" line="2" column="29" />
@@ -650,13 +650,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feat(Session): 优化 grpc 出现错误时的重连，添加 raven 错误捕获</text>
+        <text>优化</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat(Session): 优化 grpc 出现错误时的重连，添加 raven 错误捕获</text>
+        <text>优化</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
