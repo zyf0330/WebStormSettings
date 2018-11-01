@@ -335,12 +335,12 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" timestamp="1541054613282">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" timestamp="1541062127278">
         <mark key="'" line="38" column="16" />
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="17" column="50" />
-        <mark key="^" line="17" column="50" />
-        <mark key="." line="17" column="50" />
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="62" />
+        <mark key="^" line="17" column="62" />
+        <mark key="." line="17" column="62" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/Dockerfile-web" timestamp="1533870332031">
         <mark key="[" line="12" column="16" />
@@ -650,13 +650,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>优化</text>
+        <text>'disconnect'</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>优化</text>
+        <text>'disconnect'</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -698,7 +698,7 @@
         <text encoding="base64">Zi5mbHVzaCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>14</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -751,9 +751,9 @@
         <entry>we</entry>
         <entry>reg</entry>
         <entry>reg throttle</entry>
-        <entry>w</entry>
         <entry>73</entry>
         <entry>14</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
