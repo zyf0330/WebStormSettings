@@ -22,11 +22,6 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" timestamp="1540978561800">
-        <mark key="'" line="111" column="38" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="63" />
-      </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/config/default.js" timestamp="1534130889157">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="0" />
@@ -315,7 +310,7 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1541043597246">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1541052396205">
         <mark key="'" line="189" column="11" />
         <mark key="[" line="72" column="7" />
         <mark key="]" line="73" column="21" />
@@ -327,6 +322,13 @@
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" timestamp="1541053525654">
+        <mark key="'" line="17" column="32" />
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="36" />
+        <mark key="^" line="35" column="36" />
+        <mark key="." line="35" column="36" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/Dockerfile-web" timestamp="1533870332031">
         <mark key="[" line="12" column="16" />
@@ -403,7 +405,7 @@
         <mark key="^" line="16" column="43" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541042514768">
+      <file name="/Dummy.txt" timestamp="1541043604479">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -530,9 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.js" />
-      <jump line="48" column="34" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
-      <jump line="136" column="20" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
       <jump line="132" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
       <jump line="19" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
       <jump line="158" column="11" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
@@ -630,64 +629,67 @@
       <jump line="73" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
       <jump line="189" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
       <jump line="1" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_28.js" />
+      <jump line="51" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" />
+      <jump line="6" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" />
+      <jump line="17" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8g5LiNIGZsdXNoIOWPr+iDveS8muWIm+W7uuWksei0pQo=</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>target</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>lea</text>
+        <text>logger.info</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zi5jYW5jZWwoKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHsgbWV0aG9kOiBuYW1lLCBzZXNzaW9uIH0pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8g5LiNIGZsdXNoIOWPr+iDveS8muWIm+W7uuWksei0pQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCiAgICogc2Vzc2lvbiDmlq3lvIDov57mjqUKICAgKiBAcGFyYW0ge1Nlc3Npb259IHNlc3Npb24KICAgKiBAcmV0dXJuIHtQcm9taXNlPHZvaWQ+fQogICAqLwogIGFzeW5jIG9uRGlzY29ubmVjdCh7IHNlc3Npb24gfSkgewogICAgbG9nZ2VyLmluZm8oeyBtZXRob2Q6IG5hbWUsIHNlc3Npb24gfSkKICAgIHRyeSB7CiAgICAgIGF3YWl0IG9uQ29tbWFuZC5kZWxldGVVc2VyKHNlc3Npb24pCiAgICB9IGNhdGNoIChlKSB7CiAgICAgIHRocm93IG5ldyBBcHBFcnJvcihlLm1lc3NhZ2UpCiAgICB9CiAgfQ==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gZigxMjMpCg==</text>
+        <text encoding="base64">ICAgICAgLy8g5LiNIGZsdXNoIOWPr+iDveS8muWIm+W7uuWksei0pQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gfSwgNTAwKQo=</text>
+        <text encoding="base64">Ly8gZigxMjMpCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gc2V0VGltZW91dCgoKSA9PiB7Cg==</text>
+        <text encoding="base64">Ly8gfSwgNTAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zi5jYW5jZWwoKQo=</text>
+        <text encoding="base64">Ly8gc2V0VGltZW91dCgoKSA9PiB7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Zi5jYW5jZWwoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zi5mbHVzaCgpCg==</text>
+        <text encoding="base64">Zi5jYW5jZWwoKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Zi5mbHVzaCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Zi5mbHVzaCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lea</last-search>
+      <last-search>logger.info</last-search>
       <last-offset />
-      <last-pattern>lea</last-pattern>
+      <last-pattern>logger.info</last-pattern>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>close</last-substitute>
       <last-dir>1</last-dir>
@@ -695,8 +697,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disconnect</entry>
-        <entry>err</entry>
         <entry>de</entry>
         <entry>chose</entry>
         <entry>closeGrpcClient</entry>
@@ -715,6 +715,8 @@
         <entry>_createGrpcClient</entry>
         <entry>tra</entry>
         <entry>lea</entry>
+        <entry>method</entry>
+        <entry>logger.info</entry>
       </history-search>
       <history-cmd>
         <entry>vsp fakeConfig.json.template</entry>
