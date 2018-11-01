@@ -335,12 +335,12 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" timestamp="1541062127278">
-        <mark key="'" line="38" column="16" />
-        <mark key="[" line="17" column="53" />
-        <mark key="]" line="17" column="62" />
-        <mark key="^" line="17" column="62" />
-        <mark key="." line="17" column="62" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" timestamp="1541065125054">
+        <mark key="'" line="51" column="37" />
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="51" column="37" />
+        <mark key="^" line="51" column="37" />
+        <mark key="." line="51" column="37" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-recorder/Dockerfile-web" timestamp="1533870332031">
         <mark key="[" line="12" column="16" />
@@ -417,10 +417,10 @@
         <mark key="^" line="16" column="43" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541057825751">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1541062135577">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="25" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/conf.d/cdnList.toml" timestamp="1531906917191">
@@ -547,7 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="25" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="29" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="65" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
@@ -611,9 +610,7 @@
       <jump line="73" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
       <jump line="189" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
       <jump line="1" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_28.js" />
-      <jump line="51" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" />
       <jump line="6" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" />
-      <jump line="17" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" />
       <jump line="38" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" />
       <jump line="169" column="19" filename="$USER_HOME$/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="15" column="2" filename="$USER_HOME$/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
@@ -647,16 +644,19 @@
       <jump line="84" column="12" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
       <jump line="112" column="12" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
       <jump line="147" column="12" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
+      <jump line="41" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" />
+      <jump line="17" column="58" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" />
+      <jump line="51" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'disconnect'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHsgbWV0aG9kOiBuYW1lLCBwYXJhbTogSlNPTi5zdHJpbmdpZnkobXNnKSwgc2Vzc2lvbiB9LCAnY29tbWFuZCcpCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>'disconnect'</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
