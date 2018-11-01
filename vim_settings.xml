@@ -309,12 +309,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1541041336402">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1541042869519">
         <mark key="'" line="189" column="11" />
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="39" column="25" />
-        <mark key="^" line="39" column="46" />
-        <mark key="." line="39" column="46" />
+        <mark key="[" line="72" column="7" />
+        <mark key="]" line="72" column="6" />
+        <mark key="^" line="72" column="6" />
+        <mark key="." line="72" column="6" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/src/service/SyncResultConsumer.js" timestamp="1531804483802">
         <mark key="[" line="14" column="12" />
@@ -391,10 +391,11 @@
         <mark key="^" line="16" column="43" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541040255906">
+      <file name="/Dummy.txt" timestamp="1541042514768">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-apps-center/confd/conf.d/cdnList.toml" timestamp="1531906917191">
         <mark key="[" line="2" column="29" />
@@ -619,14 +620,14 @@
       <jump line="189" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbG9zZUdycGNDbGllbnQodGhpcy5zZXJ2aWNlQWRkcikK</text>
+      <register name="&quot;" type="4">
+        <text>confd/statsd</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>_closeGrpcClient</text>
+        <text>confd/statsd</text>
       </register>
       <register name="/" type="4">
         <text>_createGrpcClient</text>
