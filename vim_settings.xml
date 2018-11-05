@@ -14,10 +14,16 @@
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="63" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.js" timestamp="1541413011880">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/service/Broadcaster.js" timestamp="1540462575548">
         <mark key="'" line="36" column="11" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/src/redisClient.js" timestamp="1541411252419">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/src/redisClient.js" timestamp="1541412698882">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -62,7 +68,7 @@
       <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/package.json" timestamp="1540974939439">
         <mark key="'" line="9" column="11" />
       </file>
-      <file name="/fragment.js" timestamp="1541411245119">
+      <file name="/fragment.js" timestamp="1541412699971">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
@@ -84,11 +90,11 @@
         <mark key="." line="155" column="2" />
         <mark key="^" line="155" column="2" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/redisModel.js" timestamp="1541411274287">
-        <mark key="[" line="108" column="5" />
-        <mark key="]" line="109" column="51" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/redisModel.js" timestamp="1541412739520">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="117" column="3" />
         <mark key="^" line="109" column="51" />
-        <mark key="." line="109" column="51" />
+        <mark key="." line="111" column="55" />
       </file>
       <file name="/redisModel.js" timestamp="1541410937490">
         <mark key="[" line="109" column="0" />
@@ -114,7 +120,7 @@
         <mark key="^" line="51" column="37" />
         <mark key="." line="51" column="37" />
       </file>
-      <file name="/JavaScript Console" timestamp="1541411239142">
+      <file name="/JavaScript Console" timestamp="1541413003248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/routes/collect.ts" timestamp="1540783301367">
@@ -252,53 +258,53 @@
       <jump line="16" column="44" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>(redisKey.sessionHash(), id)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>ioredis</text>
       </register>
-      <register name="0" type="4">
-        <text>redisClient.hget(redisKey.sessionHash(), id)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBTZXNzaW9uRnJvbUlkKGlkKSB7CiAgICBjb25zdCBoYW5kbGUgPSAoc2Vzc2lvbkpTT05TdHIpID0+IHsKICAgICAgY29uc3Qgc2Vzc2lvbiA9IFNlc3Npb24uZnJvbShKU09OLnBhcnNlKHNlc3Npb25KU09OU3RyKSkKICAgICAgcmV0dXJuIHNlc3Npb24KICAgIH0KICAgIGlmICh0aGlzLl9waXBlbGluZSAhPSBudWxsKSB7CiAgICAgIHRoaXMuX3BpcGVsaW5lLmhnZXQocmVkaXNLZXkuc2Vzc2lvbkhhc2goKSwgaWQpCiAgICAgIHRoaXMuX3BpcGVsaW5lUlNIYW5kbGVzLnB1c2goaGFuZGxlKQogICAgICByZXR1cm4gdGhpcwogICAgfQogICAgcmV0dXJuIHJlZGlzQ2xpZW50LmhnZXQocmVkaXNLZXkuc2Vzc2lvbkhhc2goKSwgaWQpCiAgICAgIC50aGVuKChzZXNzaW9uSlNPTlN0cikgPT4gewogICAgICAgIHJldHVybiBTZXNzaW9uLmZyb20oSlNPTi5wYXJzZShzZXNzaW9uSlNPTlN0cikpCiAgICAgIH0pCiAgICAvLyByZXR1cm4gKGFzeW5jICgpID0+IHsKICAgIC8vICAgY29uc3Qgc2Vzc2lvbkpTT05TdHIgPSBhd2FpdCByZWRpc0NsaWVudC5oZ2V0KHJlZGlzS2V5LnNlc3Npb25IYXNoKCksIGlkKQogICAgLy8gICByZXR1cm4gaGFuZGxlKHNlc3Npb25KU09OU3RyKQogICAgLy8gfSkoKQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UmVkaXMuUHJvbWlzZSA9IGdsb2JhbC5Qcm9taXNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiAoYXN5bmMgKCkgPT4gewogICAgLy8gICBjb25zdCBzZXNzaW9uSlNPTlN0ciA9IGF3YWl0CiAgICAvLyAgIHJldHVybiBoYW5kbGUoc2Vzc2lvbkpTT05TdHIpCiAgICAvLyB9KSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzZXNzaW9uID0gU2Vzc2lvbi5mcm9tKEpTT04ucGFyc2Uoc2Vzc2lvbkpTT05TdHIpKQogICAgICAgIHJldHVybiBzZXNzaW9u</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgbyA9IG5ldyBBKCkuU2Vzc2lvbkZyb21JZCgxKS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0cnkgewoKICAgIGNvbnN0IHNlc3Npb24xID0gYXdhaXQgcmVkaXNNLlNlc3Npb25Gcm9tSWQoc2Vzc2lvbklkMSkKICB9IGNhdGNoIChlKSB7CiAgICB0aHJvdyBlCiAgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZWRpc0NsaWVudC5oZ2V0KHJlZGlzS2V5LnNlc3Npb25IYXNoKCksIGlkKQogICAgICAudGhlbigoc2Vzc2lvbkpTT05TdHIpID0+IHsKICAgICAgICByZXR1cm4gU2Vzc2lvbi5mcm9tKEpTT04ucGFyc2Uoc2Vzc2lvbkpTT05TdHIpKQogICAgICB9KQogICAgLy8gcmV0dXJuIChhc3luYyAoKSA9PiB7CiAgICAvLyAgIGNvbnN0IHNlc3Npb25KU09OU3RyID0gYXdhaXQgcmVkaXNDbGllbnQuaGdldChyZWRpc0tleS5zZXNzaW9uSGFzaCgpLCBpZCkKICAgIC8vICAgcmV0dXJuIGhhbmRsZShzZXNzaW9uSlNPTlN0cikKICAgIC8vIH0pKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFuZGxlKHNlc3Npb25KU09OU3RyKQo=</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBzZXNzaW9uID0gY2FsbC5zZXNzaW9uOwo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLl9waXBlbGluZSAhPSBudWxsKSB7CiAgICAgIHRoaXMuX3BpcGVsaW5lLmhnZXQocmVkaXNLZXkuc2Vzc2lvbkhhc2goKSwgaWQpCiAgICAgIHRoaXMuX3BpcGVsaW5lUlNIYW5kbGVzLnB1c2goaGFuZGxlKQogICAgICByZXR1cm4gdGhpcwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcnKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhhbmRsZSA9IChzZXNzaW9uSlNPTlN0cikgPT4gewogICAgICBjb25zdCBzZXNzaW9uID0gU2Vzc2lvbi5mcm9tKEpTT04ucGFyc2Uoc2Vzc2lvbkpTT05TdHIpKQogICAgICByZXR1cm4gc2Vzc2lvbgogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgU0RLID0gcmVxdWlyZSgndGluZGVyLWNlbnRlci1zZGsnKTsKY29uc3QgQXBwID0gU0RLLkFwcDsKY29uc3QgcmVkaXNDbGllbnQgPSBTREsucmVkaXNDbGllbnQKY29uc3QgbG9nZ2VyID0gU0RLLmdldExvZ2dlcignaHVpeGlhb2JhbycpOwpjb25zdCBhcHAgPSBBcHAoJ2h1aXhpYW9iYW8nKTsKY29uc3QgcmVkaXNLZXkgPSByZXF1aXJlKCcuL3JlZGlzS2V5JykKY29uc3QgUmVkaXNNb2RlbCA9IHJlcXVpcmUoJy4vcmVkaXNNb2RlbCcpCmNvbnN0IFRlcm0gPSByZXF1aXJlKCcuL21vZGVsL1Rlcm0nKQpjb25zdCBSb29tID0gcmVxdWlyZSgnLi9tb2RlbC9Sb29tJykKY29uc3QgU2Vzc2lvbiA9IHJlcXVpcmUoJy4vbW9kZWwvU2Vzc2lvbicpCmNvbnN0IHNlcnZpY2UgPSByZXF1aXJlKCcuL3NlcnZpY2UvaW5kZXgnKQpjb25zdCBjb25zdHMgPSByZXF1aXJlKCcuL2NvbnN0cycpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
