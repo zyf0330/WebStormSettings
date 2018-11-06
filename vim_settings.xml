@@ -37,6 +37,10 @@
       <file name="internal/async_hooks.js" timestamp="1539932697136">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/.arclint" timestamp="1541487390017">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="43" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/package.json" timestamp="1541410907664">
         <mark key="'" line="16" column="44" />
       </file>
@@ -50,13 +54,13 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="/JavaScript Console" timestamp="1541486580863">
+      <file name="/JavaScript Console" timestamp="1541486634065">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/service/Broadcaster.js" timestamp="1540462575548">
         <mark key="'" line="36" column="11" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" timestamp="1541486317837">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" timestamp="1541487171836">
         <mark key="'" line="44" column="4" />
         <mark key="[" line="52" column="71" />
         <mark key="]" line="52" column="71" />
@@ -70,11 +74,11 @@
         <mark key="." line="155" column="2" />
         <mark key="^" line="155" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541486504064">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-        <mark key="^" line="0" column="24" />
+      <file name="/Dummy.txt" timestamp="1541486621508">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/user.ts" timestamp="1540782596741">
         <mark key="'" line="4" column="9" />
@@ -129,7 +133,7 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" timestamp="1541470452179">
         <mark key="'" line="198" column="28" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1541485678958">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1541487250583">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="43" />
         <mark key="." line="18" column="43" />
@@ -265,14 +269,14 @@
       <jump line="34" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>优化</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgImJpbiI6IFsiLi9ub2RlX21vZHVsZXMvLmJpbi90c2xpbnQiXQo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>优化</text>
+        <text>feat(recordPersist): 增加设置回放持久化定时器的功能，通过 rabbitmq delayed message 做的</text>
       </register>
       <register name="/" type="4">
         <text>logger.info</text>
