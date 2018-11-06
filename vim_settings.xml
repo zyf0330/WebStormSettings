@@ -19,6 +19,12 @@
         <mark key="." line="50" column="41" />
         <mark key="^" line="50" column="41" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/.arclint" timestamp="1541487415862">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="28" column="36" />
+        <mark key="^" line="27" column="22" />
+        <mark key="." line="28" column="36" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/Service.js" timestamp="1541065125054">
         <mark key="'" line="51" column="37" />
         <mark key="[" line="51" column="37" />
@@ -28,11 +34,6 @@
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" timestamp="1540982199329">
         <mark key="'" line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" timestamp="1541054191512">
-        <mark key="'" line="147" column="12" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="63" />
       </file>
       <file name="internal/async_hooks.js" timestamp="1539932697136">
         <mark key="[" line="0" column="0" />
@@ -270,7 +271,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgImJpbiI6IFsiLi9ub2RlX21vZHVsZXMvLmJpbi90c2xpbnQiXQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -285,37 +286,37 @@
         <text>, method: 'pushStudentCount'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oeyBjb3VudCwgcm9vbUlkLCBtZXRob2Q6ICdwdXNoU3R1ZGVudENvdW50JyB9LCAncHVzaFN0dWRlbnRDb3VudCBzdWNjZXNzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5kZWJ1Zyh7IHJvb21JZCwgbWV0aG9kOiAncHVzaFN0dWRlbnRDb3VudCcgfSwgJ0NyZWF0ZSBQdXNoU3R1ZGVudENvdW50IEpvYicpOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oeyBjb3VudCwgcm9vbUlkLCBtZXRob2Q6ICdwdXNoU3R1ZGVudENvdW50JyB9LCAncHVzaFN0dWRlbnRDb3VudCBzdWNjZXNzJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zyh7IGRhdGE6IGpvYi5kYXRhLCBtZXRob2Q6ICdwdXNoU3R1ZGVudENvdW50JyB9LCAnU3RhcnQgaGFuZGxlIGpvYicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5kZWJ1Zyh7IHJvb21JZCwgbWV0aG9kOiAncHVzaFN0dWRlbnRDb3VudCcgfSwgJ0NyZWF0ZSBQdXNoU3R1ZGVudENvdW50IEpvYicpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zyh7IGRhdGE6IGpvYi5kYXRhLCBtZXRob2Q6ICdwdXNoU3R1ZGVudENvdW50JyB9LCAnU3RhcnQgaGFuZGxlIGpvYicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsb2dnZXIuZGVidWcoe3Nlc3Npb25JZDEsIG1ldGhvZDogJ0ludml0ZU5vdGlmeVJlcGx5J30sICdzZXNzaW9uMSBsZWF2ZSByb29tJykK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQgcm9vbVVwZGF0ZWQgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICBsb2dnZXIuZGVidWcoe3Nlc3Npb25JZDEsIG1ldGhvZDogJ0ludml0ZU5vdGlmeVJlcGx5J30sICdzZXNzaW9uMSBsZWF2ZSByb29tJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJvb21VcGRhdGVkID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICBsZXQgcm9vbVVwZGF0ZWQgPSBmYWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJvb21VcGRhdGVkID0gdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwaXBlbGluZQogICAgLmhzZXQocmVkaXNLZXkudGVybUhhc2goKSwgdGVybTEuaWQsIEpTT04uc3RyaW5naWZ5KHRlcm0xKSkKICAgIC5oc2V0KHJlZGlzS2V5LnNlc3Npb25IYXNoKCksIHNlc3Npb24xLmlkLCBKU09OLnN0cmluZ2lmeShzZXNzaW9uMSkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
