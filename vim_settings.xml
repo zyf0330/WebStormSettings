@@ -135,10 +135,10 @@
         <mark key="]" line="33" column="11" />
         <mark key="." line="33" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541410077379">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1541414821124">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="12" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/user.ts" timestamp="1540782596741">
@@ -265,13 +265,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>||</text>
+        <text>log(index): 完善 log 信息</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>||</text>
+        <text>log(index): 完善 log 信息</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
