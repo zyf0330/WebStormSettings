@@ -57,11 +57,12 @@
       <file name="/index.js" timestamp="1540987816767">
         <mark key="[" line="129" column="7" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/statsdClient.js" timestamp="1541493917464">
-        <mark key="[" line="38" column="9" />
-        <mark key="]" line="38" column="9" />
-        <mark key="." line="38" column="9" />
-        <mark key="^" line="39" column="23" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/statsdClient.js" timestamp="1541497511747">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="51" />
+        <mark key="." line="13" column="51" />
+        <mark key="^" line="13" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.js" timestamp="1541413183096">
         <mark key="'" line="18" column="0" />
@@ -70,13 +71,13 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/config/edge.yaml" timestamp="1541494195520">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/config/edge.yaml" timestamp="1541494310375">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="14" />
         <mark key="." line="11" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/node_modules/statsd-client/lib/EphemeralSocket.js" timestamp="1541492454738" />
-      <file name="/JavaScript Console" timestamp="1541494141580">
+      <file name="/JavaScript Console" timestamp="1541497435508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/service/Broadcaster.js" timestamp="1540462575548">
@@ -96,7 +97,7 @@
         <mark key="." line="155" column="2" />
         <mark key="^" line="155" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541490122258">
+      <file name="/Dummy.txt" timestamp="1541497516673">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
@@ -218,8 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="36" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
-      <jump line="56" column="29" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
       <jump line="106" column="14" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
       <jump line="129" column="14" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
       <jump line="150" column="23" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
@@ -318,6 +317,8 @@
       <jump line="33" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/index.js" />
       <jump line="82" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="12" column="60" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
+      <jump line="38" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/statsdClient.js" />
+      <jump line="13" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/statsdClient.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -330,7 +331,7 @@
         <text>statsdClient.close</text>
       </register>
       <register name="/" type="4">
-        <text>stop</text>
+        <text>host</text>
       </register>
       <register name="0" type="4">
         <text>sdcClose</text>
@@ -373,9 +374,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stop</last-search>
+      <last-search>host</last-search>
       <last-offset />
-      <last-pattern>stop</last-pattern>
+      <last-pattern>host</last-pattern>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>close</last-substitute>
       <last-dir>1</last-dir>
@@ -394,7 +395,6 @@
         <entry>null</entry>
         <entry>sdcfor</entry>
         <entry>logger.info</entry>
-        <entry>host</entry>
         <entry>disconnect</entry>
         <entry>then</entry>
         <entry>qps</entry>
@@ -403,6 +403,7 @@
         <entry>gauge</entry>
         <entry>sdc</entry>
         <entry>stop</entry>
+        <entry>host</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;//g</entry>
