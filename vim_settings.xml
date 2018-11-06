@@ -1,9 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1541497247005">
+      <file name="/Dummy.txt" timestamp="1525752703144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" timestamp="1525751049494">
@@ -19,12 +19,6 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/project/tinder/tinder-connector-rtmp/config/edge.yaml" timestamp="1541496804461">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-      </file>
       <file name="$USER_HOME$/project/t/package.json" timestamp="1525841373295">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="10" column="18" />
@@ -37,39 +31,17 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="0" column="7" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/Dispatch.js" timestamp="1525681972666">
+        <mark key="'" line="30" column="23" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/helper.js" timestamp="1525687137833">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="133" column="0" />
         <mark key="^" line="53" column="29" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1541497427255">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1525688564922">
-        <mark key="'" line="80" column="17" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="25" column="20" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1525752703144">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/tinder/tinder-connector-rtmp/config/redis.yaml" timestamp="1541496764329">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="8" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts" timestamp="1541497360544">
-        <mark key="'" line="354" column="4" />
-      </file>
-      <file name="$USER_HOME$/project/dby-electron-client-xb/src/mainProcess/runArgsCorrector.js" timestamp="1525860335869">
-        <mark key="'" line="11" column="34" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="57" />
       </file>
       <file name="$USER_HOME$/project/duobeiyun-msg-audit/app.js" timestamp="1525752629206">
         <mark key="'" line="279" column="43" />
@@ -87,6 +59,9 @@
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1525687799056">
         <mark key="'" line="80" column="2" />
       </file>
+      <file name="/JavaScript Console" timestamp="1525752709605">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Dispatch.js" timestamp="1525681248647">
         <mark key="[" line="83" column="6" />
         <mark key="]" line="83" column="6" />
@@ -100,9 +75,22 @@
         <mark key="." line="238" column="33" />
         <mark key="^" line="238" column="33" />
       </file>
-      <file name="$USER_HOME$/project/tinder/tinder-connector-rtmp/config/statsd.yaml" timestamp="1541496987919">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="20" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/config.js" timestamp="1525687084717">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="258" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/helper.js" timestamp="1525688564922">
+        <mark key="'" line="80" column="17" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="25" column="20" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1525685571426">
+        <mark key="'" line="565" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/.gitignore" timestamp="1525689244295">
         <mark key="[" line="1" column="5" />
@@ -112,6 +100,9 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="249" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="215" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
+      <jump line="214" column="100" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="170" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
       <jump line="86" column="3" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-msg-audit/app.js" />
@@ -209,22 +200,19 @@
       <jump line="41" column="6" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
       <jump line="80" column="6" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
       <jump line="43" column="6" filename="$USER_HOME$/project/duobeiyun-msg-audit/views/index.html" />
-      <jump line="34" column="0" filename="$USER_HOME$/project/tinder/tinder-connector-rtmp/src/utils/statsdClient.js" />
-      <jump line="13" column="42" filename="$USER_HOME$/project/tinder/tinder-connector-rtmp/src/utils/statsdClient.js" />
-      <jump line="354" column="4" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>replace</text>
+        <text>['run', 'script']</text>
       </register>
       <register name="-" type="4">
-        <text>replace</text>
+        <text>['run', 'script']</text>
       </register>
       <register name="/" type="4">
         <text>denyMsgs</text>
       </register>
-      <register name="0" type="4">
-        <text>60.205.144.70</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIOeUqOaIt+WQje+8mjxzcGFuIHYtdGV4dD0ibXNnLm5hbWUiPjwvc3Bhbj7ml7bpl7TvvJo8c3BhbiB2LXRleHQ9Im1zZy50cyI+PC9zcGFuPgogICAgICAgICAg5raI5oGv77yaPHNwYW4gdi10ZXh0PSJtc2cubXNnIj48L3NwYW4+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -268,6 +256,7 @@
     </search>
     <history>
       <history-search>
+        <entry>mobile</entry>
         <entry>role</entry>
         <entry>allowChat</entry>
         <entry>emit</entry>
@@ -287,15 +276,12 @@
         <entry>chat</entry>
         <entry>allowMsg</entry>
         <entry>denyMsgs</entry>
-        <entry>spawn</entry>
       </history-search>
       <history-cmd>
         <entry>%s/traceLog/logger.log/g</entry>
         <entry>s</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>-8</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -354,9 +340,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
