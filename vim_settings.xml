@@ -71,7 +71,7 @@
         <mark key="]" line="11" column="14" />
         <mark key="." line="11" column="14" />
       </file>
-      <file name="/JavaScript Console" timestamp="1541491193849">
+      <file name="/JavaScript Console" timestamp="1541491223016">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/service/Broadcaster.js" timestamp="1540462575548">
@@ -119,12 +119,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1541491192162">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1541491243868">
         <mark key="'" line="57" column="2" />
         <mark key="[" line="80" column="13" />
-        <mark key="]" line="80" column="19" />
+        <mark key="]" line="80" column="13" />
         <mark key="^" line="80" column="19" />
-        <mark key="." line="80" column="19" />
+        <mark key="." line="80" column="13" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1540988172615">
         <mark key="'" line="24" column="1" />
@@ -307,14 +307,14 @@
       <jump line="57" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNsZWFySW50ZXJ2YWwodGhpcy5zZGNJbnRlcnZhbCkK</text>
+      <register name="&quot;" type="4">
+        <text>...args</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LnRoZW4oKCkgPT4ge30p</text>
+        <text>...args</text>
       </register>
       <register name="/" type="4">
         <text>stop</text>
