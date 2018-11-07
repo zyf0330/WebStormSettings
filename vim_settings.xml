@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/tinder-docker-compose" timestamp="1541578366717">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/tinder-docker-compose" timestamp="1541584891421">
         <mark key="'" line="20" column="24" />
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="20" column="21" />
-        <mark key="." line="20" column="5" />
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="42" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1541412699971">
         <mark key="[" line="0" column="0" />
@@ -83,9 +84,6 @@
         <mark key="'" line="82" column="17" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/etcd.env" timestamp="1541579079973">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="13" />
         <mark key="^" line="0" column="23" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1541487250583">
@@ -116,6 +114,12 @@
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/package.json" timestamp="1541491775381">
         <mark key="'" line="41" column="23" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/connector-sio-app.yml" timestamp="1541584780457">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+        <mark key="^" line="5" column="43" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/index.js" timestamp="1541493709093">
         <mark key="'" line="7" column="20" />
@@ -171,7 +175,7 @@
         <mark key="." line="52" column="71" />
         <mark key="^" line="52" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541578146088">
+      <file name="/Dummy.txt" timestamp="1541584807255">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="67" />
         <mark key="." line="0" column="67" />
@@ -192,12 +196,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" timestamp="1541582061756">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="22" column="10" />
-        <mark key="." line="20" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" timestamp="1541584924825">
+        <mark key="'" line="59" column="40" />
+        <mark key="[" line="69" column="18" />
+        <mark key="]" line="69" column="21" />
+        <mark key="^" line="69" column="21" />
+        <mark key="." line="69" column="21" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" timestamp="1540797960260">
         <mark key="'" line="358" column="4" />
@@ -245,16 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="380" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="407" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="350" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="355" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="384" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="3" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="111" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/redisModel.js" />
-      <jump line="12" column="47" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/redisModel.js" />
-      <jump line="48" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/redisModel.js" />
       <jump line="405" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="110" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/redisModel.js" />
       <jump line="211" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
@@ -306,103 +300,113 @@
       <jump line="38" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/statsdClient.js" />
       <jump line="13" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/statsdClient.js" />
       <jump line="35" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="36" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="41" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="44" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="15" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/tinder-docker-compose" />
       <jump line="16" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/tinder-docker-compose" />
       <jump line="20" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/tinder-docker-compose" />
       <jump line="43" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="66" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="29" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="21" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="26" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="9" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="20" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="27" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="33" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="42" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="61" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="52" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="47" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="49" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="60" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="18" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="48" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="58" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="38" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="57" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="16" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="50" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="59" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="14" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="8" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="69" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="55" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="53" column="34" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="64" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="15" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="17" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="74" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="23" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="79" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="85" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="69" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="26" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="78" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="8" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="9" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="21" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="22" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="29" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="30" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="36" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="37" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="47" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="48" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="67" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="68" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="64" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="44" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="49" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="57" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="12" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="53" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="59" column="40" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgogICAgICBleHRyYV9ob3N0czoKICAgICAgLSB6eWY6enlmLXhwcy5sb2NhbAo=</text>
+      <register name="&quot;" type="4">
+        <text>sio</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>sio</text>
       </register>
       <register name="/" type="4">
-        <text>tinder-edge-re</text>
+        <text>sio</text>
       </register>
       <register name="0" type="4">
-        <text>globalNetwork</text>
+        <text>connectorRTMPPort</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgogICAgICBleHRyYV9ob3N0czoKICAgICAgLSB6eWY6enlmLXhwcy5sb2NhbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC0gJHtjb25uZWN0b3JTSU9Qb3J0fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICBuZXR3b3JrX21vZGU6IGhvc3QK</text>
+        <text encoding="base64">ICAgICAgICBpcF9yYW5nZTogMTcyLjE4LjUuMC8yNAo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICBuZXR3b3JrX21vZGU6IGhvc3QK</text>
+        <text encoding="base64">ICAgICAgICBhdXhfYWRkcmVzc2VzOgogICAgICAgICAgbG9jYWxob3N0OiAxNzIuMTguMC4xCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyAgICBuZXR3b3JrX21vZGU6IGhvc3QK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgLSBzdWJuZXQ6IDE3Mi4xNi4yMzguMC8yNAogICAgICAgIGdhdGV3YXk6IDE3Mi4xNi4yMzguMQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAgICBuZXR3b3JrX21vZGU6IGhvc3QK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgLSBzdWJuZXQ6IDE3Mi4yOC4wLjAvMTYKICAgICAgICBpcF9yYW5nZTogMTcyLjI4LjUuMC8yNAogICAgICAgIGdhdGV3YXk6IDE3Mi4yOC41LjE=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICBuZXR3b3JrX21vZGU6IGhvc3QK</text>
+        <text encoding="base64">ICAgICAgICBhdXhfYWRkcmVzc2VzOgogICAgICAgICAgaG9zdDE6IDE3Mi4yOC4xLjUKICAgICAgICAgIGhvc3QyOiAxNzIuMjguMS42CiAgICAgICAgICBob3N0MzogMTcyLjI4LjEuNwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gZWRnZVJlZGlzSG9zdD10aW5kZXItZWRnZS1yZWRpcwo=</text>
+        <text encoding="base64">ICAgIGRyaXZlcjogYnJpZGdlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gZWRnZVJlZGlzUG9ydD0ke2VkZ2VSZWRpc1BvcnR9Cg==</text>
+        <text encoding="base64">ICB0aW5kZXJfZGVmYXVsdDoKICAgIGV4dGVybmFsOiB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tinder-edge-re</last-search>
+      <last-search>sio</last-search>
       <last-offset />
-      <last-pattern>tinder-edge-re</last-pattern>
+      <last-pattern>sio</last-pattern>
       <last-replace>singleServerRoomNum</last-replace>
       <last-substitute>close</last-substitute>
       <last-dir>1</last-dir>
@@ -410,32 +414,31 @@
     </search>
     <history>
       <history-search>
-        <entry>qps</entry>
-        <entry>statsd</entry>
-        <entry>todo</entry>
-        <entry>gauge</entry>
         <entry>sdc</entry>
         <entry>stop</entry>
         <entry>host</entry>
-        <entry>connector</entry>
         <entry>tinder-connector</entry>
         <entry>ports</entry>
         <entry>connectorSIOPort</entry>
         <entry>network_mode</entry>
         <entry>rabbitmq</entry>
         <entry>network</entry>
-        <entry>connector-sio</entry>
         <entry>edge-redis</entry>
         <entry>tinder-edge</entry>
         <entry>tinder-etcd</entry>
         <entry>tinder-edge-redis</entry>
         <entry>tinder-edge-re</entry>
+        <entry>connector</entry>
+        <entry>networ</entry>
+        <entry>connector-sio</entry>
+        <entry>etcd</entry>
+        <entry>tinder-connector-sio</entry>
+        <entry>sio</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,//g</entry>
         <entry>%s/&quot;//gc</entry>
         <entry>%s/,//gc</entry>
-        <entry>wq</entry>
         <entry>2w</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz4lcy9zaW5nbGVTZXJ2ZXJDbGllbnROdW0vc2luZ2xlU2VydmVyUm9vbU51bS9nYw==</entry>
@@ -451,6 +454,7 @@
         <entry>14</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
