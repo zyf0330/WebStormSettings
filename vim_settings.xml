@@ -192,12 +192,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" timestamp="1541581217301">
-        <mark key="'" line="17" column="2" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="70" column="14" />
-        <mark key="." line="74" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" timestamp="1541582061756">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="22" column="10" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" timestamp="1540797960260">
         <mark key="'" line="358" column="4" />
@@ -245,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="339" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="358" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="380" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="407" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
@@ -345,16 +344,17 @@
       <jump line="64" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="15" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="17" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="74" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkOgogICAgICBleHRyYV9ob3N0czoKICAgICAgLSB6eWY6enlmLXhwcy5sb2NhbAo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>frontapp</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>tinder-edge-re</text>
@@ -363,13 +363,13 @@
         <text>globalNetwork</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkOgogICAgICBleHRyYV9ob3N0czoKICAgICAgLSB6eWY6enlmLXhwcy5sb2NhbAo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICBuZXR3b3JrX21vZGU6IGhvc3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">IyAgICBuZXR3b3JrX21vZGU6IGhvc3QK</text>
@@ -387,13 +387,13 @@
         <text encoding="base64">IyAgICBuZXR3b3JrX21vZGU6IGhvc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gZWRnZVJlZGlzSG9zdD10aW5kZXItZWRnZS1yZWRpcwo=</text>
+        <text encoding="base64">IyAgICBuZXR3b3JrX21vZGU6IGhvc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gZWRnZVJlZGlzUG9ydD0ke2VkZ2VSZWRpc1BvcnR9Cg==</text>
+        <text encoding="base64">ICAgIC0gZWRnZVJlZGlzSG9zdD10aW5kZXItZWRnZS1yZWRpcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gZWRnZVJlZGlzSG9zdD10aW5kZXItZWRnZS1yZWRpcwogICAgLSBlZGdlUmVkaXNQb3J0PSR7ZWRnZVJlZGlzUG9ydH0K</text>
+        <text encoding="base64">ICAgIC0gZWRnZVJlZGlzUG9ydD0ke2VkZ2VSZWRpc1BvcnR9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
