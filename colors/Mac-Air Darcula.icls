@@ -4,14 +4,26 @@
     <property name="created">2018-04-20T15:49:00</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-11-07T10:48:32</property>
+    <property name="modified">2018-11-07T11:04:36</property>
     <property name="originalScheme">2K Darcula</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <attributes>
     <option name="DEFAULT_DOC_COMMENT">
