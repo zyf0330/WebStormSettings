@@ -98,11 +98,11 @@
         <mark key="." line="155" column="2" />
         <mark key="^" line="155" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541497591651">
-        <mark key="[" line="0" column="51" />
-        <mark key="]" line="0" column="50" />
-        <mark key="." line="0" column="50" />
-        <mark key="^" line="0" column="50" />
+      <file name="/Dummy.txt" timestamp="1541565889051">
+        <mark key="[" line="0" column="69" />
+        <mark key="]" line="0" column="69" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541489490245">
         <mark key="[" line="0" column="0" />
@@ -319,13 +319,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feat(Forwarder): 添加 grpc 请求错误处理，必要时重连</text>
+        <text>feat(Forwarder): 增强 grpcClient 错误处理和重连</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat(Forwarder): 添加 grpc 请求错误处理，必要时重连</text>
+        <text>feat(Forwarder): 增强 grpcClient 错误处理和重连</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
