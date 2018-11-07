@@ -1,6 +1,18 @@
 <keymap version="1" name="zyf Mac OS" parent="Eclipse (Mac OS X)">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
