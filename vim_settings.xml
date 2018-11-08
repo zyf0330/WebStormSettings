@@ -37,6 +37,7 @@
         <mark key="^" line="23" column="29" />
       </file>
       <file name="/start.sh" timestamp="1541643004169" />
+      <file name="/statsd.yaml" timestamp="1541646705419" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1541644623822">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="8" />
@@ -48,6 +49,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/sentryClient.js" timestamp="1541646756969">
+        <mark key="'" line="40" column="12" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/app.json" timestamp="1541643042784">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="56" />
@@ -56,9 +64,6 @@
         <mark key="[" line="10" column="40" />
         <mark key="]" line="10" column="41" />
         <mark key="." line="10" column="41" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/etcd.env" timestamp="1541579079973">
-        <mark key="^" line="0" column="23" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1541487250583">
         <mark key="[" line="18" column="37" />
@@ -108,7 +113,7 @@
         <mark key="]" line="11" column="14" />
         <mark key="." line="11" column="14" />
       </file>
-      <file name="/JavaScript Console" timestamp="1541644626200">
+      <file name="/JavaScript Console" timestamp="1541646528367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/confd/conf.d/redis.toml" timestamp="1541642931705">
@@ -116,9 +121,9 @@
         <mark key="]" line="13" column="58" />
         <mark key="." line="13" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541643379788">
-        <mark key="[" line="0" column="72" />
-        <mark key="]" line="0" column="72" />
+      <file name="/Dummy.txt" timestamp="1541646759606">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
@@ -166,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="403" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="225" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="206" column="88" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
@@ -266,16 +270,17 @@
       <jump line="14" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="18" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="21" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
+      <jump line="40" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/sentryClient.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>connectorRTMPPort</text>
+        <text>refactor(pm2,docker): 使用 pm2 镜像来构建 docker。使用 pm2-runtime 启动 pm2 脚本，并修改为 yml 格式，并将 confd 也加入</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>不能</text>
+        <text>refactor(pm2,docker): 使用 pm2 镜像来构建 docker。使用 pm2-runtime 启动 pm2 脚本，并修改为 yml 格式，并将 confd 也加入</text>
       </register>
       <register name="/" type="4">
         <text>edgeRedisPort</text>
@@ -283,13 +288,13 @@
       <register name="0" type="4">
         <text>connectorRTMPPort</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">TWF0aC5tbwo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
@@ -299,22 +304,22 @@
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBuYW1lOiBjb25mZAogIHNjcmlwdDogY29uZmQuc2gKICBhcmdzOiB3YXRjaAogIGN3ZDogLgogIG1lcmdlX2xvZ3M6IHRydWUKICBvdXRfZmlsZTogL3Zhci9sb2cvY29uZmQvb3V0LmxvZwogIGVycm9yX2ZpbGU6IC92YXIvbG9nL2NvbmZkL2Vycm9yLmxvZwoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbnN0YW5jZV92YXI6IElOU1RBTkNFX05VTQo=</text>
+        <text encoding="base64">LSBuYW1lOiBjb25mZAogIHNjcmlwdDogY29uZmQuc2gKICBhcmdzOiB3YXRjaAogIGN3ZDogLgogIG1lcmdlX2xvZ3M6IHRydWUKICBvdXRfZmlsZTogL3Zhci9sb2cvY29uZmQvb3V0LmxvZwogIGVycm9yX2ZpbGU6IC92YXIvbG9nL2NvbmZkL2Vycm9yLmxvZwoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwczoKLSBuYW1lOiB0aW5kZXItY29ubmVjdG9yLXJ0bXAKc2NyaXB0OiAuL3NyYy9pbmRleC5qcwppbnN0YW5jZXM6IDAKZXhlY19tb2RlOiBjbHVzdGVyCmN3ZDogLgppbnN0YW5jZV92YXI6IElOU1RBTkNFX05VTQptZXJnZV9sb2dzOiB0cnVlCm91dF9maWxlOiAvdmFyL2xvZy90aW5kZXItY29ubmVjdG9yLXJ0bXAvb3V0LmxvZwplcnJvcl9maWxlOiAvdmFyL2xvZy90aW5kZXItY29ubmVjdG9yLXJ0bXAvZXJyb3IubG9nCi0gbmFtZTogY29uZmQKc2NyaXB0OiBjb25mZC5zaAphcmdzOiB3YXRjaApjd2Q6IC4KbWVyZ2VfbG9nczogdHJ1ZQpvdXRfZmlsZTogL3Zhci9sb2cvY29uZmQvb3V0LmxvZwplcnJvcl9maWxlOiAvdmFyL2xvZy9jb25mZC9lcnJvci5sb2cKCg==</text>
+        <text encoding="base64">ICBpbnN0YW5jZV92YXI6IElOU1RBTkNFX05VTQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">YXBwczoKLSBuYW1lOiB0aW5kZXItY29ubmVjdG9yLXJ0bXAKc2NyaXB0OiAuL3NyYy9pbmRleC5qcwppbnN0YW5jZXM6IDAKZXhlY19tb2RlOiBjbHVzdGVyCmN3ZDogLgppbnN0YW5jZV92YXI6IElOU1RBTkNFX05VTQptZXJnZV9sb2dzOiB0cnVlCm91dF9maWxlOiAvdmFyL2xvZy90aW5kZXItY29ubmVjdG9yLXJ0bXAvb3V0LmxvZwplcnJvcl9maWxlOiAvdmFyL2xvZy90aW5kZXItY29ubmVjdG9yLXJ0bXAvZXJyb3IubG9nCi0gbmFtZTogY29uZmQKc2NyaXB0OiBjb25mZC5zaAphcmdzOiB3YXRjaApjd2Q6IC4KbWVyZ2VfbG9nczogdHJ1ZQpvdXRfZmlsZTogL3Zhci9sb2cvY29uZmQvb3V0LmxvZwplcnJvcl9maWxlOiAvdmFyL2xvZy9jb25mZC9lcnJvci5sb2cKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ewogICJhcHBzIjogWwogICAgewogICAgICAibmFtZSI6ICJ0aW5kZXItY29ubmVjdG9yLXJ0bXAiLAogICAgICAic2NyaXB0IjogIi4vc3JjL2luZGV4LmpzIiwKICAgICAgImluc3RhbmNlcyI6IDEsCiAgICAgICJleGVjX21vZGUiOiAiY2x1c3RlciIsCiAgICAgICJjd2QiOiAiLiIsCiAgICAgICJtZXJnZV9sb2dzIjogdHJ1ZSwKICAgICAgIm91dF9maWxlIjogIi92YXIvbG9nL3RpbmRlci1jb25uZWN0b3ItcnRtcC9vdXQubG9nIiwKICAgICAgImVycm9yX2ZpbGUiOiAiL3Zhci9sb2cvdGluZGVyLWNvbm5lY3Rvci1ydG1wL2Vycm9yLmxvZyIKICAgIH0KICBdCn0K</text>
+        <text encoding="base64">YXBwczoKLSBuYW1lOiB0aW5kZXItY29ubmVjdG9yLXJ0bXAKc2NyaXB0OiAuL3NyYy9pbmRleC5qcwppbnN0YW5jZXM6IDAKZXhlY19tb2RlOiBjbHVzdGVyCmN3ZDogLgppbnN0YW5jZV92YXI6IElOU1RBTkNFX05VTQptZXJnZV9sb2dzOiB0cnVlCm91dF9maWxlOiAvdmFyL2xvZy90aW5kZXItY29ubmVjdG9yLXJ0bXAvb3V0LmxvZwplcnJvcl9maWxlOiAvdmFyL2xvZy90aW5kZXItY29ubmVjdG9yLXJ0bXAvZXJyb3IubG9nCi0gbmFtZTogY29uZmQKc2NyaXB0OiBjb25mZC5zaAphcmdzOiB3YXRjaApjd2Q6IC4KbWVyZ2VfbG9nczogdHJ1ZQpvdXRfZmlsZTogL3Zhci9sb2cvY29uZmQvb3V0LmxvZwplcnJvcl9maWxlOiAvdmFyL2xvZy9jb25mZC9lcnJvci5sb2cKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgImluc3RhbmNlX3ZhciI6ICJJTlNUQU5DRV9OVU0iLAo=</text>
+        <text encoding="base64">ewogICJhcHBzIjogWwogICAgewogICAgICAibmFtZSI6ICJ0aW5kZXItY29ubmVjdG9yLXJ0bXAiLAogICAgICAic2NyaXB0IjogIi4vc3JjL2luZGV4LmpzIiwKICAgICAgImluc3RhbmNlcyI6IDEsCiAgICAgICJleGVjX21vZGUiOiAiY2x1c3RlciIsCiAgICAgICJjd2QiOiAiLiIsCiAgICAgICJtZXJnZV9sb2dzIjogdHJ1ZSwKICAgICAgIm91dF9maWxlIjogIi92YXIvbG9nL3RpbmRlci1jb25uZWN0b3ItcnRtcC9vdXQubG9nIiwKICAgICAgImVycm9yX2ZpbGUiOiAiL3Zhci9sb2cvdGluZGVyLWNvbm5lY3Rvci1ydG1wL2Vycm9yLmxvZyIKICAgIH0KICBdCn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
