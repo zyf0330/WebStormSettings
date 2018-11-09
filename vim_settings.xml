@@ -122,10 +122,10 @@
       <file name="/JavaScript Console" timestamp="1541647658024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541648439719">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="38" />
-        <mark key="." line="0" column="38" />
+      <file name="/Dummy.txt" timestamp="1541648488333">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="38" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
@@ -271,14 +271,14 @@
       <jump line="4" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/connector-sio-app.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>feat(connector-rtmp): 添加 rtmp connector</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>hhhhhh</text>
+        <text>feat(connector-rtmp): 添加 rtmp connector</text>
       </register>
       <register name="/" type="4">
         <text>edgeRedisPort</text>
