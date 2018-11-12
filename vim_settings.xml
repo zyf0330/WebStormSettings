@@ -162,6 +162,9 @@
       <file name="colors/2K Darcula.icls" timestamp="1541560416668">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" timestamp="1542009071130">
+        <mark key="'" line="183" column="10" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/service/index.js" timestamp="1541414293792">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -173,17 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="105" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="77" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="126" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="182" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="41" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/package.json" />
-      <jump line="108" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="59" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="115" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="65" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="76" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="78" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="57" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="7" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/index.js" />
@@ -273,6 +265,17 @@
       <jump line="160" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="175" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="8" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
+      <jump line="68" column="58" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="80" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="213" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="9" column="39" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="65" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="72" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="89" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="107" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="127" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="174" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="183" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -285,7 +288,7 @@
         <text>feat(connector-rtmp): 添加 rtmp connector</text>
       </register>
       <register name="/" type="4">
-        <text>log.</text>
+        <text>log\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBuYW1lOiBjb25mZAogIHNjcmlwdDogY29uZmQuc2gKICBhcmdzOiB3YXRjaAogIGN3ZDogLgogIG1lcmdlX2xvZ3M6IHRydWUKICBvdXRfZmlsZTogL3Zhci9sb2cvY29uZmQvb3V0LmxvZwogIGVycm9yX2ZpbGU6IC92YXIvbG9nL2NvbmZkL2Vycm9yLmxvZwo=</text>
@@ -328,9 +331,9 @@
       </register>
     </registers>
     <search>
-      <last-search>log.</last-search>
+      <last-search>log\.</last-search>
       <last-offset />
-      <last-pattern>log.</last-pattern>
+      <last-pattern>log\.</last-pattern>
       <last-replace>rtmp</last-replace>
       <last-substitute>sio</last-substitute>
       <last-dir>1</last-dir>
@@ -338,8 +341,6 @@
     </search>
     <history>
       <history-search>
-        <entry>network</entry>
-        <entry>edge-redis</entry>
         <entry>tinder-edge</entry>
         <entry>tinder-etcd</entry>
         <entry>tinder-edge-redis</entry>
@@ -357,7 +358,9 @@
         <entry>invitenotify</entry>
         <entry>invitecall</entry>
         <entry>register</entry>
+        <entry>push</entry>
         <entry>log.</entry>
+        <entry>log\.</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;//gc</entry>
