@@ -57,11 +57,6 @@
       <file name="ui.lnf.xml" timestamp="1541560488707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/app.yml" timestamp="1541643783242">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="17" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/config/edge.yaml" timestamp="1541494310375">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="14" />
@@ -107,16 +102,24 @@
         <mark key="^" line="69" column="42" />
         <mark key="." line="69" column="46" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" timestamp="1542006726449">
+        <mark key="[" line="337" column="34" />
+        <mark key="]" line="337" column="48" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1541644623822">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="8" />
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" timestamp="1542006689551" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/src/redisClient.js" timestamp="1541412698882">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1542009031084">
+        <mark key="'" line="8" column="30" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" timestamp="1541647463175">
         <mark key="[" line="15" column="8" />
@@ -165,18 +168,11 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1541990136447">
-        <mark key="'" line="0" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1541991201204">
+        <mark key="'" line="175" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="92" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/statsdClient.js" />
-      <jump line="19" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/statsdClient.js" />
-      <jump line="46" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="80" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="16" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="76" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="109" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="96" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="105" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="77" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
@@ -188,7 +184,6 @@
       <jump line="115" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="65" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="76" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="79" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="78" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="57" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="7" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/index.js" />
@@ -269,11 +264,19 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/protos/tinder/huixiaobao/index.proto" />
       <jump line="204" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="206" column="50" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="164" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="175" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="79" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
+      <jump line="98" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
+      <jump line="144" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
+      <jump line="160" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
+      <jump line="175" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
+      <jump line="8" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feat(connector-rtmp): 添加 rtmp connector</text>
+        <text>ClientRaiseHand</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -282,7 +285,7 @@
         <text>feat(connector-rtmp): 添加 rtmp connector</text>
       </register>
       <register name="/" type="4">
-        <text>invitenotify</text>
+        <text>log.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBuYW1lOiBjb25mZAogIHNjcmlwdDogY29uZmQuc2gKICBhcmdzOiB3YXRjaAogIGN3ZDogLgogIG1lcmdlX2xvZ3M6IHRydWUKICBvdXRfZmlsZTogL3Zhci9sb2cvY29uZmQvb3V0LmxvZwogIGVycm9yX2ZpbGU6IC92YXIvbG9nL2NvbmZkL2Vycm9yLmxvZwo=</text>
@@ -325,9 +328,9 @@
       </register>
     </registers>
     <search>
-      <last-search>invitenotify</last-search>
+      <last-search>log.</last-search>
       <last-offset />
-      <last-pattern>invitenotify</last-pattern>
+      <last-pattern>log.</last-pattern>
       <last-replace>rtmp</last-replace>
       <last-substitute>sio</last-substitute>
       <last-dir>1</last-dir>
@@ -335,9 +338,6 @@
     </search>
     <history>
       <history-search>
-        <entry>connectorSIOPort</entry>
-        <entry>network_mode</entry>
-        <entry>rabbitmq</entry>
         <entry>network</entry>
         <entry>edge-redis</entry>
         <entry>tinder-edge</entry>
@@ -355,6 +355,9 @@
         <entry>\.id</entry>
         <entry>term</entry>
         <entry>invitenotify</entry>
+        <entry>invitecall</entry>
+        <entry>register</entry>
+        <entry>log.</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;//gc</entry>
