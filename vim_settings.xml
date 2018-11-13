@@ -10,12 +10,6 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/connector-rtmp-app.yml" timestamp="1541648477497">
-        <mark key="'" line="9" column="12" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/log.js" timestamp="1542088942629">
         <mark key="'" line="4" column="56" />
       </file>
@@ -24,12 +18,6 @@
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/connector-sio-app.yml" timestamp="1541648482882">
-        <mark key="'" line="4" column="19" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="internal/process/next_tick.js" timestamp="1540452511811">
         <mark key="[" line="0" column="0" />
@@ -67,12 +55,18 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" timestamp="1542088938951">
         <mark key="'" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" timestamp="1542090379708">
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" timestamp="1542090401126">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="35" />
-        <mark key="." line="33" column="27" />
-        <mark key="^" line="29" column="34" />
+        <mark key="[" line="38" column="6" />
+        <mark key="]" line="38" column="6" />
+        <mark key="." line="38" column="6" />
+        <mark key="^" line="38" column="6" />
+      </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1542091690669">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/sentry.yaml" timestamp="1541647585067">
         <mark key="[" line="1" column="6" />
@@ -108,6 +102,13 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" timestamp="1542006726449">
         <mark key="[" line="337" column="34" />
         <mark key="]" line="337" column="48" />
+      </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/1" timestamp="1542091723269">
+        <mark key="'" line="0" column="40" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="11" column="63" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1541644623822">
         <mark key="[" line="1" column="6" />
@@ -177,8 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/statsdClient.js" />
-      <jump line="13" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/statsdClient.js" />
       <jump line="35" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="41" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="15" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/tinder-docker-compose" />
@@ -277,31 +276,55 @@
       <jump line="3" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" />
       <jump line="29" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" />
       <jump line="12" column="39" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/index.js" />
+      <jump line="11" column="4" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/1" />
+      <jump line="0" column="40" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/1" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>source</text>
+      <register name="&quot;" type="8">
+        <text>test.
+test.
+test.
+test.
+test.
+test.
+test.
+test.
+test.
+test.
+test.
+test.</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>source</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>false</text>
+        <text>delete</text>
       </register>
       <register name="0" type="4">
         <text>producer</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CmNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcignYScpCmxvZ2dlci5pbmZvKCdoZWxsJykK</text>
+      <register name="1" type="8">
+        <text>test.
+test.
+test.
+test.
+test.
+test.
+test.
+test.
+test.
+test.
+test.
+test.</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
+        <text encoding="base64">CmNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcignYScpCmxvZ2dlci5pbmZvKCdoZWxsJykK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
@@ -313,36 +336,35 @@
         <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsb2cuY2hpbGQK</text>
+        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBsb2cuY2hpbGQK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">TWF0aC5tbwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
+      <register name="9" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/delete//g</text>
       </register>
     </registers>
     <search>
-      <last-search>false</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>false</last-pattern>
-      <last-replace>rtmp</last-replace>
-      <last-substitute>sio</last-substitute>
+      <last-pattern>delete</last-pattern>
+      <last-replace />
+      <last-substitute>delete</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tinder-edge-re</entry>
         <entry>connector</entry>
         <entry>networ</entry>
         <entry>connector-sio</entry>
@@ -362,9 +384,9 @@
         <entry>logg</entry>
         <entry>log</entry>
         <entry>false</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;//gc</entry>
         <entry>%s/,//gc</entry>
         <entry>2w</entry>
         <entry>:w</entry>
@@ -384,6 +406,7 @@
         <entry>noh</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>%s/delete//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
