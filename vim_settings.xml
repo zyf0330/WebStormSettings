@@ -40,11 +40,6 @@
         <mark key="^" line="27" column="22" />
         <mark key="." line="27" column="22" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/config/statsd.yaml" timestamp="1541644591260">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="internal/async_hooks.js" timestamp="1539932697136">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,11 +55,6 @@
       <file name="ui.lnf.xml" timestamp="1541560488707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/config/edge.yaml" timestamp="1541494310375">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-      </file>
       <file name="/JavaScript Console" timestamp="1541990055997">
         <mark key="[" line="0" column="0" />
       </file>
@@ -76,6 +66,12 @@
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" timestamp="1542088938951">
         <mark key="'" line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" timestamp="1542089465228">
+        <mark key="'" line="29" column="0" />
+        <mark key="]" line="36" column="45" />
+        <mark key="." line="36" column="45" />
+        <mark key="^" line="36" column="45" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/sentry.yaml" timestamp="1541647585067">
         <mark key="[" line="1" column="6" />
@@ -118,11 +114,6 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/src/redisClient.js" timestamp="1541412698882">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1542009031084">
         <mark key="'" line="8" column="30" />
       </file>
@@ -148,18 +139,12 @@
       <file name="dgram.js" timestamp="1541492465818">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/index.js" timestamp="1542088904227">
-        <mark key="'" line="12" column="51" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/index.js" timestamp="1541577539921">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="41" />
-        <mark key="." line="10" column="41" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/edge.yaml" timestamp="1541648216795">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/index.js" timestamp="1542089416611">
+        <mark key="'" line="12" column="39" />
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="57" />
+        <mark key="." line="12" column="57" />
+        <mark key="^" line="12" column="57" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" timestamp="1542088925257">
         <mark key="'" line="9" column="39" />
@@ -191,9 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/index.js" />
-      <jump line="82" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="12" column="60" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="38" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/statsdClient.js" />
       <jump line="13" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/statsdClient.js" />
       <jump line="35" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
@@ -284,71 +266,74 @@
       <jump line="127" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="174" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="183" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="12" column="51" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/index.js" />
       <jump line="36" column="8" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
       <jump line="0" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
       <jump line="9" column="39" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
       <jump line="52" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" />
       <jump line="0" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" />
       <jump line="4" column="56" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/log.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" />
+      <jump line="12" column="39" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ClientRaiseHand</text>
+        <text>etLogger</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat(connector-rtmp): 添加 rtmp connector</text>
+        <text>etLogger</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>false</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LSBuYW1lOiBjb25mZAogIHNjcmlwdDogY29uZmQuc2gKICBhcmdzOiB3YXRjaAogIGN3ZDogLgogIG1lcmdlX2xvZ3M6IHRydWUKICBvdXRfZmlsZTogL3Zhci9sb2cvY29uZmQvb3V0LmxvZwogIGVycm9yX2ZpbGU6IC92YXIvbG9nL2NvbmZkL2Vycm9yLmxvZwo=</text>
+      <register name="0" type="4">
+        <text>logger</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CmNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcignYScpCmxvZ2dlci5pbmZvKCdoZWxsJykK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TWF0aC5tbwo=</text>
+        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2cuY2hpbGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBuYW1lOiBjb25mZAogIHNjcmlwdDogY29uZmQuc2gKICBhcmdzOiB3YXRjaAogIGN3ZDogLgogIG1lcmdlX2xvZ3M6IHRydWUKICBvdXRfZmlsZTogL3Zhci9sb2cvY29uZmQvb3V0LmxvZwogIGVycm9yX2ZpbGU6IC92YXIvbG9nL2NvbmZkL2Vycm9yLmxvZwoKCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbnN0YW5jZV92YXI6IElOU1RBTkNFX05VTQo=</text>
+        <text encoding="base64">TWF0aC5tbwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">YXBwczoKLSBuYW1lOiB0aW5kZXItY29ubmVjdG9yLXJ0bXAKc2NyaXB0OiAuL3NyYy9pbmRleC5qcwppbnN0YW5jZXM6IDAKZXhlY19tb2RlOiBjbHVzdGVyCmN3ZDogLgppbnN0YW5jZV92YXI6IElOU1RBTkNFX05VTQptZXJnZV9sb2dzOiB0cnVlCm91dF9maWxlOiAvdmFyL2xvZy90aW5kZXItY29ubmVjdG9yLXJ0bXAvb3V0LmxvZwplcnJvcl9maWxlOiAvdmFyL2xvZy90aW5kZXItY29ubmVjdG9yLXJ0bXAvZXJyb3IubG9nCi0gbmFtZTogY29uZmQKc2NyaXB0OiBjb25mZC5zaAphcmdzOiB3YXRjaApjd2Q6IC4KbWVyZ2VfbG9nczogdHJ1ZQpvdXRfZmlsZTogL3Zhci9sb2cvY29uZmQvb3V0LmxvZwplcnJvcl9maWxlOiAvdmFyL2xvZy9jb25mZC9lcnJvci5sb2cKCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwczoKLSBuYW1lOiB0aW5kZXItY29ubmVjdG9yLXJ0bXAKc2NyaXB0OiAuL3NyYy9pbmRleC5qcwppbnN0YW5jZXM6IDAKZXhlY19tb2RlOiBjbHVzdGVyCmN3ZDogLgppbnN0YW5jZV92YXI6IElOU1RBTkNFX05VTQptZXJnZV9sb2dzOiB0cnVlCm91dF9maWxlOiAvdmFyL2xvZy90aW5kZXItY29ubmVjdG9yLXJ0bXAvb3V0LmxvZwplcnJvcl9maWxlOiAvdmFyL2xvZy90aW5kZXItY29ubmVjdG9yLXJ0bXAvZXJyb3IubG9nCi0gbmFtZTogY29uZmQKc2NyaXB0OiBjb25mZC5zaAphcmdzOiB3YXRjaApjd2Q6IC4KbWVyZ2VfbG9nczogdHJ1ZQpvdXRfZmlsZTogL3Zhci9sb2cvY29uZmQvb3V0LmxvZwplcnJvcl9maWxlOiAvdmFyL2xvZy9jb25mZC9lcnJvci5sb2cKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>false</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>false</last-pattern>
       <last-replace>rtmp</last-replace>
       <last-substitute>sio</last-substitute>
       <last-dir>1</last-dir>
@@ -356,7 +341,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tinder-edge-redis</entry>
         <entry>tinder-edge-re</entry>
         <entry>connector</entry>
         <entry>networ</entry>
@@ -376,6 +360,7 @@
         <entry>log\.</entry>
         <entry>logg</entry>
         <entry>log</entry>
+        <entry>false</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;//gc</entry>
