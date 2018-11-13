@@ -67,11 +67,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" timestamp="1542088938951">
         <mark key="'" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" timestamp="1542089465228">
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" timestamp="1542090379708">
         <mark key="'" line="29" column="0" />
-        <mark key="]" line="36" column="45" />
-        <mark key="." line="36" column="45" />
-        <mark key="^" line="36" column="45" />
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="35" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="29" column="34" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/sentry.yaml" timestamp="1541647585067">
         <mark key="[" line="1" column="6" />
@@ -279,19 +280,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>etLogger</text>
+        <text>source</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>etLogger</text>
+        <text>source</text>
       </register>
       <register name="/" type="4">
         <text>false</text>
       </register>
       <register name="0" type="4">
-        <text>logger</text>
+        <text>producer</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcignYScpCmxvZ2dlci5pbmZvKCdoZWxsJykK</text>
