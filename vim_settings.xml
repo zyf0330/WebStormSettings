@@ -43,7 +43,7 @@
       <file name="ui.lnf.xml" timestamp="1541560488707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1541990055997">
+      <file name="/JavaScript Console" timestamp="1542103713317">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/pusher-config.json" timestamp="1541578816717">
@@ -119,6 +119,13 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1542009031084">
         <mark key="'" line="8" column="30" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1542103758074">
+        <mark key="'" line="164" column="22" />
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="49" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="20" column="39" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" timestamp="1541647463175">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="8" />
@@ -178,8 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="41" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="15" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/tinder-docker-compose" />
       <jump line="16" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/tinder-docker-compose" />
       <jump line="20" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/tinder-docker-compose" />
@@ -278,22 +283,24 @@
       <jump line="12" column="39" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/index.js" />
       <jump line="11" column="4" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/1" />
       <jump line="0" column="40" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/1" />
+      <jump line="150" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="161" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBgZGJ5bXMxdjEubG9nc3Rhc2guaG9zdAkxMTguODkuMjI5LjE3MmAKLSBgZGJ5bXMxdjEubG9nc3Rhc2gucGFzc3dvcmQJNDUwOGFkMDliNmUxMTc0ZDE0NzQzOGZiY2JlZmIzZWJgCi0gYGRieW1zMXYxLmxvZ3N0YXNoLnBvcnQJODA4MGAKLSBgZGJ5bXMxdjEubG9nc3Rhc2gudXNlcglkdW9iZWlgCi0gYGRieW1zMXYxLnptcVNvY2tldFNlcnZlcnMuZGVhbGVyX2FwcHNzCSd0Y3A6Ly8xMDEuMjAxLjQ1LjE1NDo5MDAzJyxgCi0gYGRieW1zMXYxLnptcVNvY2tldFNlcnZlcnMuZGVhbGVyX2Rpc3BhdGNoLmFsaV9ial9rOHNfZGV2CXRjcDovLzEyMC4yNy4yOS4zNTo3MDAxYAotIGBkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLnB1YnMJJ3RjcDovLzEwMS4yMDEuNDUuMTU0OjkwMDInLGAKLSBgZGJ5bXMxdjEuem1xU29ja2V0U2VydmVycy5zdWJzCSd0Y3A6Ly8xMDEuMjAxLjQ1LjE1NDo5MDAxJyxgCg==</text>
+      <register name="&quot;" type="4">
+        <text>basePort + wid</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>basePort + wid</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>listen</text>
       </register>
       <register name="0" type="4">
-        <text>producer</text>
+        <text>listenPort</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGJ5bXMxdjEuem1xU29ja2V0U2VydmVycy5kZWFsZXJfZGlzcGF0Y2guMTA2LjE4Ny4zNC41OAl0Y3A6Ly8xMjAuMjcuMjkuMzU6NzAwMQpkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLmRlYWxlcl9kaXNwYXRjaC4xMjMuNTcuOC45Mwl0Y3A6Ly8xMjAuMjcuMjkuMzU6NzAwMQpkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLmRlYWxlcl9kaXNwYXRjaC4xMjQuMjA0LjU1LjUwCXRjcDovLzEyMC4yNy4yOS4zNTo3MDAxCmRieW1zMXYxLnptcVNvY2tldFNlcnZlcnMuZGVhbGVyX2Rpc3BhdGNoLjM5LjE1NS4xODUuMjMJdGNwOi8vMTIwLjI3LjI5LjM1OjcwMDEK</text>
@@ -344,9 +351,9 @@ test.</text>
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>listen</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>listen</last-pattern>
       <last-replace />
       <last-substitute>delete</last-substitute>
       <last-dir>1</last-dir>
@@ -354,7 +361,6 @@ test.</text>
     </search>
     <history>
       <history-search>
-        <entry>connector</entry>
         <entry>networ</entry>
         <entry>connector-sio</entry>
         <entry>etcd</entry>
@@ -374,6 +380,7 @@ test.</text>
         <entry>log</entry>
         <entry>false</entry>
         <entry>delete</entry>
+        <entry>listen</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,//gc</entry>
