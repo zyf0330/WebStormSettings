@@ -55,7 +55,7 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" timestamp="1542088938951">
         <mark key="'" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" timestamp="1542090401126">
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" timestamp="1542102963917">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="38" column="6" />
         <mark key="]" line="38" column="6" />
@@ -103,12 +103,12 @@
         <mark key="[" line="337" column="34" />
         <mark key="]" line="337" column="48" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/1" timestamp="1542091723269">
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/1" timestamp="1542091828060">
         <mark key="'" line="0" column="40" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="11" column="63" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="7" column="63" />
+        <mark key="^" line="7" column="62" />
+        <mark key="." line="7" column="62" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1541644623822">
         <mark key="[" line="1" column="6" />
@@ -280,19 +280,8 @@
       <jump line="0" column="40" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/1" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>test.
-test.
-test.
-test.
-test.
-test.
-test.
-test.
-test.
-test.
-test.
-test.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBgZGJ5bXMxdjEubG9nc3Rhc2guaG9zdAkxMTguODkuMjI5LjE3MmAKLSBgZGJ5bXMxdjEubG9nc3Rhc2gucGFzc3dvcmQJNDUwOGFkMDliNmUxMTc0ZDE0NzQzOGZiY2JlZmIzZWJgCi0gYGRieW1zMXYxLmxvZ3N0YXNoLnBvcnQJODA4MGAKLSBgZGJ5bXMxdjEubG9nc3Rhc2gudXNlcglkdW9iZWlgCi0gYGRieW1zMXYxLnptcVNvY2tldFNlcnZlcnMuZGVhbGVyX2FwcHNzCSd0Y3A6Ly8xMDEuMjAxLjQ1LjE1NDo5MDAzJyxgCi0gYGRieW1zMXYxLnptcVNvY2tldFNlcnZlcnMuZGVhbGVyX2Rpc3BhdGNoLmFsaV9ial9rOHNfZGV2CXRjcDovLzEyMC4yNy4yOS4zNTo3MDAxYAotIGBkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLnB1YnMJJ3RjcDovLzEwMS4yMDEuNDUuMTU0OjkwMDInLGAKLSBgZGJ5bXMxdjEuem1xU29ja2V0U2VydmVycy5zdWJzCSd0Y3A6Ly8xMDEuMjAxLjQ1LjE1NDo5MDAxJyxgCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -306,7 +295,13 @@ test.</text>
       <register name="0" type="4">
         <text>producer</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ZGJ5bXMxdjEuem1xU29ja2V0U2VydmVycy5kZWFsZXJfZGlzcGF0Y2guMTA2LjE4Ny4zNC41OAl0Y3A6Ly8xMjAuMjcuMjkuMzU6NzAwMQpkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLmRlYWxlcl9kaXNwYXRjaC4xMjMuNTcuOC45Mwl0Y3A6Ly8xMjAuMjcuMjkuMzU6NzAwMQpkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLmRlYWxlcl9kaXNwYXRjaC4xMjQuMjA0LjU1LjUwCXRjcDovLzEyMC4yNy4yOS4zNTo3MDAxCmRieW1zMXYxLnptcVNvY2tldFNlcnZlcnMuZGVhbGVyX2Rpc3BhdGNoLjM5LjE1NS4xODUuMjMJdGNwOi8vMTIwLjI3LjI5LjM1OjcwMDEK</text>
+      </register>
+      <register name="q" type="2">
+        <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
+      </register>
+      <register name="2" type="8">
         <text>test.
 test.
 test.
@@ -320,14 +315,8 @@ test.
 test.
 test.</text>
       </register>
-      <register name="q" type="2">
-        <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CmNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcignYScpCmxvZ2dlci5pbmZvKCdoZWxsJykK</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
+        <text encoding="base64">CmNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcignYScpCmxvZ2dlci5pbmZvKCdoZWxsJykK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
@@ -339,16 +328,16 @@ test.</text>
         <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2cuY2hpbGQK</text>
+        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBsb2cuY2hpbGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TWF0aC5tbwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">TWF0aC5tbwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/delete//g</text>
