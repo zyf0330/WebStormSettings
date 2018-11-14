@@ -13,6 +13,10 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/log.js" timestamp="1542088942629">
         <mark key="'" line="4" column="56" />
       </file>
+      <file name="/Sub.js" timestamp="1542174638543">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="71" />
+      </file>
       <file name="/fragment.js" timestamp="1541412699971">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -54,7 +58,7 @@
       <file name="ui.lnf.xml" timestamp="1541560488707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542163991140">
+      <file name="/JavaScript Console" timestamp="1542174608003">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/pusher-config.json" timestamp="1541578816717">
@@ -127,11 +131,11 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" timestamp="1542163988742">
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="8" column="49" />
-        <mark key="." line="8" column="49" />
-        <mark key="^" line="8" column="49" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" timestamp="1542174604570">
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="54" />
+        <mark key="^" line="9" column="54" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1542009031084">
         <mark key="'" line="8" column="30" />
@@ -204,8 +208,11 @@
         <mark key="^" line="70" column="38" />
         <mark key="." line="70" column="38" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1542162177903">
-        <mark key="^" line="8" column="41" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1542174662009">
+        <mark key="[" line="58" column="35" />
+        <mark key="]" line="58" column="41" />
+        <mark key="^" line="58" column="41" />
+        <mark key="." line="58" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -311,40 +318,43 @@
       <jump line="18" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jzb5485b42abb54559b60fecf4d07fea35</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGRlbGF5ID0gTWF0aC5yb3VuZCgoRGF0ZS5ub3coKSAtIG1zZy5ldmVudC50aW1lc3RhbXApIC8gMTAwMCkK</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>jzb5485b42abb54559b60fecf4d07fea35</text>
+        <text>3917ede1d4624194a46b1d223ad3fc68</text>
       </register>
       <register name="/" type="4">
         <text>listen</text>
       </register>
-      <register name="0" type="4">
-        <text>{ kind, roomId, ts: Date.now(), delay }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGRlbGF5ID0gTWF0aC5yb3VuZCgoRGF0ZS5ub3coKSAtIG1zZy5ldmVudC50aW1lc3RhbXApIC8gMTAwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLScseyBraW5kLCByb29tSWQsIHRzOiBEYXRlLm5vdygpLCBkZWxheSB9KQogIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRlbGF5ID0gTWF0aC5yb3VuZCgoRGF0ZS5ub3coKSAtIG1zZy5ldmVudC50aW1lc3RhbXApIC8gMTAwMCkK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLScsIGNvbnRlbnQpCiAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLScseyBraW5kLCByb29tSWQsIHRzOiBEYXRlLm5vdygpLCBkZWxheSB9KQogIHJldHVybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLScsIERhdGUubm93KCkgLSBtc2cuZXZlbnQudGltZXN0YW1wKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLScsIGNvbnRlbnQpCiAgcmV0dXJuCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLScsIERhdGUubm93KCkgLSBtc2cuZXZlbnQudGltZXN0YW1wKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ZGJ5bXMxdjEuem1xU29ja2V0U2VydmVycy5kZWFsZXJfZGlzcGF0Y2guMTA2LjE4Ny4zNC41OAl0Y3A6Ly8xMjAuMjcuMjkuMzU6NzAwMQpkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLmRlYWxlcl9kaXNwYXRjaC4xMjMuNTcuOC45Mwl0Y3A6Ly8xMjAuMjcuMjkuMzU6NzAwMQpkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLmRlYWxlcl9kaXNwYXRjaC4xMjQuMjA0LjU1LjUwCXRjcDovLzEyMC4yNy4yOS4zNTo3MDAxCmRieW1zMXYxLnptcVNvY2tldFNlcnZlcnMuZGVhbGVyX2Rpc3BhdGNoLjM5LjE1NS4xODUuMjMJdGNwOi8vMTIwLjI3LjI5LjM1OjcwMDEK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>test.
 test.
 test.
@@ -358,11 +368,8 @@ test.
 test.
 test.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CmNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcignYScpCmxvZ2dlci5pbmZvKCdoZWxsJykK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
+        <text encoding="base64">CmNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcignYScpCmxvZ2dlci5pbmZvKCdoZWxsJykK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
