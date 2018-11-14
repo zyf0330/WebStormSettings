@@ -47,6 +47,11 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/protos/tinder/huixiaobao/index.proto" timestamp="1541990007854">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/confd/conf.d/config.js.toml" timestamp="1542177260174">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+      </file>
       <file name="/index.js" timestamp="1540987816767">
         <mark key="[" line="129" column="7" />
       </file>
@@ -58,7 +63,7 @@
       <file name="ui.lnf.xml" timestamp="1541560488707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542174608003">
+      <file name="/JavaScript Console" timestamp="1542174919952">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/pusher-config.json" timestamp="1541578816717">
@@ -208,6 +213,13 @@
         <mark key="^" line="70" column="38" />
         <mark key="." line="70" column="38" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" timestamp="1542177449919">
+        <mark key="'" line="11" column="229" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="19" column="1" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1542174662009">
         <mark key="[" line="58" column="35" />
         <mark key="]" line="58" column="41" />
@@ -216,8 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="52" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="60" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="58" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="38" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
@@ -316,19 +326,21 @@
       <jump line="37" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
       <jump line="61" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
       <jump line="18" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
+      <jump line="12" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="11" column="229" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRlbGF5ID0gTWF0aC5yb3VuZCgoRGF0ZS5ub3coKSAtIG1zZy5ldmVudC50aW1lc3RhbXApIC8gMTAwMCkK</text>
+      <register name="&quot;" type="4">
+        <text>test.</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>3917ede1d4624194a46b1d223ad3fc68</text>
+        <text>test.</text>
       </register>
       <register name="/" type="4">
-        <text>listen</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGRlbGF5ID0gTWF0aC5yb3VuZCgoRGF0ZS5ub3coKSAtIG1zZy5ldmVudC50aW1lc3RhbXApIC8gMTAwMCkK</text>
@@ -378,21 +390,20 @@ test.</text>
         <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLywvLFxuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>listen</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>listen</last-pattern>
-      <last-replace />
-      <last-substitute>delete</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace>,\n</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>networ</entry>
         <entry>connector-sio</entry>
         <entry>etcd</entry>
         <entry>tinder-connector-sio</entry>
@@ -412,11 +423,9 @@ test.</text>
         <entry>false</entry>
         <entry>delete</entry>
         <entry>listen</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/,//gc</entry>
-        <entry>2w</entry>
-        <entry>:w</entry>
         <entry encoding="base64">JzwsJz4lcy9zaW5nbGVTZXJ2ZXJDbGllbnROdW0vc2luZ2xlU2VydmVyUm9vbU51bS9nYw==</entry>
         <entry>%s/singleServerClientNum/singleServerRoomNum/gc</entry>
         <entry>help ctrl+n</entry>
@@ -434,6 +443,9 @@ test.</text>
         <entry>q</entry>
         <entry>%s/delete//g</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLywvLFxcbi9n</entry>
+        <entry encoding="base64">JzwsJz5zLywvXG4sL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLywvLFxuL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
