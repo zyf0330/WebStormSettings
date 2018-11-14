@@ -19,11 +19,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" timestamp="1542161420547">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" timestamp="1542161668793">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="internal/process/next_tick.js" timestamp="1540452511811">
         <mark key="[" line="0" column="0" />
@@ -54,7 +54,7 @@
       <file name="ui.lnf.xml" timestamp="1541560488707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542161343443">
+      <file name="/JavaScript Console" timestamp="1542161641776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/pusher-config.json" timestamp="1541578816717">
@@ -85,7 +85,7 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541648488333">
+      <file name="/Dummy.txt" timestamp="1542162197829">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -198,11 +198,11 @@
         <mark key="^" line="70" column="38" />
         <mark key="." line="70" column="38" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1542106215156">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1542162177903">
         <mark key="'" line="58" column="28" />
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="8" column="41" />
+        <mark key="[" line="56" column="7" />
+        <mark key="]" line="56" column="7" />
+        <mark key="." line="56" column="7" />
         <mark key="^" line="8" column="41" />
       </file>
     </filemarks>
@@ -305,41 +305,44 @@
       <jump line="60" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
       <jump line="15" column="40" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
       <jump line="37" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
-      <jump line="18" column="28" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
       <jump line="61" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
+      <jump line="18" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLScsIGNvbnRlbnQpCiAgcmV0dXJuCg==</text>
+      <register name="&quot;" type="4">
+        <text>fix(InitPresentation): 存在打开的 ppt 时，没有正确设置初始化 ppt 内容</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>Ctrl</text>
+        <text>fix(InitPresentation): 存在打开的 ppt 时，没有正确设置初始化 ppt 内容</text>
       </register>
       <register name="/" type="4">
         <text>listen</text>
       </register>
       <register name="0" type="4">
-        <text>logstash</text>
+        <text>{ kind, roomId, ts: Date.now(), delay }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLScsIGNvbnRlbnQpCiAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLScseyBraW5kLCByb29tSWQsIHRzOiBEYXRlLm5vdygpLCBkZWxheSB9KQogIHJldHVybgo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLScsIERhdGUubm93KCkgLSBtc2cuZXZlbnQudGltZXN0YW1wKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLScsIGNvbnRlbnQpCiAgcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGJ5bXMxdjEuem1xU29ja2V0U2VydmVycy5kZWFsZXJfZGlzcGF0Y2guMTA2LjE4Ny4zNC41OAl0Y3A6Ly8xMjAuMjcuMjkuMzU6NzAwMQpkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLmRlYWxlcl9kaXNwYXRjaC4xMjMuNTcuOC45Mwl0Y3A6Ly8xMjAuMjcuMjkuMzU6NzAwMQpkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLmRlYWxlcl9kaXNwYXRjaC4xMjQuMjA0LjU1LjUwCXRjcDovLzEyMC4yNy4yOS4zNTo3MDAxCmRieW1zMXYxLnptcVNvY2tldFNlcnZlcnMuZGVhbGVyX2Rpc3BhdGNoLjM5LjE1NS4xODUuMjMJdGNwOi8vMTIwLjI3LjI5LjM1OjcwMDEK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLScsIERhdGUubm93KCkgLSBtc2cuZXZlbnQudGltZXN0YW1wKQo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">ZGJ5bXMxdjEuem1xU29ja2V0U2VydmVycy5kZWFsZXJfZGlzcGF0Y2guMTA2LjE4Ny4zNC41OAl0Y3A6Ly8xMjAuMjcuMjkuMzU6NzAwMQpkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLmRlYWxlcl9kaXNwYXRjaC4xMjMuNTcuOC45Mwl0Y3A6Ly8xMjAuMjcuMjkuMzU6NzAwMQpkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLmRlYWxlcl9kaXNwYXRjaC4xMjQuMjA0LjU1LjUwCXRjcDovLzEyMC4yNy4yOS4zNTo3MDAxCmRieW1zMXYxLnptcVNvY2tldFNlcnZlcnMuZGVhbGVyX2Rpc3BhdGNoLjM5LjE1NS4xODUuMjMJdGNwOi8vMTIwLjI3LjI5LjM1OjcwMDEK</text>
+      </register>
+      <register name="5" type="8">
         <text>test.
 test.
 test.
@@ -353,11 +356,8 @@ test.
 test.
 test.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcignYScpCmxvZ2dlci5pbmZvKCdoZWxsJykK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
+        <text encoding="base64">CmNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcignYScpCmxvZ2dlci5pbmZvKCdoZWxsJykK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
@@ -366,7 +366,7 @@ test.</text>
         <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2cuY2hpbGQK</text>
+        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
