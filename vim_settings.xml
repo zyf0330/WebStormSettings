@@ -19,12 +19,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" timestamp="1542106321054">
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-        <mark key="^" line="7" column="31" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" timestamp="1542161420547">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="internal/process/next_tick.js" timestamp="1540452511811">
         <mark key="[" line="0" column="0" />
@@ -55,7 +54,7 @@
       <file name="ui.lnf.xml" timestamp="1541560488707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542105647302">
+      <file name="/JavaScript Console" timestamp="1542161343443">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/pusher-config.json" timestamp="1541578816717">
@@ -208,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
-      <jump line="42" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="61" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="52" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
       <jump line="60" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/docker-compose.yml" />
@@ -308,10 +305,12 @@
       <jump line="60" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
       <jump line="15" column="40" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
       <jump line="37" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
+      <jump line="18" column="28" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
+      <jump line="61" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Ctrl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLScsIGNvbnRlbnQpCiAgcmV0dXJuCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -326,15 +325,21 @@
         <text>logstash</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLScsIERhdGUubm93KCkgLSBtc2cuZXZlbnQudGltZXN0YW1wKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLScsIGNvbnRlbnQpCiAgcmV0dXJuCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLScsIERhdGUubm93KCkgLSBtc2cuZXZlbnQudGltZXN0YW1wKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ZGJ5bXMxdjEuem1xU29ja2V0U2VydmVycy5kZWFsZXJfZGlzcGF0Y2guMTA2LjE4Ny4zNC41OAl0Y3A6Ly8xMjAuMjcuMjkuMzU6NzAwMQpkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLmRlYWxlcl9kaXNwYXRjaC4xMjMuNTcuOC45Mwl0Y3A6Ly8xMjAuMjcuMjkuMzU6NzAwMQpkYnltczF2MS56bXFTb2NrZXRTZXJ2ZXJzLmRlYWxlcl9kaXNwYXRjaC4xMjQuMjA0LjU1LjUwCXRjcDovLzEyMC4yNy4yOS4zNTo3MDAxCmRieW1zMXYxLnptcVNvY2tldFNlcnZlcnMuZGVhbGVyX2Rpc3BhdGNoLjM5LjE1NS4xODUuMjMJdGNwOi8vMTIwLjI3LjI5LjM1OjcwMDEK</text>
       </register>
-      <register name="3" type="8">
+      <register name="s" type="4">
+        <text>zmqSocketRoute</text>
+      </register>
+      <register name="4" type="8">
         <text>test.
 test.
 test.
@@ -348,14 +353,8 @@ test.
 test.
 test.</text>
       </register>
-      <register name="s" type="4">
-        <text>zmqSocketRoute</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcignYScpCmxvZ2dlci5pbmZvKCdoZWxsJykK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
+        <text encoding="base64">CmNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcignYScpCmxvZ2dlci5pbmZvKCdoZWxsJykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
@@ -364,10 +363,10 @@ test.</text>
         <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsb2cuY2hpbGQK</text>
+        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBsb2cuY2hpbGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -380,7 +379,7 @@ test.</text>
       <last-replace />
       <last-substitute>delete</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
