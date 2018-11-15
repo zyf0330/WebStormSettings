@@ -16,11 +16,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1542274826220">
-        <mark key="[" line="38" column="47" />
-        <mark key="]" line="39" column="26" />
-        <mark key="^" line="39" column="26" />
-        <mark key="." line="39" column="26" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1542277114206">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="internal/process/next_tick.js" timestamp="1540452511811">
         <mark key="[" line="0" column="0" />
@@ -136,7 +136,7 @@
       <file name="ui.lnf.xml" timestamp="1541560488707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542274845089">
+      <file name="/JavaScript Console" timestamp="1542277115445">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" timestamp="1542253645647">
@@ -367,14 +367,14 @@
       <jump line="13" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Dispatch.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[1]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNvY2tldC5kaXNjb25uZWN0KGFkZHJbMF0pCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>[1]</text>
+        <text>close</text>
       </register>
       <register name="/" type="4">
         <text>conne</text>
@@ -382,18 +382,18 @@
       <register name="0" type="4">
         <text>uncaughtException</text>
       </register>
-      <register name="1" type="4">
-        <text>的格式
-    console</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHNvY2tldC5kaXNjb25uZWN0KGFkZHJbMF0pCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dGhyb3cgbmV3IEVycm9yKCdoZWxsbycpCg==</text>
+      <register name="2" type="4">
+        <text>的格式
+    console</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi91dGlsL2xvZ2dlcicpCg==</text>
+        <text encoding="base64">dGhyb3cgbmV3IEVycm9yKCdoZWxsbycpCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
@@ -402,19 +402,19 @@
         <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi91dGlsL2xvZ2dlcicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi91dGlsL2xvZ2dlcicpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi91dGlsL2xvZ2dlcicpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50LmRpc2Nvbm5lY3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
