@@ -154,12 +154,12 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1542274289641">
-        <mark key="'" line="123" column="9" />
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="16" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="16" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1542359069731">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="57" column="17" />
+        <mark key="." line="57" column="17" />
+        <mark key="^" line="53" column="32" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" timestamp="1542271901477">
         <mark key="'" line="298" column="4" />
@@ -220,8 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="39" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
-      <jump line="52" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" />
       <jump line="0" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" />
       <jump line="4" column="56" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/log.js" />
       <jump line="34" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" />
@@ -320,73 +318,73 @@
       <jump line="20" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
       <jump line="28" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="42" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
+      <jump line="45" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="59" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/var/duobei/nebula/logs/dby-mobile-server-1v1/out.log</text>
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>b2962af6a6bb4dafa913b8aaaad3fb2f</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>conn</text>
+        <text>room</text>
       </register>
       <register name="0" type="4">
-        <text>pm2 start app.yml --only dby-mobile-server-1v1</text>
+        <text>clients</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gZ2V0TG9nZ2VyRm9yQXBwKCdoJykKbG9nZ2VyCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvdXRlQ2FjaGVbcm9vbUlkXSA9IGluZGV4Cg==</text>
+        <text encoding="base64">ICBpZihyb29tKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAocm9vbUlkIGluIHJvdXRlQ2FjaGUpIHsKICAgIHJldHVybiByb3V0ZUNhY2hlW3Jvb21JZF0KICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gZ2V0TG9nZ2VyRm9yQXBwKCdoJykKbG9nZ2VyCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgcm91dGVDYWNoZSA9IHt9Cg==</text>
+        <text encoding="base64">ICAgIHJvdXRlQ2FjaGVbcm9vbUlkXSA9IGluZGV4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
+        <text encoding="base64">ICBpZiAocm9vbUlkIGluIHJvdXRlQ2FjaGUpIHsKICAgIHJldHVybiByb3V0ZUNhY2hlW3Jvb21JZF0KICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0sMTAwKQo=</text>
+        <text encoding="base64">Y29uc3Qgcm91dGVDYWNoZSA9IHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhhc1N3aXRjaGVkID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIH0sMTAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQgaGFzU3dpdGNoZWQgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>conn</last-search>
+      <last-search>room</last-search>
       <last-offset />
-      <last-pattern>conn</last-pattern>
+      <last-pattern>room</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sendtoclie</entry>
-        <entry>1'</entry>
         <entry encoding="base64">ICw=</entry>
         <entry>2'</entry>
         <entry>pr</entry>
@@ -405,11 +403,10 @@
         <entry>zeromq</entry>
         <entry>message</entry>
         <entry>conn</entry>
+        <entry>clients</entry>
+        <entry>room</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/sio/rtmp/g</entry>
-        <entry>%s/delete//g</entry>
-        <entry encoding="base64">JzwsJz5zLywvLFxcbi9n</entry>
         <entry encoding="base64">JzwsJz5zLywvXG4sL2c=</entry>
         <entry>hoh</entry>
         <entry encoding="base64">JzwsJz5zLzEnLzMnL2c=</entry>
@@ -423,10 +420,13 @@
         <entry encoding="base64">JzwsJz5zLywvLCwvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zLywvLDxDUj4vZ2M=</entry>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2dj</entry>
-        <entry>noh</entry>
         <entry>reg</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>58</entry>
+        <entry>46</entry>
+        <entry>60</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
