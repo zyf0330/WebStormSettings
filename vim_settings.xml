@@ -56,7 +56,7 @@
       <file name="bootstrap_node.js" timestamp="1542281397422">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542335920439">
+      <file name="/JavaScript Console" timestamp="1542338763813">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" timestamp="1542253645647">
@@ -75,6 +75,7 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/__test__/ServiceWrap.spec.js" timestamp="1542338604978" />
       <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1542091690669">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="6" />
@@ -95,7 +96,7 @@
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/yarn.lock" timestamp="1542280014213">
         <mark key="'" line="2289" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542336403147">
+      <file name="/Dummy.txt" timestamp="1542338376888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -206,11 +207,9 @@
         <mark key="^" line="17" column="3" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" timestamp="1542335845102">
-        <mark key="'" line="69" column="7" />
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="36" column="59" />
-        <mark key="^" line="7" column="45" />
-        <mark key="." line="7" column="45" />
+        <mark key="'" line="70" column="7" />
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="37" column="59" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1542279467861">
         <mark key="'" line="16" column="35" />
@@ -330,14 +329,14 @@
       <jump line="42" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gZ2V0TG9nZ2VyRm9yQXBwKCdoJykKbG9nZ2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text>Call can only be created with Channel.createCall</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat(zmq/connect): zmq 支持重连切换地址，config 地址由单个改为数组</text>
+        <text>log(Session): 优化日志</text>
       </register>
       <register name="/" type="4">
         <text>conn</text>
