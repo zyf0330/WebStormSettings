@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1542282290497">
+      <file name="_stream_writable.js" timestamp="1542621344566">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      </file>
+      <file name="net.js" timestamp="1542621476677">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.js" timestamp="1542620452698">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1542336229985">
         <mark key="[" line="77" column="0" />
@@ -55,7 +61,7 @@
       <file name="bootstrap_node.js" timestamp="1542281397422">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1542619753047">
+      <file name="/JavaScript Console" timestamp="1542621625135">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" timestamp="1542253645647">
@@ -179,7 +185,15 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/1.js" timestamp="1542621652625">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="dgram.js" timestamp="1541492465818">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="module.js" timestamp="1542621294694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/package.json" timestamp="1542280007073">
@@ -216,6 +230,9 @@
         <mark key="]" line="191" column="46" />
         <mark key="." line="191" column="46" />
         <mark key="^" line="191" column="46" />
+      </file>
+      <file name="internal/process/stdio.js" timestamp="1542621332784">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -322,52 +339,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKQo=</text>
+        <text encoding="base64">cmVzdWx0Cg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>allocUnsafe</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>room</text>
       </register>
       <register name="0" type="4">
-        <text>clients</text>
+        <text>process.stdout._writableState</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKQo=</text>
+        <text encoding="base64">cmVzdWx0Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgPQo=</text>
+        <text encoding="base64">Ly8gcHJvY2Vzcy5zdGRvdXQud3JpdGUoJzEyMycpCmNvbnN0IHdzID0gcHJvY2Vzcy5zdGRvdXQuX3dyaXRhYmxlU3RhdGUKcHJvY2Vzcy5zdGRvdXQud3JpdGUoJzEnKQpNYXRoLnJhbmRvbSgpCndzLmxhc3RCdWZmZXJlZFJlcXVlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgciA9ICBwcm9jZXNzLnN0ZG91dC5fX3Byb3RvX18uX3JlYWQK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZihyb29tKQo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgp9KQpyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gZ2V0TG9nZ2VyRm9yQXBwKCdoJykKbG9nZ2VyCg==</text>
+        <text encoding="base64">Y29uc3QgYiA9IEJ1ZmZlci5hbGxvY1Vuc2FmZSgxMDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJvdXRlQ2FjaGVbcm9vbUlkXSA9IGluZGV4Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYi50b1N0cmluZygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAocm9vbUlkIGluIHJvdXRlQ2FjaGUpIHsKICAgIHJldHVybiByb3V0ZUNhY2hlW3Jvb21JZF0KICB9Cg==</text>
+        <text encoding="base64">QnVmZmVyLmZyb20ocHJvY2Vzcy5zdGRvdXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgcm91dGVDYWNoZSA9IHt9Cg==</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
+        <text encoding="base64">IGNvbnN0IHdTdHJlYW0gPSBmcy5jcmVhdGVSZWFkU3RyZWFtKCcuL3R4dCcpCiBwcm9jZXNzLnN0ZG91dC5waXBlKHdTdHJlYW0pCi8vIGNvbnN0IGJ1ZmZlciA9IEJ1ZmZlci5hbGxvYygxMDAwKQovLyBmcy5yZWFkKHByb2Nlc3Muc3Rkb3V0LmZkLCBidWZmZXIsIDAsIDEwMDAsIDAsIChlcnIsIHNpemUsIGJ1ZmZlcikgPT4gewovLyAgIGNvbnNvbGUubG9nKCdyZWFkJywgYnVmZmVyLnRvU3RyaW5nKCkpCi8vIH0pCmNvbnNvbGUubG9nKCcxMjMzMzMzMzMzMzMzMzMzMycpCmNvbnNvbGUubG9nKGFwaSgxMikpCmNvbnNvbGUubG9nKCdlbmQnKQpwcm9jZXNzLnN0ZG91dC5mbHVzaCgpCnByb2Nlc3MuZXhpdCgwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
