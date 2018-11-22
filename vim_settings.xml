@@ -21,6 +21,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="22" column="11" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.js" timestamp="1542858247929">
+        <mark key="[" line="0" column="103" />
+        <mark key="]" line="0" column="102" />
+        <mark key="^" line="0" column="102" />
+        <mark key="." line="0" column="102" />
+      </file>
       <file name="/app.js" timestamp="1542856316121">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="7" />
@@ -125,7 +131,7 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542857828398">
+      <file name="/Dummy.txt" timestamp="1542857882306">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -176,11 +182,6 @@
       <file name="/diff.js" timestamp="1542799360743">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="49" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" timestamp="1542790768737">
-        <mark key="'" line="69" column="7" />
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="44" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" timestamp="1542854095929">
         <mark key="'" line="15" column="11" />
@@ -298,14 +299,14 @@
       <jump line="226" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dGhyb3cgbmV3IEVycm9yKDEyMykK</text>
+      <register name="&quot;" type="4">
+        <text>[ioredis] Unhandled error event: Error: All sentinels are unreachable. Retrying from scratch after 10ms</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>ERror</text>
+        <text>[ioredis] Unhandled error event: Error: All sentinels are unreachable. Retrying from scratch after 10ms</text>
       </register>
       <register name="/" type="4">
         <text>createsoc</text>
