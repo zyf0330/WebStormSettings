@@ -30,7 +30,6 @@
         <mark key="^" line="0" column="102" />
         <mark key="." line="0" column="102" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" timestamp="1543374960922" />
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/confd/conf.d/config.js.toml" timestamp="1542800505126">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="10" />
@@ -73,7 +72,15 @@
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="51" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/config/index.js" timestamp="1543377281053" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/package.json" timestamp="1543390986571">
+        <mark key="[" line="15" column="66" />
+        <mark key="]" line="15" column="132" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/errorHandler.js" timestamp="1543404575060">
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/service/index.js" timestamp="1543376696036">
         <mark key="'" line="7" column="6" />
       </file>
@@ -105,8 +112,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" timestamp="1543376765053">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" timestamp="1543404557686">
         <mark key="'" line="68" column="4" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" timestamp="1543305034055">
         <mark key="[" line="8" column="36" />
@@ -250,7 +261,6 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="24" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1543374912892" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" timestamp="1541647463175">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="8" />
@@ -280,7 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="153" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="432" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
       <jump line="148" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
@@ -380,10 +389,11 @@
       <jump line="38" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
       <jump line="66" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
       <jump line="68" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
+      <jump line="15" column="66" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>将</text>
+        <text>docker-hub.duobeiyun.com:5000/tinder/tinder-apps-stream-sync:latest</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -439,7 +449,7 @@ Subscribers:</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -449,7 +459,7 @@ Subscribers:</text>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -488,13 +498,13 @@ Subscribers:</text>
         <entry>46</entry>
         <entry>60</entry>
         <entry>33</entry>
-        <entry>q</entry>
         <entry>4</entry>
         <entry>help search</entry>
         <entry>promptf</entry>
         <entry>g</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
