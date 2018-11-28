@@ -40,6 +40,13 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="16" column="4" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.js" timestamp="1543374501066">
+        <mark key="'" line="1" column="9" />
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" timestamp="1543216748154">
         <mark key="'" line="112" column="2" />
       </file>
@@ -73,7 +80,7 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="25" column="23" />
       </file>
-      <file name="/JavaScript Console" timestamp="1543305193182">
+      <file name="/JavaScript Console" timestamp="1543373722664">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -99,6 +106,9 @@
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" timestamp="1543374606020">
+        <mark key="'" line="35" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1543304483037">
         <mark key="[" line="0" column="0" />
@@ -171,6 +181,13 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="2" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" timestamp="1543374624022">
+        <mark key="'" line="2" column="54" />
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="^" line="23" column="32" />
+        <mark key="." line="23" column="24" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1542857856384">
         <mark key="'" line="226" column="0" />
         <mark key="[" line="12" column="22" />
@@ -203,8 +220,8 @@
         <mark key="." line="494" column="67" />
         <mark key="^" line="494" column="67" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/utils/log.js" timestamp="1543304518420">
-        <mark key="'" line="31" column="9" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/utils/log.js" timestamp="1543374413285">
+        <mark key="'" line="43" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="44" column="48" />
@@ -255,39 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
-      <jump line="63" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
-      <jump line="82" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
-      <jump line="26" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
-      <jump line="29" column="34" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
-      <jump line="81" column="46" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
-      <jump line="182" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
-      <jump line="19" column="28" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
-      <jump line="32" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Dispatch.js" />
-      <jump line="38" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
-      <jump line="12" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Dispatch.js" />
-      <jump line="20" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
-      <jump line="19" column="30" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
-      <jump line="14" column="32" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="22" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
-      <jump line="14" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
-      <jump line="47" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
-      <jump line="27" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
-      <jump line="29" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="21" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="20" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="39" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="36" column="1" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
-      <jump line="21" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
-      <jump line="24" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
-      <jump line="245" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
-      <jump line="222" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
-      <jump line="18" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
-      <jump line="17" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
-      <jump line="27" column="41" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
-      <jump line="17" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
-      <jump line="39" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
-      <jump line="209" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="2" column="3" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="15" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
@@ -355,22 +339,55 @@
       <jump line="3" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="4" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/utils/index.js" />
       <jump line="31" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/utils/log.js" />
+      <jump line="11" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="4" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="6" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="7" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="8" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="9" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="13" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="14" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="16" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="17" column="36" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="19" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="25" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="26" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="27" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="28" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="30" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="32" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="33" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="0" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="5" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="22" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="43" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/utils/log.js" />
+      <jump line="1" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
+      <jump line="4" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
+      <jump line="6" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
+      <jump line="7" column="43" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
+      <jump line="17" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
+      <jump line="20" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
+      <jump line="33" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
+      <jump line="35" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
+      <jump line="23" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
+      <jump line="2" column="54" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7fTsK</text>
+      <register name="&quot;" type="4">
+        <text>, 'ErrorEvent'</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>fix(application/log): err 为空时没有正确处理</text>
+        <text>, 'ErrorEvent'</text>
       </register>
       <register name="/" type="4">
-        <text>module.expo</text>
+        <text encoding="base64">cmVkaXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsb2dnZXIubGV2ZWwgPSBjb25maWcuZ2V0KCdsb2dsZXZlbCcpOwo=</text>
+        <text encoding="base64">ICAgIHJlZGlzID0gbmV3IFJlZGlzKG9wdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7fTsK</text>
@@ -406,13 +423,13 @@
         <text encoding="base64">CQkJCS8vCg==</text>
       </register>
       <register name=":" type="4">
-        <text>4</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>module.expo</last-search>
+      <last-search encoding="base64">cmVkaXNcPg==</last-search>
       <last-offset />
-      <last-pattern>module.expo</last-pattern>
+      <last-pattern encoding="base64">cmVkaXNcPg==</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -420,15 +437,6 @@
     </search>
     <history>
       <history-search>
-        <entry>so</entry>
-        <entry>soc</entry>
-        <entry>zmqso</entry>
-        <entry>map</entry>
-        <entry>createzmq</entry>
-        <entry>fun</entry>
-        <entry>create</entry>
-        <entry>createsoc</entry>
-        <entry>idnex</entry>
         <entry>index</entry>
         <entry>for</entry>
         <entry>pop</entry>
@@ -440,11 +448,17 @@
         <entry>pino</entry>
         <entry>pretty</entry>
         <entry>module.expo</entry>
+        <entry>regis</entry>
+        <entry>c</entry>
+        <entry>,c</entry>
+        <entry encoding="base64">XDxzZW50aW5lbHNcPg==</entry>
+        <entry encoding="base64">XDxSZWRpc1w+</entry>
+        <entry encoding="base64">XDxyZWRpc1w+</entry>
+        <entry>op</entry>
+        <entry>redis</entry>
+        <entry encoding="base64">cmVkaXNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzEnLzMnL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzEnLzInL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLyAsLywvZw==</entry>
         <entry encoding="base64">JzwsJz4yJy8xJy9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLzInLzEnL2dj</entry>
         <entry encoding="base64">JzwsJz5zLywvLFxuL2c=</entry>
@@ -458,10 +472,13 @@
         <entry>46</entry>
         <entry>60</entry>
         <entry>33</entry>
-        <entry>noh</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>4</entry>
+        <entry>help search</entry>
+        <entry>promptf</entry>
+        <entry>g</entry>
+        <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
