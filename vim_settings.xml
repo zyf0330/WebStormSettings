@@ -176,7 +176,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1543493560782">
+      <file name="/JavaScript Console" timestamp="1543495778259">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -203,10 +203,12 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/klipper/1.js" timestamp="1543493564825">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Desktop/klipper/1.js" timestamp="1543495777125">
+        <mark key="'" line="29" column="29" />
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="32" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" timestamp="1543374606020">
         <mark key="'" line="35" column="2" />
@@ -295,7 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="432" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
       <jump line="148" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
       <jump line="149" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
@@ -395,55 +396,56 @@
       <jump line="66" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
       <jump line="68" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
       <jump line="15" column="66" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/package.json" />
+      <jump line="29" column="29" filename="$USER_HOME$/Desktop/klipper/1.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmFsc2Ug</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVhZCA8IGIubGVuZ3Ro</text>
+        <text encoding="base64">ZmFsc2Ug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncnBjSW1wbGVtZW50c1w+</text>
       </register>
       <register name="0" type="4">
-        <text>config.get('etcd.username')</text>
+        <text encoding="base64">bmV3Q3JjID4+PiAw</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ZnMuCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZihyZWFkIDw9MCl7CiAgICBkZWJ1Z2dlcgogIH0K</text>
+        <text encoding="base64">Y29uc29sZS5sb2cob2xkQ3JjLCBuZXdCKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">cHJvY2Vzcy4K</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocGFyc2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IHJlYWQgPSBudWxsCg==</text>
+        <text encoding="base64">Y29uc3QgYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAocmVhZCA8IDEwMjQwKSB7CiAgICBkZWJ1Z2dlcgogIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAocmVhZCA8IDEwMjQwKSB7CiAgICBkZWJ1Z2dlcgogIH0K</text>
+        <text encoding="base64">bmV3IEJ1ZmZlcignJykuYWxsb2NVbnNhZmUoMTkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGIgPSBiLnNsaWNlKDQpIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY3JjLnRvU3RyaW5nKDE2KSkK</text>
+        <text encoding="base64">QnVmZmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
