@@ -9,7 +9,7 @@
         <mark key="^" line="17" column="19" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="/fragment.js" timestamp="1543498454839">
+      <file name="/fragment.js" timestamp="1543500599792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -176,7 +176,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1543499315440">
+      <file name="/JavaScript Console" timestamp="1543500667931">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -203,12 +203,11 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/klipper/1.js" timestamp="1543499495157">
+      <file name="$USER_HOME$/Desktop/klipper/1.js" timestamp="1543500695398">
         <mark key="'" line="25" column="55" />
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="78" />
-        <mark key="." line="20" column="47" />
-        <mark key="^" line="20" column="46" />
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" timestamp="1543374606020">
         <mark key="'" line="35" column="2" />
@@ -399,14 +398,14 @@
       <jump line="23" column="55" filename="$USER_HOME$/Desktop/klipper/1.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGIuc2xpY2UoMCwgcmVhZCkudG9KU09OKCkuZGF0YQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbGRDcmNUZXN0JywgYi5yZWFkVUludDE2QkUoMCkudG9TdHJpbmcoMTYpLCBiLnJlYWRVSW50MTZCRSgyKS50b1N0cmluZygxNikpCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGIuc2xpY2UoMCwgcmVhZCkudG9KU09OKCkuZGF0YQ==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncnBjSW1wbGVtZW50c1w+</text>
@@ -415,41 +414,37 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbGRDcmMnLCBvbGRDcmMudG9TdHJpbmcoMTYpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gNAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbGRDcmNUZXN0JywgYi5yZWFkVUludDE2QkUoMCkudG9TdHJpbmcoMTYpLCBiLnJlYWRVSW50MTZCRSgyKS50b1N0cmluZygxNikpCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gNAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbGRDcmNUZXN0JywgYnVmZmVyLnJlYWRVSW50MzJMRSgwKS50b1N0cmluZygxNikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gNAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbGRDcmNUZXN0JywgYnVmZmVyLnJlYWRVSW50MzJMRSgwKS50b1N0cmluZygxNikpCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-    newCrc = crc32.bstr(b.slice(start, read).toString('binary'), newCrc)
-  }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGJ1ZmZlciA9IEJ1ZmZlci5hbGxvY1Vuc2FmZSg0KQogICAgYnVmZmVyWzBdID0gYlszXSAsIGJ1ZmZlclsxXSA9IGJbMl0sIGJ1ZmZlclsyXSA9IGJbMV0sIGJ1ZmZlclszXSA9IGJbMF0K</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-    newCrc = crc32.bstr(b.slice(start, read).toString('binary'), newCrc)
-  }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGJ1ZmZlciA9IEJ1ZmZlci5hbGxvY1Vuc2FmZSg0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b2xkQ3JjIDM0YWRhMzZhCm5ld0NyYyA1MzAwMzcwZgo=</text>
+        <text encoding="base64">ICAgIGJ1ZmZlclswXSA9IGJbM10gLCBidWZmZXJbMV0gPSBiWzJdLCBidWZmZXJbMl0gPSBiWzFdLCBidWZmZXJbM10gPSBiWzBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnMuCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbGRDcmNUZXN0JywgYnVmZmVyLnJlYWRVSW50MzJMRSgwKS50b1N0cmluZygxNikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cob2xkQ3JjLCBuZXdCKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJvY2Vzcy4K</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gNAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
