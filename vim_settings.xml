@@ -176,7 +176,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1543496217822">
+      <file name="/JavaScript Console" timestamp="1543497362837">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -203,12 +203,12 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/klipper/1.js" timestamp="1543496245223">
+      <file name="$USER_HOME$/Desktop/klipper/1.js" timestamp="1543497464994">
         <mark key="'" line="29" column="29" />
-        <mark key="[" line="22" column="43" />
-        <mark key="]" line="22" column="43" />
-        <mark key="." line="22" column="43" />
-        <mark key="^" line="22" column="21" />
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="15" />
+        <mark key="^" line="31" column="15" />
+        <mark key="." line="31" column="15" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" timestamp="1543374606020">
         <mark key="'" line="35" column="2" />
@@ -400,13 +400,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>32</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>32</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncnBjSW1wbGVtZW50c1w+</text>
@@ -414,38 +414,42 @@
       <register name="0" type="4">
         <text encoding="base64">bmV3Q3JjID4+PiAw</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnMuCg==</text>
+      <register name="1" type="4">
+        <text>{
+    newCrc = crc32.bstr(b.slice(start, read).toString('binary'), newCrc)
+  }</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cob2xkQ3JjLCBuZXdCKQo=</text>
+      <register name="2" type="4">
+        <text>{
+    newCrc = crc32.bstr(b.slice(start, read).toString('binary'), newCrc)
+  }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJvY2Vzcy4K</text>
+        <text encoding="base64">b2xkQ3JjIDM0YWRhMzZhCm5ld0NyYyA1MzAwMzcwZgo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocGFyc2UpCg==</text>
+        <text encoding="base64">ZnMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgYgo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cob2xkQ3JjLCBuZXdCKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJvY2Vzcy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmV3IEJ1ZmZlcignJykuYWxsb2NVbnNhZmUoMTkpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocGFyc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGIgPSBiLnNsaWNlKDQpIAo=</text>
+        <text encoding="base64">Y29uc3QgYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QnVmZmVyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
