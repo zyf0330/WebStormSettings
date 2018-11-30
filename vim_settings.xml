@@ -204,23 +204,18 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/redisClient.js" timestamp="1543374735012">
-        <mark key="'" line="38" column="2" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="57" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/config/schema.json" timestamp="1543381048879">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="17" />
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/klipper/1.js" timestamp="1543549245446">
-        <mark key="'" line="28" column="46" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Desktop/klipper/1.js" timestamp="1543570406028">
+        <mark key="'" line="29" column="46" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" timestamp="1543374606020">
         <mark key="'" line="35" column="2" />
@@ -412,7 +407,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxldCBuID0gMAogICAgZm9yIChjb25zdCBiaXQgb2YgYikgewogICAgICBpZiAoYml0ICE9IDApIHsKICAgICAgICBuKysKICAgICAgICBiMi53cml0ZVVJbnQ4KGJpdCkKICAgICAgfQogICAgfQogICAgY29uc29sZS5sb2coYjIuc2xpY2UoMCwgbikudG9TdHJpbmcoJ2JpbmFyeScpKQo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -427,37 +422,37 @@
         <text>history_stream</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxldCBuID0gMAogICAgZm9yIChjb25zdCBiaXQgb2YgYikgewogICAgICBpZiAoYml0ICE9IDApIHsKICAgICAgICBuKysKICAgICAgICBiMi53cml0ZVVJbnQ4KGJpdCkKICAgICAgfQogICAgfQogICAgY29uc29sZS5sb2coYjIuc2xpY2UoMCwgbikudG9TdHJpbmcoJ2JpbmFyeScpKQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGIuY29wCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGIuCg==</text>
+        <text encoding="base64">ICAgIGIuY29wCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBoaXN0b3J5X2ZpbGVfbmFtZSgiLi9oaXN0b3J5Mi5sc3QiKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghaGlzdG9yeV9maWxlLmNvbW1pdCgpKSB7CiAgICAgICAgcUNXYXJuaW5nKEtMSVBQRVJfTE9HKSA8PCBmYWlsZWRfc2F2ZV93YXJuaW5nIDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIFN0cmluZyBoaXN0b3J5X2ZpbGVfbmFtZSgiLi9oaXN0b3J5Mi5sc3QiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFFTYXZlRmlsZSBoaXN0b3J5X2ZpbGUoIGhpc3RvcnlfZmlsZV9uYW1lICk7Cg==</text>
+        <text encoding="base64">ICAgIGlmICghaGlzdG9yeV9maWxlLmNvbW1pdCgpKSB7CiAgICAgICAgcUNXYXJuaW5nKEtMSVBQRVJfTE9HKSA8PCBmYWlsZWRfc2F2ZV93YXJuaW5nIDsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICghaGlzdG9yeV9maWxlLm9wZW4oUUlPRGV2aWNlOjpXcml0ZU9ubHkpKSB7CiAgICAgICAgcUNXYXJuaW5nKEtMSVBQRVJfTE9HKSA8PCBmYWlsZWRfc2F2ZV93YXJuaW5nIDsKICAgICAgICByZXR1cm47CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFFTYXZlRmlsZSBoaXN0b3J5X2ZpbGUoIGhpc3RvcnlfZmlsZV9uYW1lICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICggaGlzdG9yeV9maWxlX25hbWUuaXNOdWxsKCkgfHwgaGlzdG9yeV9maWxlX25hbWUuaXNFbXB0eSgpICkgewogICAgICAgIC8vIHRyeSBjcmVhdGluZyB0aGUgZmlsZQogICAgICAgIFFEaXIgZGlyKFFTdGFuZGFyZFBhdGhzOjp3cml0YWJsZUxvY2F0aW9uKFFTdGFuZGFyZFBhdGhzOjpHZW5lcmljRGF0YUxvY2F0aW9uKSk7CiAgICAgICAgaWYgKCFkaXIubWtwYXRoKFFTdHJpbmdMaXRlcmFsKCJrbGlwcGVyIikpKSB7CiAgICAgICAgICAgIHFDV2FybmluZyhLTElQUEVSX0xPRykgPDwgZmFpbGVkX3NhdmVfd2FybmluZyA7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgaGlzdG9yeV9maWxlX25hbWUgPSBkaXIuYWJzb2x1dGVGaWxlUGF0aChRU3RyaW5nTGl0ZXJhbCgia2xpcHBlci9oaXN0b3J5Mi5sc3QiKSk7CiAgICB9CiAgICBpZiAoIGhpc3RvcnlfZmlsZV9uYW1lLmlzTnVsbCgpIHx8IGhpc3RvcnlfZmlsZV9uYW1lLmlzRW1wdHkoKSApIHsKICAgICAgICBxQ1dhcm5pbmcoS0xJUFBFUl9MT0cpIDw8IGZhaWxlZF9zYXZlX3dhcm5pbmcgOwogICAgICAgIHJldHVybjsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGlmICghaGlzdG9yeV9maWxlLm9wZW4oUUlPRGV2aWNlOjpXcml0ZU9ubHkpKSB7CiAgICAgICAgcUNXYXJuaW5nKEtMSVBQRVJfTE9HKSA8PCBmYWlsZWRfc2F2ZV93YXJuaW5nIDsKICAgICAgICByZXR1cm47CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -470,7 +465,7 @@
       <last-replace>Int</last-replace>
       <last-substitute>UInt</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
