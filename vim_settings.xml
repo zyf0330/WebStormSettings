@@ -293,8 +293,12 @@
         <mark key="." line="494" column="67" />
         <mark key="^" line="494" column="67" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" timestamp="1542885976035">
-        <mark key="'" line="153" column="17" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" timestamp="1543825976770">
+        <mark key="'" line="110" column="34" />
+        <mark key="[" line="110" column="34" />
+        <mark key="]" line="110" column="34" />
+        <mark key="^" line="110" column="34" />
+        <mark key="." line="110" column="34" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/zmqServer.js" timestamp="1542798719269">
         <mark key="[" line="10" column="32" />
@@ -304,16 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
-      <jump line="110" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
-      <jump line="150" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
-      <jump line="16" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
-      <jump line="112" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
-      <jump line="43" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/package.json" />
-      <jump line="41" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/package.json" />
-      <jump line="17" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/utils/log.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/utils/log.js" />
-      <jump line="18" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/utils/log.js" />
       <jump line="26" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/utils/log.js" />
       <jump line="3" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/utils/log.js" />
       <jump line="45" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/utils/log.js" />
@@ -404,75 +398,81 @@
       <jump line="26" column="16" filename="$USER_HOME$/Desktop/klipper/1.js" />
       <jump line="27" column="46" filename="$USER_HOME$/Desktop/klipper/1.js" />
       <jump line="63" column="14" filename="$USER_HOME$/Desktop/klipper/node_modules/main.cpp" />
+      <jump line="56" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="133" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="29" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="54" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="134" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="109" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="50" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="57" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
+      <jump line="110" column="34" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3845650040</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNsZWFySW50ZXJ2YWwodGhpcy5zZGNJbnRlcnZhbCkK</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>3845650040</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
-        <text>history_file</text>
+        <text>sdcInterval</text>
       </register>
-      <register name="0" type="4">
-        <text>history_stream</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNsZWFySW50ZXJ2YWwodGhpcy5zZGNJbnRlcnZhbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0nLCBiLnJlYWRVSW50MzJMRSgwKS50b1N0cmluZygxNiksIGIucmVhZFVJbnQzMkxFKDQpLnRvU3RyaW5nKDE2KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8g5YW25a6e5pivOOS4quWtl+iKgu+8nwo=</text>
+        <text encoding="base64">ICAgICAgc2RjRm9yQ2xpZW50LmdhdWdlKCdjb25OdW0nLCB0aGlzLnNvY2tldHMuc2l6ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBuID0gMAogICAgZm9yIChjb25zdCBiaXQgb2YgYikgewogICAgICBpZiAoYml0ICE9IDApIHsKICAgICAgICBuKysKICAgICAgICBiMi53cml0ZVVJbnQ4KGJpdCkKICAgICAgfQogICAgfQogICAgY29uc29sZS5sb2coYjIuc2xpY2UoMCwgbikudG9TdHJpbmcoJ2JpbmFyeScpKQo=</text>
+        <text encoding="base64">ICAgICAgc2RjRm9yQ2xpZW50LmdhdWdlKCdjb25OdW0nLCBzb2NrZXRzLnNpemUpCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIOi/mOS4jeWPr+S7peeUqCBnYXVnZURlbHRhCiAgICBzZGNGb3JDbGllbnQuZ2F1Z2UoJ2Nvbk51bScsIHNvY2tldHMuc2l6ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGIuY29wCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGIuCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY29ubiA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0nLCBiLnJlYWRVSW50MzJMRSgwKS50b1N0cmluZygxNiksIGIucmVhZFVJbnQzMkxFKDQpLnRvU3RyaW5nKDE2KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBoaXN0b3J5X2ZpbGVfbmFtZSgiLi9oaXN0b3J5Mi5sc3QiKTsK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8g5YW25a6e5pivOOS4quWtl+iKgu+8nwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICghaGlzdG9yeV9maWxlLmNvbW1pdCgpKSB7CiAgICAgICAgcUNXYXJuaW5nKEtMSVBQRVJfTE9HKSA8PCBmYWlsZWRfc2F2ZV93YXJuaW5nIDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGxldCBuID0gMAogICAgZm9yIChjb25zdCBiaXQgb2YgYikgewogICAgICBpZiAoYml0ICE9IDApIHsKICAgICAgICBuKysKICAgICAgICBiMi53cml0ZVVJbnQ4KGJpdCkKICAgICAgfQogICAgfQogICAgY29uc29sZS5sb2coYjIuc2xpY2UoMCwgbikudG9TdHJpbmcoJ2JpbmFyeScpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>history_file</last-search>
+      <last-search>sdcInterval</last-search>
       <last-offset />
-      <last-pattern>history_file</last-pattern>
+      <last-pattern>sdcInterval</last-pattern>
       <last-replace>Int</last-replace>
       <last-substitute>UInt</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>c</entry>
-        <entry>,c</entry>
-        <entry encoding="base64">XDxzZW50aW5lbHNcPg==</entry>
-        <entry encoding="base64">XDxSZWRpc1w+</entry>
         <entry encoding="base64">XDxyZWRpc1w+</entry>
         <entry>op</entry>
         <entry>redis</entry>
@@ -489,6 +489,10 @@
         <entry>savehistory</entry>
         <entry>loadhistory</entry>
         <entry>history_file</entry>
+        <entry>qps</entry>
+        <entry>gauge</entry>
+        <entry>sdcin</entry>
+        <entry>sdcInterval</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxuL2c=</entry>
