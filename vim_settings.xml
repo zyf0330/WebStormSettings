@@ -115,7 +115,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1544510697647">
+      <file name="/JavaScript Console" timestamp="1544510718418">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -163,7 +163,7 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544510628429">
+      <file name="/Dummy.txt" timestamp="1544510987717">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -229,7 +229,7 @@
         <mark key="." line="23" column="24" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1544415811825">
-        <mark key="'" line="125" column="4" />
+        <mark key="'" line="133" column="4" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" timestamp="1541647463175">
         <mark key="[" line="15" column="8" />
@@ -468,9 +468,6 @@
         <entry>sdcInterval</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywvLFxuL2dj</entry>
-        <entry encoding="base64">JzwsJz5zLywvLCwvZ2M=</entry>
-        <entry encoding="base64">JzwsJz5zLywvLDxDUj4vZ2M=</entry>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2dj</entry>
         <entry>reg</entry>
         <entry>wq</entry>
@@ -488,6 +485,9 @@
         <entry>q</entry>
         <entry>w</entry>
         <entry>25</entry>
+        <entry>tabprevious</entry>
+        <entry>tabnext</entry>
+        <entry>tabn</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -567,6 +567,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>alt pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl alt pressed RIGHT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl alt pressed LEFT</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
