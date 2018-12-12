@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/1.js" timestamp="1544589511338">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/1.js" timestamp="1544590269305">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1543500599792">
         <mark key="[" line="0" column="0" />
@@ -70,16 +69,12 @@
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="51" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/package.json" timestamp="1543390986571">
-        <mark key="[" line="15" column="66" />
-        <mark key="]" line="15" column="132" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1544589227145">
-        <mark key="'" line="128" column="4" />
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="6" column="18" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1544590559505">
+        <mark key="'" line="124" column="4" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/errorHandler.js" timestamp="1543404575060">
         <mark key="]" line="4" column="1" />
@@ -173,7 +168,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1544589477894">
+      <file name="/JavaScript Console" timestamp="1544590428364">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -387,13 +382,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bG9nZ2VyLmRlCg==</text>
+        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi91dGlsL2xvZ2dlcicpCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
         <text>sdcInterval</text>
@@ -402,37 +397,37 @@
         <text encoding="base64">bG9nZ2VyLmVycm9yKHthOjF9LCAndGVzdCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nZ2VyLmRlCg==</text>
+        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi91dGlsL2xvZ2dlcicpCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGluby5kZXN0aW5hdGlvbigxKQo=</text>
+        <text encoding="base64">dGhyb3cgIDEyMwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2VyLmVycm9yKHthOjF9LCAndGVzdCcpCg==</text>
+        <text encoding="base64">dGhyb3cgIDEyMwo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGluby4K</text>
+        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi91dGlsL2xvZ2dlcicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGluby5kZXN0aW5hdGlvbigpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGluby5sbwo=</text>
+        <text encoding="base64">ICB0cnkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICB9IGNhdGNoIChlKSB7CiAgICAvLyDku7/nhacgcGlubyDovpPlh7oKICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHsKICAgICAgbGV2ZWw6IDUwLAogICAgICB0eXBlOiAndW5jYXVnaHRFeGNlcHRpb24nLAogICAgICBzY29wZTogJ2dsb2JhbCcsCiAgICAgIHRpbWU6IERhdGUubm93KCksCiAgICAgIG1zZzogeyB0eXBlOiAnRXJyb3InLCBtZXNzYWdlOiBlcnIubWVzc2FnZSwgc3RhY2s6IGVyci5zdGFjayB9LAogICAgfSkpCiAgfSBmaW5hbGx5IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gcHJvZHVjdGlvbiDkvJrlh7rpl67popgK</text>
+        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi91dGlsL2xvZ2dlcicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGwuZXJyb3IoJ2dsb2JhbCcsICd1bmNhdWdodEV4Y2VwdGlvbicsIGVycikKICAgIGwuZXJyb3IoJ2dsb2JhbCcsICd1bmNhdWdodEV4Y2VwdGlvbicsIGVycikKICAgIGwuZXJyb3IoJ2dsb2JhbCcsICd1bmNhdWdodEV4Y2VwdGlvbicsIGVycikKICAgIGwuZXJyb3IoJ2dsb2JhbCcsICd1bmNhdWdodEV4Y2VwdGlvbicsIGVycikK</text>
+        <text encoding="base64">dGhyb3cgbmV3IEVycm9yKCd0ZXN0JykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
