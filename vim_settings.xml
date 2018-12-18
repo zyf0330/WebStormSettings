@@ -106,8 +106,8 @@
         <mark key="'" line="55" column="0" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1545122874736">
-        <mark key="'" line="387" column="4" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1545124012869">
+        <mark key="'" line="389" column="53" />
         <mark key="[" line="396" column="0" />
         <mark key="]" line="396" column="0" />
         <mark key="^" line="396" column="12" />
@@ -307,12 +307,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1545015037320">
         <mark key="." line="29" column="73" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" timestamp="1545122826612">
-        <mark key="'" line="158" column="49" />
-        <mark key="[" line="157" column="32" />
-        <mark key="]" line="157" column="32" />
-        <mark key="." line="157" column="32" />
-        <mark key="^" line="9" column="72" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" timestamp="1545124102185">
+        <mark key="'" line="32" column="42" />
+        <mark key="[" line="166" column="34" />
+        <mark key="]" line="166" column="34" />
+        <mark key="." line="166" column="34" />
+        <mark key="^" line="166" column="34" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" timestamp="1543374732530">
         <mark key="'" line="22" column="0" />
@@ -361,8 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="134" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="109" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="50" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="57" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
@@ -458,9 +456,11 @@
       <jump line="17" column="79" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
       <jump line="155" column="53" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
       <jump line="158" column="49" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
-      <jump line="382" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="384" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="387" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="32" column="42" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="382" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="389" column="53" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -473,7 +473,7 @@
         <text>[</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXNzYWdlXD4=</text>
+        <text encoding="base64">XDxjYWxsYmFja1w+</text>
       </register>
       <register name="0" type="4">
         <text>voteGroupInterval</text>
@@ -516,9 +516,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXNzYWdlXD4=</last-search>
+      <last-search encoding="base64">XDxjYWxsYmFja1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXNzYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsYmFja1w+</last-pattern>
       <last-replace>Int</last-replace>
       <last-substitute>roomid</last-substitute>
       <last-dir>1</last-dir>
@@ -526,7 +526,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZGxlQ2FsbGJhY2tcPg==</entry>
         <entry encoding="base64">XDxncm91cFZvdGVzXD4=</entry>
         <entry>broadcast</entry>
         <entry>args</entry>
@@ -546,6 +545,7 @@
         <entry>call</entry>
         <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
