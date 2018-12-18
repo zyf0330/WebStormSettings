@@ -190,6 +190,13 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="16" column="2" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" timestamp="1545104198153">
+        <mark key="'" line="50" column="4" />
+        <mark key="[" line="52" column="116" />
+        <mark key="]" line="52" column="116" />
+        <mark key="^" line="52" column="116" />
+        <mark key="." line="52" column="116" />
+      </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1542091690669">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="6" />
@@ -221,7 +228,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545027446975">
+      <file name="/Dummy.txt" timestamp="1545104228413">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -265,6 +272,13 @@
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1545015037320">
         <mark key="." line="29" column="73" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" timestamp="1545104373505">
+        <mark key="'" line="145" column="16" />
+        <mark key="[" line="139" column="4" />
+        <mark key="]" line="139" column="3" />
+        <mark key="." line="139" column="3" />
+        <mark key="^" line="139" column="3" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" timestamp="1543374732530">
         <mark key="'" line="22" column="0" />
@@ -317,8 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/utils/log.js" />
-      <jump line="1" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
       <jump line="4" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
       <jump line="6" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
@@ -417,16 +429,18 @@
       <jump line="20" column="34" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="36" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="49" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
+      <jump line="50" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" />
+      <jump line="139" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>feat(log/socket,connector): 完善日志，方便按键查询</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat(log/socket,connector): 完善日志，方便按键查询</text>
+        <text>arg</text>
       </register>
       <register name="/" type="4">
         <text>bind</text>
@@ -435,7 +449,7 @@
         <text encoding="base64">LCAoZXJyLCByZXN1bHQpID0+IHsKICAgICAgaWYgKGVycikgewogICAgICAgIGxvZy5lcnJvcih7ZXJyb3I6IGVyciwgcmVzdWx0fSwgJ2dycGNTZXJ2ZXIgYmluZCBmYWlsJykKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdycGNTZXJ2ZXIuYmluZChncnBjQWRkciwgZ3JwYy5TZXJ2ZXJDcmVkZW50aWFscy5jcmVhdGVJbnNlY3VyZSgpKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
@@ -450,13 +464,13 @@
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nLgo=</text>
+        <text encoding="base64">ICAgIGdycGNTZXJ2ZXIuYmluZChncnBjQWRkciwgZ3JwYy5TZXJ2ZXJDcmVkZW50aWFscy5jcmVhdGVJbnNlY3VyZSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0UmVnZXgiOiAiKC9fX3Rlc3RfXy8uKihcXC58LykodGVzdHxzcGVjKSlcXC4oanN4PykkIiwK</text>
+        <text encoding="base64">ICAgICAgbG9nLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0UmVnZXgiOiAiKC9fX3Rlc3RfXy8uKihcXC58LykodGVzdHxzcGVjKSlcXC4oanN4PykkIiwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -465,7 +479,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgdXRpbCA9IHJlcXVpcmUoJy4uL3V0aWxzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -478,7 +492,7 @@
       <last-replace>Int</last-replace>
       <last-substitute>UInt</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
