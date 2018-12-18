@@ -273,12 +273,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1545015037320">
         <mark key="." line="29" column="73" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" timestamp="1545104373505">
-        <mark key="'" line="145" column="16" />
-        <mark key="[" line="139" column="4" />
-        <mark key="]" line="139" column="3" />
-        <mark key="." line="139" column="3" />
-        <mark key="^" line="139" column="3" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" timestamp="1545105701180">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="157" column="60" />
+        <mark key="]" line="158" column="30" />
+        <mark key="." line="158" column="30" />
+        <mark key="^" line="158" column="30" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" timestamp="1543374732530">
         <mark key="'" line="22" column="0" />
@@ -331,21 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
-      <jump line="4" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
-      <jump line="6" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
-      <jump line="7" column="43" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
-      <jump line="17" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
-      <jump line="20" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
-      <jump line="33" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
-      <jump line="35" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/redisClient.js" />
-      <jump line="23" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
-      <jump line="2" column="54" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" />
-      <jump line="21" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/utils/redisClient.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/redisClient.js" />
-      <jump line="12" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/redisClient.js" />
-      <jump line="13" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/redisClient.js" />
-      <jump line="14" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/redisClient.js" />
       <jump line="15" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/redisClient.js" />
       <jump line="16" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/redisClient.js" />
       <jump line="17" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/redisClient.js" />
@@ -431,31 +416,46 @@
       <jump line="49" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="50" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" />
       <jump line="139" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="52" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="6" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="141" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="142" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="145" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="147" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="10" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="54" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="8" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="11" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="148" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="12" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="17" column="65" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="13" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="14" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>arg</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>bind</text>
+        <text encoding="base64">XDx2b3RlR3JvdXBzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">LCAoZXJyLCByZXN1bHQpID0+IHsKICAgICAgaWYgKGVycikgewogICAgICAgIGxvZy5lcnJvcih7ZXJyb3I6IGVyciwgcmVzdWx0fSwgJ2dycGNTZXJ2ZXIgYmluZCBmYWlsJykKICAgICAgfQogICAgfQ==</text>
+        <text>voteGroup.session</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdycGNTZXJ2ZXIuYmluZChncnBjQWRkciwgZ3JwYy5TZXJ2ZXJDcmVkZW50aWFscy5jcmVhdGVJbnNlY3VyZSgpKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGdycGNTZXJ2ZXIuYmluZChncnBjQWRkciwgZ3JwYy5TZXJ2ZXJDcmVkZW50aWFscy5jcmVhdGVJbnNlY3VyZSgpKQo=</text>
@@ -467,13 +467,13 @@
         <text encoding="base64">ICAgIGdycGNTZXJ2ZXIuYmluZChncnBjQWRkciwgZ3JwYy5TZXJ2ZXJDcmVkZW50aWFscy5jcmVhdGVJbnNlY3VyZSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9nLgo=</text>
+        <text encoding="base64">ICAgIGdycGNTZXJ2ZXIuYmluZChncnBjQWRkciwgZ3JwYy5TZXJ2ZXJDcmVkZW50aWFscy5jcmVhdGVJbnNlY3VyZSgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0UmVnZXgiOiAiKC9fX3Rlc3RfXy8uKihcXC58LykodGVzdHxzcGVjKSlcXC4oanN4PykkIiwK</text>
+        <text encoding="base64">ICAgICAgbG9nLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0UmVnZXgiOiAiKC9fX3Rlc3RfXy8uKihcXC58LykodGVzdHxzcGVjKSlcXC4oanN4PykkIiwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -486,27 +486,16 @@
       </register>
     </registers>
     <search>
-      <last-search>bind</last-search>
+      <last-search encoding="base64">XDx2b3RlR3JvdXBzXD4=</last-search>
       <last-offset />
-      <last-pattern>bind</last-pattern>
+      <last-pattern encoding="base64">XDx2b3RlR3JvdXBzXD4=</last-pattern>
       <last-replace>Int</last-replace>
-      <last-substitute>UInt</last-substitute>
+      <last-substitute>roomid</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>UInt</entry>
-        <entry>his</entry>
-        <entry>rad</entry>
-        <entry>read</entry>
-        <entry>16</entry>
-        <entry>newb</entry>
-        <entry>savehistory</entry>
-        <entry>loadhistory</entry>
-        <entry>history_file</entry>
-        <entry>qps</entry>
-        <entry>gauge</entry>
         <entry>sdcin</entry>
         <entry>sdcInterval</entry>
         <entry>start</entry>
@@ -516,6 +505,17 @@
         <entry>log.error</entry>
         <entry>.bind</entry>
         <entry>bind</entry>
+        <entry>vote</entry>
+        <entry>voteop</entry>
+        <entry>roomid</entry>
+        <entry encoding="base64">XDxncm91cFZvdGVTdG9yZVw+</entry>
+        <entry encoding="base64">XDxjbGVhcklkbGVMaW1pdGVyXD4=</entry>
+        <entry encoding="base64">XDxpZGxlQ2FsbGJhY2tcPg==</entry>
+        <entry encoding="base64">XDxncm91cFZvdGVzXD4=</entry>
+        <entry>broadcast</entry>
+        <entry>args</entry>
+        <entry>votegr</entry>
+        <entry encoding="base64">XDx2b3RlR3JvdXBzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
