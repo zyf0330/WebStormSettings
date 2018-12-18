@@ -102,14 +102,10 @@
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="51" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1544606846784">
-        <mark key="'" line="55" column="0" />
-        <mark key="^" line="17" column="5" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1545124012869">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1545124970546">
         <mark key="'" line="389" column="53" />
-        <mark key="[" line="396" column="0" />
-        <mark key="]" line="396" column="0" />
+        <mark key="[" line="505" column="0" />
+        <mark key="]" line="505" column="48" />
         <mark key="^" line="396" column="12" />
         <mark key="." line="396" column="0" />
       </file>
@@ -321,6 +317,10 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="24" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" timestamp="1545124982478">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="1" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1545027438926">
         <mark key="'" line="53" column="48" />
         <mark key="[" line="36" column="92" />
@@ -463,8 +463,8 @@
       <jump line="389" column="53" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bWVzc2FnZSBSZXNwb25zZUhlYWRlciB7CiAgICBib29sIHN1Y2Nlc3MgPSAxOwogICAgc3RyaW5nIHJlYXNvbiA9IDI7Cn0K</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
