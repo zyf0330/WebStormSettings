@@ -246,10 +246,10 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545128433947">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1545128484855">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="19" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
@@ -458,13 +458,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e // TODO</text>
+        <text>现在投票处理的是边缘聚合后的消息</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>e // TODO</text>
+        <text>现在投票处理的是边缘聚合后的消息</text>
       </register>
       <register name="/" type="4">
         <text>chat</text>
