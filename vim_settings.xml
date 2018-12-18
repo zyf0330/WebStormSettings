@@ -8,7 +8,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1543500599792">
+      <file name="/fragment.js" timestamp="1545117927778">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -176,6 +176,12 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/appConfig.json" timestamp="1545117975886">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="26" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/etcdConfig" timestamp="1542335313825">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="14" />
@@ -200,15 +206,11 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1545115658682">
+      <file name="/JavaScript Console" timestamp="1545117977107">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" timestamp="1544589298686">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="16" column="2" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" timestamp="1545104198153">
         <mark key="'" line="50" column="4" />
@@ -236,7 +238,7 @@
         <mark key="." line="52" column="18" />
         <mark key="^" line="52" column="36" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/schema.json" timestamp="1545117077920">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/schema.json" timestamp="1545117888522">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="19" />
         <mark key="." line="3" column="18" />
@@ -305,12 +307,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1545015037320">
         <mark key="." line="29" column="73" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" timestamp="1545117208454">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" timestamp="1545117973715">
         <mark key="'" line="158" column="49" />
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-        <mark key="^" line="9" column="6" />
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="72" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/redisClient.js" timestamp="1543374732530">
         <mark key="'" line="22" column="0" />
@@ -350,10 +352,6 @@
         <mark key="]" line="50" column="4" />
         <mark key="." line="48" column="59" />
         <mark key="^" line="48" column="59" />
-      </file>
-      <file name="/diff.js" timestamp="1544605949945">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="39" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/zmqServer.js" timestamp="1542798719269">
         <mark key="[" line="10" column="32" />
@@ -466,13 +464,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2b3Rlc1w+</text>
