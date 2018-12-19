@@ -207,13 +207,13 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" timestamp="1545211749514">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="2" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" timestamp="1545212609237">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1545211883067">
+      <file name="/JavaScript Console" timestamp="1545212645379">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -369,8 +369,12 @@
         <mark key="." line="48" column="59" />
         <mark key="^" line="48" column="59" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" timestamp="1545211672939">
-        <mark key="'" line="148" column="24" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" timestamp="1545212807807">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="164" column="21" />
+        <mark key="]" line="164" column="21" />
+        <mark key="^" line="55" column="38" />
+        <mark key="." line="164" column="21" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/zmqServer.js" timestamp="1542798719269">
         <mark key="[" line="10" column="32" />
@@ -380,7 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
       <jump line="34" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
       <jump line="52" column="40" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
       <jump line="94" column="43" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
@@ -480,16 +483,17 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
       <jump line="13" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
       <jump line="14" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
+      <jump line="24" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>err</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>err</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>pushscheduler fa</text>
