@@ -207,7 +207,13 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1545128325503">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" timestamp="1545211709731">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="2" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1545211392949">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -356,6 +362,9 @@
         <mark key="." line="48" column="59" />
         <mark key="^" line="48" column="59" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" timestamp="1545211672939">
+        <mark key="'" line="148" column="24" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/zmqServer.js" timestamp="1542798719269">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="33" />
@@ -364,7 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="4" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="98" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="0" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
       <jump line="86" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
@@ -464,16 +472,17 @@
       <jump line="156" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
       <jump line="173" column="5" filename="$USER_HOME$/Desktop/api.html" />
       <jump line="146" column="3" filename="$USER_HOME$/Desktop/xue.html" />
+      <jump line="148" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT48L3RpdGxlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>现在投票处理的是边缘聚合后的消息</text>
+        <text encoding="base64">ICBsb2cgPSBwaW5vKCk7</text>
       </register>
       <register name="/" type="4">
         <text>chat</text>
@@ -482,37 +491,37 @@
         <text>session.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT48L3RpdGxlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTx0aXRsZT7mtYvor5V6eWY8L3RpdGxlPgo=</text>
+        <text encoding="base64">ICAgIDx0aXRsZT48L3RpdGxlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4K</text>
+        <text encoding="base64">CTx0aXRsZT7mtYvor5V6eWY8L3RpdGxlPgo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIGNoYXJzZXQ9InV0Zi04IiAvPgo=</text>
+        <text encoding="base64">CTxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxtZXRhIGNoYXJzZXQ9InV0Zi04IiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAnVk9URSc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0geyB0OiBtZXNzYWdlLnQsIC4uLm1lc3NhZ2UudiB9Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSAnVk9URSc6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gcgo=</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0geyB0OiBtZXNzYWdlLnQsIC4uLm1lc3NhZ2UudiB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
