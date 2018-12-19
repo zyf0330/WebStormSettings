@@ -207,13 +207,13 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" timestamp="1545211709731">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="2" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" timestamp="1545211749514">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="2" />
       </file>
-      <file name="/JavaScript Console" timestamp="1545211392949">
+      <file name="/JavaScript Console" timestamp="1545211883067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -337,6 +337,13 @@
         <mark key="^" line="36" column="91" />
         <mark key="." line="36" column="92" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1545211944623">
+        <mark key="'" line="14" column="26" />
+        <mark key="[" line="171" column="16" />
+        <mark key="]" line="171" column="17" />
+        <mark key="." line="171" column="17" />
+        <mark key="^" line="171" column="17" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" timestamp="1541647463175">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="8" />
@@ -373,10 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
-      <jump line="86" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
-      <jump line="123" column="74" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
       <jump line="29" column="4" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
       <jump line="34" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
       <jump line="52" column="40" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
@@ -473,22 +476,26 @@
       <jump line="173" column="5" filename="$USER_HOME$/Desktop/api.html" />
       <jump line="146" column="3" filename="$USER_HOME$/Desktop/xue.html" />
       <jump line="148" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
+      <jump line="135" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
+      <jump line="13" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
+      <jump line="14" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>err</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBsb2cgPSBwaW5vKCk7</text>
+        <text>err</text>
       </register>
       <register name="/" type="4">
-        <text>chat</text>
+        <text>pushscheduler fa</text>
       </register>
       <register name="0" type="4">
-        <text>session.</text>
+        <text>error</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -496,50 +503,48 @@
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT48L3RpdGxlPgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBsb2cgPSBwaW5vKHsKICAgIGxldmVsOiAnZGVidWcnLAogICAgcHJldHR5UHJpbnQ6IHsKICAgICAgZm9yY2VDb2xvcjogdHJ1ZSwKICAgIH0sCiAgfSk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTx0aXRsZT7mtYvor5V6eWY8L3RpdGxlPgo=</text>
+        <text encoding="base64">ICBsb2cgPSBwaW5vKHtsZXZlbDogJ3RyYWNlJywgcHJldHR5UHJpbnQ6IHtmb3JjZUNvbG9yOiB0cnVlfX0pCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CTxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIGNoYXJzZXQ9InV0Zi04IiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAnVk9URSc6Cg==</text>
+        <text encoding="base64">ICAgIDx0aXRsZT48L3RpdGxlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0geyB0OiBtZXNzYWdlLnQsIC4uLm1lc3NhZ2UudiB9Cg==</text>
+        <text encoding="base64">CTx0aXRsZT7mtYvor5V6eWY8L3RpdGxlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gcgo=</text>
+        <text encoding="base64">CTxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>chat</last-search>
+      <last-search>pushscheduler fa</last-search>
       <last-offset />
-      <last-pattern>chat</last-pattern>
+      <last-pattern>pushscheduler fa</last-pattern>
       <last-replace>Int</last-replace>
       <last-substitute>roomid</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2b3RlR3JvdXBzXD4=</entry>
-        <entry>inc</entry>
         <entry>log</entry>
         <entry>log.in</entry>
         <entry>pip</entry>
@@ -558,6 +563,8 @@
         <entry encoding="base64">XDxzZXNzaW9uc1w+</entry>
         <entry>onchat</entry>
         <entry>chat</entry>
+        <entry>main</entry>
+        <entry>pushscheduler fa</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
