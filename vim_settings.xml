@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/node_modules/raven/lib/client.js" timestamp="1545627732898" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/node_modules/raven/lib/client.js" timestamp="1545631724913">
+        <mark key="[" line="60" column="25" />
+        <mark key="]" line="60" column="42" />
+      </file>
       <file name="/fragment.js" timestamp="1545218228201">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -149,6 +152,7 @@
         <mark key="^" line="80" column="28" />
         <mark key="." line="80" column="28" />
       </file>
+      <file name="/sentry.yaml" timestamp="1545631871868" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.js" timestamp="1543374501066">
         <mark key="'" line="1" column="9" />
         <mark key="[" line="3" column="2" />
@@ -216,7 +220,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1545627743377">
+      <file name="/JavaScript Console" timestamp="1545627761130">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -347,12 +351,12 @@
         <mark key="." line="179" column="24" />
         <mark key="^" line="179" column="24" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" timestamp="1545627746537">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" timestamp="1545631796456">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="53" column="8" />
-        <mark key="^" line="53" column="32" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="50" column="6" />
+        <mark key="]" line="50" column="6" />
+        <mark key="^" line="50" column="6" />
+        <mark key="." line="50" column="6" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/connector-rtmp-app.json" timestamp="1541643787602">
         <mark key="[" line="0" column="0" />
@@ -489,14 +493,14 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgUmF2ZW4uY2FwdHVyZUV4Y2VwdGlvbihuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpKQp9LCAxMDAwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>SENTRY_ENVIRONMENT</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>captureMessage</text>
+        <text>{other: 123}</text>
       </register>
       <register name="/" type="4">
         <text>raven</text>
@@ -505,37 +509,37 @@
         <text encoding="base64">ICAgIGNiKG51bGwsIHtvazogZmFsc2UsIG1zZzogJ0RldmljZU9mZmxpbmUnfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgUmF2ZW4uY2FwdHVyZUV4Y2VwdGlvbihuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpKQp9LCAxMDAwKQo=</text>
+        <text encoding="base64">CnNldFRpbWVvdXQoKCkgPT4gewogIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tJywgcHJvY2Vzcy5lbnYubmFtZXNwYWNlKQogIFJhdmVuLmNhcHR1cmVFeGNlcHRpb24obmV3IEVycm9yKCd6eWYgdGVzdCBuYW1lc3BhY2UnKSwge3RhZ3M6IHtvdGhlcjogMTIzfX0pCn0sIDEwMDApCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgUmF2ZW4uY2FwdHVyZUV4Y2VwdGlvbihuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpKQp9LCAxMDAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHsK</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJ3p5ZiBsbGxsbGxsbGxsJykK</text>
+        <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgbmV3IFByb21pc2UoKHJlcywgcmVqKSA9PiB7CiAgICBjb25zb2xlLmVycm9yKCd6eWYgbGxsbGxsbGxsbCcpCgogICAgcmVqKCBuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpKQogIH0pCn0sIDEwMDApCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJ3p5ZiBsbGxsbGxsbGxsJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0aHJvdyBuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpCg==</text>
+        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgbmV3IFByb21pc2UoKHJlcywgcmVqKSA9PiB7CiAgICBjb25zb2xlLmVycm9yKCd6eWYgbGxsbGxsbGxsbCcpCgogICAgcmVqKCBuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpKQogIH0pCn0sIDEwMDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmUK</text>
+        <text encoding="base64">ICB0aHJvdyBuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
