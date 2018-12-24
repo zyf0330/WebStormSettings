@@ -65,22 +65,17 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/sentry.yaml" timestamp="1541647585067">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="5" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/sentry.yaml" timestamp="1545626774191">
+        <mark key="[" line="1" column="100" />
+        <mark key="]" line="1" column="99" />
+        <mark key="^" line="1" column="99" />
+        <mark key="." line="1" column="99" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" timestamp="1545015632149">
         <mark key="'" line="132" column="40" />
         <mark key="[" line="132" column="40" />
         <mark key="]" line="132" column="40" />
         <mark key="." line="132" column="40" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1545115655752">
-        <mark key="[" line="260" column="11" />
-        <mark key="]" line="260" column="11" />
-        <mark key="." line="260" column="11" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1545015528002">
         <mark key="'" line="98" column="6" />
@@ -345,11 +340,12 @@
         <mark key="." line="179" column="24" />
         <mark key="^" line="179" column="24" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" timestamp="1545623548146">
-        <mark key="[" line="43" column="30" />
-        <mark key="]" line="43" column="29" />
-        <mark key="^" line="43" column="29" />
-        <mark key="." line="43" column="29" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" timestamp="1545626816988">
+        <mark key="'" line="29" column="1" />
+        <mark key="[" line="53" column="1" />
+        <mark key="]" line="53" column="5" />
+        <mark key="^" line="53" column="5" />
+        <mark key="." line="53" column="5" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/connector-rtmp-app.json" timestamp="1541643787602">
         <mark key="[" line="0" column="0" />
@@ -384,11 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
-      <jump line="141" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
-      <jump line="142" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
-      <jump line="145" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
-      <jump line="147" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
       <jump line="10" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
       <jump line="54" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
       <jump line="8" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
@@ -484,16 +475,21 @@
       <jump line="34" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" />
       <jump line="82" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
       <jump line="56" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
+      <jump line="43" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" />
+      <jump line="46" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" />
+      <jump line="15" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" />
+      <jump line="29" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ3JwY1NlcnZlci50cnlTaHV0ZG93bigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>tinder</text>
+        <text>deploy-environment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbnZhbGlkUmVxdWVzdGVyXD4=</text>
@@ -502,37 +498,37 @@
         <text encoding="base64">ICAgIGNiKG51bGwsIHtvazogZmFsc2UsIG1zZzogJ0RldmljZU9mZmxpbmUnfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ3JwY1NlcnZlci50cnlTaHV0ZG93bigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIOWIpOaWreacieaXoAo=</text>
+        <text encoding="base64">ICAgICAgICAndGluZGVyLW5hbWVzcGFjZSc6IHByb2Nlc3MuZW52Lm5hbWVzcGFjZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZ3JwY1NlcnZlci50cnlTaHV0ZG93bigpCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbyh7c2Vzc2lvbklkLCByb29tSWQsIGRldmljZUFsaWFzOiBkZXZpY2VVaWQsIGRldmljZUluZm9zLCBkZXZpY2VDb25maWd9LCAnRGV2aWNlU3RhdHVzQ2hhbmdlJykK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAvLyBUT0RPIOWIpOaWreacieaXoAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdhdGNoZXIgPSB3YXRjaGVyCg==</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbyh7c2Vzc2lvbklkLCByb29tSWQsIGRldmljZUFsaWFzOiBkZXZpY2VVaWQsIGRldmljZUluZm9zLCBkZXZpY2VDb25maWd9LCAnRGV2aWNlU3RhdHVzQ2hhbmdlJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByZXR0eVByaW50OiB7Zm9yY2VDb2xvcjogdHJ1ZX0sCg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIOWIpOaWreacieaXoAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHdhdGNoZXIgPSB3YXRjaGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChxdWV1ZSkgewo=</text>
+        <text encoding="base64">ICAgIHByZXR0eVByaW50OiB7Zm9yY2VDb2xvcjogdHJ1ZX0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
