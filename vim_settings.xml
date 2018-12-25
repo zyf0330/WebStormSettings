@@ -264,7 +264,7 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545724326019">
+      <file name="/Dummy.txt" timestamp="1545724418414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -382,6 +382,9 @@
         <mark key="^" line="26" column="22" />
         <mark key="." line="57" column="24" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" timestamp="1545728813206">
+        <mark key="'" line="71" column="36" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/zmqServer.js" timestamp="1542798719269">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="33" />
@@ -390,9 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
-      <jump line="159" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
-      <jump line="56" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
       <jump line="27" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
       <jump line="264" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
       <jump line="265" column="40" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
@@ -490,19 +490,22 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" />
       <jump line="174" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="60" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
+      <jump line="126" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
+      <jump line="71" column="36" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>exiting</text>
+        <text>dep: 更新依赖，更新 grpc bind api</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>ex</text>
+        <text>dep: 更新依赖，更新 grpc bind api</text>
       </register>
       <register name="/" type="4">
-        <text>stop</text>
+        <text>replace</text>
       </register>
       <register name="0" type="4">
         <text>exiting</text>
@@ -545,9 +548,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stop</last-search>
+      <last-search>replace</last-search>
       <last-offset />
-      <last-pattern>stop</last-pattern>
+      <last-pattern>replace</last-pattern>
       <last-replace>Int</last-replace>
       <last-substitute>roomid</last-substitute>
       <last-dir>1</last-dir>
@@ -555,7 +558,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
         <entry>roomid</entry>
@@ -575,6 +577,7 @@
         <entry>sentry</entry>
         <entry>raven</entry>
         <entry>stop</entry>
+        <entry>replace</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
