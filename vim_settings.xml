@@ -295,6 +295,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/project/duobei/node-rtmp-message-server/src/Socket.ts" timestamp="1545882616421">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="32" column="4" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app-docker.yml" timestamp="1542273582505">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="49" />
@@ -504,52 +510,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feat(log): 添加标记 producer 区分系统和业务日志。更新 pino</text>
+        <text>// TODO</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat(log): 添加标记 producer 区分系统和业务日志。更新 pino</text>
+        <text>// TODO</text>
       </register>
       <register name="/" type="4">
         <text>sdc\.</text>
       </register>
-      <register name="0" type="4">
-        <text>commandNameToSDC</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY29ubi5vbigndGltZW91dCcsIHRoaXMuX29uU29ja2V0RXJyb3IuYmluZCh0aGlzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmKGV4aXRpbmcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnNldFRpbWVvdXQoKCkgPT4gewogIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tJywgcHJvY2Vzcy5lbnYubmFtZXNwYWNlKQogIFJhdmVuLmNhcHR1cmVFeGNlcHRpb24obmV3IEVycm9yKCd6eWYgdGVzdCBuYW1lc3BhY2UnKSwge3RhZ3M6IHtvdGhlcjogMTIzfX0pCn0sIDEwMDApCg==</text>
+        <text encoding="base64">ICAgIGlmKGV4aXRpbmcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgUmF2ZW4uY2FwdHVyZUV4Y2VwdGlvbihuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpKQp9LCAxMDAwKQo=</text>
+        <text encoding="base64">CnNldFRpbWVvdXQoKCkgPT4gewogIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tJywgcHJvY2Vzcy5lbnYubmFtZXNwYWNlKQogIFJhdmVuLmNhcHR1cmVFeGNlcHRpb24obmV3IEVycm9yKCd6eWYgdGVzdCBuYW1lc3BhY2UnKSwge3RhZ3M6IHtvdGhlcjogMTIzfX0pCn0sIDEwMDApCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgUmF2ZW4uY2FwdHVyZUV4Y2VwdGlvbihuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpKQp9LCAxMDAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHsK</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJ3p5ZiBsbGxsbGxsbGxsJykK</text>
+        <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgbmV3IFByb21pc2UoKHJlcywgcmVqKSA9PiB7CiAgICBjb25zb2xlLmVycm9yKCd6eWYgbGxsbGxsbGxsbCcpCgogICAgcmVqKCBuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpKQogIH0pCn0sIDEwMDApCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJ3p5ZiBsbGxsbGxsbGxsJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0aHJvdyBuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpCg==</text>
+        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgbmV3IFByb21pc2UoKHJlcywgcmVqKSA9PiB7CiAgICBjb25zb2xlLmVycm9yKCd6eWYgbGxsbGxsbGxsbCcpCgogICAgcmVqKCBuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpKQogIH0pCn0sIDEwMDApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
