@@ -278,7 +278,7 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545900780664">
+      <file name="/Dummy.txt" timestamp="1545900790875">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -520,13 +520,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_msg</text>
+        <text>fix(vote): 错误取值。完了会手动合并到 master，和前面的提交</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>_msg</text>
+        <text>fix(vote): 错误取值。完了会手动合并到 master，和前面的提交</text>
       </register>
       <register name="/" type="4">
         <text>sdc\.</text>
