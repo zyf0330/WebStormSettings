@@ -271,10 +271,10 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545730705394">
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="0" column="42" />
-        <mark key="." line="0" column="42" />
+      <file name="/Dummy.txt" timestamp="1545895144890">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="42" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
@@ -396,8 +396,12 @@
         <mark key="^" line="26" column="22" />
         <mark key="." line="57" column="24" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" timestamp="1545728813206">
-        <mark key="'" line="71" column="36" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" timestamp="1545895161779">
+        <mark key="'" line="75" column="36" />
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="27" />
+        <mark key="^" line="24" column="36" />
+        <mark key="." line="24" column="27" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/zmqServer.js" timestamp="1542798719269">
         <mark key="[" line="10" column="32" />
@@ -510,19 +514,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>// TODO</text>
+        <text>fix(statsd): command 中可能包括 .，影响 statsd 收集数据</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>// TODO</text>
+        <text>fix(statsd): command 中可能包括 .，影响 statsd 收集数据</text>
       </register>
       <register name="/" type="4">
         <text>sdc\.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29ubi5vbigndGltZW91dCcsIHRoaXMuX29uU29ja2V0RXJyb3IuYmluZCh0aGlzKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>error</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
