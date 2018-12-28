@@ -88,11 +88,11 @@
         <mark key="]" line="132" column="40" />
         <mark key="." line="132" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1545990356643">
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="28" column="6" />
-        <mark key="." line="28" column="6" />
-        <mark key="^" line="28" column="6" />
+      <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1545993595716">
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="25" column="42" />
+        <mark key="^" line="25" column="41" />
+        <mark key="." line="25" column="42" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1545015528002">
         <mark key="'" line="98" column="6" />
@@ -541,14 +541,14 @@
       <jump line="11" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>DEFAULT_KEEPALIVE_PERMIT_WITHOUT_CALLS</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncnBjQ2xpZW50XD4=</text>
@@ -557,43 +557,37 @@
         <text>initial_reconnect_backoff_ms</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXEoKQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBncnBjQ2xpZW50LnNheUhlbGxvKAogIC8vICAge25hbWU6ICd6eWYnLCBlOiAyfSwKICAvLyAgIHtkZWFkbGluZTogRGF0ZS5ub3coKSArIDUwMDB9LCAoZXJyLCByZXNwKSA9PiB7CiAgLy8gICAgIGNvbnNvbGUubG9nKGVyciwgcmVzcCkKICAvLyAgICAgLy8gcmVzcG9uc2UuZW5kKCkKICAvLyAgICAgLy8gZ3JwY0NsaWVudC5jbG9zZSgpCiAgLy8gICB9KQo=</text>
+        <text encoding="base64">cHJvY2Vzcy5vbignU0lHVVNSMicsIHJlcSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwK</text>
+        <text encoding="base64">bGV0IG9uY2UgPSBmYWxzZQo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwK</text>
+        <text encoding="base64">ICBpZihvbmNlKXsKICAgIHJldHVybgogIH0KICBvbmNlID0gdHJ1ZQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAvLyAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwKICAvLyAnZ3JwYy5taW5fcmVjb25uZWN0X2JhY2tvZmZfbXMnOiAxMDAwLAogIC8vICdncnBjLm1heF9yZWNvbm5lY3RfYmFja29mZl9tcyc6IDEwMDAwLA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBvbmNlID0gdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>refact: 拆分 Service 到另一个项目
-其他包括：
-	移除 appConfig 的加载
-	不再需要 bin 中 confd 脚本
-	edge 配置现在从线上获取 service 地址
-	sentry 现在使用 connector 自己的，修改其 etcd 键
-	移除路由到 service 时添加 portOffset</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvLyBncnBjQ2xpZW50LnNheUhlbGxvKAogIC8vICAge25hbWU6ICd6eWYnLCBlOiAyfSwKICAvLyAgIHtkZWFkbGluZTogRGF0ZS5ub3coKSArIDUwMDB9LCAoZXJyLCByZXNwKSA9PiB7CiAgLy8gICAgIGNvbnNvbGUubG9nKGVyciwgcmVzcCkKICAvLyAgICAgLy8gcmVzcG9uc2UuZW5kKCkKICAvLyAgICAgLy8gZ3JwY0NsaWVudC5jbG9zZSgpCiAgLy8gICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmKGV4aXRpbmcpCg==</text>
+        <text encoding="base64">ICAvLyAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
