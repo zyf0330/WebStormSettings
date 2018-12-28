@@ -88,6 +88,12 @@
         <mark key="]" line="132" column="40" />
         <mark key="." line="132" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1545982761646">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
+      </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1545015528002">
         <mark key="'" line="98" column="6" />
         <mark key="[" line="160" column="0" />
@@ -373,6 +379,12 @@
         <mark key="^" line="36" column="91" />
         <mark key="." line="36" column="92" />
       </file>
+      <file name="$USER_HOME$/Desktop/test/server.js" timestamp="1545982768579">
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1545218867740">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="179" column="21" />
@@ -530,19 +542,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>refact: 拆分 Service 到另一个项目
-其他包括：
-	移除 appConfig 的加载
-	不再需要 bin 中 confd 脚本
-	edge 配置现在从线上获取 service 地址
-	sentry 现在使用 connector 自己的，修改其 etcd 键
-	移除路由到 service 时添加 portOffset</text>
+        <text>}</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>apps</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncnBjQ2xpZW50XD4=</text>
@@ -550,7 +556,13 @@
       <register name="0" type="4">
         <text>error</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="2">
+        <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>refact: 拆分 Service 到另一个项目
 其他包括：
 	移除 appConfig 的加载
@@ -559,35 +571,29 @@
 	sentry 现在使用 connector 自己的，修改其 etcd 键
 	移除路由到 service 时添加 portOffset</text>
       </register>
-      <register name="q" type="2">
-        <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKGV4aXRpbmcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnNldFRpbWVvdXQoKCkgPT4gewogIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tJywgcHJvY2Vzcy5lbnYubmFtZXNwYWNlKQogIFJhdmVuLmNhcHR1cmVFeGNlcHRpb24obmV3IEVycm9yKCd6eWYgdGVzdCBuYW1lc3BhY2UnKSwge3RhZ3M6IHtvdGhlcjogMTIzfX0pCn0sIDEwMDApCg==</text>
+        <text encoding="base64">ICAgIGlmKGV4aXRpbmcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgUmF2ZW4uY2FwdHVyZUV4Y2VwdGlvbihuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpKQp9LCAxMDAwKQo=</text>
+        <text encoding="base64">CnNldFRpbWVvdXQoKCkgPT4gewogIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tJywgcHJvY2Vzcy5lbnYubmFtZXNwYWNlKQogIFJhdmVuLmNhcHR1cmVFeGNlcHRpb24obmV3IEVycm9yKCd6eWYgdGVzdCBuYW1lc3BhY2UnKSwge3RhZ3M6IHtvdGhlcjogMTIzfX0pCn0sIDEwMDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgUmF2ZW4uY2FwdHVyZUV4Y2VwdGlvbihuZXcgRXJyb3IoJ3p5ZiB0ZXN0IG5hbWVzcGFjZScpKQp9LCAxMDAwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHsK</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJ3p5ZiBsbGxsbGxsbGxsJykK</text>
+        <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>466</text>
