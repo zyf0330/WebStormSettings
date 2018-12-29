@@ -95,7 +95,6 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="160" column="10" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/node_modules/amqplib/lib/channel.js" timestamp="1545898842562" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1541644623822">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="8" />
@@ -129,6 +128,13 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="3" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1546070208877">
+        <mark key="'" line="14" column="6" />
+        <mark key="[" line="47" column="70" />
+        <mark key="]" line="47" column="7" />
+        <mark key="^" line="47" column="7" />
+        <mark key="." line="47" column="83" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/config/default.yaml" timestamp="1543380997270">
         <mark key="'" line="21" column="24" />
@@ -415,7 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
       <jump line="61" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="411" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="412" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
@@ -515,6 +520,7 @@
       <jump line="69" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
       <jump line="20" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
       <jump line="11" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
+      <jump line="14" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -527,7 +533,7 @@
         <text>默认</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncnBjQ2xpZW50XD4=</text>
+        <text encoding="base64">XDxyYXZlblRhZ3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbG9nLmVycm9yKGluZm8pCg==</text>
@@ -570,9 +576,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncnBjQ2xpZW50XD4=</last-search>
+      <last-search encoding="base64">XDxyYXZlblRhZ3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncnBjQ2xpZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyYXZlblRhZ3NcPg==</last-pattern>
       <last-replace>Int</last-replace>
       <last-substitute>replace</last-substitute>
       <last-dir>1</last-dir>
@@ -580,7 +586,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onchat</entry>
         <entry>chat</entry>
         <entry>main</entry>
         <entry>pushscheduler fa</entry>
@@ -600,6 +605,7 @@
         <entry>new grpc</entry>
         <entry>grpcclient</entry>
         <entry encoding="base64">XDxncnBjQ2xpZW50XD4=</entry>
+        <entry encoding="base64">XDxyYXZlblRhZ3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>33</entry>
