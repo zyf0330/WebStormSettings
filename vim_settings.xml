@@ -3,11 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/node_modules/raven/lib/client.js" timestamp="1545631958871">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="61" column="34" />
-      </file>
-      <file name="/fragment.js" timestamp="1545218228201">
+      <file name="/fragment.js" timestamp="1546501462291">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -44,12 +40,12 @@
         <mark key="." line="96" column="38" />
         <mark key="^" line="96" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" timestamp="1546486924491">
-        <mark key="'" line="17" column="15" />
-        <mark key="[" line="40" column="18" />
-        <mark key="]" line="40" column="23" />
-        <mark key="^" line="40" column="23" />
-        <mark key="." line="40" column="23" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" timestamp="1546501493214">
+        <mark key="'" line="42" column="23" />
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="42" column="30" />
+        <mark key="^" line="42" column="30" />
+        <mark key="." line="42" column="30" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" timestamp="1545730728226">
         <mark key="'" line="97" column="8" />
@@ -276,7 +272,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1546425971987">
+      <file name="/JavaScript Console" timestamp="1546501446761">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -289,6 +285,7 @@
         <mark key="^" line="52" column="116" />
         <mark key="." line="52" column="116" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/node_modules/etcd3/lib/src/watch.js" timestamp="1546501022528" />
       <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1542091690669">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="6" />
@@ -389,10 +386,6 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="24" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" timestamp="1545124982478">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="1" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1545723809744">
         <mark key="'" line="60" column="2" />
         <mark key="[" line="36" column="92" />
@@ -411,6 +404,12 @@
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1546501468905">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" timestamp="1545631796456">
         <mark key="'" line="0" column="0" />
@@ -446,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="39" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
       <jump line="12" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
       <jump line="19" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
       <jump line="14" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
@@ -546,22 +544,23 @@
       <jump line="235" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/config.js" />
       <jump line="237" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/config.js" />
       <jump line="238" column="42" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/config.js" />
+      <jump line="42" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix(statsd): command 中可能包括 .，影响 statsd 收集数据</text>
+        <text>production</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>fix(statsd): command 中可能包括 .，影响 statsd 收集数据</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBDb25maWdcPg==</text>
+        <text>my</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmVycm9yKGluZm8pCg==</text>
+      <register name="0" type="4">
+        <text>ETCDWatchError</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBhcHBDb25maWcgPSB7fQo=</text>
@@ -601,9 +600,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBDb25maWdcPg==</last-search>
+      <last-search>my</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBDb25maWdcPg==</last-pattern>
+      <last-pattern>my</last-pattern>
       <last-replace>Int</last-replace>
       <last-substitute>replace</last-substitute>
       <last-dir>1</last-dir>
@@ -611,7 +610,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\.start</entry>
         <entry>queue</entry>
         <entry>qok</entry>
         <entry>this.wa</entry>
@@ -631,6 +629,7 @@
         <entry>pushscheduler fa</entry>
         <entry encoding="base64">XDxnZXRBbGxcPg==</entry>
         <entry encoding="base64">XDxhcHBDb25maWdcPg==</entry>
+        <entry>my</entry>
       </history-search>
       <history-cmd>
         <entry>33</entry>
