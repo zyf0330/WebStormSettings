@@ -44,12 +44,12 @@
         <mark key="." line="96" column="38" />
         <mark key="^" line="96" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" timestamp="1546425935763">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" timestamp="1546486924491">
         <mark key="'" line="17" column="15" />
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="53" column="31" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="53" column="31" />
+        <mark key="[" line="40" column="18" />
+        <mark key="]" line="40" column="23" />
+        <mark key="^" line="40" column="23" />
+        <mark key="." line="40" column="23" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" timestamp="1545730728226">
         <mark key="'" line="97" column="8" />
@@ -308,7 +308,7 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546425995125">
+      <file name="/Dummy.txt" timestamp="1546426114281">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -535,14 +535,14 @@
       <jump line="17" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>feat(grpcClient): grpc 优化内置重连间隔，去掉手动重连</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat(grpcClient): grpc 优化内置重连间隔，去掉手动重连</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRBbGxcPg==</text>
@@ -550,39 +550,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbG9nLmVycm9yKGluZm8pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>async function getAll() {
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhd2FpdCBnZXRBbGwoKQo=</text>
+        <text encoding="base64">ICh3YXRjaGVyID0+IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0cnkgewogICAgY29uc3QgbGlzdCA9IGF3YWl0IGNsaWVudC5nZXRBbGwoKS5wcmVmaXgoaWRjUHJlZml4KTsKICAgIGNvbnN0IHRhcmdldCA9IGNvbnZlcnQobGlzdCwgaWRjUHJlZml4KTsKICAgIGNvbm5lY3RvclN0b3JlLnVwZGF0ZSh0YXJnZXQpOwogIH0gY2F0Y2ggKGVycm9yKSB7CiAgICBsb2dnZXIuZXJyb3Ioe2Vycm9yfSwgJ0dldEFsbEZhaWwnKQogICAgdGhyb3cgbmV3IEVycm9yKCdFVENER2V0QWxsRmFpbCcpCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBfLmVudHJpZXMK</text>
+        <text encoding="base64">CiAgY2xpZW50LndhdGNoKCkucHJlZml4KGlkY1ByZWZpeCkuY3JlYXRlKCkudGhlbih3YXRjaGVyID0+IHsKICAgIHdhdGNoZXIKICAgICAgLm9uKCdkaXNjb25uZWN0ZWQnLCAoKSA9PiBsb2dnZXIuaW5mbygnZGlzY29ubmVjdGVkLi4uJykpCiAgICAgIC5vbignY29ubmVjdGVkJywgKCkgPT4gbG9nZ2VyLmluZm8oJ3N1Y2Nlc3NmdWxseSByZWNvbm5lY3RlZCEnKSkKICAgICAgLm9uKCdkZWxldGUnLCByZXMgPT4gewogICAgICAgIGxvZ2dlci5pbmZvKGBDb25uZWN0b3IgJHtyZXMua2V5LnRvU3RyaW5nKCl9IGlzIGRlbGV0ZWRgKTsKICAgICAgICBjb25zdCB0YXJnZXQgPSBjb252ZXJ0KHsgW3Jlcy5rZXkudG9TdHJpbmcoKV06ICd7fScgfSk7CiAgICAgICAgY29ubmVjdG9yU3RvcmUudXBkYXRlKHRhcmdldCwgdHJ1ZSk7CiAgICAgIH0pCiAgICAgIC5vbigncHV0JywgcmVzID0+IHsKICAgICAgICBsb2dnZXIuaW5mbyhgQ29ubmVjdG9yICR7cmVzLmtleS50b1N0cmluZygpfSBpcyBhZGRlZGApOwogICAgICAgIGNvbnN0IHRhcmdldCA9IGNvbnZlcnQoeyBbcmVzLmtleS50b1N0cmluZygpXTogcmVzLnZhbHVlLnRvU3RyaW5nKCkgfSk7CiAgICAgICAgY29ubmVjdG9yU3RvcmUudXBkYXRlKHRhcmdldCwgZmFsc2UpOwogICAgICB9KQogICAgICAub24oJ2Vycm9yJywgZXJyb3IgPT4gewogICAgICAgIGxvZ2dlci5lcnJvcih7IGVycm9yIH0sICdXYXRjaCcpCiAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdFVENEV2F0Y2hFcnJvcicpCiAgICAgIH0pCiAgfSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>async function getAll() {
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgbG9nZ2VyLmluZm8oY29ubmVjdG9ycywgJ0FsaXZlQ29ubmVjdG9yJyk7Cn0sIDEwMDApOwo=</text>
+        <text encoding="base64">ICBhd2FpdCBnZXRBbGwoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcignRVRDREdldEFsbEZhaWwnKQo=</text>
+        <text encoding="base64">ICB0cnkgewogICAgY29uc3QgbGlzdCA9IGF3YWl0IGNsaWVudC5nZXRBbGwoKS5wcmVmaXgoaWRjUHJlZml4KTsKICAgIGNvbnN0IHRhcmdldCA9IGNvbnZlcnQobGlzdCwgaWRjUHJlZml4KTsKICAgIGNvbm5lY3RvclN0b3JlLnVwZGF0ZSh0YXJnZXQpOwogIH0gY2F0Y2ggKGVycm9yKSB7CiAgICBsb2dnZXIuZXJyb3Ioe2Vycm9yfSwgJ0dldEFsbEZhaWwnKQogICAgdGhyb3cgbmV3IEVycm9yKCdFVENER2V0QWxsRmFpbCcpCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBfLmVudHJpZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0cnkgewogICAgY29uc3QgbGlzdCA9IGF3YWl0IGNsaWVudC5nZXRBbGwoKS5wcmVmaXgoaWRjUHJlZml4KTsKICAgIGNvbnN0IHRhcmdldCA9IGNvbnZlcnQobGlzdCwgaWRjUHJlZml4KTsKICAgIGNvbm5lY3RvclN0b3JlLnVwZGF0ZSh0YXJnZXQpOwogIH0gY2F0Y2ggKGVycm9yKSB7CiAgICBsb2dnZXIuZXJyb3Ioe2Vycm9yfSwgJycpCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
