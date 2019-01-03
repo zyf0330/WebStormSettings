@@ -40,12 +40,11 @@
         <mark key="." line="96" column="38" />
         <mark key="^" line="96" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" timestamp="1546501493214">
-        <mark key="'" line="42" column="23" />
-        <mark key="[" line="42" column="30" />
-        <mark key="]" line="42" column="30" />
-        <mark key="^" line="42" column="30" />
-        <mark key="." line="42" column="30" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" timestamp="1546507701262">
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="43" column="20" />
+        <mark key="." line="43" column="6" />
+        <mark key="^" line="43" column="5" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" timestamp="1545730728226">
         <mark key="'" line="97" column="8" />
@@ -237,10 +236,6 @@
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/connectorStore.js" timestamp="1546425967324">
         <mark key="'" line="3" column="6" />
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="53" />
-        <mark key="^" line="21" column="45" />
-        <mark key="." line="21" column="53" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/etcdConfig" timestamp="1542335313825">
         <mark key="[" line="7" column="10" />
@@ -266,13 +261,16 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
+      <file name="events.js" timestamp="1546506419758">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" timestamp="1545217299732">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1546501446761">
+      <file name="/JavaScript Console" timestamp="1546506390247">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -285,7 +283,7 @@
         <mark key="^" line="52" column="116" />
         <mark key="." line="52" column="116" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/node_modules/etcd3/lib/src/watch.js" timestamp="1546501022528" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/node_modules/etcd3/lib/src/watch.js" timestamp="1546506931334" />
       <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1542091690669">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="6" />
@@ -318,7 +316,7 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546499811093">
+      <file name="/Dummy.txt" timestamp="1546507767542">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -399,18 +397,19 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1546424472678">
-        <mark key="'" line="77" column="11" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1546508260919">
+        <mark key="[" line="118" column="23" />
+        <mark key="]" line="118" column="39" />
+        <mark key="." line="118" column="23" />
+        <mark key="^" line="117" column="45" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1546501468905">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1546501528415">
         <mark key="[" line="9" column="38" />
         <mark key="]" line="9" column="15" />
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/node_modules/etcd3/lib/src/rpc.js" timestamp="1546505986463" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" timestamp="1545631796456">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="6" />
@@ -548,52 +547,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>production</text>
+        <text>ServiceHandleFail</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text>ServiceHandleFail</text>
       </register>
       <register name="/" type="4">
         <text>my</text>
       </register>
       <register name="0" type="4">
-        <text>ETCDWatchError</text>
+        <text>PushToClientFail</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhcHBDb25maWcgPSB7fQo=</text>
+        <text encoding="base64">ICAgIC5vbignY29ubmVjdGVkJywgKCkgPT4gbG9nZ2VyLmluZm8oJ3N1Y2Nlc3NmdWxseSByZWNvbm5lY3RlZCEnKSkK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IGFwcENvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBleGl0IHB1c2hlcgogICAgICAgIHRocm93IG5ldyBFcnJvcignRVRDRERpc2Nvbm5lY3RlZCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0Tm90Q29uZmlnLmFwcENvbmZpZyA9IGFwcENvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzLmV4Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsb2cuaW5mbyhlLm1lc3NhZ2UsICdBcHBDb25maWdOb3QnKQo=</text>
+        <text encoding="base64">ICAgICAgLm9uKCdjb25uZWN0ZWQnLCAoKSA9PiBsb2dnZXIuaW5mbygnc3VjY2Vzc2Z1bGx5IHJlY29ubmVjdGVkIScpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHJ5IHsKfSBjYXRjaCAoZSkgewogIGxvZy5pbmZvKHtlcnJvcjogZX0sIGBhcHAgcHJvdG8gbG9hZCBmYWlsIGZyb20gJHthcHBQcm90b1BhdGh9YCkKfQo=</text>
+        <text encoding="base64">ICBhcHBDb25maWcgPSB7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2cuaW5mbwo=</text>
+        <text encoding="base64">bGV0IGFwcENvbmZpZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fWVsc2V7CiAgCg==</text>
+        <text encoding="base64">ZXhwb3J0Tm90Q29uZmlnLmFwcENvbmZpZyA9IGFwcENvbmZpZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2cuaW5mbyhlLm1lc3NhZ2UsICdBcHBDb25maWdOb3QnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcm90b3MuYWRkUHJvdG8ocHJvdG9zLCBhcHBQcm90b1BhdGgpCg==</text>
+        <text encoding="base64">dHJ5IHsKfSBjYXRjaCAoZSkgewogIGxvZy5pbmZvKHtlcnJvcjogZX0sIGBhcHAgcHJvdG8gbG9hZCBmYWlsIGZyb20gJHthcHBQcm90b1BhdGh9YCkKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
