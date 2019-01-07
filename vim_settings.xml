@@ -236,9 +236,6 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/connectorStore.js" timestamp="1546425967324">
-        <mark key="'" line="3" column="6" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/etcdConfig" timestamp="1542335313825">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="14" />
@@ -388,8 +385,8 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="24" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1545723809744">
-        <mark key="'" line="60" column="2" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1546844014855">
+        <mark key="'" line="67" column="19" />
         <mark key="[" line="36" column="92" />
         <mark key="]" line="40" column="5" />
         <mark key="^" line="36" column="91" />
@@ -440,12 +437,12 @@
         <mark key="." line="494" column="67" />
         <mark key="^" line="494" column="67" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" timestamp="1545895161779">
-        <mark key="'" line="75" column="36" />
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="27" />
-        <mark key="^" line="24" column="36" />
-        <mark key="." line="24" column="27" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" timestamp="1546843834096">
+        <mark key="'" line="25" column="20" />
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="22" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="25" column="22" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-zwt-center/node_modules/tinder-center-sdk/src/utils/log.js" timestamp="1546832519849" />
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/zmqServer.js" timestamp="1542798719269">
@@ -456,10 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="46" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="31" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
-      <jump line="423" column="34" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="156" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
       <jump line="173" column="5" filename="$USER_HOME$/Desktop/api.html" />
       <jump line="146" column="3" filename="$USER_HOME$/Desktop/xue.html" />
@@ -556,19 +549,23 @@
       <jump line="65" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
       <jump line="113" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
       <jump line="97" column="39" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
+      <jump line="25" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
+      <jump line="66" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
+      <jump line="109" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
+      <jump line="67" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Device</text>
+        <text>socket.l</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>Device</text>
+        <text>socket.l</text>
       </register>
       <register name="/" type="4">
-        <text>close</text>
+        <text>disconnect</text>
       </register>
       <register name="0" type="4">
         <text>InvalidRequest</text>
@@ -611,9 +608,9 @@
       </register>
     </registers>
     <search>
-      <last-search>close</last-search>
+      <last-search>disconnect</last-search>
       <last-offset />
-      <last-pattern>close</last-pattern>
+      <last-pattern>disconnect</last-pattern>
       <last-replace>Int</last-replace>
       <last-substitute>replace</last-substitute>
       <last-dir>1</last-dir>
@@ -621,7 +618,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJbnZhbGlkUmVxdWVzdGVyXD4=</entry>
         <entry>sentry</entry>
         <entry>stop</entry>
         <entry>replace</entry>
@@ -641,6 +637,7 @@
         <entry encoding="base64">XDxSYXZlblw+</entry>
         <entry>clearR</entry>
         <entry>close</entry>
+        <entry>disconnect</entry>
       </history-search>
       <history-cmd>
         <entry>33</entry>
