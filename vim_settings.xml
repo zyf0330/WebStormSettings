@@ -141,8 +141,8 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1546070211340">
-        <mark key="'" line="14" column="6" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1546845035758">
+        <mark key="'" line="90" column="8" />
         <mark key="[" line="47" column="70" />
         <mark key="]" line="47" column="7" />
         <mark key="^" line="47" column="7" />
@@ -317,10 +317,10 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546835884416">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1546844121468">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
@@ -438,11 +438,11 @@
         <mark key="^" line="494" column="67" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" timestamp="1546843834096">
-        <mark key="'" line="25" column="20" />
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="25" column="22" />
-        <mark key="^" line="25" column="22" />
-        <mark key="." line="25" column="22" />
+        <mark key="'" line="24" column="20" />
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="22" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-zwt-center/node_modules/tinder-center-sdk/src/utils/log.js" timestamp="1546832519849" />
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/zmqServer.js" timestamp="1542798719269">
@@ -453,9 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
-      <jump line="173" column="5" filename="$USER_HOME$/Desktop/api.html" />
-      <jump line="146" column="3" filename="$USER_HOME$/Desktop/xue.html" />
       <jump line="148" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
       <jump line="135" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
       <jump line="24" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
@@ -553,19 +550,22 @@
       <jump line="66" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="109" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="67" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
+      <jump line="24" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
+      <jump line="74" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
+      <jump line="90" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>socket.l</text>
+        <text>: 监控底层连接 error 并日志记录</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>socket.l</text>
+        <text>: 监控底层连接 error 并日志记录</text>
       </register>
       <register name="/" type="4">
-        <text>disconnect</text>
+        <text>log.error</text>
       </register>
       <register name="0" type="4">
         <text>InvalidRequest</text>
@@ -608,9 +608,9 @@
       </register>
     </registers>
     <search>
-      <last-search>disconnect</last-search>
+      <last-search>log.error</last-search>
       <last-offset />
-      <last-pattern>disconnect</last-pattern>
+      <last-pattern>log.error</last-pattern>
       <last-replace>Int</last-replace>
       <last-substitute>replace</last-substitute>
       <last-dir>1</last-dir>
@@ -618,7 +618,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sentry</entry>
         <entry>stop</entry>
         <entry>replace</entry>
         <entry encoding="base64">XDxjb21tYW5kTmFtZVw+</entry>
@@ -638,6 +637,7 @@
         <entry>clearR</entry>
         <entry>close</entry>
         <entry>disconnect</entry>
+        <entry>log.error</entry>
       </history-search>
       <history-cmd>
         <entry>33</entry>
