@@ -72,6 +72,10 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.3/core-modules/dns.js" timestamp="1546914070513">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="22" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/sentry.yaml" timestamp="1545626774191">
         <mark key="[" line="1" column="100" />
         <mark key="]" line="1" column="99" />
@@ -148,6 +152,7 @@
         <mark key="^" line="47" column="7" />
         <mark key="." line="47" column="117" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.3/core-modules/net.js" timestamp="1546913778613" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/config/default.yaml" timestamp="1543380997270">
         <mark key="'" line="21" column="24" />
         <mark key="[" line="3" column="8" />
@@ -310,16 +315,16 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/node-rtmp-message-server/src/Socket.ts" timestamp="1546912857794">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="37" />
-        <mark key="^" line="174" column="15" />
-        <mark key="." line="164" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/node-rtmp-message-server/src/Socket.ts" timestamp="1546914729140">
+        <mark key="[" line="171" column="27" />
+        <mark key="]" line="171" column="27" />
+        <mark key="^" line="171" column="27" />
+        <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546912832385">
+      <file name="/Dummy.txt" timestamp="1546914735624">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
@@ -553,14 +558,14 @@
       <jump line="90" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ0Vycm9yKCdyYXdTb2NrZXQgZXJyb3InLCBlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>refactor(Socket/command): 现在 command 通过 ack 来传递上层错误</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>refactor(Socket/command): 现在 command 通过 ack 来传递上层错误</text>
       </register>
       <register name="/" type="4">
         <text>log.error</text>
@@ -569,13 +574,13 @@
         <text>'ECONNRESET'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ0Vycm9yKCdyYXdTb2NrZXQgZXJyb3InLCBlKTsK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlICdFQ09OTlJFRlVTRUQnOgo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlICdFSE9TVFVOUkVBQ0gnOgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgbG9nRXJyb3IoJ3Jhd1NvY2tldCBlcnJvcicsIGUpOwo=</text>
@@ -584,22 +589,22 @@
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGUuY29kZSA9PSAnRVBJUEUnIHx8IGUuY29kZSA9PSAnRUNPTk5SRVNFVCcpIHsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGxvZ0Vycm9yKCdyYXdTb2NrZXQgZXJyb3InLCBlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9nRXJyb3IoJ3Jhd1NvY2tldCBlcnJvcicsIGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5lbWl0KCdlcnJvcicsIGUpOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nRXJyb3IoJ3Jhd1NvY2tldCBlcnJvcicsIGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmraTml7blupXlsYIgc29ja2V0IOS8muinpuWPkSBjbG9zZQogICAgICAgIHRoaXMuX2Nsb3NlKCk7CiAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGUuY29kZSA9PSAnRVBJUEUnIHx8IGUuY29kZSA9PSAnRUNPTk5SRVNFVCcpIHsKICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHVpZCB9ID0gSlNPTi5wYXJzZShhd2FpdCByZWRpc0NsaWVudC5oZ2V0KHJlZGlzS2V5LnNlc3Npb25DbGllbnRIYXNoLCBzZXNzaW9uSWQpKQo=</text>
+        <text encoding="base64">ICAgICAgbG9nRXJyb3IoJ3Jhd1NvY2tldCBlcnJvcicsIGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyAK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5lbWl0KCdlcnJvcicsIGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
