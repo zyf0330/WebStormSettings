@@ -358,7 +358,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546934210451">
+      <file name="/Dummy.txt" timestamp="1546934332225">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -602,14 +602,14 @@
       <jump line="4" column="40" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3Qgc2VjcmV0S2V5ID0gJzEyMycK</text>
+      <register name="&quot;" type="4">
+        <text>feat(secret): 现在 secret 改为可配置的 sdk appConfig</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>test: 完善测试脚本</text>
+        <text>feat(secret): 现在 secret 改为可配置的 sdk appConfig</text>
       </register>
       <register name="/" type="4">
         <text>log.error</text>
