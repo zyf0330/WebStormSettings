@@ -66,6 +66,11 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/test.js" timestamp="1546932716772">
+        <mark key="[" line="33" column="2" />
+        <mark key="]" line="33" column="2" />
+        <mark key="." line="33" column="2" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/healthcheck/index.js" timestamp="1543377264108">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="13" column="44" />
@@ -179,6 +184,7 @@
         <mark key="." line="29" column="33" />
         <mark key="^" line="29" column="33" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" timestamp="1546932534125" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.js" timestamp="1543374501066">
         <mark key="'" line="1" column="9" />
         <mark key="[" line="3" column="2" />
@@ -276,12 +282,22 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/schema.json" timestamp="1546933000747">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="47" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" timestamp="1545104198153">
         <mark key="'" line="50" column="4" />
         <mark key="[" line="52" column="116" />
         <mark key="]" line="52" column="116" />
         <mark key="^" line="52" column="116" />
         <mark key="." line="52" column="116" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/util.js" timestamp="1546932980932">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="51" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1542091690669">
         <mark key="[" line="1" column="6" />
@@ -321,7 +337,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546914735624">
+      <file name="/Dummy.txt" timestamp="1546932746531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -559,19 +575,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>refactor(Socket/command): 现在 command 通过 ack 来传递上层错误</text>
+        <text>1000</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>refactor(Socket/command): 现在 command 通过 ack 来传递上层错误</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text>log.error</text>
       </register>
       <register name="0" type="4">
-        <text>'ECONNRESET'</text>
+        <text>'jhsjaaaai8y2193h--dvv78bydf78n2k'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjYXNlICdFQ09OTlJFRlVTRUQnOgo=</text>
@@ -607,7 +623,7 @@
         <text encoding="base64">ICAgICAgdGhpcy5lbWl0KCdlcnJvcicsIGUpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -659,10 +675,10 @@
         <entry>155</entry>
         <entry>11</entry>
         <entry>we</entry>
-        <entry>q</entry>
         <entry>446</entry>
         <entry>466</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
