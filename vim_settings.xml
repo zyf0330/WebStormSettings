@@ -213,7 +213,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547024902148">
+      <file name="/JavaScript Console" timestamp="1547025126723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -323,10 +323,6 @@
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1547024288612">
         <mark key="'" line="6" column="15" />
-        <mark key="[" line="156" column="13" />
-        <mark key="]" line="156" column="18" />
-        <mark key="." line="156" column="18" />
-        <mark key="^" line="156" column="18" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1547022216863">
         <mark key="'" line="26" column="0" />
@@ -465,8 +461,8 @@
       <jump line="26" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0cyA9IG1vZHVsZS5leHBvcnRzID0gewogIFJhdmVuLAogIGJlZm9yZUV4Y2VwdGlvbkV4aXQsCn0K</text>
+      <register name="&quot;" type="4">
+        <text>Call can only be created with Channel.createCall&quot;</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
