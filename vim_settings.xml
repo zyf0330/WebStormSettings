@@ -265,9 +265,6 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="internal/async_hooks.js" timestamp="1546832591562">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/klipper/node_modules/main.cpp" timestamp="1543547318047">
         <mark key="[" line="63" column="50" />
         <mark key="]" line="63" column="73" />
@@ -285,9 +282,6 @@
         <mark key="]" line="52" column="15" />
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
-      </file>
-      <file name="events.js" timestamp="1546506419758">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" timestamp="1545217299732">
         <mark key="[" line="18" column="0" />
@@ -445,19 +439,18 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1546573528886">
-        <mark key="'" line="164" column="18" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-        <mark key="^" line="137" column="7" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1547016697158">
+        <mark key="[" line="160" column="34" />
+        <mark key="]" line="161" column="3" />
+        <mark key="." line="161" column="3" />
+        <mark key="^" line="161" column="3" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1546572797000">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="38" />
-        <mark key="." line="18" column="22" />
-        <mark key="^" line="18" column="21" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1547016781966">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="9" column="4" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/Service.js" timestamp="1546933991472" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" timestamp="1545631796456">
@@ -603,13 +596,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feat(secret): 现在 secret 改为可配置的 sdk appConfig</text>
+        <text>push</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat(secret): 现在 secret 改为可配置的 sdk appConfig</text>
+        <text>push</text>
       </register>
       <register name="/" type="4">
         <text>log.error</text>
@@ -618,34 +611,34 @@
         <text encoding="base64">ICAic2VjcmV0IjogImtoNHNkZ3MzNGh2YzQyYm5oanMtMThidmdzaC12YXMyNGEiIC8vIOato+W8jyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgc2VjcmV0S2V5ID0gJzEyMycK</text>
+        <text encoding="base64">ICBiZWZvcmVFeGl0LnB1c2goY2xlYXJSZXNvdXJjZSkK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
+        <text encoding="base64">Y29uc3Qgc2VjcmV0S2V5ID0gJzEyMycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="8">
         <text encoding="base64">IC8vIOato+W8jyAKIC8vIOato+W8jyA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dGVzdC5qcwp0ZXN0MS5qcwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y29uc3QgYWRkciA9ICdodHRwOi8vbG9jYWxob3N0OjMwMDEnCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">YXBwQ29uZmlnLmpzb24K</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwQ29uZmlnLmpzb24K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
