@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1546501462291">
+      <file name="/fragment.js" timestamp="1547108052932">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1547106920091">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1547108064813">
         <mark key="'" line="42" column="25" />
-        <mark key="[" line="79" column="29" />
-        <mark key="]" line="79" column="29" />
-        <mark key="." line="79" column="29" />
-        <mark key="^" line="79" column="29" />
+        <mark key="[" line="70" column="36" />
+        <mark key="]" line="70" column="74" />
+        <mark key="." line="70" column="37" />
+        <mark key="^" line="70" column="37" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/log.js" timestamp="1545127396279">
         <mark key="[" line="8" column="12" />
@@ -101,12 +101,12 @@
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="51" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1547107145489">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1547108058682">
         <mark key="'" line="149" column="8" />
-        <mark key="[" line="148" column="20" />
-        <mark key="]" line="149" column="27" />
-        <mark key="." line="149" column="27" />
-        <mark key="^" line="149" column="27" />
+        <mark key="[" line="146" column="36" />
+        <mark key="]" line="146" column="36" />
+        <mark key="." line="146" column="36" />
+        <mark key="^" line="146" column="36" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1541487250583">
         <mark key="[" line="18" column="37" />
@@ -120,7 +120,7 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1547107176188">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1547108083248">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="16" />
@@ -139,7 +139,7 @@
         <mark key="." line="29" column="33" />
         <mark key="^" line="29" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" timestamp="1547106543014">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" timestamp="1547107936957">
         <mark key="'" line="46" column="6" />
         <mark key="[" line="77" column="39" />
         <mark key="]" line="77" column="52" />
@@ -212,7 +212,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547107178772">
+      <file name="/JavaScript Console" timestamp="1547107952808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -464,20 +464,20 @@
       <jump line="149" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>rou</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>prepare</text>
       </register>
       <register name="0" type="4">
-        <text>routeByRoomId</text>
+        <text>roomId.substr(roomId.length - 2, 2), 16</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
