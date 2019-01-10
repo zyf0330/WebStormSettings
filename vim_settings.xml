@@ -9,7 +9,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1542801928122">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1547101038365">
+        <mark key="'" line="42" column="25" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -63,10 +64,6 @@
         <mark key="]" line="13" column="44" />
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.3/core-modules/dns.js" timestamp="1546914070513">
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="16" column="22" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/sentry.yaml" timestamp="1545626774191">
         <mark key="[" line="1" column="100" />
@@ -127,8 +124,9 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.3/core-modules/net.js" timestamp="1546913778613" />
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1547018307689" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1547101065735">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/confd/conf.d/streamSyncConfig.js.toml" timestamp="1543216716860">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="14" />
@@ -141,7 +139,9 @@
         <mark key="." line="29" column="33" />
         <mark key="^" line="29" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" timestamp="1547023813878" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" timestamp="1547101059331">
+        <mark key="'" line="26" column="22" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/system/config.spec.js" timestamp="1543381139378">
         <mark key="[" line="58" column="7" />
         <mark key="]" line="58" column="15" />
@@ -213,7 +213,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547027486419">
+      <file name="/JavaScript Console" timestamp="1547027525675">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="0" />
@@ -303,7 +303,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Dispatch.js" timestamp="1544606453245">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Dispatch.js" timestamp="1547101073003">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="13" column="26" />
         <mark key="." line="13" column="26" />
@@ -324,13 +324,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1547024288612">
         <mark key="'" line="6" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1547027493605">
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1547027511577">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/Service.js" timestamp="1546933991472" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/connector-rtmp-app.json" timestamp="1541643787602">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="0" />
@@ -355,18 +354,8 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" timestamp="1547020041899" />
     </filemarks>
     <jumps>
-      <jump line="65" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
-      <jump line="67" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
-      <jump line="172" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
-      <jump line="179" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
-      <jump line="182" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
-      <jump line="178" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
-      <jump line="138" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
-      <jump line="72" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
-      <jump line="161" column="42" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
       <jump line="25" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
       <jump line="10" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" />
       <jump line="34" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" />
@@ -458,19 +447,28 @@
       <jump line="155" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
       <jump line="6" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
       <jump line="26" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" />
+      <jump line="30" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
+      <jump line="43" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
+      <jump line="41" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
+      <jump line="42" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
+      <jump line="69" column="43" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
+      <jump line="26" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
+      <jump line="87" column="33" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UHJvbWlzZS5yZWplY3QobmV3IEVycm9yKDEyMykpCg==</text>
+      <register name="&quot;" type="4">
+        <text>reason</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>Promise.reject(123)</text>
+        <text>reason</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiZWZvcmVFeGNlcHRpb25FeGl0XD4=</text>
+        <text>close</text>
       </register>
       <register name="0" type="4">
         <text>unhandledRejection</text>
@@ -513,9 +511,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiZWZvcmVFeGNlcHRpb25FeGl0XD4=</last-search>
+      <last-search>close</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiZWZvcmVFeGNlcHRpb25FeGl0XD4=</last-pattern>
+      <last-pattern>close</last-pattern>
       <last-replace>Int</last-replace>
       <last-substitute>replace</last-substitute>
       <last-dir>1</last-dir>
@@ -535,7 +533,6 @@
         <entry>raven</entry>
         <entry encoding="base64">XDxSYXZlblw+</entry>
         <entry>clearR</entry>
-        <entry>close</entry>
         <entry>disconnect</entry>
         <entry>log.error</entry>
         <entry>before</entry>
@@ -543,6 +540,7 @@
         <entry>beforeexit</entry>
         <entry encoding="base64">XDxiZWZvcmVFeGl0XD4=</entry>
         <entry encoding="base64">XDxiZWZvcmVFeGNlcHRpb25FeGl0XD4=</entry>
+        <entry>close</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
