@@ -9,12 +9,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1547108064813">
-        <mark key="'" line="42" column="25" />
-        <mark key="[" line="70" column="36" />
-        <mark key="]" line="70" column="74" />
-        <mark key="." line="70" column="37" />
-        <mark key="^" line="70" column="37" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1547109746119">
+        <mark key="'" line="43" column="25" />
+        <mark key="[" line="30" column="57" />
+        <mark key="]" line="30" column="57" />
+        <mark key="^" line="30" column="61" />
+        <mark key="." line="30" column="57" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/log.js" timestamp="1545127396279">
         <mark key="[" line="8" column="12" />
@@ -101,13 +101,6 @@
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="51" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1547108058682">
-        <mark key="'" line="149" column="8" />
-        <mark key="[" line="146" column="36" />
-        <mark key="]" line="146" column="36" />
-        <mark key="." line="146" column="36" />
-        <mark key="^" line="146" column="36" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1541487250583">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="43" />
@@ -120,13 +113,6 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1547108083248">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="16" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/confd/conf.d/streamSyncConfig.js.toml" timestamp="1543216716860">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="14" />
@@ -138,13 +124,6 @@
         <mark key="]" line="29" column="33" />
         <mark key="." line="29" column="33" />
         <mark key="^" line="29" column="33" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" timestamp="1547107936957">
-        <mark key="'" line="46" column="6" />
-        <mark key="[" line="77" column="39" />
-        <mark key="]" line="77" column="52" />
-        <mark key="." line="77" column="52" />
-        <mark key="^" line="77" column="52" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/system/config.spec.js" timestamp="1543381139378">
         <mark key="[" line="58" column="7" />
@@ -254,7 +233,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547106478261">
+      <file name="/Dummy.txt" timestamp="1547108117958">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -352,13 +331,6 @@
         <mark key="]" line="10" column="33" />
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="33" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" timestamp="1547106275833">
-        <mark key="'" line="184" column="11" />
-        <mark key="[" line="193" column="69" />
-        <mark key="]" line="193" column="69" />
-        <mark key="^" line="193" column="64" />
-        <mark key="." line="193" column="69" />
       </file>
     </filemarks>
     <jumps>
@@ -465,31 +437,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>发送</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>发送</text>
       </register>
       <register name="/" type="4">
         <text>prepare</text>
       </register>
       <register name="0" type="4">
-        <text>roomId.substr(roomId.length - 2, 2), 16</text>
+        <text encoding="base64">IC8vIOWNleS9jeenkg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzb2NrZXQuc2V0c29ja29wdCh6bXEuWk1RX1RDUF9LRUVQQUxJVkVfQ05ULCAzKQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyDnoa7kv53ov57mjqXmraPluLgKICBjb25zdCBpbmRleCA9IHJvdXRlQnlSb29tSWQocm9vbUlkKQogIGlmKCFyZWFkeVB1YlN1YnMuaGFzKGluZGV4KSl7CiAgICAKICB9CiAgCg==</text>
+        <text encoding="base64">ICBzb2NrZXQuc2V0c29ja29wdCh6bXEuWk1RX1RDUF9LRUVQQUxJVkVfQ05ULCAzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyDnoa7kv53ov57mjqXmraPluLgKICBjb25zdCBpbmRleCA9IHJvdXRlQnlSb29tSWQocm9vbUlkKQogIGlmKCFyZWFkeVB1YlN1YnMuaGFzKGluZGV4KSl7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
@@ -498,19 +470,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHViLmVjaG8oKQo=</text>
+        <text encoding="base64">ICAvLyDnoa7kv53ov57mjqXmraPluLgKICBjb25zdCBpbmRleCA9IHJvdXRlQnlSb29tSWQocm9vbUlkKQogIGlmKCFyZWFkeVB1YlN1YnMuaGFzKGluZGV4KSl7CiAgICAKICB9CiAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhcHBOYW1lKHJvb21JZCkgewogICAgcmV0dXJuIGBhcHBzLyR7cm9vbUlkfWAKICB9Cgo=</text>
+        <text encoding="base64">ICAvLyDnoa7kv53ov57mjqXmraPluLgKICBjb25zdCBpbmRleCA9IHJvdXRlQnlSb29tSWQocm9vbUlkKQogIGlmKCFyZWFkeVB1YlN1YnMuaGFzKGluZGV4KSl7CiAgICAKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhcHBOYW1lKHJvb21JZCkgewogICAgcmV0dXJuIGBhcHBzLyR7cm9vbUlkfWAKICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHptcQo=</text>
+        <text encoding="base64">cHViLmVjaG8oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHptcVNvY2tldHMgPSB0aGlzLnptcVNvY2tldHMKICAgIGNvbnN0IHptcVNvY2tldCA9IHptcVNvY2tldHNbcm91dGVCeVJvb21JZChyb29tSWQsIHptcVNvY2tldHMubGVuZ3RoIC0gMSldCg==</text>
+        <text encoding="base64">ICBhcHBOYW1lKHJvb21JZCkgewogICAgcmV0dXJuIGBhcHBzLyR7cm9vbUlkfWAKICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/this.appName/appName/gc</text>
