@@ -30,6 +30,12 @@
         <mark key="^" line="0" column="102" />
         <mark key="." line="0" column="102" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.js" timestamp="1547178056733">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/__test__/Room.spec.js" timestamp="1545115948566">
         <mark key="[" line="96" column="38" />
         <mark key="]" line="96" column="38" />
@@ -220,7 +226,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547174516482">
+      <file name="/JavaScript Console" timestamp="1547178559539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -262,7 +268,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547172418527">
+      <file name="/Dummy.txt" timestamp="1547174602412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -361,16 +367,15 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" timestamp="1547174505488">
-        <mark key="'" line="201" column="8" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="^" line="192" column="1" />
-        <mark key="." line="198" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" timestamp="1547178557435">
+        <mark key="'" line="197" column="7" />
+        <mark key="[" line="202" column="10" />
+        <mark key="]" line="202" column="10" />
+        <mark key="^" line="202" column="12" />
+        <mark key="." line="202" column="10" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
       <jump line="155" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
       <jump line="6" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
       <jump line="26" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" />
@@ -470,22 +475,23 @@
       <jump line="162" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
       <jump line="196" column="29" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="201" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
+      <jump line="197" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>0</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWpcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGluaXRNc2cgPQ==</text>
+        <text>EventEmitter</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -521,7 +527,7 @@
         <text encoding="base64">LnRoZW4oKGluaXRNc2cpID0+IHsKICAgICAgfSk=</text>
       </register>
       <register name=":" type="4">
-        <text>101</text>
+        <text>200</text>
       </register>
     </registers>
     <search>
@@ -557,7 +563,6 @@
         <entry encoding="base64">XDxyZWpcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL2IvbmV3Qi9n</entry>
         <entry encoding="base64">JzwsJz5zL1VJbnQvSW50L2c=</entry>
         <entry>25</entry>
@@ -577,6 +582,7 @@
         <entry>%s/this.appName/appName/gc</entry>
         <entry>q</entry>
         <entry>101</entry>
+        <entry>200</entry>
       </history-cmd>
       <history-expr />
       <history-input />
