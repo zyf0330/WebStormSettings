@@ -42,6 +42,11 @@
         <mark key="." line="96" column="38" />
         <mark key="^" line="96" column="18" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/__test__/logger.test.js" timestamp="1547534876882">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/app.js" timestamp="1547172430623">
         <mark key="[" line="201" column="13" />
         <mark key="]" line="201" column="34" />
@@ -82,9 +87,9 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1547530922618">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
+      <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1547531040683">
+        <mark key="[" line="25" column="3" />
+        <mark key="]" line="25" column="24" />
         <mark key="." line="16" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/grpcClients.js" timestamp="1547024319824">
@@ -218,13 +223,13 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" timestamp="1545217299732">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="17" column="11" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" timestamp="1547534860453">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="5" column="9" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547530859854">
+      <file name="/JavaScript Console" timestamp="1547534399917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -266,7 +271,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547451146651">
+      <file name="/Dummy.txt" timestamp="1547534750460">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -314,6 +319,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="15" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/config/schema.json" timestamp="1547534273988">
+        <mark key="'" line="46" column="11" />
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Dispatch.js" timestamp="1547173642822">
         <mark key="'" line="65" column="2" />
         <mark key="[" line="61" column="0" />
@@ -332,7 +344,7 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1547024288612">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1547534097938">
         <mark key="'" line="6" column="15" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1547027511577">
@@ -373,7 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
       <jump line="69" column="43" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
       <jump line="26" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
       <jump line="87" column="33" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
@@ -473,72 +484,72 @@
       <jump line="280" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
       <jump line="258" column="42" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="199" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
+      <jump line="46" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/config/schema.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSdncnBjLm1heF9jb25uZWN0aW9uX2lkbGVfbXMnOiAxMDAwMCwKCSdncnBjLm1heF9jb25uZWN0aW9uX2FnZV9tcyc6IDEwMDAwLAo=</text>
+        <text encoding="base64">ICBjb25zdCB1dGlscyA9IHJlcXVpcmUoJy4uL3NyYy91dGlscycpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>feat(exit): 现在异常退出统一由 sentry 处</text>
       </register>
       <register name="/" type="4">
-        <text>fetch</text>
+        <text>loglevel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAnZ3JwYy5rZWVwYWxpdmVfdGltZV9tcyc6IDUwMDAsCiAgJ2dycGMua2VlcGFsaXZlX3RpbWVvdXRfbXMnOiA1MDAwLAo=</text>
+      <register name="0" type="4">
+        <text>logLevel</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSdncnBjLm1heF9jb25uZWN0aW9uX2lkbGVfbXMnCg==</text>
+        <text encoding="base64">ICBjb25zdCB1dGlscyA9IHJlcXVpcmUoJy4uL3NyYy91dGlscycpOwo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVE9ETyDlh4/lsI/ov57mjqXotoXml7bvvJ/ov5nkuKrlubbkuI3nlLEga2VlcGFsaXZlIOebuOWFs+WGs+Wumgo=</text>
+        <text encoding="base64">Y29uc3QgdXRpbHMgPSByZXF1aXJlKCcuLi9zcmMvdXRpbHMnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vICdncnBjLicK</text>
+        <text encoding="base64">ICBjb25maWcucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2Nvbm5lY3QnLCBuZXcgRGF0ZSgpKQo=</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vc3JjL2NvbmZpZycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJycsIERhdGUubm93KCkpCg==</text>
+        <text encoding="base64">ICBsb2dnZXIubGV2ZWwgPSBjb25maWcuZ2V0KCdsb2dsZXZlbCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0cnkK</text>
+        <text encoding="base64">ICBjb25maWcucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JwY0NsaWVudC5vbignZXJyb3InLCAoZSkgPT4gewogIGUKfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vc3JjL2NvbmZpZycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0SW50ZXJ2YWwoKCkgPT4gewo=</text>
+        <text encoding="base64">Y29uc3QgdXRpbHMgPSByZXF1aXJlKCcuLi9zcmMvdXRpbHMnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>fetch</last-search>
+      <last-search>loglevel</last-search>
       <last-offset />
-      <last-pattern>fetch</last-pattern>
+      <last-pattern>loglevel</last-pattern>
       <last-replace>appName</last-replace>
       <last-substitute>this.appName</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this.appName</entry>
         <entry>appname</entry>
         <entry>apps</entry>
         <entry encoding="base64">XDxhcHBOYW1lXD4=</entry>
@@ -558,6 +569,7 @@
         <entry encoding="base64">XDxEaXNwYXRjaFJldHVybk51bGxcPg==</entry>
         <entry encoding="base64">XDxyZWpcPg==</entry>
         <entry>fetch</entry>
+        <entry>loglevel</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2IvbmV3Qi9n</entry>
