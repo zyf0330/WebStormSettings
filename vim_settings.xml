@@ -87,10 +87,11 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1547537282477">
-        <mark key="[" line="27" column="41" />
-        <mark key="]" line="27" column="42" />
-        <mark key="." line="27" column="42" />
+      <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1547538500795">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="31" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/grpcClients.js" timestamp="1547024319824">
         <mark key="[" line="21" column="70" />
@@ -229,7 +230,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547537348197">
+      <file name="/JavaScript Console" timestamp="1547538522756">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -338,11 +339,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/test/server.js" timestamp="1547536548824">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="16" column="1" />
+      <file name="$USER_HOME$/Desktop/test/server.js" timestamp="1547538454730">
+        <mark key="[" line="5" column="65" />
+        <mark key="]" line="5" column="64" />
+        <mark key="." line="5" column="64" />
+        <mark key="^" line="5" column="64" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1547534097938">
         <mark key="'" line="6" column="15" />
@@ -487,14 +488,14 @@
       <jump line="46" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/config/schema.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAnZ3JwYy5rZWVwYWxpdmVfcGVybWl0X3dpdGhvdXRfY2FsbHMnOiAxLAo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat(exit): 现在异常退出统一由 sentry 处</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>loglevel</text>
