@@ -260,7 +260,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547546046522">
+      <file name="/Dummy.txt" timestamp="1547546330107">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -496,13 +496,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[ &quot;npm&quot;, &quot;start&quot; ]</text>
+        <text>jz3002be8eaf34477ca334f3dc2553e7f2</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>[ &quot;npm&quot;, &quot;start&quot; ]</text>
+        <text>jz3002be8eaf34477ca334f3dc2553e7f2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxucG1cPg==</text>
