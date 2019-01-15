@@ -82,11 +82,10 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1547463609138">
-        <mark key="[" line="29" column="34" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="4" />
-        <mark key="^" line="30" column="4" />
+      <file name="$USER_HOME$/Desktop/test/client.js" timestamp="1547464644013">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/grpcClients.js" timestamp="1547024319824">
         <mark key="[" line="21" column="70" />
@@ -225,7 +224,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547463497308">
+      <file name="/JavaScript Console" timestamp="1547464844273">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -327,11 +326,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/test/server.js" timestamp="1547463253982">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="27" column="21" />
-        <mark key="." line="13" column="24" />
+      <file name="$USER_HOME$/Desktop/test/server.js" timestamp="1547464881538">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1547024288612">
         <mark key="'" line="6" column="15" />
@@ -476,8 +475,8 @@
       <jump line="199" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSdncnBjLm1heF9jb25uZWN0aW9uX2lkbGVfbXMnCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -492,37 +491,37 @@
         <text encoding="base64">ICAnZ3JwYy5rZWVwYWxpdmVfdGltZV9tcyc6IDUwMDAsCiAgJ2dycGMua2VlcGFsaXZlX3RpbWVvdXRfbXMnOiA1MDAwLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vICdncnBjLicK</text>
+        <text encoding="base64">CSdncnBjLm1heF9jb25uZWN0aW9uX2lkbGVfbXMnCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2Nvbm5lY3QnLCBuZXcgRGF0ZSgpKQo=</text>
+        <text encoding="base64">Ly8gVE9ETyDlh4/lsI/ov57mjqXotoXml7bvvJ/ov5nkuKrlubbkuI3nlLEga2VlcGFsaXZlIOebuOWFs+WGs+Wumgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJycsIERhdGUubm93KCkpCg==</text>
+        <text encoding="base64">CS8vICdncnBjLicK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0cnkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2Nvbm5lY3QnLCBuZXcgRGF0ZSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z3JwY0NsaWVudC5vbignZXJyb3InLCAoZSkgPT4gewogIGUKfSkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJycsIERhdGUubm93KCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB0cnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2V0SW50ZXJ2YWwoKCkgPT4gewo=</text>
+        <text encoding="base64">Z3JwY0NsaWVudC5vbignZXJyb3InLCAoZSkgPT4gewogIGUKfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGVhclRpbWVvdXQoaykK</text>
+        <text encoding="base64">c2V0SW50ZXJ2YWwoKCkgPT4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
