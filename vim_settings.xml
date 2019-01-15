@@ -27,11 +27,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/.dockerignore" timestamp="1547545470819">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/.dockerignore" timestamp="1547545907372">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="18" column="7" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/__test__/Room.spec.js" timestamp="1545115948566">
         <mark key="[" line="96" column="38" />
@@ -260,7 +260,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547539639599">
+      <file name="/Dummy.txt" timestamp="1547546046522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -296,12 +296,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="13" column="49" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/Dockerfile" timestamp="1547545728764">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/Dockerfile" timestamp="1547546115396">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="8" />
-        <mark key="^" line="28" column="8" />
-        <mark key="." line="28" column="8" />
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="30" column="26" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.yml" timestamp="1542351006868">
         <mark key="[" line="12" column="13" />
@@ -496,13 +496,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>src/ /app/src</text>
+        <text>[ &quot;npm&quot;, &quot;start&quot; ]</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>src/ /app/src</text>
+        <text>[ &quot;npm&quot;, &quot;start&quot; ]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxucG1cPg==</text>
@@ -511,16 +511,16 @@
         <text encoding="base64">Q09QWSAtLWZyb209bm9kZV9tb2R1bGVzIG5vZGVfbW9kdWxlcyAuL25vZGVfbW9kdWxlcy8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09QWSBjb25maWcvIC9hcHAvY29uZmlnCg==</text>
+        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UueW1sCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bnBtLWRlYnVnLmxvZwo=</text>
+        <text encoding="base64">Q09QWSBjb25maWcvIC9hcHAvY29uZmlnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bm9kZV9tb2R1bGVzCg==</text>
+        <text encoding="base64">bnBtLWRlYnVnLmxvZwo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
@@ -529,16 +529,16 @@
         <text encoding="base64">bm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CkVOViBUWiBBc2lhL1NoYW5naGFpClJVTiBhcGsgYWRkIC0tbm8tY2FjaGUgdHpkYXRhCg==</text>
+        <text encoding="base64">bm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CkVOViBUWiBBc2lhL1NoYW5naGFpClJVTiBhcGsgYWRkIC0tbm8tY2FjaGUgdHpkYXRhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q09QWSBwcm90b3MgL2FwcC9wcm90b3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSBwcm90b3MgL2FwcC9wcm90b3MK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
