@@ -135,11 +135,11 @@
         <mark key="." line="18" column="43" />
         <mark key="^" line="18" column="43" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1547627518843">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="74" column="38" />
-        <mark key="^" line="28" column="32" />
-        <mark key="." line="28" column="32" />
+      <file name="/Clipboard.txt" timestamp="1547630361624">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="76" column="38" />
+        <mark key="^" line="17" column="12" />
+        <mark key="." line="17" column="12" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/service/index.js" timestamp="1541414293792">
         <mark key="[" line="19" column="0" />
@@ -261,7 +261,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547546330107">
+      <file name="/Dummy.txt" timestamp="1547630541884">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -327,6 +327,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="8" />
       </file>
+      <file name="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/pusher-cluster.yaml" timestamp="1547630465803">
+        <mark key="'" line="79" column="26" />
+        <mark key="[" line="129" column="12" />
+        <mark key="]" line="129" column="13" />
+        <mark key="." line="129" column="13" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/Dockerfile" timestamp="1547540402781">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="53" />
@@ -337,10 +343,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/pusher.yaml" timestamp="1547627547554">
-        <mark key="'" line="90" column="4" />
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="38" column="20" />
+      <file name="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/pusher.yaml" timestamp="1547628958413">
+        <mark key="'" line="25" column="17" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="77" column="32" />
         <mark key="." line="38" column="20" />
         <mark key="^" line="38" column="20" />
       </file>
@@ -394,9 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
-      <jump line="7" column="55" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
-      <jump line="5" column="32" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="6" column="27" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="10" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="64" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
@@ -494,16 +497,19 @@
       <jump line="78" column="11" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/dev/dev-pusher.yaml" />
       <jump line="20" column="8" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/pusher.yaml" />
       <jump line="90" column="4" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/pusher.yaml" />
+      <jump line="25" column="17" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/pusher.yaml" />
+      <jump line="15" column="14" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/pusher-cluster.yaml" />
+      <jump line="79" column="26" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/pusher-cluster.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debug</text>
+        <text>pusher: dev 更新，添加日志收集</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>pusher: dev 更新，添加日志收集</text>
       </register>
       <register name="/" type="4">
         <text>replicas</text>
@@ -512,37 +518,37 @@
         <text encoding="base64">ICAgICAgLSBuYW1lOiBsb2cKICAgICAgICBlbXB0eURpcjoge30KICAgICAgLSBuYW1lOiBmaWxlYmVhdC1jb25maWcKICAgICAgICBjb25maWdNYXA6CiAgICAgICAgICBuYW1lOiBmaWxlYmVhdC10aW5kZXItY29uZmlnCg==</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="3" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="5" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="6" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICA=</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="8" type="8">
-        <text encoding="base64">ICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="9" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
