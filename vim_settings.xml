@@ -55,10 +55,10 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/dev/dev-pusher.yaml" timestamp="1547626469315">
-        <mark key="'" line="10" column="12" />
-        <mark key="[" line="128" column="12" />
-        <mark key="]" line="128" column="13" />
+      <file name="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/dev/dev-pusher.yaml" timestamp="1547627205391">
+        <mark key="'" line="78" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="78" column="32" />
         <mark key="^" line="39" column="21" />
         <mark key="." line="128" column="13" />
       </file>
@@ -135,6 +135,12 @@
         <mark key="." line="18" column="43" />
         <mark key="^" line="18" column="43" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1547627518843">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="74" column="38" />
+        <mark key="^" line="28" column="32" />
+        <mark key="." line="28" column="32" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/service/index.js" timestamp="1541414293792">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -152,12 +158,6 @@
         <mark key="]" line="29" column="33" />
         <mark key="." line="29" column="33" />
         <mark key="^" line="29" column="33" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" timestamp="1547192490604">
-        <mark key="'" line="280" column="16" />
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="281" column="0" />
-        <mark key="." line="281" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/system/config.spec.js" timestamp="1543381139378">
         <mark key="[" line="58" column="7" />
@@ -327,12 +327,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="8" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Dispatch.js" timestamp="1547173642822">
-        <mark key="'" line="65" column="2" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/Dockerfile" timestamp="1547540402781">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="53" />
@@ -342,6 +336,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/pusher.yaml" timestamp="1547627547554">
+        <mark key="'" line="90" column="4" />
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="20" />
+        <mark key="^" line="38" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/test/server.js" timestamp="1547610113491">
         <mark key="[" line="20" column="41" />
@@ -393,10 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="198" column="33" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="49" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="200" column="52" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="7" column="55" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="5" column="32" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
@@ -493,22 +490,26 @@
       <jump line="148" column="30" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/dev/dev-pusher.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/dev/dev-pusher.yaml" />
       <jump line="10" column="12" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/dev/dev-pusher.yaml" />
+      <jump line="196" column="21" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/dev/dev-pusher.yaml" />
+      <jump line="78" column="11" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/dev/dev-pusher.yaml" />
+      <jump line="20" column="8" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/pusher.yaml" />
+      <jump line="90" column="4" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/pusher.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWU6IExPR19MRVZFTAogICAgICAgICAgdmFsdWU6IGRlYnVnCg==</text>
+      <register name="&quot;" type="4">
+        <text>debug</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>-sz</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>replicas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWU6IExPR19MRVZFTAogICAgICAgICAgdmFsdWU6IGRlYnVnCg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBsb2cKICAgICAgICBlbXB0eURpcjoge30KICAgICAgLSBuYW1lOiBmaWxlYmVhdC1jb25maWcKICAgICAgICBjb25maWdNYXA6CiAgICAgICAgICBuYW1lOiBmaWxlYmVhdC10aW5kZXItY29uZmlnCg==</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">ICAKICAKICA=</text>
@@ -528,69 +529,20 @@
       <register name="4" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmFwaVZlcnNpb246IGFwcHMvdjEKa2luZDogRGVwbG95bWVudAptZXRhZGF0YToKICBsYWJlbHM6CiAgICBuYW1lOiBwdXNoZXItc3oKICAgIGlkY0lkOiBzegogICAgcm9sZTogcHVzaGVyCiAgbmFtZTogcHVzaGVyLXN6CiAgbmFtZXNwYWNlOiB0aW5kZXJkZXYKc3BlYzoKICByZXBsaWNhczogNAogIHNlbGVjdG9yOgogICAgbWF0Y2hMYWJlbHM6CiAgICAgIHJvbGU6IHB1c2hlcgogICAgICBpZGNJZDogc3oKICB0ZW1wbGF0ZToKICAgIG1ldGFkYXRhOgogICAgICBsYWJlbHM6CiAgICAgICAgcm9sZTogcHVzaGVyCiAgICAgICAgaWRjSWQ6IHN6CiAgICBzcGVjOgogICAgICBub2RlU2VsZWN0b3I6CiAgICAgICAgcm9sZTogY29ubmVjdG9yCiAgICAgICAgaWRjSWQ6IHN6CiAgICAgICAgZW52aXJvbm1lbnQ6IGRldgogICAgICBpbWFnZVB1bGxTZWNyZXRzOgogICAgICAgIC0gbmFtZTogcmVnY3JlZAogICAgICBjb250YWluZXJzOgogICAgICAgIC0gbmFtZTogcHVzaGVyLXN6CiAgICAgICAgICBpbWFnZTogZG9ja2VyLWh1Yi5kdW9iZWl5dW4uY29tOjUwMDAvdGluZGVyL3RpbmRlci1wdXNoZXI6djEuMy4wCiAgICAgICAgICBpbWFnZVB1bGxQb2xpY3k6IEFsd2F5cwogICAgICAgICAgZW52OgogICAgICAgICAgICAtIG5hbWU6IGlkY0lkCiAgICAgICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICAgICAgZmllbGRSZWY6CiAgICAgICAgICAgICAgICAgIGZpZWxkUGF0aDogbWV0YWRhdGEubGFiZWxzWydpZGNJZCddCiAgICAgICAgICAgIC0gbmFtZTogU0VOVFJZX0VOVklST05NRU5UCiAgICAgICAgICAgICAgdmFsdWU6IHRpbmRlcmRldgogICAgICAgICAgdm9sdW1lTW91bnRzOgogICAgICAgICAgICAtIG1vdW50UGF0aDogL2FwcC9jb25maWcKICAgICAgICAgICAgICBuYW1lOiBjb25maWcKICAgICAgICAgICAgLSBtb3VudFBhdGg6IC9hcHAvcHJvdG9zCiAgICAgICAgICAgICAgbmFtZTogcHJvdG9zCiAgICAgIHZvbHVtZXM6CiAgICAgICAgLSBuYW1lOiBjb25maWcKICAgICAgICAgIGNvbmZpZ01hcDoKICAgICAgICAgICAgbmFtZTogcHVzaGVyLXN6CiAgICAgICAgLSBuYW1lOiBwcm90b3MKICAgICAgICAgIGhvc3RQYXRoOgogICAgICAgICAgICBwYXRoOiAvbW50L2RhdGEvcHJvdG9zCg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
-      <register name="8" type="4">
-        <text>apiVersion: apps/v1
-kind: Deployment
-metadata:
-  labels:
-    name: pusher-sz
-    idcId: sz
-    role: pusher
-  name: pusher-sz
-  namespace: tinderdev
-spec:
-  replicas: 4
-  selector:
-    matchLabels:
-      role: pusher
-      idcId: sz
-  template:
-    metadata:
-      labels:
-        role: pusher
-        idcId: sz
-    spec:
-      nodeSelector:
-        role: connector
-        idcId: sz
-        environment: dev
-      imagePullSecrets:
-        - name: regcred
-      containers:
-        - name: pusher-sz
-          image: docker-hub.duobeiyun.com:5000/tinder/tinder-pusher:v1.3.0
-          imagePullPolicy: Always
-          env:
-          - name: idcId
-            valueFrom:
-              fieldRef:
-                fieldPath: metadata.labels['idcId']
-          - name: SENTRY_ENVIRONMENT
-            value: tinderdev
-          volumeMounts:
-            - mountPath: /app/config
-              name: config
-            - mountPath: /app/protos
-              name: protos
-      volumes:
-        - name: config
-          configMap:
-            name: pusher-sz
-        - name: protos
-          hostPath:
-            path: /mnt/data/protos</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Z3JwYy5saXN0ZW5lci5vbignZXJyb3InLCAoZSkgPT4gewogIGUKfSkK</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
