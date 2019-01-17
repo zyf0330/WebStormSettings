@@ -170,10 +170,12 @@
         <mark key="." line="18" column="43" />
         <mark key="^" line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/cm.yaml" timestamp="1547717387282">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
+      <file name="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/cm.yaml" timestamp="1547721622664">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="3" column="1" />
       </file>
       <file name="/Clipboard.txt" timestamp="1547630361624">
         <mark key="[" line="72" column="0" />
@@ -327,7 +329,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547719147117">
+      <file name="/Dummy.txt" timestamp="1547721275019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -490,7 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
       <jump line="110" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
       <jump line="197" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
       <jump line="74" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
@@ -590,10 +591,11 @@
       <jump line="25" column="21" filename="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/deployment.yaml" />
       <jump line="52" column="25" filename="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/deployment.yaml" />
       <jump line="42" column="13" filename="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/deployment.yaml" />
+      <jump line="9" column="4" filename="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/cm.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -604,41 +606,41 @@
       <register name="/" type="4">
         <text>LOG_LEVEL</text>
       </register>
-      <register name="0" type="4">
-        <text>LOG_LEVEL</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB7eyAkbmFtZXNwYWNlIDo9IC5WYWx1ZXMuZ2xvYmFsLm5hbWVzcGFjZSAtfX0K</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB7eyAkbmFtZXNwYWNlIDo9IC5WYWx1ZXMuZ2xvYmFsLm5hbWVzcGFjZSAtfX0K</text>
       </register>
       <register name="3" type="8">
-        <text encoding="base64">ICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
       </register>
       <register name="5" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">e3sgZGVmaW5lICJ7eyAuQ2hhcnQuTmFtZSB9fS5lbnZpcm9ubWVudCIgfX17eyBpZiBlcSAuVmFsdWVzLmdsb2JhbC5uYW1lc3BhY2UgInRpbmRlcmRldiIgfX1kZXZ7eyBlbHNlIH19cHJvZHt7IGVuZCB9fXt7IGVuZCB9fQo=</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="9" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
