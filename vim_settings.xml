@@ -44,6 +44,13 @@
         <mark key="." line="96" column="38" />
         <mark key="^" line="96" column="18" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" timestamp="1547783510283">
+        <mark key="'" line="24" column="14" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="6" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/_prepare.tpl" timestamp="1547718884723">
         <mark key="[" line="1" column="105" />
         <mark key="]" line="1" column="108" />
@@ -132,6 +139,9 @@
         <mark key="]" line="29" column="27" />
         <mark key="." line="29" column="27" />
         <mark key="^" line="29" column="27" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" timestamp="1547782829138">
+        <mark key="'" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder-charts/.gitignore" timestamp="1547717484962">
         <mark key="[" line="2" column="0" />
@@ -323,17 +333,23 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/grpcClient.js" timestamp="1547782851977">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="8" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/node-rtmp-message-server/src/Socket.ts" timestamp="1546914729140">
         <mark key="[" line="171" column="27" />
         <mark key="]" line="171" column="27" />
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547721275019">
+      <file name="/Dummy.txt" timestamp="1547783527519">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="59" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -492,10 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
-      <jump line="197" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="74" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
-      <jump line="152" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
       <jump line="149" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
       <jump line="148" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
       <jump line="215" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
@@ -592,19 +604,23 @@
       <jump line="52" column="25" filename="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/deployment.yaml" />
       <jump line="42" column="13" filename="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/deployment.yaml" />
       <jump line="9" column="4" filename="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/cm.yaml" />
+      <jump line="9" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" />
+      <jump line="4" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
+      <jump line="21" column="43" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
+      <jump line="24" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>feat: 去掉烦人的 appProto 和 appConfig 加载不到提示，改为加载到后提示</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>feat: 去掉烦人的 appProto 和 appConfig 加载不到提示，改为加载到后提示</text>
       </register>
       <register name="/" type="4">
-        <text>LOG_LEVEL</text>
+        <text>grpc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB7eyAkbmFtZXNwYWNlIDo9IC5WYWx1ZXMuZ2xvYmFsLm5hbWVzcGFjZSAtfX0K</text>
@@ -616,44 +632,44 @@
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwKICAgICAgICAnZ3JwYy5taW5fcmVjb25uZWN0X2JhY2tvZmZfbXMnOiAxMDAwLAogICAgICAgICdncnBjLm1heF9yZWNvbm5lY3RfYmFja29mZl9tcyc6IDEwMDAwLA==</text>
+        <text encoding="base64">ICAgICAgLy8ga2VlcGFsaXZlCiAgICAgICdncnBjLmh0dHAyLm1pbl9waW5nX2ludGVydmFsX3dpdGhvdXRfZGF0YV9tcyc6IDUgKiA2MDAwMCwgLy8gZ3JwYyBkZWZhdWx0CiAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEsCiAgICAgIC8vIGNvbm5lY3Rpb24gc3Vydml2YWwKICAgICAgJ2dycGMubWF4X2Nvbm5lY3Rpb25faWRsZV9tcyc6IDMwICogNjAwMDAsCiAgICAgICdncnBjLm1heF9jb25uZWN0aW9uX2FnZV9tcyc6IDEgKiA2MCAqIDYwMDAwLA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwKICAgICAgICAnZ3JwYy5taW5fcmVjb25uZWN0X2JhY2tvZmZfbXMnOiAxMDAwLAogICAgICAgICdncnBjLm1heF9yZWNvbm5lY3RfYmFja29mZl9tcyc6IDEwMDAwLA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICB7eyAkbmFtZXNwYWNlIDo9IC5WYWx1ZXMuZ2xvYmFsLm5hbWVzcGFjZSAtfX0K</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
-      </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICA=</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>LOG_LEVEL</last-search>
+      <last-search>grpc</last-search>
       <last-offset />
-      <last-pattern>LOG_LEVEL</last-pattern>
+      <last-pattern>grpc</last-pattern>
       <last-replace>appName</last-replace>
       <last-substitute>this.appName</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -675,8 +691,8 @@
         <entry>req</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>grpccli</entry>
-        <entry>grpc</entry>
         <entry>LOG_LEVEL</entry>
+        <entry>grpc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1VJbnQvSW50L2c=</entry>
@@ -690,7 +706,6 @@
         <entry>we</entry>
         <entry>446</entry>
         <entry>466</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz4lcy8iLycvZw==</entry>
         <entry>%s//appName/gc</entry>
         <entry>%s/this.appName/appName/gc</entry>
@@ -699,6 +714,7 @@
         <entry>q</entry>
         <entry>70</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
