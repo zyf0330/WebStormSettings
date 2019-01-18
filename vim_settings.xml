@@ -216,12 +216,6 @@
         <mark key="." line="29" column="33" />
         <mark key="^" line="29" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" timestamp="1547783822636">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="2" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/system/config.spec.js" timestamp="1543381139378">
         <mark key="[" line="58" column="7" />
         <mark key="]" line="58" column="15" />
@@ -273,6 +267,7 @@
         <mark key="." line="63" column="73" />
         <mark key="^" line="63" column="73" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/index.spec.js" timestamp="1547785459514" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/Dockerfile" timestamp="1542938440752">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="23" />
@@ -292,7 +287,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547691752466">
+      <file name="/JavaScript Console" timestamp="1547785632567">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -340,10 +335,10 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547783543917">
+      <file name="/Dummy.txt" timestamp="1547785642889">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="59" />
-        <mark key="^" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="58" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
@@ -587,32 +582,32 @@
       <jump line="24" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>feat(grpc): 添加 keepalive 和 max_connection 相关选项，优化连接稳定性和负载均衡</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat: 去掉烦人的 appProto 和 appConfig 加载不到提示，改为加载到后提示</text>
+        <text>feat(grpc): 添加 keepalive 和 max_connection 相关选项，优化连接稳定性和负载均衡</text>
       </register>
       <register name="/" type="4">
         <text>grpc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB7eyAkbmFtZXNwYWNlIDo9IC5WYWx1ZXMuZ2xvYmFsLm5hbWVzcGFjZSAtfX0K</text>
+      <register name="0" type="4">
+        <text>HealthcheckerInitFail</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpoCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhd2FpdCBjaGVja2VyLmluaXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IitwYSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
@@ -620,14 +615,14 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgLy8ga2VlcGFsaXZlCiAgICAgICdncnBjLmh0dHAyLm1pbl9waW5nX2ludGVydmFsX3dpdGhvdXRfZGF0YV9tcyc6IDUgKiA2MDAwMCwgLy8gZ3JwYyBkZWZhdWx0CiAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEsCiAgICAgIC8vIGNvbm5lY3Rpb24gc3Vydml2YWwKICAgICAgJ2dycGMubWF4X2Nvbm5lY3Rpb25faWRsZV9tcyc6IDMwICogNjAwMDAsCiAgICAgICdncnBjLm1heF9jb25uZWN0aW9uX2FnZV9tcyc6IDEgKiA2MCAqIDYwMDAwLA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">IitwYSIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgLy8ga2VlcGFsaXZlCiAgICAgICdncnBjLmh0dHAyLm1pbl9waW5nX2ludGVydmFsX3dpdGhvdXRfZGF0YV9tcyc6IDUgKiA2MDAwMCwgLy8gZ3JwYyBkZWZhdWx0CiAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEsCiAgICAgIC8vIGNvbm5lY3Rpb24gc3Vydml2YWwKICAgICAgJ2dycGMubWF4X2Nvbm5lY3Rpb25faWRsZV9tcyc6IDMwICogNjAwMDAsCiAgICAgICdncnBjLm1heF9jb25uZWN0aW9uX2FnZV9tcyc6IDEgKiA2MCAqIDYwMDAwLA==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -644,9 +639,9 @@
       <last-offset />
       <last-pattern>grpc</last-pattern>
       <last-replace>appName</last-replace>
-      <last-substitute>this.appName</last-substitute>
+      <last-substitute>grpc</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
