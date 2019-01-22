@@ -15,6 +15,9 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1547791815141">
+        <mark key="'" line="28" column="49" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.js" timestamp="1542858247929">
         <mark key="[" line="0" column="103" />
         <mark key="]" line="0" column="102" />
@@ -267,7 +270,6 @@
         <mark key="." line="63" column="73" />
         <mark key="^" line="63" column="73" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/index.spec.js" timestamp="1547785459514" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/Dockerfile" timestamp="1542938440752">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="23" />
@@ -280,7 +282,6 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/mock/MockClient.js" timestamp="1547783807231" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" timestamp="1547534860453">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -480,8 +481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
-      <jump line="148" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
       <jump line="215" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
       <jump line="6" column="33" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
       <jump line="211" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
@@ -580,6 +579,8 @@
       <jump line="4" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
       <jump line="21" column="43" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
       <jump line="24" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
+      <jump line="28" column="49" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
+      <jump line="184" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -592,7 +593,7 @@
         <text>feat(grpc): 添加 keepalive 和 max_connection 相关选项，优化连接稳定性和负载均衡</text>
       </register>
       <register name="/" type="4">
-        <text>grpc</text>
+        <text>close</text>
       </register>
       <register name="0" type="4">
         <text>HealthcheckerInitFail</text>
@@ -635,17 +636,16 @@
       </register>
     </registers>
     <search>
-      <last-search>grpc</last-search>
+      <last-search>close</last-search>
       <last-offset />
-      <last-pattern>grpc</last-pattern>
+      <last-pattern>close</last-pattern>
       <last-replace>appName</last-replace>
       <last-substitute>grpc</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWFkeVB1YlN1YnNcPg==</entry>
         <entry>create</entry>
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
         <entry encoding="base64">XDxyZXRyaWV2ZVJldHVyblw+</entry>
@@ -665,6 +665,7 @@
         <entry>grpccli</entry>
         <entry>LOG_LEVEL</entry>
         <entry>grpc</entry>
+        <entry>close</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1VJbnQvSW50L2c=</entry>
