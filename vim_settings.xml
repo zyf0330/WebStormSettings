@@ -70,6 +70,7 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/node_modules/tinder-edge-nodejs/src/service/Session.js" timestamp="1548230933359" />
       <file name="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/dev/dev-pusher.yaml" timestamp="1547627205391">
         <mark key="'" line="78" column="11" />
         <mark key="[" line="0" column="0" />
@@ -115,7 +116,7 @@
         <mark key="^" line="1" column="99" />
         <mark key="." line="1" column="99" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/onCommand.js" timestamp="1546934028603">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/onCommand.js" timestamp="1548230809978">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="10" column="13" />
         <mark key="." line="10" column="13" />
@@ -176,6 +177,12 @@
         <mark key="]" line="69" column="6" />
         <mark key="." line="69" column="6" />
         <mark key="^" line="40" column="59" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/index.js" timestamp="1548231203121">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1541487250583">
         <mark key="[" line="18" column="37" />
@@ -282,13 +289,14 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" timestamp="1547534860453">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" timestamp="1548149668694">
+        <mark key="'" line="15" column="9" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547785632567">
+      <file name="/JavaScript Console" timestamp="1548230924802">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -425,8 +433,8 @@
         <mark key="^" line="42" column="40" />
         <mark key="." line="42" column="17" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1547539343074">
-        <mark key="'" line="6" column="15" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1548149605860">
+        <mark key="'" line="14" column="18" />
         <mark key="[" line="112" column="24" />
         <mark key="]" line="112" column="24" />
         <mark key="." line="112" column="56" />
@@ -481,10 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="6" column="33" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="211" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="213" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
       <jump line="216" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
       <jump line="80" column="27" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
       <jump line="82" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
@@ -581,6 +585,10 @@
       <jump line="24" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
       <jump line="28" column="49" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
       <jump line="184" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
+      <jump line="14" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
+      <jump line="37" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" />
+      <jump line="32" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" />
+      <jump line="15" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -632,7 +640,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -684,10 +692,10 @@
         <entry>%s/this.appName/appName/gc</entry>
         <entry>101</entry>
         <entry>200</entry>
-        <entry>q</entry>
         <entry>70</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
