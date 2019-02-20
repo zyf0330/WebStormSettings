@@ -179,6 +179,13 @@
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="51" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" timestamp="1550656602712">
+        <mark key="'" line="18" column="3" />
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="49" />
+        <mark key="." line="8" column="49" />
+        <mark key="^" line="8" column="49" />
+      </file>
       <file name="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/deployment.yaml" timestamp="1547719063464">
         <mark key="'" line="42" column="13" />
         <mark key="[" line="69" column="6" />
@@ -496,7 +503,6 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="27" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" timestamp="1550655124602" />
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/zmqServer.js" timestamp="1542798719269">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="33" />
@@ -511,7 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
       <jump line="98" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
       <jump line="225" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
@@ -611,16 +616,17 @@
       <jump line="88" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
       <jump line="118" column="34" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
       <jump line="70" column="49" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
+      <jump line="18" column="3" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix(Apps): 修复拉取成功后仍旧会执行失败的逻辑</text>
+        <text>jz70812cfbccda4686916e32bf3b22d87d</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>fix(Apps): 修复拉取成功后仍旧会执行失败的逻辑</text>
+        <text>jz70812cfbccda4686916e32bf3b22d87d</text>
       </register>
       <register name="/" type="4">
         <text>roomid</text>
