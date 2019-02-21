@@ -336,9 +336,9 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550750958888">
+      <file name="/Dummy.txt" timestamp="1550750979488">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="48" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -434,6 +434,10 @@
         <mark key="]" line="496" column="7" />
         <mark key="." line="494" column="67" />
         <mark key="^" line="494" column="67" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/package.json" timestamp="1550751126204">
+        <mark key="[" line="6" column="104" />
+        <mark key="]" line="6" column="132" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/protos/index.proto" timestamp="1550732266923">
         <mark key="'" line="47" column="22" />
@@ -562,13 +566,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW5pdE1zZy5QUkVTRU5UQVRJT04udXVpZCAhPSAnJyA=</text>
+        <text>git describe --abbrev=0 --tag</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5pdE1zZy5QUkVTRU5UQVRJT04udXVpZCAhPSAnJyA=</text>
+        <text>feat(routeByRoomId): 固定模8改成模地址数组的长度，以适应不同长度的地址列表</text>
       </register>
       <register name="/" type="4">
         <text>presen</text>
