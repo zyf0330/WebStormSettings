@@ -64,6 +64,12 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/node_modules/tinder-edge-nodejs/src/service/Session.js" timestamp="1550803164592">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="30" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/.gitignore" timestamp="1546934090208">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -75,10 +81,6 @@
         <mark key="]" line="23" column="29" />
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
-      </file>
-      <file name="/helper.js" timestamp="1550718800932">
-        <mark key="[" line="136" column="2" />
-        <mark key="]" line="136" column="40" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/healthcheck/index.js" timestamp="1543377264108">
         <mark key="[" line="13" column="18" />
@@ -92,7 +94,7 @@
         <mark key="^" line="1" column="99" />
         <mark key="." line="1" column="99" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/onCommand.js" timestamp="1550652523391">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/onCommand.js" timestamp="1550803130382">
         <mark key="[" line="33" column="8" />
         <mark key="]" line="33" column="20" />
         <mark key="." line="43" column="38" />
@@ -154,11 +156,12 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1550750915520">
-        <mark key="'" line="48" column="6" />
-        <mark key="[" line="178" column="12" />
-        <mark key="]" line="178" column="51" />
-        <mark key="." line="178" column="12" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1550804028855">
+        <mark key="'" line="178" column="31" />
+        <mark key="[" line="178" column="24" />
+        <mark key="]" line="178" column="44" />
+        <mark key="." line="178" column="24" />
+        <mark key="^" line="178" column="25" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/index.js" timestamp="1549955831623">
         <mark key="[" line="19" column="0" />
@@ -202,7 +205,7 @@
         <mark key="." line="29" column="33" />
         <mark key="^" line="29" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" timestamp="1550733220935">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" timestamp="1550802859864">
         <mark key="'" line="121" column="2" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="15" />
@@ -282,7 +285,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1550750272676">
+      <file name="/JavaScript Console" timestamp="1550803168324">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -336,7 +339,7 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550750979488">
+      <file name="/Dummy.txt" timestamp="1550804110341">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -463,7 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
       <jump line="258" column="42" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="199" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
       <jump line="46" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/config/schema.json" />
@@ -563,67 +565,68 @@
       <jump line="147" column="28" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
       <jump line="8" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/1.js" />
       <jump line="48" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="178" column="31" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>git describe --abbrev=0 --tag</text>
+        <text>initMsg.PRESENTATION</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat(routeByRoomId): 固定模8改成模地址数组的长度，以适应不同长度的地址列表</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>presen</text>
+        <text encoding="base64">XDxQUkVTRU5UQVRJT05cPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IV8uaXNFbXB0eShpbml0TXNnLlBSRVNFTlRBVElPTi51dWlkICkg</text>
+        <text>initMsg.PRESENTATION</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBQUkVTRU5UQVRJT046IHt9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBQUkVTRU5UQVRJT046IHt9LAo=</text>
+      </register>
+      <register name="3" type="4">
         <text>{
     uuid: undefined,
     id: null,
   }</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgZGV2aWNlSW5mb3MsCiAgICAgIGRldmljZUNvbmZpZyw=</text>
-      </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgZGV2aWNlSW5mb3MsCiAgICAgIGRldmljZUNvbmZpZyw=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJldHVybiBzdG9yYWdlLnNvY2tfZGVhbGVyX2FwcHNzW2luZGV4XSB8fCBzdG9yYWdlLnNvY2tfZGVhbGVyX2FwcHNzWzBdCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJldHVybiBzdG9yYWdlLnNvY2tfc3Vic1tpbmRleF0gfHwgc3RvcmFnZS5zb2NrX3N1YnNbMF0K</text>
+        <text encoding="base64">CXJldHVybiBzdG9yYWdlLnNvY2tfZGVhbGVyX2FwcHNzW2luZGV4XSB8fCBzdG9yYWdlLnNvY2tfZGVhbGVyX2FwcHNzWzBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>presen</last-search>
+      <last-search encoding="base64">XDxQUkVTRU5UQVRJT05cPg==</last-search>
       <last-offset />
-      <last-pattern>presen</last-pattern>
+      <last-pattern encoding="base64">XDxQUkVTRU5UQVRJT05cPg==</last-pattern>
       <last-replace>appName</last-replace>
       <last-substitute>grpc</last-substitute>
       <last-dir>1</last-dir>
@@ -631,7 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWpcPg==</entry>
         <entry>fetch</entry>
         <entry>loglevel</entry>
         <entry>node</entry>
@@ -651,6 +653,7 @@
         <entry>logger</entry>
         <entry encoding="base64">XDxwcmVzZW50YXRpb25DaGFuZ2VcPg==</entry>
         <entry>presen</entry>
+        <entry encoding="base64">XDxQUkVTRU5UQVRJT05cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
