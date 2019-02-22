@@ -81,6 +81,12 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/test.js" timestamp="1550806130317">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="28" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="28" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/healthcheck/index.js" timestamp="1543377264108">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="13" column="44" />
@@ -335,7 +341,7 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550805870139">
+      <file name="/Dummy.txt" timestamp="1550806531806">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -553,13 +559,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app(apps): 修改 echo 请求</text>
+        <text>fix(DeviceStatusQuery): 检测用户请求时是否在线</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>app(apps): 修改 echo 请求</text>
+        <text>fix(DeviceStatusQuery): 检测用户请求时是否在线</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUkVTRU5UQVRJT05cPg==</text>
