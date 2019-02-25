@@ -179,18 +179,17 @@
         <mark key="^" line="17" column="12" />
         <mark key="." line="17" column="12" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1550804399575" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/service/index.js" timestamp="1541414293792">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/confd/conf.d/config.js.toml" timestamp="1550719003188">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="10" />
-        <mark key="^" line="3" column="9" />
-        <mark key="." line="3" column="10" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/confd/conf.d/config.js.toml" timestamp="1551074585154">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1550655588482">
         <mark key="[" line="196" column="73" />
@@ -341,7 +340,7 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550806572011">
+      <file name="/Dummy.txt" timestamp="1551074541662">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -437,7 +436,6 @@
         <mark key="[" line="6" column="104" />
         <mark key="]" line="6" column="132" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Client.js" timestamp="1550748077110" />
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" timestamp="1550748314658">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="44" />
@@ -559,13 +557,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix(DeviceStatusQuery): 检测用户请求时是否在线</text>
+        <text>feat(routeByRoomId): 固定模8改成模地址数组的长度，以适应不同长度的地址列表</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>fix(DeviceStatusQuery): 检测用户请求时是否在线</text>
+        <text>feat(routeByRoomId): 固定模8改成模地址数组的长度，以适应不同长度的地址列表</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUkVTRU5UQVRJT05cPg==</text>
@@ -622,7 +620,7 @@
       <last-replace>appName</last-replace>
       <last-substitute>grpc</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
