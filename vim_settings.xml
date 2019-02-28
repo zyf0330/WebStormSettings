@@ -79,6 +79,11 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/kubeutils/node-labels.yaml" timestamp="1551324915884">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="17" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/pusher-config.json" timestamp="1541578816717">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="29" />
@@ -102,6 +107,13 @@
         <mark key="]" line="13" column="44" />
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/kubeutils/tinder-polaris-node-labels.yaml" timestamp="1551325103828">
+        <mark key="'" line="23" column="10" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="48" column="7" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/sentry.yaml" timestamp="1545626774191">
         <mark key="[" line="1" column="100" />
@@ -502,8 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="28" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="52" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
       <jump line="191" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
       <jump line="192" column="44" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
@@ -602,55 +612,57 @@
       <jump line="61" column="32" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="66" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="68" column="16" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="16" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/kubeutils/tinder-polaris-node-labels.yaml" />
+      <jump line="23" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/kubeutils/tinder-polaris-node-labels.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>feat(confd): 支持通过 CONFD_ENV 设置 etcd 键前缀（环境），通过 clusterId 设置集群</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByb2xlOiBjZW50ZXIK</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat(confd): 支持通过 CONFD_ENV 设置 etcd 键前缀（环境），通过 clusterId 设置集群</text>
+        <text>bj</text>
       </register>
       <register name="/" type="4">
         <text>zmq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcignem1xJywgJ2Rpc2Nvbm5lY3QnLCBgZW5kcG9pbnQ6ICR7ZXB9LCBhZGRyOiAke2FkZHJ9YCkK</text>
+        <text encoding="base64">cWNsb3VkLWJqLXRpbmRlcmNvbm5lY3Rvci0wMDAxOgogIGJldGEua3ViZXJuZXRlcy5pby9hcmNoOiBhbWQ2NAogIGJldGEua3ViZXJuZXRlcy5pby9vczogbGludXgKICBrdWJlcm5ldGVzLmlvL2hvc3RuYW1lOiBxY2xvdWQtYmotdGluZGVyY29ubmVjdG9yLTAwMDEKICBlbnZpcm9ubWVudDogcHJvZAogIGlkY0lkOiBiagogIHJvbGU6IGNvbm5lY3RvcgogIGVkZ2Utc2VydmljZTogJ3RydWUnCiAgdHJhZWZpazogJ3RydWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlsb2dnZXIubG9nKCd6bXEnLCAnZGlzY29ubmVjdCcsICdlbmRwb2ludDonLCBlcCk7Cg==</text>
+        <text encoding="base64">ICByb2xlOiBjZW50ZXIK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlsb2dnZXIubG9nKCd6bXEnLCAnY2xvc2UnLCAnZW5kcG9pbnQ6JywgZXApOwo=</text>
+        <text encoding="base64">ICBtb25nbzogJ3RydWUnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlsb2dnZXIubG9nKCd6bXEnLCAnYWNjZXB0X2Vycm9yJywgJ2VuZHBvaW50OicsIGVwKTsK</text>
+        <text encoding="base64">ICB2ZHFhOiBwdXNoZXIK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsb2dnZXIubG9nKCd6bXEnLCAnY29ubmVjdF9yZXRyeScsICdlbmRwb2ludDonLCBlcCk7Cg==</text>
+        <text encoding="base64">ICB0aWVyOiBwdXNoZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXNvY2tldC5vbignY29ubmVjdF9kZWxheScsIChmZCwgZXApID0+IHsKCQlsb2dnZXIubG9nKCd6bXEnLCAnY29ubmVjdF9kZWxheScsICdlbmRwb2ludDonLCBlcCk7Cgl9KTsK</text>
+        <text encoding="base64">ICB0aWVyOiBjb25uZWN0b3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICB0aWVyOiBjZW50ZXIKICB2ZHFhOiBjZW50ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IC1sb2ctbGV2ZWwgZGVidWcK</text>
+        <text encoding="base64">ICB2ZHFhOiBjZW50ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VkIC1pIC1lICdzLyR7Q09ORkRfRU5WfS8nIiR7Q09ORkRfRU5WfSInL2cnIGNvbmZkL2NvbmYuZC9jb25maWcuanMudG9tbAo=</text>
+        <text encoding="base64">ICB0aWVyOiBjZW50ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IENPTkZEX0VOVj10ZXN0Lgo=</text>
+        <text encoding="base64">ICBhcHBzOiBjZW50ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -663,7 +675,7 @@
       <last-replace>\r</last-replace>
       <last-substitute>,\n</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
