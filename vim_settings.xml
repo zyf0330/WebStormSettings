@@ -376,6 +376,10 @@
         <mark key="^" line="28" column="8" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="/deployEdge.sh" timestamp="1551420912851">
+        <mark key="[" line="46" column="22" />
+        <mark key="]" line="46" column="27" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/node-rtmp-message-server/src/Socket.ts" timestamp="1546914729140">
         <mark key="[" line="171" column="27" />
         <mark key="]" line="171" column="27" />
@@ -388,7 +392,7 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551416265553">
+      <file name="/Dummy.txt" timestamp="1551420895415">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="51" />
@@ -469,10 +473,11 @@
         <mark key="^" line="57" column="32" />
         <mark key="." line="57" column="32" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder-charts/deployEdge.sh" timestamp="1551416284015">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-charts/deployEdge.sh" timestamp="1551420985460">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="62" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" timestamp="1550750695437">
         <mark key="[" line="97" column="28" />
@@ -622,52 +627,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>action</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text>zmq</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cWNsb3VkLWJqLXRpbmRlcmNvbm5lY3Rvci0wMDAxOgogIGJldGEua3ViZXJuZXRlcy5pby9hcmNoOiBhbWQ2NAogIGJldGEua3ViZXJuZXRlcy5pby9vczogbGludXgKICBrdWJlcm5ldGVzLmlvL2hvc3RuYW1lOiBxY2xvdWQtYmotdGluZGVyY29ubmVjdG9yLTAwMDEKICBlbnZpcm9ubWVudDogcHJvZAogIGlkY0lkOiBiagogIHJvbGU6IGNvbm5lY3RvcgogIGVkZ2Utc2VydmljZTogJ3RydWUnCiAgdHJhZWZpazogJ3RydWUnCg==</text>
+      <register name="0" type="4">
+        <text>action</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByb2xlOiBjZW50ZXIK</text>
+        <text encoding="base64">IyDpgJrov4cK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtb25nbzogJ3RydWUnCg==</text>
+        <text encoding="base64">dmFsdWVzPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2ZHFhOiBwdXNoZXIK</text>
+        <text encoding="base64">ZWNobyBjdXJyZW50IGNvbnRleHQ6ICIkY29udGV4dCIK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0aWVyOiBwdXNoZXIK</text>
+        <text encoding="base64">ZWNobyBjdXJyZW50IGNvbnRleHQ6ICIkY29udGV4dCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0aWVyOiBjb25uZWN0b3IK</text>
+        <text encoding="base64">ZWNobyBjdXJyZW50LWNvbnRleHQ6ICIkY29udGV4dCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0aWVyOiBjZW50ZXIKICB2ZHFhOiBjZW50ZXIK</text>
+        <text encoding="base64">ICBlY2hvICcgLT4gZ2VuZXJhdGluZyBjb25maWcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2ZHFhOiBjZW50ZXIK</text>
+        <text encoding="base64">ICByb2xlOiBjZW50ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0aWVyOiBjZW50ZXIK</text>
+        <text encoding="base64">ICBtb25nbzogJ3RydWUnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhcHBzOiBjZW50ZXIK</text>
+        <text encoding="base64">ICB2ZHFhOiBwdXNoZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
