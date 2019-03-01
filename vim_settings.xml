@@ -388,7 +388,7 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551258359053">
+      <file name="/Dummy.txt" timestamp="1551416265553">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="51" />
@@ -468,6 +468,11 @@
         <mark key="]" line="57" column="32" />
         <mark key="^" line="57" column="32" />
         <mark key="." line="57" column="32" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-charts/deployEdge.sh" timestamp="1551416284015">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" timestamp="1550750695437">
         <mark key="[" line="97" column="28" />
@@ -616,14 +621,14 @@
       <jump line="23" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/kubeutils/tinder-polaris-node-labels.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByb2xlOiBjZW50ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>bj</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>zmq</text>
