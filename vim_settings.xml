@@ -187,6 +187,11 @@
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="51" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder-charts/charts/traefik/templates/ingress.yaml" timestamp="1551776839537">
+        <mark key="[" line="35" column="83" />
+        <mark key="]" line="35" column="108" />
+        <mark key="." line="35" column="83" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/index.js" timestamp="1549955831623">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -392,11 +397,11 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551420895415">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1551421180919">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="51" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -627,19 +632,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>action</text>
+        <text>duobeiyun.com</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>duobeiyun.com</text>
       </register>
       <register name="/" type="4">
         <text>zmq</text>
       </register>
       <register name="0" type="4">
-        <text>action</text>
+        <text>{{ $.Values.rootDomain }}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyDpgJrov4cK</text>
