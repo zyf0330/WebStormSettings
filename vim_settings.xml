@@ -252,6 +252,12 @@
         <mark key="." line="29" column="33" />
         <mark key="^" line="29" column="33" />
       </file>
+      <file name="$USER_HOME$/project/duobei/dby-etcd-browser/app.js" timestamp="1552370381438">
+        <mark key="[" line="68" column="55" />
+        <mark key="]" line="68" column="74" />
+        <mark key="^" line="68" column="74" />
+        <mark key="." line="68" column="74" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/system/config.spec.js" timestamp="1543381139378">
         <mark key="[" line="58" column="7" />
         <mark key="]" line="58" column="15" />
@@ -338,7 +344,7 @@
         <mark key="." line="26" column="78" />
         <mark key="^" line="26" column="78" />
       </file>
-      <file name="/JavaScript Console" timestamp="1551086034956">
+      <file name="/JavaScript Console" timestamp="1552370344030">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -636,13 +642,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>duobeiyun.com</text>
+        <text>config</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>duobeiyun.com</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text>zmq</text>
