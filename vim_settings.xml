@@ -38,6 +38,12 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/protos/tinder/system/push/push.proto" timestamp="1552529764404">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="5" />
+        <mark key="^" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/.gitignore" timestamp="1546934090208">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -251,8 +257,8 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1551250154929">
-        <mark key="'" line="68" column="16" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1552446749568">
+        <mark key="'" line="470" column="21" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -565,8 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="42" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
-      <jump line="80" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="129" column="12" filename="$USER_HOME$/project/duobei/tinder/kubeutils/conf/tinder/pusher-cluster.yaml" />
       <jump line="38" column="24" filename="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/deployment.yaml" />
       <jump line="9" column="13" filename="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/deployment.yaml" />
@@ -665,6 +669,8 @@
       <jump line="176" column="37" filename="$USER_HOME$/project/duobei/dby-etcd-browser/views/index.html" />
       <jump line="29" column="13" filename="$USER_HOME$/project/duobei/dby-etcd-browser/views/auth.html" />
       <jump line="117" column="10" filename="$USER_HOME$/project/duobei/dby-etcd-browser/views/index.html" />
+      <jump line="105" column="42" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
+      <jump line="470" column="21" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -677,7 +683,7 @@
         <text>fix minor bug</text>
       </register>
       <register name="/" type="4">
-        <text>href</text>
+        <text>clientmicon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCB1cmlQcmVmaXggPSAnPCUtIHVyaVByZWZpeCAlPicK</text>
@@ -720,17 +726,16 @@
       </register>
     </registers>
     <search>
-      <last-search>href</last-search>
+      <last-search>clientmicon</last-search>
       <last-offset />
-      <last-pattern>href</last-pattern>
+      <last-pattern>clientmicon</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>,\n</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>close</entry>
         <entry>roomid</entry>
         <entry>logger</entry>
         <entry encoding="base64">XDxwcmVzZW50YXRpb25DaGFuZ2VcPg==</entry>
@@ -750,6 +755,7 @@
         <entry>form</entry>
         <entry>$http</entry>
         <entry>href</entry>
+        <entry>clientmicon</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
