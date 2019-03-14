@@ -266,12 +266,12 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1552533088230">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1552544665897">
         <mark key="'" line="131" column="25" />
-        <mark key="[" line="133" column="25" />
-        <mark key="]" line="133" column="29" />
-        <mark key="." line="133" column="29" />
-        <mark key="^" line="133" column="29" />
+        <mark key="[" line="132" column="17" />
+        <mark key="]" line="132" column="17" />
+        <mark key="." line="132" column="17" />
+        <mark key="^" line="139" column="9" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1552446749568">
         <mark key="'" line="470" column="21" />
@@ -394,7 +394,6 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/config.js" timestamp="1552532366587" />
       <file name="$USER_HOME$/project/duobei/dby-etcd-browser/views/auth.html" timestamp="1552374392225">
         <mark key="'" line="29" column="13" />
         <mark key="[" line="32" column="30" />
@@ -408,7 +407,6 @@
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/edge.yaml" timestamp="1552529913978" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/default.js" timestamp="1552532551420">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -541,7 +539,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552533541037">
+      <file name="/Dummy.txt" timestamp="1552544656704">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="^" line="0" column="35" />
@@ -708,52 +706,56 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feat(grpc): 添加 keepalive 和 max_connection 相关选项，优化连接稳定性和负载均衡</text>
+        <text>s</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>feat(grpc): 添加 keepalive 和 max_connection 相关选项，优化连接稳定性和负载均衡</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNiKG51bGwsIHtzdWNjZXNzOiBmYWxzZSwgbXNnOiAnUHJvdG9EZWNvZGVGYWlsJ30pCg==</text>
+      <register name="0" type="4">
+        <text>GRPCError</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNiKG5ldyBFcnJvcignZGVjb2RlIGZhaWwnKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNiKG5ldyBFcnJvcihgbm8gc3VjaCBUeXBlIGRlZmluZWQgaW4gcHJvdG8gb2YgJHthcHB9OiAke21lc3NhZ2VUeXBlfWApKQo=</text>
+      <register name="2" type="4">
+        <text>{extras: {
+        app: req.app,
+        messageType: req.messageType,
+        content: req.content,
+      }}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJy0tLS0tLS0tLS0tLScpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHsKICAgICAgICBhcHA6IHJlcS5hcHAsCiAgICAgICAgbWVzc2FnZVR5cGU6IHJlcS5tZXNzYWdlVHlwZSwKICAgICAgICBjb250ZW50OiByZXEuY29udGVudCwKICAgICAgfQ==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">MAo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZGNJZDogcmVxLmlkY0lkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZGNJZDogcmVxLmlkY0lkLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSYXZlbi5jYXB0dXJlTWVzc2FnZShtc2csIHJhdmVuVGFncygnR1JQQ0Vycm9yJykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICBSYXZlbi5jYXB0dXJlRXhjZXB0aW9uKGUsIHJhdmVuVGFncygnR1JQQ0Vycm9yJykpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNiKG5ldyBFcnJvcignZGVjb2RlIGZhaWwnKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFzdWNjZXNzKSB7CiAgICAgICAgaWYgKG1zZyA9PSAnUHJvdG9Ob3RGb3VuZCcgfHwgbXNnID09ICdQcm90b0RlY29kZUZhaWwnKSB7CiAgICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ0ludmFsaWRNc2cnKQogICAgICAgIH0KICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNiKG5ldyBFcnJvcihgbm8gc3VjaCBUeXBlIGRlZmluZWQgaW4gcHJvdG8gb2YgJHthcHB9OiAke21lc3NhZ2VUeXBlfWApKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -766,7 +768,7 @@
       <last-replace>\r</last-replace>
       <last-substitute>,\n</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
