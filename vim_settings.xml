@@ -386,6 +386,7 @@
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/edge.yaml" timestamp="1552529913978" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1541487250583">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="43" />
@@ -462,7 +463,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1552375525561">
+      <file name="/JavaScript Console" timestamp="1552529818417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -564,6 +565,12 @@
         <mark key="]" line="92" column="39" />
         <mark key="^" line="92" column="51" />
         <mark key="." line="92" column="39" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" timestamp="1552530351566">
+        <mark key="[" line="186" column="42" />
+        <mark key="]" line="186" column="55" />
+        <mark key="." line="186" column="42" />
+        <mark key="^" line="186" column="41" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" timestamp="1550748314658">
         <mark key="[" line="7" column="27" />
@@ -674,19 +681,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix minor bug</text>
+        <text>ProtoNotFound</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>fix minor bug</text>
+        <text>new Error(`no such Type defined in proto of ${app}: ${messageType}`)</text>
       </register>
       <register name="/" type="4">
         <text>clientmicon</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB1cmlQcmVmaXggPSAnPCUtIHVyaVByZWZpeCAlPicK</text>
+      <register name="0" type="4">
+        <text>ProtoNotFound</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGN0eC5zdGF0ZS5hd2FpdAo=</text>
