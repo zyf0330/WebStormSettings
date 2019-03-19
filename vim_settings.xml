@@ -253,6 +253,12 @@
         <mark key="." line="39" column="16" />
         <mark key="^" line="39" column="16" />
       </file>
+      <file name="$USER_HOME$/Desktop/domongo/config.js" timestamp="1552976333417">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/appConfig.json" timestamp="1546934177868">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -428,6 +434,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/domongo/do.js" timestamp="1552976356160">
+        <mark key="'" line="44" column="17" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1541487250583">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="43" />
@@ -515,7 +527,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1552975976488">
+      <file name="/JavaScript Console" timestamp="1552976130763">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -624,8 +636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
-      <jump line="144" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
       <jump line="159" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
       <jump line="142" column="43" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
       <jump line="70" column="90" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
@@ -724,16 +734,18 @@
       <jump line="12" column="3" filename="$USER_HOME$/Desktop/domongo/dby-data-center/do.js" />
       <jump line="56" column="2" filename="$USER_HOME$/Desktop/domongo/dby-data-center/do.js" />
       <jump line="21" column="35" filename="$USER_HOME$/Desktop/domongo/dby-data-center/do.js" />
+      <jump line="29" column="2" filename="$USER_HOME$/Desktop/domongo/do.js" />
+      <jump line="44" column="17" filename="$USER_HOME$/Desktop/domongo/do.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>boolean</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHsgX2lkLCBhcGlJZDogJ2FwaUlkJyB9IC8vIFRPRE8K</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>connect</text>
@@ -742,37 +754,37 @@
         <text>updated</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHsgX2lkLCBhcGlJZDogJ2FwaUlkJyB9IC8vIFRPRE8K</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkbyB7CiAgfSB3aGlsZSAodHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIC50aGVuKChpZE1hcCkgPT4gewogICAgICB9KQo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IGF3YWl0IGxvb3Aod2F0Y2hzZXNzaW9ucykKICAgIGlmKHJlc3VsdCA9PSBudWxsKXsKICAgICAgYnJlYWsKICAgIH0KICAgIGNvbnN0IHVwZGF0ZWQgPSByZXN1bHQudXBkYXRlZAogICAgZnMud3JpdGVGaWxlU3luYygnLi9vcHMudHh0JywgSlNPTi5zdHJpbmdpZnkodXBkYXRlZCkgKyAnXG4nKQoKICAgIC8vIHJlc3VsdCA9IG51bGwgLy8gVE9ETwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4geyBfaWQsIGFwaUlkOiBpZE1hcFtzeXN0ZW1JZF0gfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgcmVzdWx0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICBkbyB7CiAgfSB3aGlsZSAodHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICByZXMoeyBmaW5kOiB9KQogICAgfSksIDEwMDAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IGF3YWl0IGxvb3Aod2F0Y2hzZXNzaW9ucykKICAgIGlmKHJlc3VsdCA9PSBudWxsKXsKICAgICAgYnJlYWsKICAgIH0KICAgIGNvbnN0IHVwZGF0ZWQgPSByZXN1bHQudXBkYXRlZAogICAgZnMud3JpdGVGaWxlU3luYygnLi9vcHMudHh0JywgSlNPTi5zdHJpbmdpZnkodXBkYXRlZCkgKyAnXG4nKQoKICAgIC8vIHJlc3VsdCA9IG51bGwgLy8gVE9ETwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGN1cnNvci5jbG9zZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -785,7 +797,7 @@
       <last-replace>=require(</last-replace>
       <last-substitute>from</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
