@@ -194,12 +194,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/domongo/dby-data-center/do.js" timestamp="1552967342630">
-        <mark key="'" line="3" column="27" />
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="14" />
+      <file name="$USER_HOME$/Desktop/domongo/dby-data-center/do.js" timestamp="1552971228339">
+        <mark key="'" line="2" column="26" />
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="11" column="15" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/confd/templates/config.js.tmpl" timestamp="1551081824907">
         <mark key="[" line="26" column="72" />
@@ -354,11 +354,11 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/domongo/dby-data-center/config.js" timestamp="1552967163844">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="6" />
-        <mark key="^" line="1" column="34" />
-        <mark key="." line="1" column="34" />
+      <file name="$USER_HOME$/Desktop/domongo/dby-data-center/config.js" timestamp="1552970320036">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/kubeutils/tinder-polaris-node-labels.yaml" timestamp="1551325103828">
         <mark key="'" line="23" column="10" />
@@ -410,12 +410,12 @@
         <mark key="^" line="32" column="38" />
         <mark key="." line="32" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/domongo/dby-data-center/adminAPI.js" timestamp="1552966902438">
-        <mark key="'" line="34" column="5" />
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="6" />
-        <mark key="." line="23" column="6" />
-        <mark key="^" line="23" column="6" />
+      <file name="$USER_HOME$/Desktop/domongo/dby-data-center/adminAPI.js" timestamp="1552969720844">
+        <mark key="'" line="36" column="5" />
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="29" />
+        <mark key="." line="34" column="20" />
+        <mark key="^" line="24" column="28" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/index.js" timestamp="1549955831623">
         <mark key="[" line="19" column="0" />
@@ -624,7 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/protos/index.proto" />
       <jump line="102" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
       <jump line="88" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
       <jump line="118" column="34" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
@@ -723,59 +722,60 @@
       <jump line="34" column="5" filename="$USER_HOME$/Desktop/domongo/dby-data-center/adminAPI.js" />
       <jump line="0" column="26" filename="$USER_HOME$/Desktop/domongo/dby-data-center/do.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/domongo/dby-data-center/dist/models/WatchSession.js" />
-      <jump line="2" column="27" filename="$USER_HOME$/Desktop/domongo/dby-data-center/do.js" />
+      <jump line="20" column="19" filename="$USER_HOME$/Desktop/domongo/dby-data-center/do.js" />
+      <jump line="2" column="26" filename="$USER_HOME$/Desktop/domongo/dby-data-center/do.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>db.watchsessions</text>
+        <text>]</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>db.watchsessions</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="4">
-        <text>watchsessions</text>
+        <text>concurrent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb2wuZmluZCgpCg==</text>
+        <text encoding="base64">ICAgIGZvciAoY29uc3QgIG9mIGRzKSB7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QK</text>
+        <text encoding="base64">ICAgICAgcHMucHVzaCgKICAgICAgICBhcGkucmV0cmlldmVBcGlJRChyb29tSWQsIFtzeXN0ZW1JZF0pLnRoZW4oKGlkTWFwKSA9PiB7CiAgICAgICAgICByZXR1cm4geyBfaWQsIGFwaUlkOiBpZE1hcFtzeXN0ZW1JZF0gfQogICAgICAgIH0pLAogICAgICApCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bW9uZ29vc2UubW9kZWwoKQo=</text>
+      <register name="3" type="4">
+        <text>{
+      roomId: 1,
+      systemId: 1,
+    }</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYXBpKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">LnRoZW4oKHJlc3VsdHMpID0+IHsKCiAgICB9KQ==</text>
       </register>
-      <register name="5" type="8">
-        <text>: string</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgdXBkYXRlT25lcyA9IHJlc3VsdHMubWFwKCh7IF9pZCwgYXBpSWQgfSkgPT4gewogICAgICAgIHJldHVybiB7IHVwZGF0ZU9uZTogeyBmaWx0ZXI6IHsgX2lkIH0sIHVwZGF0ZTogeyAkc2V0OiB7IGFwaUlkIH0gfSB9IH0KICAgICAgfSkKICAgICAgd2F0Y2hzZXNzaW9ucy5idWxrV3JpdGUodXBkYXRlT25lcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXBkYXRlT25lcyA9IHJlc3VsdHMubWFwKCh7IF9pZCwgYXBpSWQgfSkgPT4gewogICAgICAgIHJldHVybiB7IHVwZGF0ZU9uZTogeyBmaWx0ZXI6IHsgX2lkIH0sIHVwZGF0ZTogeyAkc2V0OiB7IGFwaUlkIH0gfSB9IH0KICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogewogKiAgICJ0aXRsZSI6ICJMZXNzb24gMTIgTGVhcm5pbmcgQ3ljbGUgMiBBc3Nlc3NtZW50IiwKICogICAic3RhcnRUaW1lIjogMTQ3MzU1MjAwMDAwMCwKICogICAiZW5kVGltZSI6IDE0NzM1NTkyMDAwMDAsCiAqICAgInJvb21JZCI6ICJqemQzZTlhOTAyNmE2MjQyMzg4YWM1MDdlZjI4Y2Q1OGRkIiwKICogICAiY29udmVydFN0YXR1cyI6IDEsCiAqICAgInZpZGVvIjogdHJ1ZSwKICogICAiY29udmVydGVkVGltZSI6IDE0NzM1NjU5OTUwMDAsCiAqICAgImNvdXJzZVR5cGUiOiAxLAogKiAgICJ2b2QiOiBmYWxzZSwKICogICAibWVyY2hhbnRJZCI6IDIyNiwKICogICAibWVyY2hhbnROYW1lIjogIlZJUEtJRCIsCiAqICAgImxpbmVUeXBlIjogMSwKICogICAic3lzdGVtSWQiOiAianphMTcwNTYzZTIwOGY0ZDBlOTUwMDcyZjcyMjJiMWQ1NiIKICogfQogKi8K</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
-      <register name="9" type="8">
-        <text>import
-import
-import
-import</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
