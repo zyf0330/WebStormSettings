@@ -116,6 +116,13 @@
         <mark key="]" line="35" column="108" />
         <mark key="." line="35" column="83" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1552962209318">
+        <mark key="'" line="108" column="6" />
+        <mark key="[" line="153" column="4" />
+        <mark key="]" line="153" column="9" />
+        <mark key="^" line="153" column="9" />
+        <mark key="." line="153" column="9" />
+      </file>
       <file name="$USER_HOME$/project/duobei/dby-etcd-browser/routes/index.js" timestamp="1552373664462">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="29" />
@@ -294,11 +301,11 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/1.js" timestamp="1552960890067">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="13" column="20" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/1.js" timestamp="1552961527333">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
       </file>
       <file name="/fragment.js" timestamp="1552532422688">
         <mark key="[" line="0" column="0" />
@@ -419,10 +426,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1550655588482">
-        <mark key="[" line="196" column="73" />
-        <mark key="]" line="196" column="73" />
-        <mark key="." line="196" column="73" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1552962141784">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="207" column="19" />
+        <mark key="]" line="207" column="21" />
+        <mark key="." line="207" column="21" />
+        <mark key="^" line="207" column="21" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-etcd-browser/app.js" timestamp="1552373774331">
         <mark key="[" line="58" column="0" />
@@ -526,11 +535,11 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552621182298">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="33" />
+      <file name="/Dummy.txt" timestamp="1552962534809">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="33" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -562,6 +571,9 @@
         <mark key="^" line="57" column="32" />
         <mark key="." line="57" column="32" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" timestamp="1552961653284">
+        <mark key="'" line="60" column="27" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/connector-rtmp-app.json" timestamp="1541643787602">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="0" />
@@ -582,13 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
-      <jump line="21" column="43" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
-      <jump line="24" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
-      <jump line="28" column="49" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
-      <jump line="184" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
-      <jump line="14" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
-      <jump line="37" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" />
       <jump line="32" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" />
       <jump line="15" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" />
       <jump line="18" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/index.js" />
@@ -682,76 +687,78 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-proto-models/tinder/index.js" />
       <jump line="78" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-proto-models/tinder/index.js" />
       <jump line="17" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/Dockerfile" />
+      <jump line="158" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="60" column="27" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" />
+      <jump line="153" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="111" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="201" column="35" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="108" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>feat(zmq): 现在 zmq 日志同时打印未经解析的原域名地址</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>feat(zmq): 现在 zmq 日志同时打印未经解析的原域名地址</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text encoding="base64">XDxwcmVwYXJlUm9vbVw+</text>
       </register>
       <register name="0" type="4">
         <text>GRPCError</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBzdWIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgICAgcmVzKCkKICAgICAgICB9</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHptcVNvY2tldC5zdWJzY3JpYmUoYEVWRU5UOiR7YXBwTmFtZShyb29tSWQpfWApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="4">
-        <text>{extras: {
-        app: req.app,
-        messageType: req.messageType,
-        content: req.content,
-      }}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB6bXFTb2NrZXQuc3Vic2NyaWJlKGBFVkVOVDoke2FwcE5hbWUocm9vbUlkKX1gKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHsKICAgICAgICBhcHA6IHJlcS5hcHAsCiAgICAgICAgbWVzc2FnZVR5cGU6IHJlcS5tZXNzYWdlVHlwZSwKICAgICAgICBjb250ZW50OiByZXEuY29udGVudCwKICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZGNJZDogcmVxLmlkY0lkLAo=</text>
+        <text encoding="base64">ICAgIGlmICghdW5zdWJzY3JpYmUpIHsKICAgICAgem1xU29ja2V0LnN1YnNjcmliZShgRVZFTlQ6JHthcHBOYW1lKHJvb21JZCl9YCkKICAgIH0gZWxzZSB7CiAgICAgIHptcVNvY2tldC51bnN1YnNjcmliZShgRVZFTlQ6JHthcHBOYW1lKHJvb21JZCl9YCkKICAgICAgdGhpcy52ZXJzaW9ucy5kZWxldGUocm9vbUlkKQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZGNJZDogcmVxLmlkY0lkLAo=</text>
+        <text encoding="base64">ICAgIFByb21pc2UuZGVsYXkKICAgIF8uZGVsYXkoKCkgPT4gewogICAgICAKICAgIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSYXZlbi5jYXB0dXJlTWVzc2FnZShtc2csIHJhdmVuVGFncygnR1JQQ0Vycm9yJykpCg==</text>
+        <text encoding="base64">ICAgIFByb21pc2UuZGVsYXkKICAgIF8uZGVsYXkoKCkgPT4gewogICAgICAKICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSYXZlbi5jYXB0dXJlRXhjZXB0aW9uKGUsIHJhdmVuVGFncygnR1JQQ0Vycm9yJykpCg==</text>
+        <text encoding="base64">ICBzZXRJbW1lZGlhdGUoKCkgPT4gewogICAgcHViLnNlbmQoJ2ExJykKICB9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search encoding="base64">XDxwcmVwYXJlUm9vbVw+</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVwYXJlUm9vbVw+</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>,\n</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>redis</entry>
         <entry>helper</entry>
         <entry>&quot;</entry>
         <entry>,\n</entry>
@@ -771,6 +778,7 @@
         <entry>push</entry>
         <entry>watch</entry>
         <entry>console</entry>
+        <entry encoding="base64">XDxwcmVwYXJlUm9vbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
@@ -783,7 +791,6 @@
         <entry>101</entry>
         <entry>200</entry>
         <entry>70</entry>
-        <entry>q</entry>
         <entry>68</entry>
         <entry>231</entry>
         <entry>135</entry>
@@ -793,6 +800,7 @@
         <entry>%s/,\n/\r/g</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
