@@ -50,6 +50,10 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/domongo/adminAPI.js" timestamp="1552977317913">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="20" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/pusher-config.json" timestamp="1541578816717">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="29" />
@@ -434,11 +438,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/domongo/do.js" timestamp="1552976356160">
-        <mark key="'" line="44" column="17" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Desktop/domongo/do.js" timestamp="1552977917460">
+        <mark key="'" line="13" column="10" />
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="25" />
+        <mark key="." line="52" column="25" />
+        <mark key="^" line="52" column="25" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1541487250583">
         <mark key="[" line="18" column="37" />
@@ -636,7 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
       <jump line="142" column="43" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
       <jump line="70" column="90" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
       <jump line="62" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
@@ -736,72 +740,72 @@
       <jump line="21" column="35" filename="$USER_HOME$/Desktop/domongo/dby-data-center/do.js" />
       <jump line="29" column="2" filename="$USER_HOME$/Desktop/domongo/do.js" />
       <jump line="44" column="17" filename="$USER_HOME$/Desktop/domongo/do.js" />
+      <jump line="13" column="10" filename="$USER_HOME$/Desktop/domongo/do.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHsgX2lkLCBhcGlJZDogJ2FwaUlkJyB9IC8vIFRPRE8K</text>
+      <register name="&quot;" type="4">
+        <text>const systemIdMap =</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>mapValues</text>
       </register>
       <register name="/" type="4">
-        <text>connect</text>
+        <text>retr</text>
       </register>
       <register name="0" type="4">
-        <text>updated</text>
+        <text>const systemIdMap =</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHsgX2lkLCBhcGlJZDogJ2FwaUlkJyB9IC8vIFRPRE8K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBzID0gZHMubWFwKGFzeW5jICh7IF9pZCwgcm9vbUlkLCBzeXN0ZW1JZCB9KSA9PiB7CiAgICB9KQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIC50aGVuKChpZE1hcCkgPT4gewogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsgX2lkLCBhcGlJZDogc3lzdGVtSWRNYXBbc3lzdGVtSWRdIH0K</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geyBfaWQsIGFwaUlkOiBpZE1hcFtzeXN0ZW1JZF0gfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaWRNYXAgPSBhd2FpdCBhcGkucmV0cmlldmVBcGlJRChyb29tSWQsIFtzeXN0ZW1JZF0pCiAgICAgIHJldHVybiB7IF9pZCwgYXBpSWQ6IGlkTWFwW3N5c3RlbUlkXSB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkbyB7CiAgfSB3aGlsZSAodHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJvb21PYmplY3Qua2V5cyhyb29tSWRNYXApCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IGF3YWl0IGxvb3Aod2F0Y2hzZXNzaW9ucykKICAgIGlmKHJlc3VsdCA9PSBudWxsKXsKICAgICAgYnJlYWsKICAgIH0KICAgIGNvbnN0IHVwZGF0ZWQgPSByZXN1bHQudXBkYXRlZAogICAgZnMud3JpdGVGaWxlU3luYygnLi9vcHMudHh0JywgSlNPTi5zdHJpbmdpZnkodXBkYXRlZCkgKyAnXG4nKQoKICAgIC8vIHJlc3VsdCA9IG51bGwgLy8gVE9ETwo=</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHsgX2lkLCBhcGlJZDogJ2FwaUlkJyB9IC8vIFRPRE8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>connect</last-search>
+      <last-search>retr</last-search>
       <last-offset />
-      <last-pattern>connect</last-pattern>
+      <last-pattern>retr</last-pattern>
       <last-replace>=require(</last-replace>
       <last-substitute>from</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>duobeiyun-stream-sync</entry>
         <entry>zmq</entry>
         <entry>script</entry>
         <entry>location.href</entry>
@@ -821,6 +825,7 @@
         <entry>model</entry>
         <entry>config</entry>
         <entry>connect</entry>
+        <entry>retr</entry>
       </history-search>
       <history-cmd>
         <entry>446</entry>
