@@ -491,11 +491,12 @@
         <mark key="." line="207" column="21" />
         <mark key="^" line="207" column="21" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" timestamp="1552993654842">
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="8" />
-        <mark key="^" line="28" column="8" />
-        <mark key="." line="28" column="8" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" timestamp="1552994267360">
+        <mark key="'" line="24" column="15" />
+        <mark key="[" line="80" column="3" />
+        <mark key="]" line="80" column="3" />
+        <mark key="^" line="80" column="3" />
+        <mark key="." line="80" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/domongo/dby-data-center/adminAPI.ts" timestamp="1552966722484">
         <mark key="'" line="0" column="0" />
@@ -674,7 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="28" filename="/app.js" />
       <jump line="34" column="12" filename="/app.js" />
       <jump line="39" column="25" filename="/app.js" />
       <jump line="53" column="12" filename="/app.js" />
@@ -774,16 +774,17 @@
       <jump line="17" column="17" filename="$USER_HOME$/Desktop/domongo/do.js" />
       <jump line="78" column="58" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/utils/adminAPI.ts" />
       <jump line="82" column="47" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/src/utils/adminAPI.ts" />
+      <jump line="24" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.sort({ roomId: 1 }).</text>
+        <text>.count()</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>.sort({ roomId: 1 }).</text>
+        <text>.count()</text>
       </register>
       <register name="/" type="4">
         <text>room</text>
