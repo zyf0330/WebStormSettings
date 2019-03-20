@@ -281,6 +281,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="1" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/dist/utils/adminAPI.js" timestamp="1553053083284">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1552533493104">
         <mark key="'" line="72" column="15" />
         <mark key="[" line="172" column="0" />
@@ -499,12 +502,12 @@
         <mark key="." line="207" column="21" />
         <mark key="^" line="207" column="21" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" timestamp="1553052139538">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" timestamp="1553053762106">
         <mark key="'" line="40" column="8" />
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="27" column="4" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="42" column="64" />
+        <mark key="[" line="48" column="6" />
+        <mark key="]" line="48" column="20" />
+        <mark key="." line="48" column="20" />
+        <mark key="^" line="48" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/domongo/dby-data-center/adminAPI.ts" timestamp="1552966722484">
         <mark key="'" line="0" column="0" />
@@ -568,7 +571,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1553051964707">
+      <file name="/JavaScript Console" timestamp="1553053728255">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -683,7 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yaml" />
       <jump line="22" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yaml" />
       <jump line="1" column="31" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yaml" />
       <jump line="20" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yaml" />
@@ -783,74 +785,65 @@
       <jump line="12" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" />
       <jump line="16" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" />
       <jump line="40" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/dist/utils/adminAPI.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>watchsessions.aggregate([{
-    $match: {
-      apiId: { $in: [null, '', /^jz/] },
-      systemId: { $nin: ['', null] },
-    },
-  }, {
-    $group: {
-      _id: { roomId: '$roomId' },
-      systemIds: { $push: '$systemId' },
-    },
-  }])</text>
+        <text>e</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICRuaW46IFsnJywgbnVsbF0gfQ==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>fs</text>
+        <text>retrieveApiID</text>
       </register>
       <register name="0" type="4">
-        <text>updateManys</text>
+        <text>retrieveApiID</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gcm9sZTogMiwK</text>
+        <text encoding="base64">ICAgIHt9Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjbGllbnQuZAo=</text>
+        <text encoding="base64">ICAgICAgLy8gcm9sZTogMiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGllbnQuZAo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gbmV3IFByb21pc2UoYXN5bmMgKHJlcykgPT4gewo=</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gbmV3IFByb21pc2UoYXN5bmMgKHJlcykgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmcy53cml0ZUZpbGVTeW5jKGB3YXRjaHNlc3Npb25zLnR4dGAsICc9PT09PT09PT09PT09ICcgKyBuZXcgRGF0ZSgpICsgJ1xuJywgeyBmbGFnOiAnYScgfSkK</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBmcy53cml0ZUZpbGVTeW5jKGAke2NvbGxlY3Rpb25OYW1lfS50eHRgLCBKU09OLnN0cmluZ2lmeSh1cGRhdGVkKSArICdcbicsIHsgZmxhZzogJ2EnIH0pCg==</text>
+        <text encoding="base64">ICBmcy53cml0ZUZpbGVTeW5jKGB3YXRjaHNlc3Npb25zLnR4dGAsICc9PT09PT09PT09PT09ICcgKyBuZXcgRGF0ZSgpICsgJ1xuJywgeyBmbGFnOiAnYScgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBjb2xzID0gW3dhdGNoc2Vzc2lvbnMsIGNvbGxlY3RldmVudHNdCg==</text>
+        <text encoding="base64">ICAvLyBmcy53cml0ZUZpbGVTeW5jKGAke2NvbGxlY3Rpb25OYW1lfS50eHRgLCBKU09OLnN0cmluZ2lmeSh1cGRhdGVkKSArICdcbicsIHsgZmxhZzogJ2EnIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fs</last-search>
+      <last-search>retrieveApiID</last-search>
       <last-offset />
-      <last-pattern>fs</last-pattern>
+      <last-pattern>retrieveApiID</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -858,7 +851,6 @@
     </search>
     <history>
       <history-search>
-        <entry>db</entry>
         <entry>model</entry>
         <entry>config</entry>
         <entry>connect</entry>
@@ -878,6 +870,7 @@
         <entry>flatten</entry>
         <entry>bulk</entry>
         <entry>fs</entry>
+        <entry>retrieveApiID</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy8iLycvZw==</entry>
