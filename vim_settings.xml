@@ -632,7 +632,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553066107602">
+      <file name="/Dummy.txt" timestamp="1553066887786">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -804,7 +804,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>converter[command]</text>
+        <text>chore(retrieveApiID): 现在第二个参数接收 systemId 列表
+
+Summary:
+
+Test Plan: null
+
+Reviewers: wsy
+
+Subscribers:</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -824,38 +832,46 @@
       <register name="0" type="4">
         <text>converter[command]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBtaWNPbkFpcjogKG1zZykgPT4gW21zZy51c2VySWRdLAo=</text>
+      <register name="1" type="4">
+        <text>chore(retrieveApiID): 现在第二个参数接收 systemId 列表
+
+Summary:
+
+Test Plan: null
+
+Reviewers: wsy
+
+Subscribers:</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtaWNSZXE6IChtc2cpID0+IFttc2cudXNlcklkLCBtc2cucHViXSwK</text>
+        <text encoding="base64">ICBtaWNPbkFpcjogKG1zZykgPT4gW21zZy51c2VySWRdLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhbGxvd01pY0J5VWlkOiAobXNnKSA9PiBbbXNnLnVzZXJJZF0sCg==</text>
+        <text encoding="base64">ICBtaWNSZXE6IChtc2cpID0+IFttc2cudXNlcklkLCBtc2cucHViXSwK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZW55TWljQnlVaWQ6IChtc2cpID0+IFttc2cudXNlcklkXSwK</text>
+        <text encoding="base64">ICBhbGxvd01pY0J5VWlkOiAobXNnKSA9PiBbbXNnLnVzZXJJZF0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbGxvd0NoYXRCeVVpZDogKG1zZykgPT4gW21zZy51c2VySWRdLAo=</text>
+        <text encoding="base64">ICBkZW55TWljQnlVaWQ6IChtc2cpID0+IFttc2cudXNlcklkXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZW55Q2hhdEJ5VWlkOiAobXNnKSA9PiBbbXNnLnVzZXJJZF0sCg==</text>
+        <text encoding="base64">ICBhbGxvd0NoYXRCeVVpZDogKG1zZykgPT4gW21zZy51c2VySWRdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjaGF0OiAobXNnKSA9PiBbbXNnLm1lc3NhZ2VdLAo=</text>
+        <text encoding="base64">ICBkZW55Q2hhdEJ5VWlkOiAobXNnKSA9PiBbbXNnLnVzZXJJZF0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcHBsYXVkOiAobXNnKSA9PiBbXSwK</text>
+        <text encoding="base64">ICBjaGF0OiAobXNnKSA9PiBbbXNnLm1lc3NhZ2VdLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkb3duSGFuZDogKG1zZykgPT4gW21zZy51c2VySWRdLAo=</text>
+        <text encoding="base64">ICBhcHBsYXVkOiAobXNnKSA9PiBbXSwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvbmV3TXNnLnB1c2hcKC4rXCkvKCkgPT4gWyQxXS9nIA==</text>
