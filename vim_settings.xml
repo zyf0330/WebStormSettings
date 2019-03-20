@@ -74,6 +74,12 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/convertMsg.js" timestamp="1553064653068">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/sentry.yaml" timestamp="1545626774191">
         <mark key="[" line="1" column="100" />
         <mark key="]" line="1" column="99" />
@@ -271,6 +277,13 @@
         <mark key="]" line="5" column="15" />
         <mark key="^" line="4" column="45" />
         <mark key="." line="5" column="15" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" timestamp="1553064666746">
+        <mark key="'" line="10" column="30" />
+        <mark key="[" line="38" column="21" />
+        <mark key="]" line="38" column="29" />
+        <mark key="." line="38" column="29" />
+        <mark key="^" line="38" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/domongo/run.sh" timestamp="1552987296559">
         <mark key="[" line="0" column="19" />
@@ -686,8 +699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yaml" />
-      <jump line="1" column="31" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yaml" />
       <jump line="20" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yaml" />
       <jump line="11" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yaml" />
       <jump line="9" column="21" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yaml" />
@@ -786,64 +797,66 @@
       <jump line="16" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" />
       <jump line="40" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/dist/utils/adminAPI.js" />
+      <jump line="37" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
+      <jump line="10" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>convertMsg</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>Default</text>
       </register>
       <register name="/" type="4">
-        <text>retrieveApiID</text>
+        <text encoding="base64">XDxjb252ZXJ0TXNnXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>retrieveApiID</text>
+        <text>convertMsg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gcm9sZTogMiwK</text>
+        <text encoding="base64">ICBjb21tYW5kID0gY29tbWFuZC5yZXBsYWNlKCdjYWxsLmhhbmRsZXIuJywgJycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjbGllbnQuZAo=</text>
+        <text encoding="base64">ICAgIHt9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcm9sZTogMiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ICBjbGllbnQuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gbmV3IFByb21pc2UoYXN5bmMgKHJlcykgPT4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCg==</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmcy53cml0ZUZpbGVTeW5jKGB3YXRjaHNlc3Npb25zLnR4dGAsICc9PT09PT09PT09PT09ICcgKyBuZXcgRGF0ZSgpICsgJ1xuJywgeyBmbGFnOiAnYScgfSkK</text>
+        <text encoding="base64">ICByZXR1cm4gbmV3IFByb21pc2UoYXN5bmMgKHJlcykgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBmcy53cml0ZUZpbGVTeW5jKGAke2NvbGxlY3Rpb25OYW1lfS50eHRgLCBKU09OLnN0cmluZ2lmeSh1cGRhdGVkKSArICdcbicsIHsgZmxhZzogJ2EnIH0pCg==</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>retrieveApiID</last-search>
+      <last-search encoding="base64">XDxjb252ZXJ0TXNnXD4=</last-search>
       <last-offset />
-      <last-pattern>retrieveApiID</last-pattern>
+      <last-pattern encoding="base64">XDxjb252ZXJ0TXNnXD4=</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -851,7 +864,6 @@
     </search>
     <history>
       <history-search>
-        <entry>model</entry>
         <entry>config</entry>
         <entry>connect</entry>
         <entry>retr</entry>
@@ -871,6 +883,7 @@
         <entry>bulk</entry>
         <entry>fs</entry>
         <entry>retrieveApiID</entry>
+        <entry encoding="base64">XDxjb252ZXJ0TXNnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy8iLycvZw==</entry>
