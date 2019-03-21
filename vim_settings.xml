@@ -93,11 +93,11 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1553068594405">
-        <mark key="[" line="165" column="35" />
-        <mark key="]" line="165" column="16" />
-        <mark key="^" line="165" column="16" />
-        <mark key="." line="165" column="16" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1553142650813">
+        <mark key="[" line="110" column="15" />
+        <mark key="]" line="110" column="19" />
+        <mark key="^" line="110" column="19" />
+        <mark key="." line="110" column="19" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/config/default.js" timestamp="1546499078795">
         <mark key="[" line="29" column="23" />
@@ -575,11 +575,11 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553078451670">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1553078505293">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -746,15 +746,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>chore(retrieveApiID): 现在第二个参数接收 systemId 列表
-
-Summary:
-
-Test Plan: null
-
-Reviewers: wsy
-
-Subscribers:</text>
+        <text>导致聊天内容没有发给中</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -763,7 +755,7 @@ Subscribers:</text>
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>导致聊天内容没有发给中</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
