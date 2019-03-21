@@ -93,11 +93,12 @@
         <mark key="^" line="2" column="213" />
         <mark key="." line="2" column="213" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1553145180673">
-        <mark key="[" line="147" column="83" />
-        <mark key="]" line="147" column="93" />
-        <mark key="^" line="138" column="38" />
-        <mark key="." line="147" column="83" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1553150296038">
+        <mark key="'" line="113" column="11" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="^" line="101" column="53" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/config/default.js" timestamp="1546499078795">
         <mark key="[" line="29" column="23" />
@@ -578,11 +579,11 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553148590201">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1553150256706">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -596,7 +597,8 @@
         <mark key="^" line="33" column="73" />
         <mark key="." line="33" column="73" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" timestamp="1553145209052">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" timestamp="1553149385180">
+        <mark key="'" line="139" column="26" />
         <mark key="[" line="138" column="40" />
         <mark key="]" line="138" column="56" />
         <mark key="^" line="138" column="56" />
@@ -662,14 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="66" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yml" />
-      <jump line="17" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yml" />
-      <jump line="30" column="27" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/Dockerfile" />
-      <jump line="12" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
-      <jump line="16" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
-      <jump line="54" column="27" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
-      <jump line="55" column="22" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
-      <jump line="61" column="32" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="66" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="68" column="16" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" />
       <jump line="16" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/kubeutils/tinder-polaris-node-labels.yaml" />
@@ -762,10 +756,18 @@
       <jump line="31" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/convertMsg.js" />
       <jump line="53" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
       <jump line="28" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" />
+      <jump line="139" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
+      <jump line="141" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
+      <jump line="112" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
+      <jump line="102" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
+      <jump line="146" column="63" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
+      <jump line="140" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
+      <jump line="101" column="46" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
+      <jump line="114" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mongodb://localhost/duobei</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaXNUZWFjaGVyOiB1c2VySWQgPT09IHJvb21JbmZvLm93bmVySWQsCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -774,33 +776,48 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>mongodb://localhost/duobei</text>
+        <text>fix(streamSync/log): 修复 parse error 日志记录错误</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWVyeVw+</text>
+        <text encoding="base64">XDxpc1dlYlJUQ1w+</text>
       </register>
       <register name="0" type="4">
-        <text>teacherUId</text>
+        <text encoding="base64">aXNUZWFjaGVyOiB1aWQgPT09IHRlYWNoZXJVSWQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gcm9sZTogMiwK</text>
+        <text encoding="base64">ICAgICAgaXNUZWFjaGVyOiB1c2VySWQgPT09IHJvb21JbmZvLm93bmVySWQsCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gY291cnNlVHlwZTogIjF2biIsICAvL+WPquWkhOeQhjF2TueahOivvueoiwogICAgICAvLyBfaWQ6IHskZ3RlOiBuZXcgT2JqZWN0SUQoJzVjMmEzZDAwMDAwMDAwMDAwMDAwMDAwMCcpfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpc1RlYWNoZXIgPSAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRlYWNoZXJVSWQgPSAK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaXNUZWFjaGVyOiAnJywK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHRlYWNoZXJVSWQgPSByb29tSW5mby5vd25lcklkCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy8gcm9sZTogMiwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLy8gY291cnNlVHlwZTogIjF2biIsICAvL+WPquWkhOeQhjF2TueahOivvueoiwogICAgICAvLyBfaWQ6IHskZ3RlOiBuZXcgT2JqZWN0SUQoJzVjMmEzZDAwMDAwMDAwMDAwMDAwMDAwMCcpfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBpc1RlYWNoZXIgPSAK</text>
+      </register>
+      <register name="9" type="4">
         <text>chore(retrieveApiID): 现在第二个参数接收 systemId 列表
 
 Summary:
@@ -811,29 +828,14 @@ Reviewers: wsy
 
 Subscribers:</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBtaWNPbkFpcjogKG1zZykgPT4gW21zZy51c2VySWRdLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBtaWNSZXE6IChtc2cpID0+IFttc2cudXNlcklkLCBtc2cucHViXSwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhbGxvd01pY0J5VWlkOiAobXNnKSA9PiBbbXNnLnVzZXJJZF0sCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBkZW55TWljQnlVaWQ6IChtc2cpID0+IFttc2cudXNlcklkXSwK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBhbGxvd0NoYXRCeVVpZDogKG1zZykgPT4gW21zZy51c2VySWRdLAo=</text>
-      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWVyeVw+</last-search>
+      <last-search encoding="base64">XDxpc1dlYlJUQ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWVyeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxpc1dlYlJUQ1w+</last-pattern>
       <last-replace encoding="base64">KCkgPT4gWyQxXQ==</last-replace>
       <last-substitute>newMsg.push\(.+\)</last-substitute>
       <last-dir>1</last-dir>
@@ -841,9 +843,6 @@ Subscribers:</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0Um9vbUluZm9cPg==</entry>
-        <entry encoding="base64">XDxhZGROZXdSb29tXD4=</entry>
-        <entry>&quot;</entry>
         <entry>fix</entry>
         <entry>res</entry>
         <entry encoding="base64">XDxmc1w+</entry>
@@ -861,6 +860,9 @@ Subscribers:</text>
         <entry>case.+\:\n.+</entry>
         <entry>newMsg.push\(.+\)</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
+        <entry encoding="base64">XDx0ZWFjaGVyVUlkXD4=</entry>
+        <entry>iste</entry>
+        <entry encoding="base64">XDxpc1dlYlJUQ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>101</entry>
