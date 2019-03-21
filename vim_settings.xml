@@ -97,12 +97,12 @@
         <mark key="^" line="2" column="213" />
         <mark key="." line="2" column="213" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1553157687551">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1553160325247">
         <mark key="'" line="128" column="17" />
-        <mark key="[" line="119" column="37" />
-        <mark key="]" line="119" column="37" />
-        <mark key="^" line="119" column="37" />
-        <mark key="." line="119" column="37" />
+        <mark key="[" line="121" column="91" />
+        <mark key="]" line="121" column="98" />
+        <mark key="^" line="121" column="90" />
+        <mark key="." line="121" column="91" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/config/default.js" timestamp="1546499078795">
         <mark key="[" line="29" column="23" />
@@ -615,12 +615,12 @@
         <mark key="^" line="33" column="73" />
         <mark key="." line="33" column="73" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" timestamp="1553157573961">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" timestamp="1553160345975">
         <mark key="'" line="139" column="32" />
-        <mark key="[" line="319" column="95" />
-        <mark key="]" line="319" column="107" />
-        <mark key="^" line="319" column="107" />
-        <mark key="." line="319" column="107" />
+        <mark key="[" line="317" column="98" />
+        <mark key="]" line="317" column="105" />
+        <mark key="^" line="317" column="97" />
+        <mark key="." line="317" column="98" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.js" timestamp="1545114069211">
         <mark key="[" line="2" column="0" />
@@ -671,10 +671,9 @@
         <mark key="." line="92" column="39" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/schemas/index.js" timestamp="1553157671355">
-        <mark key="[" line="97" column="2" />
-        <mark key="]" line="98" column="12" />
-        <mark key="^" line="98" column="12" />
-        <mark key="." line="98" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="^" line="14" column="12" />
+        <mark key="." line="14" column="12" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" timestamp="1552533490632">
         <mark key="[" line="195" column="0" />
@@ -787,7 +786,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/teacher</text>
+        <text>ownerId</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -804,8 +803,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyb29tQ29uZmlnXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlpc1RlYWNoZXI6IHJvb21JbmZvLm93bmVySWQgPT0gdWlkLAo=</text>
+      <register name="0" type="4">
+        <text>ownerId</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlpc1dlYlJUQzogcm9vbUluZm8uY291cnNlVHlwZSA9PSA1LAo=</text>
