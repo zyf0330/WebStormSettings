@@ -124,6 +124,9 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1553142811948">
+        <mark key="'" line="53" column="25" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/index.js" timestamp="1543304278384">
         <mark key="[" line="9" column="51" />
         <mark key="]" line="9" column="51" />
@@ -593,11 +596,23 @@
         <mark key="^" line="33" column="73" />
         <mark key="." line="33" column="73" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" timestamp="1553143284676">
+        <mark key="[" line="62" column="49" />
+        <mark key="]" line="62" column="54" />
+        <mark key="^" line="62" column="54" />
+        <mark key="." line="62" column="54" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.js" timestamp="1545114069211">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="15" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/consts/index.js" timestamp="1553143006255">
+        <mark key="[" line="6" column="103" />
+        <mark key="]" line="6" column="115" />
+        <mark key="^" line="6" column="115" />
+        <mark key="." line="6" column="115" />
       </file>
       <file name="$USER_HOME$/Desktop/test/server.js" timestamp="1547708771241">
         <mark key="[" line="42" column="17" />
@@ -643,7 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/Dockerfile" />
       <jump line="41" column="34" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/Dockerfile" />
       <jump line="6" column="66" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yml" />
       <jump line="17" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yml" />
@@ -743,10 +757,11 @@
       <jump line="5" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/convertMsg.js" />
       <jump line="200" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
       <jump line="31" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/convertMsg.js" />
+      <jump line="53" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>导致聊天内容没有发给中</text>
+        <text>webrtc</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -755,13 +770,13 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>导致聊天内容没有发给中</text>
+        <text>webrtc</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>newMsg.push\(.+\)</text>
+        <text encoding="base64">XDxxdWVyeVw+</text>
       </register>
       <register name="0" type="4">
         <text>converter[command]</text>
@@ -812,17 +827,16 @@ Subscribers:</text>
       </register>
     </registers>
     <search>
-      <last-search>newMsg.push\(.+\)</last-search>
+      <last-search encoding="base64">XDxxdWVyeVw+</last-search>
       <last-offset />
-      <last-pattern>newMsg.push\(.+\)</last-pattern>
+      <last-pattern encoding="base64">XDxxdWVyeVw+</last-pattern>
       <last-replace encoding="base64">KCkgPT4gWyQxXQ==</last-replace>
       <last-substitute>newMsg.push\(.+\)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>inited</entry>
         <entry encoding="base64">XDxpbml0Um9vbUluZm9cPg==</entry>
         <entry encoding="base64">XDxhZGROZXdSb29tXD4=</entry>
         <entry>&quot;</entry>
@@ -842,6 +856,7 @@ Subscribers:</text>
         <entry>case.+:\n.+</entry>
         <entry>case.+\:\n.+</entry>
         <entry>newMsg.push\(.+\)</entry>
+        <entry encoding="base64">XDxxdWVyeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>101</entry>
