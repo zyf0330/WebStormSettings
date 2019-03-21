@@ -87,11 +87,11 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/config/default.yaml" timestamp="1553051306791">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="35" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/config/default.yaml" timestamp="1553148750652">
+        <mark key="[" line="2" column="214" />
+        <mark key="]" line="2" column="213" />
+        <mark key="^" line="2" column="213" />
+        <mark key="." line="2" column="213" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1553145180673">
         <mark key="[" line="147" column="83" />
@@ -467,12 +467,12 @@
         <mark key="." line="207" column="21" />
         <mark key="^" line="207" column="21" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" timestamp="1553066300082">
-        <mark key="'" line="40" column="8" />
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="20" column="25" />
-        <mark key="^" line="48" column="20" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" timestamp="1553148811747">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="40" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/domongo/dby-data-center/adminAPI.ts" timestamp="1552966722484">
         <mark key="'" line="0" column="0" />
@@ -578,11 +578,11 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553078505293">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="27" />
+      <file name="/Dummy.txt" timestamp="1553148590201">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="27" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -662,7 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="34" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/Dockerfile" />
       <jump line="6" column="66" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yml" />
       <jump line="17" column="8" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.yml" />
       <jump line="30" column="27" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/Dockerfile" />
@@ -762,10 +761,11 @@
       <jump line="200" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" />
       <jump line="31" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/convertMsg.js" />
       <jump line="53" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
+      <jump line="28" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-data-center/scripts/fixData/do.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>roomInfo.ownerId</text>
+        <text>mongodb://localhost/duobei</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -774,7 +774,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>roomInfo.ownerId</text>
+        <text>mongodb://localhost/duobei</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -786,12 +786,21 @@
         <text>teacherUId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpc1RlYWNoZXIgPSAK</text>
+        <text encoding="base64">ICAgICAgLy8gcm9sZTogMiwK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy8gY291cnNlVHlwZTogIjF2biIsICAvL+WPquWkhOeQhjF2TueahOivvueoiwogICAgICAvLyBfaWQ6IHskZ3RlOiBuZXcgT2JqZWN0SUQoJzVjMmEzZDAwMDAwMDAwMDAwMDAwMDAwMCcpfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBpc1RlYWNoZXIgPSAK</text>
+      </register>
+      <register name="s" type="4">
+        <text>zmqSocketRoute</text>
+      </register>
+      <register name="4" type="4">
         <text>chore(retrieveApiID): 现在第二个参数接收 systemId 列表
 
 Summary:
@@ -802,32 +811,23 @@ Reviewers: wsy
 
 Subscribers:</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBtaWNPbkFpcjogKG1zZykgPT4gW21zZy51c2VySWRdLAo=</text>
       </register>
-      <register name="s" type="4">
-        <text>zmqSocketRoute</text>
-      </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBtaWNSZXE6IChtc2cpID0+IFttc2cudXNlcklkLCBtc2cucHViXSwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBhbGxvd01pY0J5VWlkOiAobXNnKSA9PiBbbXNnLnVzZXJJZF0sCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBkZW55TWljQnlVaWQ6IChtc2cpID0+IFttc2cudXNlcklkXSwK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICBhbGxvd0NoYXRCeVVpZDogKG1zZykgPT4gW21zZy51c2VySWRdLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBkZW55Q2hhdEJ5VWlkOiAobXNnKSA9PiBbbXNnLnVzZXJJZF0sCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBjaGF0OiAobXNnKSA9PiBbbXNnLm1lc3NhZ2VdLAo=</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JXMvbmV3TXNnLnB1c2hcKC4rXCkvKCkgPT4gWyQxXS9nIA==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -879,10 +879,10 @@ Subscribers:</text>
         <entry encoding="base64">JzwsJz4lcy8iLy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2dj</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry encoding="base64">JXMvY2FzZS4rOlxuLisvJDE6KCkgPT4ge3JldHVybiAkMn0vZw==</entry>
         <entry encoding="base64">JXMvY2FzZS4rXDpcbi4rLyQxOigpID0+IHtyZXR1cm4gJDJ9L2c=</entry>
         <entry encoding="base64">JXMvbmV3TXNnLnB1c2hcKC4rXCkvKCkgPT4gWyQxXS9nIA==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
