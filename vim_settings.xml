@@ -93,11 +93,11 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1553142650813">
-        <mark key="[" line="110" column="15" />
-        <mark key="]" line="110" column="19" />
-        <mark key="^" line="110" column="19" />
-        <mark key="." line="110" column="19" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" timestamp="1553145180673">
+        <mark key="[" line="147" column="83" />
+        <mark key="]" line="147" column="93" />
+        <mark key="^" line="138" column="38" />
+        <mark key="." line="147" column="83" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/config/default.js" timestamp="1546499078795">
         <mark key="[" line="29" column="23" />
@@ -596,11 +596,11 @@
         <mark key="^" line="33" column="73" />
         <mark key="." line="33" column="73" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" timestamp="1553143284676">
-        <mark key="[" line="62" column="49" />
-        <mark key="]" line="62" column="54" />
-        <mark key="^" line="62" column="54" />
-        <mark key="." line="62" column="54" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" timestamp="1553145209052">
+        <mark key="[" line="138" column="40" />
+        <mark key="]" line="138" column="56" />
+        <mark key="^" line="138" column="56" />
+        <mark key="." line="138" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.js" timestamp="1545114069211">
         <mark key="[" line="2" column="0" />
@@ -649,6 +649,10 @@
         <mark key="]" line="92" column="39" />
         <mark key="^" line="92" column="51" />
         <mark key="." line="92" column="39" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/schemas/index.js" timestamp="1553145163145">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="10" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" timestamp="1552533490632">
         <mark key="[" line="195" column="0" />
@@ -761,7 +765,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>webrtc</text>
+        <text>roomInfo.ownerId</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -770,7 +774,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>webrtc</text>
+        <text>roomInfo.ownerId</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -779,9 +783,15 @@
         <text encoding="base64">XDxxdWVyeVw+</text>
       </register>
       <register name="0" type="4">
-        <text>converter[command]</text>
+        <text>teacherUId</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBpc1RlYWNoZXIgPSAK</text>
+      </register>
+      <register name="q" type="2">
+        <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>chore(retrieveApiID): 现在第二个参数接收 systemId 列表
 
 Summary:
@@ -792,35 +802,29 @@ Reviewers: wsy
 
 Subscribers:</text>
       </register>
-      <register name="q" type="2">
-        <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBtaWNPbkFpcjogKG1zZykgPT4gW21zZy51c2VySWRdLAo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtaWNSZXE6IChtc2cpID0+IFttc2cudXNlcklkLCBtc2cucHViXSwK</text>
+        <text encoding="base64">ICBtaWNPbkFpcjogKG1zZykgPT4gW21zZy51c2VySWRdLAo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbGxvd01pY0J5VWlkOiAobXNnKSA9PiBbbXNnLnVzZXJJZF0sCg==</text>
+        <text encoding="base64">ICBtaWNSZXE6IChtc2cpID0+IFttc2cudXNlcklkLCBtc2cucHViXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZW55TWljQnlVaWQ6IChtc2cpID0+IFttc2cudXNlcklkXSwK</text>
+        <text encoding="base64">ICBhbGxvd01pY0J5VWlkOiAobXNnKSA9PiBbbXNnLnVzZXJJZF0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbGxvd0NoYXRCeVVpZDogKG1zZykgPT4gW21zZy51c2VySWRdLAo=</text>
+        <text encoding="base64">ICBkZW55TWljQnlVaWQ6IChtc2cpID0+IFttc2cudXNlcklkXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZW55Q2hhdEJ5VWlkOiAobXNnKSA9PiBbbXNnLnVzZXJJZF0sCg==</text>
+        <text encoding="base64">ICBhbGxvd0NoYXRCeVVpZDogKG1zZykgPT4gW21zZy51c2VySWRdLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjaGF0OiAobXNnKSA9PiBbbXNnLm1lc3NhZ2VdLAo=</text>
+        <text encoding="base64">ICBkZW55Q2hhdEJ5VWlkOiAobXNnKSA9PiBbbXNnLnVzZXJJZF0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhcHBsYXVkOiAobXNnKSA9PiBbXSwK</text>
+        <text encoding="base64">ICBjaGF0OiAobXNnKSA9PiBbbXNnLm1lc3NhZ2VdLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvbmV3TXNnLnB1c2hcKC4rXCkvKCkgPT4gWyQxXS9nIA==</text>
