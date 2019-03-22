@@ -597,11 +597,11 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553160370705">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="36" />
+      <file name="/Dummy.txt" timestamp="1553161370135">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="36" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -785,8 +785,8 @@
       <jump line="139" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgd3JpdGUod2F0Y2hzZXNzaW9ucywgY29sbGVjdGV2ZW50cywgdXBkYXRlTWFueXMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>scripts(fixData):</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -795,7 +795,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>//只处理1vN的课程</text>
+        <text>scripts(fixData):</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
