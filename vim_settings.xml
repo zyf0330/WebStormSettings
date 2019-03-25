@@ -201,6 +201,10 @@
         <mark key="." line="63" column="73" />
         <mark key="^" line="63" column="73" />
       </file>
+      <file name="/index.js" timestamp="1553495964466">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="138" column="10" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/Dockerfile" timestamp="1542938440752">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="23" />
@@ -288,12 +292,12 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1552544665897">
-        <mark key="'" line="131" column="25" />
-        <mark key="[" line="132" column="17" />
-        <mark key="]" line="132" column="17" />
-        <mark key="." line="132" column="17" />
-        <mark key="^" line="139" column="9" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" timestamp="1553495901810">
+        <mark key="'" line="130" column="25" />
+        <mark key="[" line="130" column="32" />
+        <mark key="]" line="134" column="9" />
+        <mark key="." line="130" column="31" />
+        <mark key="^" line="130" column="38" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app.js" timestamp="1553159835309">
         <mark key="[" line="302" column="0" />
@@ -597,8 +601,8 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553495621118">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1553495677532">
+        <mark key="[" line="0" column="40" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -646,11 +650,11 @@
         <mark key="^" line="42" column="40" />
         <mark key="." line="42" column="17" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1552544975047">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="14" />
-        <mark key="." line="6" column="11" />
-        <mark key="^" line="6" column="11" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1553495998683">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="57" column="11" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/Service.js" timestamp="1550805595420">
         <mark key="[" line="57" column="30" />
@@ -785,8 +789,8 @@
       <jump line="139" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>chore(push): 现在 proto 处理失败会返回关键词错误信息</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgcmF2ZW5UYWdzID0gUmF2ZW4uZ2VuZXJLZXlzKCdUZXN0JykKY29uc3QgciA9IHJhdmVuVGFncygnUHVzaEVycm9yJywgewogICAgICAgICAgYXBwOiAncmVxLmFwcCcsCiAgICAgICAgfSkKc2V0VGltZW91dCgoKSA9PiB7CiAgY29uc29sZS5sb2cocikKfSkKY29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpCmNvbnNvbGUubG9nKF8ubWVyZ2UocmF2ZW5UYWdzKCdQdXNoRXJyb3InKSwgewogICAgZXh0cmE6IHsKICAgICAgYXBwOiAncmVxLmFwcCcsCiAgICB9LAogIH0sCiksKQo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -795,7 +799,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>chore(push): 现在 proto 处理失败会返回关键词错误信息</text>
+        <text>c</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -803,41 +807,48 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyb29tQ29uZmlnXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>返回一个函数，可以传入 label 来获得关键字</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFwcDogJ3JlcS5hcHAnLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICog55Sf5oiQIHJhdmVuIOaNleiOt+W8guW4uOaXtuS8oOWFpeeahOWFs+mUruWtlwogKiBAcGFyYW0ge3N0cmluZ30gQ2xhc3MgdGluZGVyLWNsYXNzCiAqIEByZXR1cm4ge2Z1bmN0aW9uKHN0cmluZz0sIG9iamVjdCl9IOi/lOWbnuS4gOS4quWHveaVsO+8jOWPr+S7peS8oOWFpSBsYWJlbCwgZXh0cmEg5p2l6I635b6X5YWz6ZSu5a2XCiAqLw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc3QgcmF2ZW5UYWdzID0gUmF2ZW4uZ2VuZXJLZXlzKCdUZXN0JykKY29uc3QgciA9IHJhdmVuVGFncygnUHVzaEVycm9yJywgewogICAgICAgICAgYXBwOiAncmVxLmFwcCcsCiAgICAgICAgfSkKc2V0VGltZW91dCgoKSA9PiB7CiAgY29uc29sZS5sb2cocikKfSkKY29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpCmNvbnNvbGUubG9nKF8ubWVyZ2UocmF2ZW5UYWdzKCdQdXNoRXJyb3InKSwgewogICAgZXh0cmE6IHsKICAgICAgYXBwOiAncmVxLmFwcCcsCiAgICB9LAogIH0sCiksKQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKioKICAgKiAKICAgKi8K</text>
+        <text encoding="base64">ICAgICAgYXBwOiByZXEuYXBwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogCiAqIEBwYXJhbSBDbGFzcwo=</text>
+        <text encoding="base64">ICAgICAgbWVzc2FnZVR5cGU6IHJlcS5tZXNzYWdlVHlwZSwKICAgICAgY29udGVudDogcmVxLmNvbnRlbnQsCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICog55Sf5oiQIHJhdmVuIOaNleiOt+W8guW4uOaXtuS8oOWFpeeahOWFs+mUruWtlwogKiBAcGFyYW0ge3N0cmluZ30gQ2xhc3MKICogQHJldHVybiB7ZnVuY3Rpb24oc3RyaW5nPSwgb2JqZWN0PSl9IOi/lOWbnuS4gOS4quWHveaVsO+8jOWPr+S7peS8oOWFpSBsYWJlbCwgZXh0cmEg5p2l6I635b6X5YWz6ZSu5a2XCiAqLw==</text>
+        <text>_.merge(ravenTags('PushError'), {
+    extra: {
+      app: req.app,
+      messageType: req.messageType,
+      content: req.content,
+    },
+  },
+),</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHJldHVybiB7ZnVuY3Rpb24oc3RyaW5nPSwgb2JqZWN0PSl9IOi/lOWbnuS4gOS4quWHveaVsO+8jOWPr+S7peS8oOWFpSBsYWJlbCwgZXh0cmEg5p2l6I635b6X5YWz6ZSu5a2XCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Y29uc29sZS5sb2cocikK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgpUZXN0IFBsYW46IG51bGwKClJldmlld2Vyczogd3N5LCB6aGFuZ3poaWNoYW8KCkRpZmZlcmVudGlhbCBSZXZpc2lvbjogaHR0cHM6Ly90ZWFtLmR1b2JlaXl1bi5jb20vRDMwMzE=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBoCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2VUeXBlOiByZXEubWVzc2FnZVR5cGUsCiAgICAgICAgICBjb250ZW50OiByZXEuY29udGVudCwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cmF2ZW5UYWdzKCdQdXNoRXJyb3InKSwgewogICAgICAgICAgICBleHRyYTogewogICAgICAgICAgICAgIGFwcDogJ3JlcS5hcHAnLAogICAgICAgICAgICB9LAogICAgICAgICAgfSwKICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpc1dlYlJUQzogcm9vbUluZm8uY291cnNlVHlwZSA9PSA1LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBtZXNzYWdlVHlwZTogcmVxLm1lc3NhZ2VUeXBlLAogICAgICAgICAgICAgIGNvbnRlbnQ6IHJlcS5jb250ZW50LAo=</text>
       </register>
       <register name=":" type="4">
         <text>385</text>
