@@ -606,10 +606,10 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553494796196">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="38" />
+      <file name="/Dummy.txt" timestamp="1553495508717">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
@@ -801,7 +801,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feat(grpc): 添加 reconnect, keepalive 和 max_connection 相关选项，优化连接稳定性和负载均衡</text>
+        <text>chore(push): 现在 proto 处理失败会返回关键词错误信息</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -810,7 +810,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>feat(grpc): 添加 reconnect, keepalive 和 max_connection 相关选项，优化连接稳定性和负载均衡</text>
+        <text>chore(push): 现在 proto 处理失败会返回关键词错误信息</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
