@@ -145,6 +145,10 @@
         <mark key="^" line="153" column="9" />
         <mark key="." line="153" column="9" />
       </file>
+      <file name="/sentryClient.js" timestamp="1553494454914">
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="54" />
+      </file>
       <file name="$USER_HOME$/project/duobei/dby-etcd-browser/routes/index.js" timestamp="1552373664462">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="29" />
@@ -499,7 +503,12 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="/Room.js" timestamp="1553151243797" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/sentryClient.js" timestamp="1553494762543">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="2" />
+        <mark key="." line="33" column="2" />
+        <mark key="^" line="33" column="2" />
+      </file>
       <file name="$USER_HOME$/project/duobei/dby-etcd-browser/app.js" timestamp="1552373774331">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -597,7 +606,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553161370135">
+      <file name="/Dummy.txt" timestamp="1553494796196">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="38" />
@@ -621,6 +630,12 @@
         <mark key="]" line="317" column="105" />
         <mark key="^" line="317" column="97" />
         <mark key="." line="317" column="98" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/1.js" timestamp="1553224128412">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.js" timestamp="1545114069211">
         <mark key="[" line="2" column="0" />
@@ -786,7 +801,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>scripts(fixData):</text>
+        <text>feat(grpc): 添加 reconnect, keepalive 和 max_connection 相关选项，优化连接稳定性和负载均衡</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -795,7 +810,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>scripts(fixData):</text>
+        <text>feat(grpc): 添加 reconnect, keepalive 和 max_connection 相关选项，优化连接稳定性和负载均衡</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -803,44 +818,44 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyb29tQ29uZmlnXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgd3JpdGUod2F0Y2hzZXNzaW9ucywgY29sbGVjdGV2ZW50cywgdXBkYXRlTWFueXMpCg==</text>
+      <register name="0" type="4">
+        <text>返回一个函数，可以传入 label 来获得关键字</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgpUZXN0IFBsYW46IG51bGwKClJldmlld2Vyczogd3N5LCB6aGFuZ3poaWNoYW8KCkRpZmZlcmVudGlhbCBSZXZpc2lvbjogaHR0cHM6Ly90ZWFtLmR1b2JlaXl1bi5jb20vRDMwMzE=</text>
+        <text encoding="base64">ICog55Sf5oiQIHJhdmVuIOaNleiOt+W8guW4uOaXtuS8oOWFpeeahOWFs+mUruWtlwogKiBAcGFyYW0ge3N0cmluZ30gQ2xhc3MgdGluZGVyLWNsYXNzCiAqIEByZXR1cm4ge2Z1bmN0aW9uKHN0cmluZz0sIG9iamVjdCl9IOi/lOWbnuS4gOS4quWHveaVsO+8jOWPr+S7peS8oOWFpSBsYWJlbCwgZXh0cmEg5p2l6I635b6X5YWz6ZSu5a2XCiAqLw==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpc1dlYlJUQzogcm9vbUluZm8uY291cnNlVHlwZSA9PSA1LAo=</text>
+        <text encoding="base64">ICAvKioKICAgKiAKICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaXNUZWFjaGVyOiB1c2VySWQgPT09IHJvb21JbmZvLm93bmVySWQsCg==</text>
+        <text encoding="base64">ICogCiAqIEBwYXJhbSBDbGFzcwo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5yb29tLnVwZGF0ZVJvb21Db25maWcoeyBjb3Vyc2VUeXBlOiB1c2VySW5mby5jb3Vyc2VUeXBlIH0pCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICog55Sf5oiQIHJhdmVuIOaNleiOt+W8guW4uOaXtuS8oOWFpeeahOWFs+mUruWtlwogKiBAcGFyYW0ge3N0cmluZ30gQ2xhc3MKICogQHJldHVybiB7ZnVuY3Rpb24oc3RyaW5nPSwgb2JqZWN0PSl9IOi/lOWbnuS4gOS4quWHveaVsO+8jOWPr+S7peS8oOWFpSBsYWJlbCwgZXh0cmEg5p2l6I635b6X5YWz6ZSu5a2XCiAqLw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnJvb20udXBkYXRlUm9vbUNvbmZpZyh7IGNvdXJzZVR5cGU6IHVzZXJJbmZvLmNvdXJzZVR5cGUgfSkK</text>
+        <text encoding="base64">ICogQHJldHVybiB7ZnVuY3Rpb24oc3RyaW5nPSwgb2JqZWN0PSl9IOi/lOWbnuS4gOS4quWHveaVsO+8jOWPr+S7peS8oOWFpSBsYWJlbCwgZXh0cmEg5p2l6I635b6X5YWz6ZSu5a2XCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIOWtmOWIsCByb29tQ29uZmlnCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjb3Vyc2VUeXBlID0gCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocikK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlZGlzLmhnZXQK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgpUZXN0IFBsYW46IG51bGwKClJldmlld2Vyczogd3N5LCB6aGFuZ3poaWNoYW8KCkRpZmZlcmVudGlhbCBSZXZpc2lvbjogaHR0cHM6Ly90ZWFtLmR1b2JlaXl1bi5jb20vRDMwMzE=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IG11bHRpVGFzay5leGVjKCk7Cg==</text>
+        <text encoding="base64">CQlpc1dlYlJUQzogcm9vbUluZm8uY291cnNlVHlwZSA9PSA1LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>385</text>
       </register>
     </registers>
     <search>
@@ -850,7 +865,7 @@
       <last-replace encoding="base64">KCkgPT4gWyQxXQ==</last-replace>
       <last-substitute>newMsg.push\(.+\)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -876,9 +891,6 @@
         <entry encoding="base64">XDxyb29tQ29uZmlnXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>101</entry>
-        <entry>200</entry>
-        <entry>70</entry>
         <entry>68</entry>
         <entry>231</entry>
         <entry>135</entry>
@@ -896,6 +908,9 @@
         <entry encoding="base64">JXMvbmV3TXNnLnB1c2hcKC4rXCkvKCkgPT4gWyQxXS9nIA==</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>29</entry>
+        <entry>93</entry>
+        <entry>385</entry>
       </history-cmd>
       <history-expr />
       <history-input />
