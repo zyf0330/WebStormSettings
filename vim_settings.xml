@@ -696,11 +696,11 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553759641861">
+      <file name="/Dummy.txt" timestamp="1553761042857">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -884,7 +884,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>^3.0.1</text>
+        <text>feat(amqpClient): 现在 Consumer 支持重连</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -893,7 +893,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>^3.0.1</text>
+        <text>feat(amqpClient): 现在 Consumer 支持重连</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -963,7 +963,7 @@ statsd:
         <text encoding="base64">ICAgIHRoaXMuX2NoYW5uZWwgPSBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>114</text>
       </register>
     </registers>
     <search>
@@ -999,8 +999,6 @@ statsd:
         <entry>connect</entry>
       </history-search>
       <history-cmd>
-        <entry>68</entry>
-        <entry>231</entry>
         <entry>135</entry>
         <entry>%s/&quot;//g</entry>
         <entry>%s/,\n/\n/g</entry>
@@ -1019,6 +1017,8 @@ statsd:
         <entry>93</entry>
         <entry>385</entry>
         <entry>w</entry>
+        <entry>31</entry>
+        <entry>114</entry>
       </history-cmd>
       <history-expr />
       <history-input />
