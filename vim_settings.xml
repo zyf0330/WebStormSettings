@@ -213,6 +213,10 @@
         <mark key="^" line="8" column="44" />
         <mark key="." line="8" column="44" />
       </file>
+      <file name="/package.json" timestamp="1553761013051">
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="21" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/etcdConfig" timestamp="1551081709977">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="15" />
@@ -306,7 +310,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="1" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/redisClient.js" timestamp="1553756631715">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/redisClient.js" timestamp="1553760977122">
         <mark key="[" line="23" column="24" />
         <mark key="]" line="23" column="24" />
         <mark key="^" line="23" column="35" />
@@ -591,10 +595,11 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/package.json" timestamp="1553752110107">
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="31" column="27" />
-        <mark key="." line="31" column="27" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/package.json" timestamp="1553761020161">
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="42" column="21" />
+        <mark key="." line="42" column="21" />
+        <mark key="^" line="42" column="21" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/confd/templates/center.tmpl" timestamp="1543381056156">
         <mark key="[" line="5" column="7" />
@@ -620,7 +625,7 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" timestamp="1553759594470">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" timestamp="1553760730114">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="38" />
         <mark key="^" line="60" column="31" />
@@ -643,7 +648,7 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="30" column="1" />
       </file>
-      <file name="/JavaScript Console" timestamp="1553759459409">
+      <file name="/JavaScript Console" timestamp="1553760947802">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -691,11 +696,11 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553758104990">
+      <file name="/Dummy.txt" timestamp="1553759641861">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -753,6 +758,9 @@
         <mark key="^" line="57" column="32" />
         <mark key="." line="57" column="32" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/config/default.yaml" timestamp="1553760946095">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/connector-rtmp-app.json" timestamp="1541643787602">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="0" />
@@ -773,8 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/src/application.js" />
-      <jump line="17" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="265" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="24" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="26" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
@@ -873,10 +879,12 @@
       <jump line="142" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
       <jump line="143" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
       <jump line="169" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
+      <jump line="13" column="47" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/config/default.yaml" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/config/default.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>queue</text>
+        <text>^3.0.1</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -885,7 +893,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>queue</text>
+        <text>^3.0.1</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -897,37 +905,62 @@
         <text>createQueue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29ubiA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fY2hhbm5lbCA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5faXNDaGFubmVsT3BlbiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2lzQ2hhbm5lbE9wZW4gPSBmYWxzZTsK</text>
+      <register name="4" type="4">
+        <text>port: 5000
+host: 127.0.0.1
+sentryDsn: NEED_CREATE_PROJECT_ON_SENTRY
+amqp:
+  url: amqp://localhost
+  recorderExchange: tinder
+  recorderType: topic
+  delayedMessage:
+    exchangeName: tinderDelayedMessagport: 5000\nhost: 0.0.0.0\nsentryDsn: http://1f38cfa75dbf4757a2e2837003b66ac9:482c47e5bc724214b0f336d7f5e09c37@39.106.52.28:9000/18\namqp:\n
+    \ url: amqp://tinder:004d71975faccb@rabbitmq-cluster/tinderpolaris\n  recorderExchange:
+    tinder\n  recorderType: topic\n  delayedMessage:\n    exchangeName: tinderDelayedMessage\n
+    \   exchangeType: topic\nredis:\n  sentinelName: message\n  sentinel:\n  - host:
+    center-redis-cluster\n    port: 1100\n  auth: 3c8bb7c1f16d79b190\n  port:\n  host:\nstatsd:\n
+    \ host: \n  prefix: tinderpolaris.recorder.\
+    exchangeType: topic
+redis:
+  sentinelName:
+  sentinel:
+    - host: localhost
+      port: 26379
+  auth:
+  port: 6379
+  host: 127.0.0.1
+statsd:
+  host: 60.205.144.70
+  prefix: tinder.recorder.</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2NoYW5uZWwgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY29ubiA9IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5sb2dnZXIuZXJyb3Ioe2Vycm9yOiBlLGNvbnRlbnR9LCBtc2csICdkZWNvZGUnKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fY2hhbm5lbCA9IG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHRoaXMuY2hhbm5lbC5hY2sobXNnKTsKICAgICAgc2RjLmluY3JlbWVudCgnYWNrLnN1Y2Nlc3MnKTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgdGhpcy5sb2dnZXIuZXJyb3IoZSk7CiAgICAgIFJhdmVuLmNhcHR1cmVFeGNlcHRpb24oZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5faXNDaGFubmVsT3BlbiA9IGZhbHNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIHRoaXMuX2lzQ2hhbm5lbE9wZW4gPSBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcm9vbUlkIH0gPSBtc2dEZWNvZGVkCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX2NoYW5uZWwgPSBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
