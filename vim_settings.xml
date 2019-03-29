@@ -9,12 +9,12 @@
         <mark key="." line="50" column="38" />
         <mark key="^" line="37" column="62" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" timestamp="1553830153599">
-        <mark key="'" line="55" column="27" />
-        <mark key="[" line="55" column="22" />
-        <mark key="]" line="55" column="27" />
-        <mark key="." line="55" column="27" />
-        <mark key="^" line="55" column="27" />
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" timestamp="1553831680078">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="93" column="5" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="76" column="27" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/protos/tinder/huixiaobao/events.proto" timestamp="1553569078887">
         <mark key="[" line="15" column="28" />
@@ -52,6 +52,7 @@
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="5" />
       </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/__test__/system/amqp.spec.js" timestamp="1553831453642" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/utils/cos.js" timestamp="1553756092154">
         <mark key="[" line="39" column="26" />
         <mark key="]" line="39" column="34" />
@@ -669,7 +670,7 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="30" column="1" />
       </file>
-      <file name="/JavaScript Console" timestamp="1553760947802">
+      <file name="/JavaScript Console" timestamp="1553831546784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -800,55 +801,15 @@
         <mark key="." line="195" column="59" />
         <mark key="^" line="195" column="59" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" timestamp="1553829918913">
-        <mark key="'" line="46" column="31" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="126" column="3" />
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" timestamp="1553831657098">
+        <mark key="'" line="123" column="31" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="174" column="5" />
         <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="." line="166" column="47" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="15" filename="/amqpClient.js" />
-      <jump line="23" column="10" filename="/amqpClient.js" />
-      <jump line="18" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="28" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="63" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="16" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="26" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="30" column="50" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="68" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="74" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="84" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="92" column="54" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="100" column="41" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="112" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="116" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="124" column="46" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="142" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="143" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="169" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="13" column="47" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/config/default.yaml" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/config/default.yaml" />
-      <jump line="68" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
-      <jump line="34" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
-      <jump line="35" column="36" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
-      <jump line="30" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" />
-      <jump line="19" column="24" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
-      <jump line="46" column="15" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
-      <jump line="110" column="39" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
-      <jump line="111" column="39" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
-      <jump line="2" column="29" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
-      <jump line="5" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
-      <jump line="21" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
-      <jump line="22" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
-      <jump line="23" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
-      <jump line="32" column="26" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
-      <jump line="45" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
-      <jump line="54" column="13" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
-      <jump line="66" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
-      <jump line="79" column="13" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
       <jump line="86" column="13" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
       <jump line="98" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
       <jump line="114" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer2.js" />
@@ -862,31 +823,22 @@
       <jump line="76" column="45" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="113" column="26" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="114" column="26" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
-      <jump line="59" column="2" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="45" column="32" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="44" column="10" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="24" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="55" column="13" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="67" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="80" column="13" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
-      <jump line="32" column="30" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="34" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="76" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="77" column="45" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
-      <jump line="71" column="13" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="74" column="85" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
-      <jump line="35" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="26" column="4" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="27" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
-      <jump line="51" column="15" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="79" column="8" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="90" column="52" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="94" column="50" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
-      <jump line="122" column="24" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
-      <jump line="123" column="24" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="98" column="8" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
-      <jump line="68" column="17" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="78" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="64" column="5" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="120" column="31" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
@@ -895,8 +847,6 @@
       <jump line="53" column="33" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="61" column="44" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="80" column="44" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
-      <jump line="72" column="33" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
-      <jump line="46" column="15" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="110" column="31" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="73" column="21" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="88" column="15" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
@@ -908,11 +858,62 @@
       <jump line="111" column="8" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="142" column="33" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
       <jump line="46" column="31" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
-      <jump line="55" column="27" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="87" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="120" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="151" column="32" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="154" column="11" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="32" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="70" column="15" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="55" column="33" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="69" column="31" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="84" column="8" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="46" column="8" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="35" column="2" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
+      <jump line="146" column="32" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
+      <jump line="131" column="31" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
+      <jump line="135" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="137" column="20" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
+      <jump line="129" column="36" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
+      <jump line="156" column="14" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
+      <jump line="19" column="29" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
+      <jump line="127" column="38" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="61" column="15" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="51" column="21" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
+      <jump line="145" column="10" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
+      <jump line="149" column="63" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
+      <jump line="71" column="2" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="72" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="43" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="68" column="50" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="105" column="2" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="60" column="16" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="109" column="11" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="123" column="15" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="125" column="36" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="133" column="49" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="161" column="82" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="35" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="97" column="35" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="115" column="23" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="128" column="11" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="130" column="47" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="134" column="45" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="144" column="11" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="145" column="22" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="146" column="9" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="148" column="43" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="29" column="4" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="36" column="4" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
+      <jump line="121" column="23" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
+      <jump line="122" column="56" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
+      <jump line="123" column="31" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/amqp/ConsumerNew.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmICghdGhpcy5fY2hhbm5lbCB8fCAhdGhpcy5faXNDaGFubmVsT3BlbikgewogICAgICBhd2FpdCB0aGlzLmNvbm5lY3Rpb24uY2xvc2UoKTsKICAgIH0gZWxzZSB7CiAgICAgIHRoaXMuX2lzQ2hhbm5lbE9wZW4gPSBmYWxzZTsKICAgICAgYXdhaXQgdGhpcy5fY2hhbm5lbC5jbG9zZSgpOwogICAgICBhd2FpdCB0aGlzLmNvbm5lY3Rpb24uY2xvc2UoKTsKICAgIH0K</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -921,58 +922,58 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IHx8ICF0aGlzLl9pc0NoYW5uZWxPcGVu</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVDaGFubmVsXD4=</text>
+        <text>close</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhc3luYyBjcmVhdGVDb25uZWN0aW9uKCkgewogICAgY29uc3QgY29ubiA9IGF3YWl0IGFtcXBsaWIuY29ubmVjdChjb25maWcuZ2V0KCdhbXFwLnVybCcpKTsKICAgIGNvbm4ub24oJ2Nsb3NlJywgdGhpcy5jb25uQ2xvc2VPckVycm9yLmJpbmQodGhpcywgJ2Nsb3NlJykpOwogICAgY29ubi5vbignZXJyb3InLCB0aGlzLmNvbm5DbG9zZU9yRXJyb3IuYmluZCh0aGlzLCAnZXJyb3InKSk7CiAgICB0aGlzLl9pc0Nvbm5PcGVuID0gdHJ1ZTsKICAgIHJldHVybiBjb25uOwogIH0KCiAgYXN5bmMgY3JlYXRlQ2hhbm5lbCgpIHsKICAgIGNvbnN0IGNoID0gYXdhaXQgdGhpcy5jb25uLmNyZWF0ZUNoYW5uZWwoKTsKICAgIGF3YWl0IGNoLmFzc2VydEV4Y2hhbmdlKHRoaXMuZXhOYW1lLCB0aGlzLmV4VHlwZSwgdGhpcy5leGNoYW5nZU9wdGlvbnMpOwogICAgY2gub24oJ2Nsb3NlJywgdGhpcy5jaGFubmVsQ2xvc2VPckVycm9yLmJpbmQodGhpcywgJ2Nsb3NlJykpOwogICAgY2gub24oJ2Vycm9yJywgdGhpcy5jaGFubmVsQ2xvc2VPckVycm9yLmJpbmQodGhpcywgJ2Vycm9yJykpOwogICAgdGhpcy5faXNDaGFubmVsT3BlbiA9IHRydWU7CiAgICByZXR1cm4gY2g7CiAgfQo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLl9jaGFubmVsICYmIHRoaXMuX2lzQ2hhbm5lbE9wZW4pIHsKICAgICAgYXdhaXQgdGhpcy5fY2hhbm5lbC5jbG9zZSgpOwogICAgICB0aGlzLl9jaGFubmVsID0gbnVsbDsKICAgICAgdGhpcy5faXNDaGFubmVsT3BlbiA9IGZhbHNlOwogICAgfQogICAgaWYgKHRoaXMuY29ubikgewogICAgICBhd2FpdCB0aGlzLmNvbm4uY2xvc2UoKTsKICAgICAgdGhpcy5jb25uID0gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fY2hhbm5lbCA9IGNoOwo=</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5fY2hhbm5lbCB8fCAhdGhpcy5faXNDaGFubmVsT3BlbikgewogICAgICBhd2FpdCB0aGlzLmNvbm5lY3Rpb24uY2xvc2UoKTsKICAgIH0gZWxzZSB7CiAgICAgIHRoaXMuX2lzQ2hhbm5lbE9wZW4gPSBmYWxzZTsKICAgICAgYXdhaXQgdGhpcy5fY2hhbm5lbC5jbG9zZSgpOwogICAgICBhd2FpdCB0aGlzLmNvbm5lY3Rpb24uY2xvc2UoKTsKICAgIH0K</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgY2guYXNzZXJ0RXhjaGFuZ2UodGhpcy5leE5hbWUsIHRoaXMuZXhUeXBlLCB0aGlzLmV4Y2hhbmdlT3B0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5jb25uZWN0aW9uKSB7CiAgICAgIHJldHVybjsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY2ggPSBhd2FpdCB0aGlzLmNvbm5lY3Rpb24uY3JlYXRlQ2hhbm5lbCgpOwo=</text>
+        <text encoding="base64">ICBhc3luYyBzdGFydCgpIHsKICAgIGNvbnN0IGNoYW5uZWwgPSBhd2FpdCB0aGlzLmdldENoYW5uZWwoKTsKICAgIGNvbnN0IHFvayA9IGF3YWl0IGNoYW5uZWwuYXNzZXJ0UXVldWUodGhpcy5xdWV1ZU5hbWUsIHRoaXMucXVldWVPcHRpb25zKTsKICAgIHRoaXMucXVldWUgPSBxb2sucXVldWU7CiAgICBfLmZvckVhY2godGhpcy5yb3V0aW5nS2V5cywgcmsgPT4gewogICAgICBjaGFubmVsLmJpbmRRdWV1ZSh0aGlzLnF1ZXVlLCB0aGlzLmV4TmFtZSwgcmspOwogICAgfSk7CiAgICBhd2FpdCBjaGFubmVsLnByZWZldGNoKHRoaXMucHJlZmV0Y2hDb3VudCk7CiAgICByZXR1cm4gYXdhaXQgY2hhbm5lbC5jb25zdW1lKHRoaXMucXVldWUsIHRoaXMuX2hhbmRsZXIuYmluZCh0aGlzLCBjaGFubmVsKSwgdGhpcy5jb25zdW1lT3B0aW9ucyk7CiAgfQoKICBoYW5kbGUoZnVuYykgewogICAgdGhpcy5faGFuZGxlciA9IGZ1bmM7CiAgfQoKICBhc3luYyBjbG9zZSgpIHsKICAgIGlmICghdGhpcy5jb25uZWN0aW9uKSB7CiAgICAgIHJldHVybjsKICAgIH0KICAgIGlmICghdGhpcy5fY2hhbm5lbCB8fCAhdGhpcy5faXNDaGFubmVsT3BlbikgewogICAgICBhd2FpdCB0aGlzLmNvbm5lY3Rpb24uY2xvc2UoKTsKICAgIH0gZWxzZSB7CiAgICAgIHRoaXMuX2lzQ2hhbm5lbE9wZW4gPSBmYWxzZTsKICAgICAgYXdhaXQgdGhpcy5fY2hhbm5lbC5jbG9zZSgpOwogICAgICBhd2FpdCB0aGlzLmNvbm5lY3Rpb24uY2xvc2UoKTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2gub24oJ2Nsb3NlJywgdGhpcy5jaGFubmVsQ2xvc2VPckVycm9yLmJpbmQodGhpcywgJ2Nsb3NlJykpOwogICAgICBjaC5vbignZXJyb3InLCB0aGlzLmNoYW5uZWxDbG9zZU9yRXJyb3IuYmluZCh0aGlzLCAnZXJyb3InKSk7Cg==</text>
+        <text encoding="base64">ICBhc3luYyByZXN0YXJ0KCkgewogICAgYXdhaXQgdGhpcy5zdGFydCgpOwogIH0KCiAgYXN5bmMgcmVjb25uZWN0KGluY2x1ZGVDb25uID0gZmFsc2UpIHsKICAgIC8vIOS4u+WKqOWFs+mXrQogICAgaWYgKHRoaXMubWFudWFsQ2xvc2UpIHsKICAgICAgcmV0dXJuOwogICAgfQogICAgaWYgKGluY2x1ZGVDb25uKSB7CiAgICAgIHRoaXMuY29ubiA9IGF3YWl0IHRoaXMuY3JlYXRlQ29ubmVjdGlvbigpOwogICAgfQoKICAgIHRoaXMuX2NoYW5uZWwgPSBhd2FpdCB0aGlzLmNyZWF0ZUNoYW5uZWwoKTsKICAgIGF3YWl0IHRoaXMucmVzdGFydCgpOwogICAgcmV0dXJuIHRydWU7CiAgfQoK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHJldHVybiBhd2FpdCBQcm9taXNlLm1hcCh0aGlzLndvcmtlcnMsIHcgPT4gewogICAgICByZXR1cm4gdy5zdGFydCh0aGlzLl9jaGFubmVsKTsKICAgIH0pOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgIHRoaXMubG9nZ2VyLmVycm9yKGUsICdyYWJiaXRtcSBjb25uZWN0IGZhaWwnKTsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ3JhYmJpdG1xIGNvbm5lY3QgZmFpbCcpOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5faXNDaGFubmVsT3BlbiA9IHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9pc0Nvbm5PcGVuID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fY2hhbm5lbCA9IGNoOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uLm9uKCdjbG9zZScsIHRoaXMuY29ubkNsb3NlT3JFcnJvci5iaW5kKHRoaXMsICdjbG9zZScpKTsKICAgICAgICBjb25uLm9uKCdlcnJvcicsIHRoaXMuY29ubkNsb3NlT3JFcnJvci5iaW5kKHRoaXMsICdlcnJvcicpKTsK</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgY2guYXNzZXJ0RXhjaGFuZ2UodGhpcy5leE5hbWUsIHRoaXMuZXhUeXBlLCB0aGlzLmV4Y2hhbmdlT3B0aW9ucyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjb25uID0gCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY2ggPSBhd2FpdCB0aGlzLmNvbm5lY3Rpb24uY3JlYXRlQ2hhbm5lbCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>114</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVDaGFubmVsXD4=</last-search>
+      <last-search>close</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVDaGFubmVsXD4=</last-pattern>
+      <last-pattern>close</last-pattern>
       <last-replace encoding="base64">KCkgPT4gWyQxXQ==</last-replace>
       <last-substitute encoding="base64">XDxjb25maWdcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -980,26 +981,26 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfaXNDb25uT3Blblw+</entry>
-        <entry encoding="base64">XDxtYW51YWxDbG9zZVw+</entry>
-        <entry encoding="base64">XDxjb25uUmVjb25uVGltZW91dFw+</entry>
-        <entry>manu</entry>
-        <entry encoding="base64">XDxyZWNvbm5EZWxheVw+</entry>
-        <entry>connrecon</entry>
-        <entry>channelre</entry>
-        <entry encoding="base64">XDxjaGFubmVsUmVjb25uXD4=</entry>
-        <entry encoding="base64">XDxjaGFubmVsQ2xvc2VPckVycm9yXD4=</entry>
-        <entry>createchannel</entry>
-        <entry encoding="base64">XDxyZWNvbm5lY3RcPg==</entry>
-        <entry>create</entry>
-        <entry encoding="base64">XDxnZXRDaGFubmVsXD4=</entry>
-        <entry>getchannel</entry>
-        <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
-        <entry>aw</entry>
-        <entry>closeor</entry>
-        <entry>createcon</entry>
         <entry encoding="base64">XDxjcmVhdGVDb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVDaGFubmVsXD4=</entry>
+        <entry encoding="base64">XDxfaXNDaGFubmVsT3Blblw+</entry>
+        <entry>getchannel</entry>
+        <entry>get</entry>
+        <entry encoding="base64">XDxnZXRDaGFubmVsXD4=</entry>
+        <entry encoding="base64">XDxhc3NlcnRRdWV1ZVw+</entry>
+        <entry>assertqueue</entry>
+        <entry>bindqueue</entry>
+        <entry encoding="base64">XDxjcmVhdGVRdWV1ZVw+</entry>
+        <entry>consume</entry>
+        <entry>start</entry>
+        <entry>createqueue</entry>
+        <entry encoding="base64">XDxoYW5kbGVcPg==</entry>
+        <entry encoding="base64">XDxfaGFuZGxlclw+</entry>
+        <entry>recon</entry>
+        <entry encoding="base64">XDxyZWNvbm5EZWxheVw+</entry>
+        <entry>createchannel</entry>
+        <entry>this.conn</entry>
+        <entry>close</entry>
       </history-search>
       <history-cmd>
         <entry>135</entry>
