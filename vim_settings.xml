@@ -509,7 +509,7 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/workers/SyncWorker.js" timestamp="1554106137028">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/workers/SyncWorker.js" timestamp="1554108828797">
         <mark key="'" line="5" column="6" />
         <mark key="[" line="87" column="87" />
         <mark key="]" line="87" column="91" />
@@ -529,6 +529,12 @@
         <mark key="]" line="34" column="29" />
         <mark key="." line="34" column="20" />
         <mark key="^" line="24" column="28" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1554110537043">
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="49" column="20" />
+        <mark key="." line="49" column="20" />
+        <mark key="^" line="49" column="20" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/index.js" timestamp="1549955831623">
         <mark key="[" line="19" column="0" />
@@ -691,7 +697,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1553850885409">
+      <file name="/JavaScript Console" timestamp="1554108814012">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -739,7 +745,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553850739850">
+      <file name="/Dummy.txt" timestamp="1554107566609">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="19" />
@@ -943,7 +949,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGQ=</text>
+        <text>cb</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -952,7 +958,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGQ=</text>
+        <text>cb</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -997,7 +1003,7 @@
         <text encoding="base64">Y29uZmlnLmxvYWRGaWxlKCcuLi8uLi9jb25maWcvZGVmYXVsdC55YW1sJykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>50</text>
       </register>
     </registers>
     <search>
@@ -1007,7 +1013,7 @@
       <last-replace encoding="base64">KCkgPT4gWyQxXQ==</last-replace>
       <last-substitute encoding="base64">XDxjcmVhdGVDb25uZWN0aW9uXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1033,7 +1039,6 @@
         <entry>isvideo</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;//g</entry>
         <entry>%s/,\n/\n/g</entry>
         <entry>%s/,\n/\r/g</entry>
         <entry>q</entry>
@@ -1053,6 +1058,7 @@
         <entry>114</entry>
         <entry>170</entry>
         <entry>w</entry>
+        <entry>50</entry>
       </history-cmd>
       <history-expr />
       <history-input />
