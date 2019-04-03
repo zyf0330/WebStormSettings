@@ -213,12 +213,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1554275480900">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1554276112349">
         <mark key="'" line="130" column="25" />
-        <mark key="[" line="158" column="52" />
-        <mark key="]" line="159" column="1" />
-        <mark key="." line="159" column="1" />
-        <mark key="^" line="159" column="1" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="129" column="33" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-proto-models/tinder/index.js" timestamp="1553507276271">
         <mark key="'" line="78" column="4" />
@@ -714,7 +714,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1554189390410">
+      <file name="/JavaScript Console" timestamp="1554275703490">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -965,8 +965,8 @@
       <jump line="128" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBpZiAob3RoZXJUZXJtSlNPTnMgPT0gbnVsbCkgewogIC8vICAgcmV0dXJuIGNiKG51bGwsIHsKICAvLyAgICAgcmVzdWx0OiBjb25zdHMucmVzdWx0LmZhaWwsCiAgLy8gICAgIGVycm9yY29kZTogY29uc3RzLmVycm9yY29kZS5JbnZpdGUuT0ZGTElORSwKICAvLyAgIH0pCiAgLy8gfQo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -975,7 +975,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>otherTermJSON</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -984,40 +984,40 @@
         <text>othertermid</text>
       </register>
       <register name="0" type="4">
-        <text>const redisResult = await</text>
+        <text>consts.errorcode.Invite.OFFLINE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5oc2V0KHJlZGlzS2V5LnNlc3Npb25IYXNoKCksIHNlc3Npb24uaWQsIEpTT04uc3RyaW5naWZ5KHNlc3Npb24pKQo=</text>
+        <text encoding="base64">ICAvLyBpZiAob3RoZXJUZXJtSlNPTnMgPT0gbnVsbCkgewogIC8vICAgcmV0dXJuIGNiKG51bGwsIHsKICAvLyAgICAgcmVzdWx0OiBjb25zdHMucmVzdWx0LmZhaWwsCiAgLy8gICAgIGVycm9yY29kZTogY29uc3RzLmVycm9yY29kZS5JbnZpdGUuT0ZGTElORSwKICAvLyAgIH0pCiAgLy8gfQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5oc2V0KHJlZGlzS2V5LnRlcm1IYXNoKCksIHRlcm1JZCwgSlNPTi5zdHJpbmdpZnkodGVybSkpCg==</text>
+        <text encoding="base64">ICAgICAgb3RoZXJFcnJvcmNvZGUgPSBvdGhlckVycm9yY29kZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5oc2V0KHJlZGlzS2V5LnJvb21IYXNoKCksIHJvb21JZCwgSlNPTi5zdHJpbmdpZnkocm9vbSkpCiAgICAuaHNldChyZWRpc0tleS50ZXJtSGFzaCgpLCB0ZXJtSWQsIEpTT04uc3RyaW5naWZ5KHRlcm0pKQogICAgLmhzZXQocmVkaXNLZXkuc2Vzc2lvbkhhc2goKSwgc2Vzc2lvbi5pZCwgSlNPTi5zdHJpbmdpZnkoc2Vzc2lvbikpCg==</text>
+        <text encoding="base64">ICAgICAgb3RoZXJSZXN1bHQgPSAK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIOaYr+WQpuacieS6uuWPguWKoAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBoc2V0cy5mb3JFYWNoKChoc2V0KSA9PiB7CiAgICByZWRpc1AuaHNldCguLi5oc2V0KQogIH0pCg==</text>
+        <text encoding="base64">ICBjb25zdCBpczF2MSA9IG90aGVyVGVybUpTT05zLmxlbmd0aCA9PSAxCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGhzZXRzLnB1c2goCiAgICAgIFssIG90aGVyVGVybUlkXSwKICAgICAgW3JlZGlzS2V5LnNlc3Npb25IYXNoKCksIF0sCiAgICApCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGNiKG51bGwsIHsKICAgICAgICByZXN1bHQ6IGNvbnN0cy5yZXN1bHQuZmFpbCwKICAgICAgICBlcnJvcmNvZGU6IGNvbnN0cy5lcnJvcmNvZGUuSW52aXRlLk9GRkxJTkUsCiAgICAgIH0p</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3Jjb2RlID0gb3RoZXJFcnJvcmNvZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5oc2V0KHJlZGlzS2V5LnNlc3Npb25IYXNoKCksIHNlc3Npb24uaWQsIEpTT04uc3RyaW5naWZ5KHNlc3Npb24pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>50</text>
