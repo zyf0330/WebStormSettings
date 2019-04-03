@@ -213,12 +213,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1553670699974">
-        <mark key="'" line="229" column="9" />
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="23" column="46" />
-        <mark key="." line="23" column="46" />
-        <mark key="^" line="23" column="46" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1554275480900">
+        <mark key="'" line="130" column="25" />
+        <mark key="[" line="158" column="52" />
+        <mark key="]" line="159" column="1" />
+        <mark key="." line="159" column="1" />
+        <mark key="^" line="159" column="1" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-proto-models/tinder/index.js" timestamp="1553507276271">
         <mark key="'" line="78" column="4" />
@@ -269,6 +269,10 @@
         <mark key="]" line="63" column="73" />
         <mark key="." line="63" column="73" />
         <mark key="^" line="63" column="73" />
+      </file>
+      <file name="/index.js" timestamp="1554275225853">
+        <mark key="[" line="142" column="2" />
+        <mark key="]" line="142" column="26" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/Dockerfile" timestamp="1542938440752">
         <mark key="[" line="25" column="23" />
@@ -459,6 +463,9 @@
         <mark key="]" line="95" column="42" />
         <mark key="." line="95" column="42" />
         <mark key="^" line="95" column="63" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/protos/tinder/huixiaobao/index.proto" timestamp="1554273576491">
+        <mark key="'" line="50" column="21" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/model/Room.js" timestamp="1553569934166">
         <mark key="[" line="86" column="21" />
@@ -755,7 +762,7 @@
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554189676924">
+      <file name="/Dummy.txt" timestamp="1554189727479">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="19" />
@@ -856,15 +863,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="15" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" />
-      <jump line="188" column="6" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" />
-      <jump line="190" column="35" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" />
-      <jump line="191" column="34" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" />
-      <jump line="196" column="30" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" />
-      <jump line="25" column="12" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/bin/center.js" />
-      <jump line="172" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
-      <jump line="65" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
-      <jump line="68" column="59" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="98" column="43" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="99" column="43" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
       <jump line="107" column="44" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/amqp/Consumer.js" />
@@ -956,10 +954,19 @@
       <jump line="78" column="91" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
       <jump line="92" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" />
       <jump line="275" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="50" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/protos/tinder/huixiaobao/index.proto" />
+      <jump line="103" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="104" column="47" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="150" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="109" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="136" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="139" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="119" column="70" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="128" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>初始化过程中的其他事件排在后面按顺序发出</text>
+        <text>l</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -968,58 +975,58 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>初始化过程中的其他事件排在后面按顺序发出</text>
+        <text>l</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>initchat</text>
+        <text>othertermid</text>
       </register>
       <register name="0" type="4">
-        <text>orderIndex</text>
+        <text>const redisResult = await</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5jYWNoZUluaXRNc2dzLnB1c2goe2V2ZW50TmFtZTogJ3Rlc3QnLCBhcmdzOiAnMSd9KQo=</text>
+        <text encoding="base64">ICAgIC5oc2V0KHJlZGlzS2V5LnNlc3Npb25IYXNoKCksIHNlc3Npb24uaWQsIEpTT04uc3RyaW5naWZ5KHNlc3Npb24pKQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC5oc2V0KHJlZGlzS2V5LnRlcm1IYXNoKCksIHRlcm1JZCwgSlNPTi5zdHJpbmdpZnkodGVybSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAob3JkZXJJbmRleCAhPSAtMSkgewo=</text>
+        <text encoding="base64">ICAgIC5oc2V0KHJlZGlzS2V5LnJvb21IYXNoKCksIHJvb21JZCwgSlNPTi5zdHJpbmdpZnkocm9vbSkpCiAgICAuaHNldChyZWRpc0tleS50ZXJtSGFzaCgpLCB0ZXJtSWQsIEpTT04uc3RyaW5naWZ5KHRlcm0pKQogICAgLmhzZXQocmVkaXNLZXkuc2Vzc2lvbkhhc2goKSwgc2Vzc2lvbi5pZCwgSlNPTi5zdHJpbmdpZnkoc2Vzc2lvbikpCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIOaYr+WQpuacieS6uuWPguWKoAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjYWNoZUluaXRNc2dHcm91cHMK</text>
+        <text encoding="base64">ICBoc2V0cy5mb3JFYWNoKChoc2V0KSA9PiB7CiAgICByZWRpc1AuaHNldCguLi5oc2V0KQogIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhY2hlSW5pdE1zZ0dyb3Vwcy5wdXNoCg==</text>
+        <text encoding="base64">ICAgIGhzZXRzLnB1c2goCiAgICAgIFssIG90aGVyVGVybUlkXSwKICAgICAgW3JlZGlzS2V5LnNlc3Npb25IYXNoKCksIF0sCiAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5jYWNoZUluaXRNc2dzCiAgICAgICAgICAgICAgLnNvcnQoKG8xLCBvMikgPT4gb3JkZXJzLmluZGV4T2YobzEuZXZlbnROYW1lKSAtIG9yZGVycy5pbmRleE9mKG8yLmV2ZW50TmFtZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc29ydGVkID0KICAgICAgICAgICAgICBkYXRhLmNhY2hlSW5pdE1zZ3MKICAgICAgICAgICAgICAgIC8vIC5maWx0ZXIobyA9PiB7CiAgICAgICAgICAgICAgICAvLyByZXR1cm4gby5ldmVudE5hbWUgPT0gJ2luaXRDaGF0JwogICAgICAgICAgICAgICAgLy8gfSkKICAgICAgICAgICAgICAgIC5zb3J0KChvMSwgbzIpID0+IG9yZGVycy5pbmRleE9mKG8xLmV2ZW50TmFtZSkgLSBvcmRlcnMuaW5kZXhPZihvMi5ldmVudE5hbWUpKQo=</text>
+        <text encoding="base64">ICAgICAgZXJyb3Jjb2RlID0gb3RoZXJFcnJvcmNvZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0tJywgSlNPTi5zdHJpbmdpZnkoc29ydGVkKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>50</text>
       </register>
     </registers>
     <search>
-      <last-search>initchat</last-search>
+      <last-search>othertermid</last-search>
       <last-offset />
-      <last-pattern>initchat</last-pattern>
+      <last-pattern>othertermid</last-pattern>
       <last-replace encoding="base64">KCkgPT4gWyQxXQ==</last-replace>
       <last-substitute encoding="base64">XDxjcmVhdGVDb25uZWN0aW9uXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1027,10 +1034,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bind</entry>
-        <entry encoding="base64">XDxjaGFubmVsUmVjb25uVGltZW91dFw+</entry>
-        <entry encoding="base64">XDxhZGRXb3JrZXJcPg==</entry>
-        <entry encoding="base64">XDxyZWNvbm5lY3RcPg==</entry>
         <entry>getchannel</entry>
         <entry encoding="base64">XDxjcmVhdGVDb25uZWN0aW9uXD4=</entry>
         <entry>start</entry>
@@ -1047,6 +1050,10 @@
         <entry>initchatm</entry>
         <entry encoding="base64">XDxlbWl0dGVyXD4=</entry>
         <entry>initchat</entry>
+        <entry>invitecall</entry>
+        <entry encoding="base64">XDxvdGhlclRlcm1cPg==</entry>
+        <entry encoding="base64">XDx0ZXJtSWRcPg==</entry>
+        <entry>othertermid</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,\n/\n/g</entry>
