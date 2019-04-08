@@ -724,7 +724,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1554711087864">
+      <file name="/JavaScript Console" timestamp="1554711503099">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -815,12 +815,12 @@
         <mark key="^" line="6" column="115" />
         <mark key="." line="6" column="115" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1554707244008">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1554711954444">
         <mark key="'" line="57" column="5" />
-        <mark key="[" line="31" column="73" />
-        <mark key="]" line="31" column="73" />
-        <mark key="." line="31" column="73" />
-        <mark key="^" line="31" column="78" />
+        <mark key="[" line="30" column="89" />
+        <mark key="]" line="30" column="88" />
+        <mark key="." line="30" column="88" />
+        <mark key="^" line="30" column="88" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/node-rtmp-message-server/dist/Socket.js" timestamp="1554711047868">
         <mark key="[" line="139" column="37" />
@@ -984,7 +984,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>chore(sentry/generKeys): 现在可以传入 extra 信息</text>
+        <text>x-forwarded-for</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -993,7 +993,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>chore(sentry/generKeys): 现在可以传入 extra 信息</text>
+        <text>x-forwarded-for</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1002,7 +1002,7 @@
         <text>connect</text>
       </register>
       <register name="0" type="4">
-        <text>clientIP</text>
+        <text>handshake.headers['x-forwarded-for']</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyBjb25zdCBycnJyciA9IFNESy5wcm90by5wcm90b2J1ZnMucHJvdG8ubG9va3VwKGAke2NvbnN0cy5hcHB9Lkludml0ZU5vdGlmeVJlcGx5QUNLYCkuZGVjb2RlKFNESy5wcm90by5wcm90b2J1ZnMucHJvdG8ubG9va3VwKGAke2NvbnN0cy5hcHB9Lkludml0ZU5vdGlmeVJlcGx5QUNLYCkuZW5jb2RlKHsKICAvLyAgIHJlc3VsdDogY29uc3RzLnJlc3VsdC5vaywKICAvLyAgIGVycm9yY29kZTogY29uc3RzLmVycm9yY29kZS5JbnZpdGUuU1VDQ0VTUywKICAvLyAgIHRlcm1TdGF0OiB0ZXJtLnN0YXRlLAogIC8vICAgb3RoZXJQZWVySWRzOiBvdGhlclBlZXJJZHMsCiAgLy8gfSkuZmluaXNoKCkpCg==</text>
