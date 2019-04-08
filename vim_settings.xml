@@ -205,10 +205,10 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1554697429794">
-        <mark key="'" line="252" column="79" />
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1554697781445">
+        <mark key="'" line="282" column="2" />
+        <mark key="[" line="211" column="13" />
+        <mark key="]" line="211" column="29" />
         <mark key="." line="282" column="0" />
         <mark key="^" line="282" column="12" />
       </file>
@@ -875,8 +875,6 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/onCommand.js" timestamp="1554697402895" />
     </filemarks>
     <jumps>
-      <jump line="71" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/workers/SyncWorker.js" />
-      <jump line="87" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/workers/SyncWorker.js" />
       <jump line="89" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/workers/SyncWorker.js" />
       <jump line="97" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/workers/SyncWorker.js" />
       <jump line="5" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/workers/SyncWorker.js" />
@@ -975,10 +973,12 @@
       <jump line="245" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="249" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="252" column="79" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="226" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="282" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBycnJyciA9IFNESy5wcm90by5wcm90b2J1ZnMucHJvdG8ubG9va3VwKGAke2NvbnN0cy5hcHB9Lkludml0ZU5vdGlmeVJlcGx5QUNLYCkuZGVjb2RlKFNESy5wcm90by5wcm90b2J1ZnMucHJvdG8ubG9va3VwKGAke2NvbnN0cy5hcHB9Lkludml0ZU5vdGlmeVJlcGx5QUNLYCkuZW5jb2RlKHsKICAvLyAgIHJlc3VsdDogY29uc3RzLnJlc3VsdC5vaywKICAvLyAgIGVycm9yY29kZTogY29uc3RzLmVycm9yY29kZS5JbnZpdGUuU1VDQ0VTUywKICAvLyAgIHRlcm1TdGF0OiB0ZXJtLnN0YXRlLAogIC8vICAgb3RoZXJQZWVySWRzOiBvdGhlclBlZXJJZHMsCiAgLy8gfSkuZmluaXNoKCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>InviteNotifyReply</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -993,10 +993,10 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXJtXD4=</text>
+        <text encoding="base64">XDxjYWxsYmFja1w+</text>
       </register>
       <register name="0" type="4">
-        <text>InviteNotifyReplyACK</text>
+        <text>InviteNotifyReply</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyBjb25zdCBycnJyciA9IFNESy5wcm90by5wcm90b2J1ZnMucHJvdG8ubG9va3VwKGAke2NvbnN0cy5hcHB9Lkludml0ZU5vdGlmeVJlcGx5QUNLYCkuZGVjb2RlKFNESy5wcm90by5wcm90b2J1ZnMucHJvdG8ubG9va3VwKGAke2NvbnN0cy5hcHB9Lkludml0ZU5vdGlmeVJlcGx5QUNLYCkuZW5jb2RlKHsKICAvLyAgIHJlc3VsdDogY29uc3RzLnJlc3VsdC5vaywKICAvLyAgIGVycm9yY29kZTogY29uc3RzLmVycm9yY29kZS5JbnZpdGUuU1VDQ0VTUywKICAvLyAgIHRlcm1TdGF0OiB0ZXJtLnN0YXRlLAogIC8vICAgb3RoZXJQZWVySWRzOiBvdGhlclBlZXJJZHMsCiAgLy8gfSkuZmluaXNoKCkpCg==</text>
@@ -1040,9 +1040,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXJtXD4=</last-search>
+      <last-search encoding="base64">XDxjYWxsYmFja1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXJtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsYmFja1w+</last-pattern>
       <last-replace encoding="base64">KCkgPT4gWyQxXQ==</last-replace>
       <last-substitute encoding="base64">XDxjcmVhdGVDb25uZWN0aW9uXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1050,7 +1050,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0luaXRpbmdcPg==</entry>
         <entry>initchatm</entry>
         <entry encoding="base64">XDxlbWl0dGVyXD4=</entry>
         <entry>initchat</entry>
@@ -1070,6 +1069,7 @@
         <entry encoding="base64">XDxvdGhlclBlZXJJZHNcPg==</entry>
         <entry>respub</entry>
         <entry encoding="base64">XDx0ZXJtXD4=</entry>
+        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,\n/\n/g</entry>
