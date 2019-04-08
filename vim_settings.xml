@@ -503,6 +503,13 @@
         <mark key="." line="178" column="39" />
         <mark key="^" line="178" column="37" />
       </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" timestamp="1554708228681">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="51" />
+        <mark key="]" line="33" column="50" />
+        <mark key="^" line="33" column="50" />
+        <mark key="." line="33" column="50" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/protos/events.proto" timestamp="1550733083829">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="18" />
@@ -724,7 +731,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1554707094162">
+      <file name="/JavaScript Console" timestamp="1554708531238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -881,8 +888,6 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-edge/onCommand.js" timestamp="1554697402895" />
     </filemarks>
     <jumps>
-      <jump line="97" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/workers/SyncWorker.js" />
-      <jump line="5" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/workers/SyncWorker.js" />
       <jump line="302" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
       <jump line="3" column="6" filename="/streamSync.js" />
       <jump line="26" column="4" filename="/streamSync.js" />
@@ -981,10 +986,12 @@
       <jump line="226" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="282" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="55" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="76" column="49" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>chore(sentry/generKeys): 现在可以传入 extra 信息</text>
+        <text>remote</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -993,16 +1000,16 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>chore(sentry/generKeys): 现在可以传入 extra 信息</text>
+        <text>remote</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsYmFja1w+</text>
+        <text>connect</text>
       </register>
       <register name="0" type="4">
-        <text>x-forwarded-for</text>
+        <text>clientIP</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyBjb25zdCBycnJyciA9IFNESy5wcm90by5wcm90b2J1ZnMucHJvdG8ubG9va3VwKGAke2NvbnN0cy5hcHB9Lkludml0ZU5vdGlmeVJlcGx5QUNLYCkuZGVjb2RlKFNESy5wcm90by5wcm90b2J1ZnMucHJvdG8ubG9va3VwKGAke2NvbnN0cy5hcHB9Lkludml0ZU5vdGlmeVJlcGx5QUNLYCkuZW5jb2RlKHsKICAvLyAgIHJlc3VsdDogY29uc3RzLnJlc3VsdC5vaywKICAvLyAgIGVycm9yY29kZTogY29uc3RzLmVycm9yY29kZS5JbnZpdGUuU1VDQ0VTUywKICAvLyAgIHRlcm1TdGF0OiB0ZXJtLnN0YXRlLAogIC8vICAgb3RoZXJQZWVySWRzOiBvdGhlclBlZXJJZHMsCiAgLy8gfSkuZmluaXNoKCkpCg==</text>
@@ -1046,9 +1053,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWxsYmFja1w+</last-search>
+      <last-search>connect</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsYmFja1w+</last-pattern>
+      <last-pattern>connect</last-pattern>
       <last-replace encoding="base64">KCkgPT4gWyQxXQ==</last-replace>
       <last-substitute encoding="base64">XDxjcmVhdGVDb25uZWN0aW9uXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1056,7 +1063,6 @@
     </search>
     <history>
       <history-search>
-        <entry>initchatm</entry>
         <entry encoding="base64">XDxlbWl0dGVyXD4=</entry>
         <entry>initchat</entry>
         <entry encoding="base64">XDxvdGhlclRlcm1cPg==</entry>
@@ -1076,6 +1082,7 @@
         <entry>respub</entry>
         <entry encoding="base64">XDx0ZXJtXD4=</entry>
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
+        <entry>connect</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,\n/\n/g</entry>
