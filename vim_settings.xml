@@ -6,12 +6,12 @@
       <file name="/streamSync.js" timestamp="1554107369904">
         <mark key="'" line="76" column="2" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Room.js" timestamp="1554869341037">
+      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Room.js" timestamp="1554870931009">
         <mark key="'" line="44" column="9" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="40" column="7" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+        <mark key="." line="23" column="30" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1551249966744">
         <mark key="[" line="20" column="0" />
@@ -140,11 +140,11 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/web/route.js" timestamp="1554867381805">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="10" column="5" />
-        <mark key="^" line="10" column="5" />
+      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/web/route.js" timestamp="1554870912816">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1541644623822">
         <mark key="[" line="1" column="6" />
@@ -827,7 +827,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>roomId</text>
+        <text>'hello'</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -836,7 +836,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>'hello'</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -845,7 +845,7 @@
         <text encoding="base64">XDxjbG9zZWRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>roomId</text>
+        <text>getUserCount</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAvLyDnrYnlvoXlj5bmtojorqLpmIXlrozmiJAKICByZXR1cm4gbmV3IFByb21pc2UoKHJlcykgPT4gewogICAgc2V0VGltZW91dChyZXMpCiAgfSk=</text>
