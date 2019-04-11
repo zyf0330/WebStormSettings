@@ -223,7 +223,8 @@
         <mark key="." line="29" column="14" />
         <mark key="^" line="29" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/config.js" timestamp="1554883863864">
+      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/config.js" timestamp="1554965325830">
+        <mark key="'" line="4" column="8" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -280,11 +281,6 @@
         <mark key="]" line="1" column="19" />
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource.js" timestamp="1554862390396">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="60" column="4" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/system/config.test.json" timestamp="1543381020366">
         <mark key="[" line="3" column="7" />
@@ -391,7 +387,7 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/Dockerfile" timestamp="1554961979000">
+      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/Dockerfile" timestamp="1554965315116">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="48" column="64" />
         <mark key="." line="0" column="0" />
@@ -526,8 +522,8 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" timestamp="1554884094563">
-        <mark key="'" line="86" column="9" />
+      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" timestamp="1554969948886">
+        <mark key="'" line="55" column="62" />
         <mark key="[" line="96" column="18" />
         <mark key="]" line="96" column="22" />
         <mark key="." line="96" column="22" />
@@ -738,11 +734,6 @@
         <mark key="^" line="92" column="51" />
         <mark key="." line="92" column="39" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/util/eventJson.js" timestamp="1554861984547">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/bin/center.js" timestamp="1553834502385">
         <mark key="'" line="25" column="12" />
       </file>
@@ -761,10 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="6" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/util/index.js" />
-      <jump line="8" column="45" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/app.js" />
-      <jump line="23" column="31" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/app.js" />
-      <jump line="7" column="25" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/index.js" />
       <jump line="33" column="0" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/web/index.js" />
       <jump line="7" column="0" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/web/index.js" />
       <jump line="34" column="10" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/app.js" />
@@ -861,6 +848,10 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/Dockerfile" />
       <jump line="48" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/Dockerfile" />
       <jump line="12" column="21" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/Dockerfile" />
+      <jump line="4" column="8" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/config.js" />
+      <jump line="6" column="13" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" />
+      <jump line="23" column="14" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" />
+      <jump line="55" column="62" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -879,7 +870,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>onclose</text>
+        <text encoding="base64">XDxpcFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyDnvJbor5EgY29uZmQKRlJPTSBnb2xhbmc6MS4xMS4yLWFscGluZTMuOCBBUyBnbwpSVU4gYXBrIGFkZCAtLXVwZGF0ZSBnaXQgbWFrZQpXT1JLRElSIC9nbwpSVU4gbWtkaXIgLXAgc3JjL2dpdGh1Yi5jb20venlmMDMzMC8KUlVOIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20venlmMDMzMC9jb25mZC5naXQgc3JjL2dpdGh1Yi5jb20venlmMDMzMC9jb25mZApXT1JLRElSIHNyYy9naXRodWIuY29tL3p5ZjAzMzAvY29uZmQKUlVOIG1ha2UKUlVOIGNwIGJpbi9jb25mZCAvZ28KCiMg57yW6K+RIG5vZGVfbW9kdWxlcwpGUk9NIG5vZGU6OC1hbHBpbmUgYXMgbm9kZV9tb2R1bGVzClJVTiBhcGsgYWRkIC0tdXBkYXRlIC0tdmlydHVhbCBidWlsZC1kZXAgcHl0aG9uIG1ha2UgZysrCkNPUFkgcGFja2FnZS5qc29uIHlhcm4ubG9jayAuLwpSVU4geWFybiBpbnN0YWxsIC0tcHJvZHVjdGlvbgoKIyDmnKzpobnnm64KRlJPTSBrZXltZXRyaWNzL3BtMjo4LWFscGluZQoKRU5WIE5PREVfRU5WIHByb2R1Y3Rpb24KCkVOViBUWiBBc2lhL1NoYW5naGFpClJVTiBhcGsgYWRkIC0tbm8tY2FjaGUgdHpkYXRhIGNhLWNlcnRpZmljYXRlcwoKV09SS0RJUiAvYXBwCgpSVU4gcG0yIGluc3RhbGwgcG0yLWxvZ3JvdGF0ZSAmJiBcCiAgICBwbTIgc2V0IHBtMi1sb2dyb3RhdGU6bWF4X3NpemUgMUcgJiYgXAogICAgcG0yIHNldCBwbTItbG9ncm90YXRlOmNvbXByZXNzIHRydWUgJiYgXAogICAgcG0yIHNldCBwbTItbG9ncm90YXRlOnJvdGF0ZUludGVydmFsICc1OSA1OSAyMyAqICogKicgJiYgXAogICAgcG0yIHNldCBwbTItbG9ncm90YXRlOnJldGFpbiA2MCAmJiBcCiAgICBwbTIgc2V0IHBtMi1sb2dyb3RhdGU6ZGF0ZUZvcm1hdCAnWVlZWS1NTS1ERCcKCkVYUE9TRSAzMDAwCgpDT1BZIC0tZnJvbT1nbyAvZ28vY29uZmQgL3Vzci9sb2NhbC9iaW4vCkNPUFkgLS1mcm9tPW5vZGVfbW9kdWxlcyBub2RlX21vZHVsZXMgLi9ub2RlX21vZHVsZXMvCgpDT1BZIGNvbmZkIC9hcHAvY29uZmQKQ09QWSBzZXJ2aWNlIC9hcHAvc2VydmljZQpDT1BZIHV0aWwgL2FwcC91dGlsCkNPUFkgYXBwLmpzIGNvbmZkLnNoIHBhY2thZ2UuanNvbiB5YXJuLmxvY2sgL2FwcC8KQ09QWSBhcHAtZG9ja2VyLnltbCAvYXBwL2FwcC55bWwKUlVOIHRvdWNoIGV0Y2RDb25maWcgIyDlrp7pmYXlgLzpgJrov4fnjq/looPlj5jph4/orr7nva4KCiMgcG0yIOWQr+WKqOaciemXrumimO+8jOmcgOimgemihOWFiOWIm+W7uuaWh+S7tuWkuQpSVU4gbWtkaXIgLXAgL3Zhci9kdW9iZWkvcmVjb3JkLwoKQ01EIHBtMi1ydW50aW1lIHN0YXJ0IGFwcC55bWwgLS1vbmx5IGNvbmZkLWRieS1tb2JpbGUtc2VydmVyLTF2MQo=</text>
@@ -922,17 +913,16 @@
       </register>
     </registers>
     <search>
-      <last-search>onclose</last-search>
+      <last-search encoding="base64">XDxpcFw+</last-search>
       <last-offset />
-      <last-pattern>onclose</last-pattern>
+      <last-pattern encoding="base64">XDxpcFw+</last-pattern>
       <last-replace />
       <last-substitute>model\/</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">c3ViOiA=</entry>
         <entry>dispatch</entry>
         <entry encoding="base64">XDxpbml0TXNnXD4=</entry>
         <entry>message</entry>
@@ -952,6 +942,7 @@
         <entry>reconnect</entry>
         <entry encoding="base64">XDxyZWNvbm5lY3RcPg==</entry>
         <entry>onclose</entry>
+        <entry encoding="base64">XDxpcFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy8iLy9n</entry>
