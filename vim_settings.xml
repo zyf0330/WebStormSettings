@@ -391,15 +391,16 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/Dockerfile" timestamp="1554961979000">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="48" column="64" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/1.js" timestamp="1552961527333">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="12" />
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/.gitignore" timestamp="1554803238290">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="9" />
       </file>
       <file name="/fragment.js" timestamp="1554865810549">
         <mark key="[" line="0" column="11" />
@@ -592,6 +593,11 @@
         <mark key="^" line="60" column="31" />
         <mark key="." line="16" column="27" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/Dockerfile" timestamp="1554961977185">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="48" column="64" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/README.md" timestamp="1543381041191">
         <mark key="[" line="52" column="7" />
         <mark key="]" line="52" column="15" />
@@ -746,10 +752,6 @@
         <mark key="." line="195" column="59" />
         <mark key="^" line="195" column="59" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" timestamp="1554877857726">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="47" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Sub.js" timestamp="1554882606719">
         <mark key="'" line="52" column="10" />
         <mark key="[" line="75" column="51" />
@@ -759,9 +761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="6" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/util/logger.js" />
-      <jump line="39" column="22" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/util/index.js" />
-      <jump line="42" column="4" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/util/index.js" />
       <jump line="67" column="4" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/util/index.js" />
       <jump line="6" column="6" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/util/index.js" />
       <jump line="8" column="45" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/app.js" />
@@ -859,10 +858,13 @@
       <jump line="503" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/node_modules/socket.io-client/lib/manager.js" />
       <jump line="302" column="49" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/node_modules/socket.io-client/lib/manager.js" />
       <jump line="480" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/node_modules/socket.io-client/lib/manager.js" />
+      <jump line="20" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/Dockerfile" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/Dockerfile" />
+      <jump line="48" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>disconnect</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyDnvJbor5EgY29uZmQKRlJPTSBnb2xhbmc6MS4xMS4yLWFscGluZTMuOCBBUyBnbwpSVU4gYXBrIGFkZCAtLXVwZGF0ZSBnaXQgbWFrZQpXT1JLRElSIC9nbwpSVU4gbWtkaXIgLXAgc3JjL2dpdGh1Yi5jb20venlmMDMzMC8KUlVOIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20venlmMDMzMC9jb25mZC5naXQgc3JjL2dpdGh1Yi5jb20venlmMDMzMC9jb25mZApXT1JLRElSIHNyYy9naXRodWIuY29tL3p5ZjAzMzAvY29uZmQKUlVOIG1ha2UKUlVOIGNwIGJpbi9jb25mZCAvZ28KCiMg57yW6K+RIG5vZGVfbW9kdWxlcwpGUk9NIG5vZGU6OC1hbHBpbmUgYXMgbm9kZV9tb2R1bGVzClJVTiBhcGsgYWRkIC0tdXBkYXRlIC0tdmlydHVhbCBidWlsZC1kZXAgcHl0aG9uIG1ha2UgZysrCkNPUFkgcGFja2FnZS5qc29uIHlhcm4ubG9jayAuLwpSVU4geWFybiBpbnN0YWxsIC0tcHJvZHVjdGlvbgoKIyDmnKzpobnnm64KRlJPTSBrZXltZXRyaWNzL3BtMjo4LWFscGluZQoKRU5WIE5PREVfRU5WIHByb2R1Y3Rpb24KCkVOViBUWiBBc2lhL1NoYW5naGFpClJVTiBhcGsgYWRkIC0tbm8tY2FjaGUgdHpkYXRhIGNhLWNlcnRpZmljYXRlcwoKV09SS0RJUiAvYXBwCgpSVU4gcG0yIGluc3RhbGwgcG0yLWxvZ3JvdGF0ZSAmJiBcCiAgICBwbTIgc2V0IHBtMi1sb2dyb3RhdGU6bWF4X3NpemUgMUcgJiYgXAogICAgcG0yIHNldCBwbTItbG9ncm90YXRlOmNvbXByZXNzIHRydWUgJiYgXAogICAgcG0yIHNldCBwbTItbG9ncm90YXRlOnJvdGF0ZUludGVydmFsICc1OSA1OSAyMyAqICogKicgJiYgXAogICAgcG0yIHNldCBwbTItbG9ncm90YXRlOnJldGFpbiA2MCAmJiBcCiAgICBwbTIgc2V0IHBtMi1sb2dyb3RhdGU6ZGF0ZUZvcm1hdCAnWVlZWS1NTS1ERCcKCkVYUE9TRSAzMDAwCgpDT1BZIC0tZnJvbT1nbyAvZ28vY29uZmQgL3Vzci9sb2NhbC9iaW4vCkNPUFkgLS1mcm9tPW5vZGVfbW9kdWxlcyBub2RlX21vZHVsZXMgLi9ub2RlX21vZHVsZXMvCgpDT1BZIGNvbmZkIC9hcHAvY29uZmQKQ09QWSBzZXJ2aWNlIC9hcHAvc2VydmljZQpDT1BZIHV0aWwgL2FwcC91dGlsCkNPUFkgYXBwLmpzIGNvbmZkLnNoIHBhY2thZ2UuanNvbiB5YXJuLmxvY2sgL2FwcC8KQ09QWSBhcHAtZG9ja2VyLnltbCAvYXBwL2FwcC55bWwKUlVOIHRvdWNoIGV0Y2RDb25maWcgIyDlrp7pmYXlgLzpgJrov4fnjq/looPlj5jph4/orr7nva4KCiMgcG0yIOWQr+WKqOaciemXrumimO+8jOmcgOimgemihOWFiOWIm+W7uuaWh+S7tuWkuQpSVU4gbWtkaXIgLXAgL3Zhci9kdW9iZWkvcmVjb3JkLwoKQ01EIHBtMi1ydW50aW1lIHN0YXJ0IGFwcC55bWwgLS1vbmx5IGNvbmZkLWRieS1tb2JpbGUtc2VydmVyLTF2MQo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -871,7 +873,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>disconnect</text>
+        <text>ffffffffile</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -879,8 +881,8 @@
       <register name="/" type="4">
         <text>onclose</text>
       </register>
-      <register name="0" type="4">
-        <text>error</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyDnvJbor5EgY29uZmQKRlJPTSBnb2xhbmc6MS4xMS4yLWFscGluZTMuOCBBUyBnbwpSVU4gYXBrIGFkZCAtLXVwZGF0ZSBnaXQgbWFrZQpXT1JLRElSIC9nbwpSVU4gbWtkaXIgLXAgc3JjL2dpdGh1Yi5jb20venlmMDMzMC8KUlVOIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20venlmMDMzMC9jb25mZC5naXQgc3JjL2dpdGh1Yi5jb20venlmMDMzMC9jb25mZApXT1JLRElSIHNyYy9naXRodWIuY29tL3p5ZjAzMzAvY29uZmQKUlVOIG1ha2UKUlVOIGNwIGJpbi9jb25mZCAvZ28KCiMg57yW6K+RIG5vZGVfbW9kdWxlcwpGUk9NIG5vZGU6OC1hbHBpbmUgYXMgbm9kZV9tb2R1bGVzClJVTiBhcGsgYWRkIC0tdXBkYXRlIC0tdmlydHVhbCBidWlsZC1kZXAgcHl0aG9uIG1ha2UgZysrCkNPUFkgcGFja2FnZS5qc29uIHlhcm4ubG9jayAuLwpSVU4geWFybiBpbnN0YWxsIC0tcHJvZHVjdGlvbgoKIyDmnKzpobnnm64KRlJPTSBrZXltZXRyaWNzL3BtMjo4LWFscGluZQoKRU5WIE5PREVfRU5WIHByb2R1Y3Rpb24KCkVOViBUWiBBc2lhL1NoYW5naGFpClJVTiBhcGsgYWRkIC0tbm8tY2FjaGUgdHpkYXRhIGNhLWNlcnRpZmljYXRlcwoKV09SS0RJUiAvYXBwCgpSVU4gcG0yIGluc3RhbGwgcG0yLWxvZ3JvdGF0ZSAmJiBcCiAgICBwbTIgc2V0IHBtMi1sb2dyb3RhdGU6bWF4X3NpemUgMUcgJiYgXAogICAgcG0yIHNldCBwbTItbG9ncm90YXRlOmNvbXByZXNzIHRydWUgJiYgXAogICAgcG0yIHNldCBwbTItbG9ncm90YXRlOnJvdGF0ZUludGVydmFsICc1OSA1OSAyMyAqICogKicgJiYgXAogICAgcG0yIHNldCBwbTItbG9ncm90YXRlOnJldGFpbiA2MCAmJiBcCiAgICBwbTIgc2V0IHBtMi1sb2dyb3RhdGU6ZGF0ZUZvcm1hdCAnWVlZWS1NTS1ERCcKCkVYUE9TRSAzMDAwCgpDT1BZIC0tZnJvbT1nbyAvZ28vY29uZmQgL3Vzci9sb2NhbC9iaW4vCkNPUFkgLS1mcm9tPW5vZGVfbW9kdWxlcyBub2RlX21vZHVsZXMgLi9ub2RlX21vZHVsZXMvCgpDT1BZIGNvbmZkIC9hcHAvY29uZmQKQ09QWSBzZXJ2aWNlIC9hcHAvc2VydmljZQpDT1BZIHV0aWwgL2FwcC91dGlsCkNPUFkgYXBwLmpzIGNvbmZkLnNoIHBhY2thZ2UuanNvbiB5YXJuLmxvY2sgL2FwcC8KQ09QWSBhcHAtZG9ja2VyLnltbCAvYXBwL2FwcC55bWwKUlVOIHRvdWNoIGV0Y2RDb25maWcgIyDlrp7pmYXlgLzpgJrov4fnjq/looPlj5jph4/orr7nva4KCiMgcG0yIOWQr+WKqOaciemXrumimO+8jOmcgOimgemihOWFiOWIm+W7uuaWh+S7tuWkuQpSVU4gbWtkaXIgLXAgL3Zhci9kdW9iZWkvcmVjb3JkLwoKQ01EIHBtMi1ydW50aW1lIHN0YXJ0IGFwcC55bWwgLS1vbmx5IGNvbmZkLWRieS1tb2JpbGUtc2VydmVyLTF2MQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjbGllbnQub24K</text>
@@ -926,7 +928,7 @@
       <last-replace />
       <last-substitute>model\/</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -952,9 +954,6 @@
         <entry>onclose</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/,\n/\r/g</entry>
-        <entry>%s/from/require(/gc</entry>
-        <entry>%s/from/=require(/gc</entry>
         <entry encoding="base64">JzwsJz4lcy8iLy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2dj</entry>
         <entry>noh</entry>
@@ -972,6 +971,9 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL21vZGVsXC8v</entry>
         <entry>q</entry>
+        <entry>tabprevious</entry>
+        <entry>tabnext</entry>
+        <entry>tabnew</entry>
       </history-cmd>
       <history-expr />
       <history-input />
