@@ -216,7 +216,7 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/config.js" timestamp="1555037693819">
+      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/config.js" timestamp="1555043395401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="43" />
         <mark key="." line="4" column="0" />
@@ -367,7 +367,7 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="/fragment.js" timestamp="1555037038171">
+      <file name="/fragment.js" timestamp="1555063406311">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -487,12 +487,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" timestamp="1555037119908">
+      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" timestamp="1555063536575">
         <mark key="'" line="13" column="9" />
-        <mark key="[" line="86" column="18" />
-        <mark key="]" line="86" column="21" />
-        <mark key="." line="86" column="21" />
-        <mark key="^" line="86" column="21" />
+        <mark key="[" line="52" column="51" />
+        <mark key="]" line="52" column="52" />
+        <mark key="." line="52" column="52" />
+        <mark key="^" line="52" column="52" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/sentryClient.js" timestamp="1553494762543">
         <mark key="[" line="33" column="0" />
@@ -560,7 +560,7 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1555037218182">
+      <file name="/JavaScript Console" timestamp="1555063539237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -608,11 +608,11 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555041447736">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+      <file name="/Dummy.txt" timestamp="1555041757158">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -803,8 +803,8 @@
       <jump line="1" column="0" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -813,7 +813,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>chore</text>
+        <text>5</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -825,13 +825,13 @@
         <text>sail-stats-service</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLScsIGRhdGFTdHIpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -840,22 +840,22 @@
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmdpdGlnbm9yZQouZ2l0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmdpdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXRjZENvbmZpZwo=</text>
+        <text encoding="base64">LmdpdGlnbm9yZQouZ2l0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">LmdpdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJrb2EtcGluby1sb2dnZXIiOiAiXjIuMS4zIgo=</text>
+        <text encoding="base64">ZXRjZENvbmZpZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJrb2EtcGluby1sb2dnZXIiOiAiXjIuMS4zIiwK</text>
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -868,7 +868,7 @@
       <last-replace />
       <last-substitute>model\/</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
