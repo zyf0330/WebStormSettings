@@ -103,6 +103,13 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/app.yml" timestamp="1555038124905">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="9" column="22" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/sentry.yaml" timestamp="1545626774191">
         <mark key="[" line="1" column="100" />
         <mark key="]" line="1" column="99" />
@@ -219,9 +226,9 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/config.js" timestamp="1555037171268">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/config.js" timestamp="1555037693819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="43" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/etcdConfig" timestamp="1551081709977">
@@ -287,9 +294,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="13" column="49" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.yml" timestamp="1542351006868">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="14" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.yml" timestamp="1555037778020">
+        <mark key="'" line="21" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="24" />
         <mark key="^" line="7" column="70" />
         <mark key="." line="12" column="14" />
       </file>
@@ -614,7 +622,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555037135447">
+      <file name="/Dummy.txt" timestamp="1555037256840">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -711,8 +719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
-      <jump line="44" column="0" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Sub.js" />
       <jump line="40" column="0" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/index.js" />
       <jump line="43" column="10" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/index.js" />
       <jump line="76" column="44" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Sub.js" />
@@ -811,10 +817,12 @@
       <jump line="45" column="60" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" />
       <jump line="77" column="40" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" />
       <jump line="13" column="9" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" />
+      <jump line="21" column="5" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.yml" />
+      <jump line="0" column="4" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/app.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>? false :</text>
+        <text>s</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -823,7 +831,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>? false :</text>
+        <text>s</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -832,40 +840,40 @@
         <text encoding="base64">XDxpZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>hostname</text>
+        <text>sail-stats-service</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dfZGF0ZV9mb3JtYXQ6IFlZWVktTU0tREQgSEg6bW06c3MK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0cy5pcCA9ICcxMjQuMjA0LjU1LjUwJwo=</text>
+        <text encoding="base64">ICBpbnN0YW5jZV92YXI6IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaWQgPSBgJHtob3N0bmFtZX06JHtwaWR9YAo=</text>
+        <text encoding="base64">LSBuYW1lOiBjb25mZC1kYnktbW9iaWxlLXNlcnZlci0xdjEKICBzY3JpcHQ6IGNvbmZkLnNoCiAgZXhlY19pbnRlcnByZXRlcjogc2gKICBtZXJnZV9sb2dzOiB0cnVlCiAgY3dkOiAuCiAgb3V0X2ZpbGU6IC92YXIvZHVvYmVpL25lYnVsYS9sb2dzL2NvbmZkLWRieS1tb2JpbGUtc2VydmVyLTF2MS9vdXQubG9nCiAgZXJyb3JfZmlsZTogL3Zhci9kdW9iZWkvbmVidWxhL2xvZ3MvY29uZmQtZGJ5LW1vYmlsZS1zZXJ2ZXItMXYxL2Vycm9yLmxvZwogIGxvZ19kYXRlX2Zvcm1hdDogWVlZWS1NTS1ERCBISDptbTpzcwo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWFsZXJfZGlzcGF0Y2g6IFsndGNwOi8vMTIwLjI3LjI5LjM1OjcwMDEnXSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBkZWFsZXJfZGlzcGF0Y2g6IFsndGNwOi8vMTIwLjI3LjI5LjM1OjcwMDEnXSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gVE9ETyBpcCDlj6/ku6XmlLnmiJDllK/kuIDmoIfor4bnu5kgYXBwcwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0cy5pcCA9ICcxMjQuMjA0LjU1LjUwJwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuaWQgPSBgJHtob3N0bmFtZX06JHtwaWR9YAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkZWFsZXJfZGlzcGF0Y2g6IFsndGNwOi8vMTIwLjI3LjI5LjM1OjcwMDEnXSwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBkZWFsZXJfZGlzcGF0Y2g6IFsndGNwOi8vMTIwLjI3LjI5LjM1OjcwMDEnXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZ2VuSWRlbnRpdHkoKSB7CiAgICBjb25zdCByZXN1bHQgPSBCdWZmZXIuZnJvbSgpLnRvU3RyaW5nKCdiYXNlNjQnKQogICAgcmV0dXJuIHJlc3VsdAo=</text>
+        <text encoding="base64">Ly8gVE9ETyBpcCDlj6/ku6XmlLnmiJDllK/kuIDmoIfor4bnu5kgYXBwcwo=</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
