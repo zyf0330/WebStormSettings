@@ -197,6 +197,9 @@
         <mark key="^" line="256" column="27" />
         <mark key="." line="269" column="0" />
       </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/index.js" timestamp="1555467229112">
+        <mark key="'" line="6" column="24" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/confd/conf.d/streamSyncConfig.js.toml" timestamp="1551081356600">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="22" />
@@ -346,6 +349,9 @@
         <mark key="]" line="65" column="18" />
         <mark key="." line="65" column="18" />
         <mark key="^" line="66" column="46" />
+      </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" timestamp="1555467232952">
+        <mark key="'" line="31" column="24" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/zmqServer.js" timestamp="1542798719269">
         <mark key="[" line="10" column="32" />
@@ -719,12 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" />
-      <jump line="27" column="60" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" />
-      <jump line="45" column="60" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" />
-      <jump line="77" column="40" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" />
-      <jump line="13" column="9" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" />
-      <jump line="21" column="5" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.yml" />
       <jump line="0" column="4" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/app.yml" />
       <jump line="8" column="12" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/Dockerfile" />
       <jump line="1" column="0" filename="/media/zyf/data/Programming/project/duobei/sail-stats-service/package.json" />
@@ -819,6 +819,12 @@
       <jump line="269" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="93" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/protos/tinder/huixiaobao/index.proto" />
       <jump line="16" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/protos/tinder/huixiaobao/events.proto" />
+      <jump line="6" column="24" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/index.js" />
+      <jump line="4" column="27" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" />
+      <jump line="17" column="5" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" />
+      <jump line="18" column="12" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" />
+      <jump line="19" column="12" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" />
+      <jump line="31" column="24" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -837,7 +843,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>invitenotify</text>
+        <text>connect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvdGhlclJlc3VsdDogcmVzdWx0LAo=</text>
@@ -880,9 +886,9 @@
       </register>
     </registers>
     <search>
-      <last-search>invitenotify</last-search>
+      <last-search>connect</last-search>
       <last-offset />
-      <last-pattern>invitenotify</last-pattern>
+      <last-pattern>connect</last-pattern>
       <last-replace />
       <last-substitute>respub</last-substitute>
       <last-dir>1</last-dir>
@@ -890,8 +896,6 @@
     </search>
     <history>
       <history-search>
-        <entry>todo</entry>
-        <entry>logger</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxoYW5ndXBBbmRSZWxlYXNlXD4=</entry>
         <entry>hangup</entry>
@@ -910,6 +914,8 @@
         <entry encoding="base64">XDxlcnJvcmNvZGVcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry>invitenotify</entry>
+        <entry>apperror</entry>
+        <entry>connect</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2dj</entry>
