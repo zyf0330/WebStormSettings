@@ -10,10 +10,10 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1555655433798">
-        <mark key="'" line="90" column="4" />
-        <mark key="[" line="89" column="42" />
-        <mark key="]" line="89" column="49" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1555655576268">
+        <mark key="'" line="68" column="28" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="87" column="3" />
         <mark key="^" line="86" column="4" />
         <mark key="." line="89" column="42" />
       </file>
@@ -452,6 +452,13 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="5" column="15" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" timestamp="1555655587337">
+        <mark key="'" line="127" column="42" />
+        <mark key="[" line="127" column="42" />
+        <mark key="]" line="127" column="42" />
+        <mark key="." line="127" column="42" />
+        <mark key="^" line="127" column="42" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/protos/events.proto" timestamp="1550733083829">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="18" />
@@ -662,10 +669,10 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555655448201">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="30" />
+      <file name="/Dummy.txt" timestamp="1555655635822">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
@@ -755,16 +762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="147" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="153" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="156" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="152" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="102" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="132" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="207" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="208" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="210" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="214" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="215" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="225" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
@@ -855,10 +852,20 @@
       <jump line="89" column="33" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
       <jump line="86" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
       <jump line="90" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
+      <jump line="97" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
+      <jump line="108" column="6" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
+      <jump line="9" column="24" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
+      <jump line="63" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
+      <jump line="67" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
+      <jump line="68" column="28" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
+      <jump line="123" column="7" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
+      <jump line="124" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
+      <jump line="127" column="42" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix(sub): 订阅后延迟一定时间，确保中心处理后 pub 消息才会被发送</text>
+        <text>3.3.0</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -867,16 +874,16 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>fix(sub): 订阅后延迟一定时间，确保中心处理后 pub 消息才会被发送</text>
+        <text>3.3.0</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3V0ZUNhY2hlXD4=</text>
+        <text encoding="base64">XDxyb29tSWRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>_roomId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAvLyBQYWFTIOeahCByb29tSWQg5pivIGJhc2U2NCDnsbvlnovnmoTlrZfnrKbkuLLvvIzpnIDopoEgbWQ1IOWQjuWPluaooQogIC8vIOiZveeEtiBQYWFTIOW6lOivpeS4jeS8mueUqOacrOacjeWKoe+8jOS9hui/mOaYr+e7n+S4gOmAgumFjQogIGxldCBfcm9vbUlkID0gcm9vbUlkCiAgaWYgKCFyb29tSWQubWF0Y2goL14oanopP1swLTlhLWZdezMyfSQvKSkgewogICAgX3Jvb21JZCA9IG1kNShyb29tSWQpCiAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyBQYWFTIOeahCByb29tSWQg5pivIGJhc2U2NCDnsbvlnovnmoTlrZfnrKbkuLLvvIzpnIDopoEgbWQ1IOWQjuWPluaooQogIC8vIOiZveeEtiBQYWFTIOW6lOivpeS4jeS8mueUqOacrOacjeWKoe+8jOS9hui/mOaYr+e7n+S4gOmAgumFjQogIGlmICghcm9vbUlkLm1hdGNoKC9eKGp6KT9bMC05YS1mXXszMn0kLykpIHsKICAgIHJvb21JZCA9IG1kNShyb29tSWQpCiAgfQo=</text>
@@ -916,17 +923,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb3V0ZUNhY2hlXD4=</last-search>
+      <last-search encoding="base64">XDxyb29tSWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3V0ZUNhY2hlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyb29tSWRcPg==</last-pattern>
       <last-replace />
       <last-substitute>respub</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>room.sessions</entry>
         <entry>joined</entry>
         <entry encoding="base64">XDxzZXNzaW9uc0NhbGxcPg==</entry>
         <entry>room.session</entry>
@@ -940,12 +946,13 @@
         <entry>saveall</entry>
         <entry>startcall</entry>
         <entry>inviteacceptrep</entry>
-        <entry>routeby</entry>
         <entry>cryp</entry>
-        <entry>md5</entry>
-        <entry encoding="base64">XDxyb29tSWRcPg==</entry>
         <entry encoding="base64">XDxfcm9vbUlkXD4=</entry>
         <entry encoding="base64">XDxyb3V0ZUNhY2hlXD4=</entry>
+        <entry>routeby</entry>
+        <entry>cry</entry>
+        <entry>md5</entry>
+        <entry encoding="base64">XDxyb29tSWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
