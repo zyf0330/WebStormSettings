@@ -191,12 +191,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1555902839961">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1555903702125">
         <mark key="'" line="239" column="4" />
-        <mark key="[" line="255" column="67" />
-        <mark key="]" line="255" column="67" />
-        <mark key="." line="255" column="67" />
-        <mark key="^" line="255" column="67" />
+        <mark key="[" line="255" column="23" />
+        <mark key="]" line="255" column="39" />
+        <mark key="." line="255" column="39" />
+        <mark key="^" line="255" column="39" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/index.js" timestamp="1555467229112">
         <mark key="'" line="6" column="24" />
@@ -866,7 +866,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>otherSessions</text>
+        <text>otherSessionIdsJoin</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -875,7 +875,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>otherSessions</text>
+        <text>otherSessionIdsJoin</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
