@@ -2,15 +2,31 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="www" type="JavaScript" />
+      <mapping pattern="list3" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-sync" type="PLAIN_TEXT" />
+      <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
+      <mapping pattern="etcdConfig" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="filter" type="PLAIN_TEXT" />
+      <mapping pattern="list2" type="PLAIN_TEXT" />
+      <mapping pattern="list1" type="PLAIN_TEXT" />
+      <mapping pattern="list" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="anim" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="fire" type="PLAIN_TEXT" />
       <mapping ext="prefab" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
+      <mapping ext="yml_dev" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="yml_pro1" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="save" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern="connectorSioNginxConfig" type="YAML" />
     </extensionMap>
