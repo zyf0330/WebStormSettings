@@ -194,12 +194,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1555916225984">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1555916294581">
         <mark key="'" line="251" column="21" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="^" line="175" column="12" />
-        <mark key="." line="175" column="0" />
+        <mark key="[" line="175" column="38" />
+        <mark key="]" line="175" column="65" />
+        <mark key="^" line="175" column="38" />
+        <mark key="." line="175" column="38" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/index.js" timestamp="1555467229112">
         <mark key="'" line="6" column="24" />
@@ -869,8 +869,8 @@
       <jump line="251" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBuZXcgU2V0KCkuZgo=</text>
+      <register name="&quot;" type="4">
+        <text>()</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -879,7 +879,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>room.sessionsCall</text>
+        <text>()</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -888,7 +888,7 @@
         <text>.foreach</text>
       </register>
       <register name="0" type="4">
-        <text>allTermIdsJoin</text>
+        <text encoding="base64">KHNlc3Npb24gPT4gc2Vzc2lvbi50ZXJtSWQp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBuZXcgU2V0KCkuZgo=</text>
