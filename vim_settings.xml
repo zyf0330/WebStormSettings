@@ -689,7 +689,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556004779072">
+      <file name="/Dummy.txt" timestamp="1556007684756">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="26" />
@@ -887,8 +887,8 @@
       <jump line="58" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgQXBwRXJyb3IgPSBTREsuZXJyb3JzLkFwcEVycm9yCg==</text>
+      <register name="&quot;" type="4">
+        <text>BREAKING CHANGE(InviteNotify): 通话中邀请，现在的通知中会包括之前邀请的人</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -897,7 +897,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>BREAKING CHANGE(InviteNotify): 通话中邀请，现在的通知中会包括之前邀请的人</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
