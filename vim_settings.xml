@@ -689,7 +689,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556007684756">
+      <file name="/Dummy.txt" timestamp="1556008148453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="26" />
@@ -888,7 +888,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BREAKING CHANGE(InviteNotify): 通话中邀请，现在的通知中会包括之前邀请的人</text>
+        <text>log(Service): 修改日志键，不然收集不到</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -897,7 +897,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>BREAKING CHANGE(InviteNotify): 通话中邀请，现在的通知中会包括之前邀请的人</text>
+        <text>log(Service): 修改日志键，不然收集不到</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -952,7 +952,7 @@
       <last-replace />
       <last-substitute>respub</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
