@@ -472,11 +472,10 @@
         <mark key="." line="127" column="42" />
         <mark key="^" line="127" column="42" />
       </file>
-      <file name="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" timestamp="1556082161151">
-        <mark key="[" line="44" column="53" />
-        <mark key="]" line="45" column="21" />
-        <mark key="." line="45" column="21" />
-        <mark key="^" line="45" column="21" />
+      <file name="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" timestamp="1556086895999">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/protos/events.proto" timestamp="1550733083829">
         <mark key="[" line="14" column="17" />
@@ -913,7 +912,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bWFpbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -922,7 +921,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>{]</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -931,40 +930,40 @@
         <text>openid</text>
       </register>
       <register name="0" type="4">
-        <text>queryObj</text>
+        <text>queryObj.columns[k]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFpbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBxdWVyeU9iaiA9IGxvZ3MucmVkdWNlKChvYmogLCBsb2cpID0+IHsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsb2dzCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGxhc3REZWYubGVuZ3RoIDwgbGVuZ3RoKSB7CiAgICAgICAgbGFzdERlZiA9IG51bGwKICAgICAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaWYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkYlBvb2wucXVlcnkoIGBJTlNFUlQgSU5UTyAke3RhYmxlTmFtZX0gU0VUID9gLCBsb2cpCg==</text>
+        <text encoding="base64">ICAgICAgbGVuZ3RoID0gQnVmZmVyLmZyb20odikubGVuZ3RoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2dzLmZvckVhY2gK</text>
+        <text encoding="base64">ICAgICAgICB2ID0gdisnJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXkgPSBtb21lbnQobmV3IERhdGUoKSkuZm9ybWF0KCdZWVlZLU1NLUREJykK</text>
+        <text encoding="base64">ICAgICAgICBsZW5ndGgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvZyA9IEpTT04ucGFyc2UobGluZUJvZHkpCg==</text>
+        <text encoding="base64">ICAgICAgdHlwZSA9ICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
