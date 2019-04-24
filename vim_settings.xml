@@ -365,6 +365,11 @@
       <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" timestamp="1555467232952">
         <mark key="'" line="31" column="24" />
       </file>
+      <file name="/media/zyf/data/Programming/project/Node/loveXX/db.js" timestamp="1556076512438">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/zmqServer.js" timestamp="1542798719269">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="33" />
@@ -465,6 +470,11 @@
         <mark key="]" line="127" column="42" />
         <mark key="." line="127" column="42" />
         <mark key="^" line="127" column="42" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" timestamp="1556076510990">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/protos/events.proto" timestamp="1550733083829">
         <mark key="[" line="14" column="17" />
@@ -713,6 +723,12 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/Node/loveXX/query.js" timestamp="1556076533669">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="9" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.js" timestamp="1545114069211">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -785,10 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="110" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="171" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="53" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/model/Term.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/model/Term.js" />
       <jump line="106" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="107" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
@@ -885,10 +897,14 @@
       <jump line="312" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="58" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="5" column="14" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
+      <jump line="22" column="29" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
+      <jump line="28" column="0" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
+      <jump line="4" column="14" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>log(Service): 修改日志键，不然收集不到</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bGV0IGRiUG9vbCA9IG51bGwK</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -897,7 +913,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>log(Service): 修改日志键，不然收集不到</text>
+        <text>pool</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -906,40 +922,40 @@
         <text>throw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICBlcnIgPSB0aGlzLl9oYW5kbGVHcnBjRXJyKGVyciwgewogICAgICAgICAgICBjYWxsVHlwZTogJ2Nvbm5lY3QnLAogICAgICAgICAgfSkKICAgICAgICAgIHJlaihlcnIpCiAgICAgICAgfSBlbHNlIGlmIChyZXNwLmhlYWRlci5zdGF0dXNDb2RlICE9IDApIHsKICAgICAgICAgIHJlaihBcHBFcnJvci5mcm9tSGVhZGVyKHJlc3AuaGVhZGVyKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmVzKCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZXhpdCgpIHsKICBwb29sLmVuZCgpCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgQXBwRXJyb3IgPSBTREsuZXJyb3JzLkFwcEVycm9yCg==</text>
+        <text encoding="base64">bGV0IGRiUG9vbCA9IG51bGwK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0aHJvdyBuZXcgQXBwRXJyb3IoJ2hlbGxvJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgQXBwRXJyb3IgPSBTREsuZXJyb3JzLkFwcEVycm9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0aHJvdyBuZXcgQXBwRXJyb3IoJ3Rlc3QxMTIzJykK</text>
+        <text encoding="base64">Y29ubmVjdCgpLnRoZW4obWFpbikudGhlbihleGl0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">Y29uc3QgbXlzcWwgPSByZXF1aXJlKCdteXNxbCcpCmNvbnN0IHsgcHJvbWlzaWZ5IH0gPSByZXF1aXJlKCd1dGlsJykKY29uc3QgZGJDb25maWcgPSByZXF1aXJlKCcuL2NvbmZpZycpLm15c3FsCgpsZXQgcG9vbCA9IG51bGwKCmZ1bmN0aW9uIGNvbm5lY3QoKSB7CiAgcG9vbCA9IG15c3FsLmNyZWF0ZVBvb2woewogICAgY29ubmVjdGlvbkxpbWl0OiA1LAogICAgaG9zdDogZGJDb25maWcuaG9zdCwKICAgIHBvcnQ6IGRiQ29uZmlnLnBvcnQsCiAgICB1c2VyOiBkYkNvbmZpZy51c2VyLAogICAgcGFzc3dvcmQ6IGRiQ29uZmlnLnB3ZCwKICAgIGRhdGFiYXNlOiBkYkNvbmZpZy5kYiwKICB9KTsKICBwb29sLnF1ZXJ5ID0gcHJvbWlzaWZ5KHBvb2wucXVlcnkpCn0KCmZ1bmN0aW9uIGV4aXQoKSB7CiAgY29uc29sZS5sb2coJ2RiIGNvbm5lY3Rpb24gcG9vbCBleGl0JykKICBwb29sLmVuZCgpCn0KCnByb2Nlc3Mub24oJ2V4aXQnLCBleGl0KQpjb25uZWN0KCkKCm1vZHVsZS5leHBvcnRzID0gewogIHBvb2wsCn0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCByZXMpOwo=</text>
+        <text encoding="base64">Y29uc3QgbXlzcWwgPSByZXF1aXJlKCdteXNxbCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gY29ubmVjdCgpIHsKICBwb29sID0gbXlzcWwuY3JlYXRlUG9vbCh7CiAgICBjb25uZWN0aW9uTGltaXQ6IDUsCiAgICBob3N0OiBkYkNvbmZpZy5ob3N0LAogICAgcG9ydDogZGJDb25maWcucG9ydCwKICAgIHVzZXI6IGRiQ29uZmlnLnVzZXIsCiAgICBwYXNzd29yZDogZGJDb25maWcucHdkLAogICAgZGF0YWJhc2U6IGRiQ29uZmlnLmRiLAogIH0pOwogIHBvb2wucXVlcnkgPSBwcm9taXNpZnkocG9vbC5xdWVyeSkKfQoKZnVuY3Rpb24gZXhpdCgpIHsKICBwb29sLmVuZCgpCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCByZXMpOwo=</text>
+        <text encoding="base64">Y29uc3QgZGJDb25maWcgPSByZXF1aXJlKCcuL2NvbmZpZycpLm15c3FsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGhyb3cgbmV3IEFwcEVycm9yKCd0ZXN0MTEyMycpCg==</text>
+        <text encoding="base64">cHJvY2Vzcy5vbignZXhpdCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
