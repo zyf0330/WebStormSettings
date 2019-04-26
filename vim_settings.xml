@@ -208,11 +208,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1556006784221">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1556245141465">
+        <mark key="'" line="172" column="26" />
+        <mark key="[" line="175" column="5" />
+        <mark key="]" line="176" column="30" />
+        <mark key="." line="176" column="30" />
+        <mark key="^" line="176" column="30" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/index.js" timestamp="1555467229112">
         <mark key="'" line="6" column="24" />
@@ -811,7 +812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="24" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="42" column="9" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="17" column="0" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="76" column="12" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
@@ -911,10 +911,11 @@
       <jump line="156" column="51" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="22" column="17" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="59" column="9" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
+      <jump line="172" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>完善</text>
+        <text>termIdsNewJoin</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -923,7 +924,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>完善</text>
+        <text>termIdsNewJoin</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -932,7 +933,7 @@
         <text encoding="base64">XDxyZXNvbHZlTG9nXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>getColumnDef</text>
+        <text>{termIdsNewJoin, termIdsStock}</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAqIEBwYXJhbSB7Kn0gdmFsdWUKICogQHJldHVybiB7e2xlbmd0aDogbnVtYmVyLCB0eXBlOiBzdHJpbmcsIHZhbHVlOiAqfX0KICov</text>
