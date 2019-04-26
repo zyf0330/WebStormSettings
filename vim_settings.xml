@@ -208,12 +208,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1556245141465">
-        <mark key="'" line="172" column="26" />
-        <mark key="[" line="175" column="5" />
-        <mark key="]" line="176" column="30" />
-        <mark key="." line="176" column="30" />
-        <mark key="^" line="176" column="30" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" timestamp="1556246185152">
+        <mark key="'" line="345" column="50" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="11" />
+        <mark key="." line="211" column="11" />
+        <mark key="^" line="211" column="11" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/index.js" timestamp="1555467229112">
         <mark key="'" line="6" column="24" />
@@ -623,6 +623,12 @@
         <mark key="." line="8" column="43" />
         <mark key="^" line="8" column="43" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_37.js" timestamp="1556245889117">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/1.js" timestamp="1546571241823">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -812,9 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="9" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="17" column="0" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="76" column="12" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="3" column="48" filename="/media/zyf/data/Programming/project/Node/loveXX/useraction.log" />
       <jump line="2" column="406" filename="/media/zyf/data/Programming/project/Node/loveXX/useraction.log" />
       <jump line="4" column="327" filename="/media/zyf/data/Programming/project/Node/loveXX/useraction.log" />
@@ -912,10 +915,13 @@
       <jump line="22" column="17" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="59" column="9" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="172" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="180" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="277" column="50" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="346" column="50" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>termIdsNewJoin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zdCBzeXN0ZW1TZXNzaW9uSWRzU3RvY2sgPSBhbGxTeXN0ZW1TZXNzaW9uSWRzLnNsaWNlKHRlcm1JZHNOZXdKb2luLmxlbmd0aCkK</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -924,58 +930,58 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>termIdsNewJoin</text>
+        <text>allS</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNvbHZlTG9nXD4=</text>
+        <text>hmget</text>
       </register>
       <register name="0" type="4">
-        <text>{termIdsNewJoin, termIdsStock}</text>
+        <text>systemSessionIdsStock</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAqIEBwYXJhbSB7Kn0gdmFsdWUKICogQHJldHVybiB7e2xlbmd0aDogbnVtYmVyLCB0eXBlOiBzdHJpbmcsIHZhbHVlOiAqfX0KICov</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb25zdCBzeXN0ZW1TZXNzaW9uSWRzU3RvY2sgPSBhbGxTeXN0ZW1TZXNzaW9uSWRzLnNsaWNlKHRlcm1JZHNOZXdKb2luLmxlbmd0aCkK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSgnbXlzcWwnKS5UeXBlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBjb25zdCB0ZXJtSWRzU3RvY2sgPSB0ZXJtSWRzQmVmb3JlSm9pbi5jb25jYXQodGVybUlkc0NhbGwpCiAgY29uc3QgYWxsU3lzdGVtU2Vzc2lvbklkcyA9IGF3YWl0IHJlZGlzQ2xpZW50LmhtZ2V0KHJlZGlzS2V5LnRlcm1TeXN0ZW1TZXNzaW9uSGFzaCgpLCB0ZXJtSWRzTmV3Sm9pbi5jb25jYXQodGVybUlkc1N0b2NrKSkKICBjb25zdCBzeXN0ZW1TZXNzaW9uSWRzU3RvY2sgPSBhbGxTeXN0ZW1TZXNzaW9uSWRzLnNsaWNlKHRlcm1JZHNOZXdKb2luLmxlbmd0aCkK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkgewo=</text>
+        <text encoding="base64">ICBjb25zdCBhbGxTeXN0ZW1TZXNzaW9uSWRzID0gYXdhaXQgcmVkaXNDbGllbnQuaG1nZXQocmVkaXNLZXkudGVybVN5c3RlbVNlc3Npb25IYXNoKCksIHRlcm1JZHNOZXdKb2luLmNvbmNhdCh0ZXJtSWRzU3RvY2spKQogIGNvbnN0IHN5c3RlbVNlc3Npb25JZHNTdG9jayA9IGFsbFN5c3RlbVNlc3Npb25JZHMuc2xpY2UodGVybUlkc05ld0pvaW4ubGVuZ3RoKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzeXN0ZW1TZXNzaW9uSWRzTmV3Sm9pbiA9IGFsbFN5c3RlbVNlc3Npb25JZHMuc2xpY2UoMCwgdGVybUlkc05ld0pvaW4ubGVuZ3RoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICB0ZXJtSWRzU3RvY2sucHVzaCguLi50ZXJtSWRzQ2FsbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0RGVmID0gbnVsbAo=</text>
+        <text encoding="base64">ICBjb25zdCB7IHRlcm1JZHNOZXdKb2luLCB0ZXJtSWRzU3RvY2sgfSA9IHRlcm1JZHNKb2luLnJlZHVjZSgoeyB0ZXJtSWRzTmV3Sm9pbiwgdGVybUlkc1N0b2NrIH0sIF90ZXJtSWQpID0+IHsKICAgIGlmIChvdGhlckpvaW5zLmZpbmQoKHsgdGVybSB9KSA9PiB0ZXJtLmlkID09IF90ZXJtSWQpICE9IG51bGwpIHsKICAgICAgdGVybUlkc05ld0pvaW4ucHVzaChfdGVybUlkKQogICAgfSBlbHNlIHsKICAgICAgdGVybUlkc1N0b2NrLnB1c2goX3Rlcm1JZCkKICAgIH0KICB9LCB7IHRlcm1JZHNOZXdKb2luOiBbXSwgdGVybUlkc1N0b2NrOiBbXSB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zdCBwcm90b0RlZiA9IFNESy5wcm90by5wcm90b2J1ZnMucHJvdG8ubG9va3VwKGAke2NvbnN0cy5hcHB9Lkludml0ZU5vdGlmeWApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBwcyA9IGxvZ1BhdGhzLm1hcChhc3luYyAobG9nUGF0aCkgPT4gewogIH0pCiAgYXdhaXQgUHJvbWlzZS5hbGwocHMpCg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5yZWc=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNvbHZlTG9nXD4=</last-search>
+      <last-search>hmget</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNvbHZlTG9nXD4=</last-pattern>
+      <last-pattern>hmget</last-pattern>
       <last-replace />
       <last-substitute>respub</last-substitute>
       <last-dir>1</last-dir>
@@ -983,7 +989,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDww</entry>
         <entry>0</entry>
         <entry>0\r</entry>
         <entry encoding="base64">XDxlcnJvclw+</entry>
@@ -1003,6 +1008,7 @@
         <entry>date</entry>
         <entry>types</entry>
         <entry encoding="base64">XDxyZXNvbHZlTG9nXD4=</entry>
+        <entry>hmget</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvY2FzZS4rXDpcbi4rLyQxOigpID0+IHtyZXR1cm4gJDJ9L2c=</entry>
