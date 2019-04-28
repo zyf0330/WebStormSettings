@@ -720,11 +720,11 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556193641618">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="17" />
+      <file name="/Dummy.txt" timestamp="1556266246445">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -921,7 +921,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>otherTermIds</text>
+        <text>dep(sdk): 更新 center sdk，不再使用 callback 返回</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -930,7 +930,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>除了新被邀请的，还包括之前已经邀请的和加入通话的</text>
+        <text>dep(sdk): 更新 center sdk，不再使用 callback 返回</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
