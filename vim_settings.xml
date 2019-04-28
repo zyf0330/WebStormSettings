@@ -509,8 +509,8 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/scripts/getVIPKID.js" timestamp="1556422196799">
-        <mark key="'" line="42" column="20" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/scripts/getVIPKID.js" timestamp="1556428341615">
+        <mark key="'" line="31" column="49" />
         <mark key="[" line="123" column="26" />
         <mark key="]" line="123" column="97" />
         <mark key="^" line="123" column="118" />
@@ -678,7 +678,7 @@
       <file name="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" timestamp="1556191544674">
         <mark key="'" line="53" column="8093" />
       </file>
-      <file name="/JavaScript Console" timestamp="1556265700976">
+      <file name="/JavaScript Console" timestamp="1556446296096">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -834,8 +834,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="44" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="164" column="4" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="10" column="18" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="110" column="20" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="131" column="111" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
@@ -934,6 +932,8 @@
       <jump line="44" column="43" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" />
       <jump line="50" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" />
       <jump line="35" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" />
+      <jump line="73" column="18" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/scripts/getVIPKID.js" />
+      <jump line="31" column="49" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/scripts/getVIPKID.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1001,7 +1001,7 @@
       <last-replace />
       <last-substitute>oth</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
