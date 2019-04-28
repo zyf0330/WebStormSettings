@@ -28,6 +28,7 @@
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="save" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping pattern="connectorSioNginxConfig" type="YAML" />
     </extensionMap>
   </component>
