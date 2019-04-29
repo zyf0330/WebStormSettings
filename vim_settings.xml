@@ -23,8 +23,11 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="15" column="21" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" timestamp="1556447407658">
-        <mark key="'" line="307" column="29" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" timestamp="1556507589088">
+        <mark key="'" line="337" column="20" />
+        <mark key="[" line="308" column="33" />
+        <mark key="]" line="320" column="5" />
+        <mark key="." line="308" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.js" timestamp="1542858247929">
         <mark key="[" line="0" column="103" />
@@ -202,10 +205,6 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="12" column="29" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/config.js" timestamp="1556446598503">
-        <mark key="[" line="16" column="50" />
-        <mark key="]" line="16" column="73" />
-      </file>
       <file name="/Clipboard.txt" timestamp="1556193080177">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="71" />
@@ -245,6 +244,13 @@
         <mark key="]" line="27" column="22" />
         <mark key="^" line="27" column="22" />
         <mark key="." line="27" column="22" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" timestamp="1556507371200">
+        <mark key="'" line="354" column="18" />
+        <mark key="[" line="349" column="20" />
+        <mark key="]" line="349" column="23" />
+        <mark key="." line="349" column="23" />
+        <mark key="^" line="349" column="23" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/two.js" timestamp="1550658965518">
         <mark key="[" line="8" column="44" />
@@ -409,7 +415,7 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="/fragment.js" timestamp="1556191357295">
+      <file name="/fragment.js" timestamp="1556507570578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -507,7 +513,6 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Apps.js" timestamp="1556446534995" />
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/app-docker.yml" timestamp="1551078455495">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="28" />
@@ -689,7 +694,7 @@
       <file name="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" timestamp="1556191544674">
         <mark key="'" line="53" column="8093" />
       </file>
-      <file name="/JavaScript Console" timestamp="1556447343750">
+      <file name="/JavaScript Console" timestamp="1556507538357">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -845,17 +850,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="9" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="107" column="25" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="24" column="0" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="53" column="8093" filename="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" />
-      <jump line="125" column="23" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="6" column="24" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="149" column="19" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="67" column="26" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="90" column="16" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="18" column="0" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="114" column="10" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="115" column="14" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="74" column="35" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="91" column="10" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
@@ -945,10 +939,33 @@
       <jump line="183" column="17" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
       <jump line="124" column="30" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
       <jump line="307" column="29" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
+      <jump line="302" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
+      <jump line="321" column="3" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
+      <jump line="84" column="28" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
+      <jump line="316" column="38" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
+      <jump line="122" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
+      <jump line="338" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
+      <jump line="271" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
+      <jump line="354" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
+      <jump line="128" column="33" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
+      <jump line="337" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tcp://134.175.35.14:9113</text>
+        <text>{
+			var dataStr = data.toString();
+			var start, end, sequence, startTime;
+
+			start = dataStr.indexOf(&quot;#EXT-X-MEDIA-SEQUENCE:&quot;) + 22;
+			end = dataStr.indexOf(&quot;#&quot;, start);
+			sequence = parseInt(dataStr.substring(start, end));
+
+			start = dataStr.indexOf(&quot;,&quot;, end) + 2;
+			end = dataStr.indexOf(&quot;.&quot;, start);
+			startTime = parseInt(dataStr.substring(start, end));
+			return {startTime: startTime, sequence: sequence};
+		}</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -957,58 +974,82 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>$lte</text>
+        <text>1500</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>connection</text>
+        <text>1500</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFycm93Cg==</text>
+      <register name="0" type="4">
+        <text>{
+			var dataStr = data.toString();
+			var start, end, sequence, startTime;
+
+			start = dataStr.indexOf(&quot;#EXT-X-MEDIA-SEQUENCE:&quot;) + 22;
+			end = dataStr.indexOf(&quot;#&quot;, start);
+			sequence = parseInt(dataStr.substring(start, end));
+
+			start = dataStr.indexOf(&quot;index-&quot;) + 6;
+			end = dataStr.indexOf(&quot;.ts&quot;);
+			startTime = parseInt(dataStr.substring(start, end));
+			return {startTime: startTime, sequence: sequence};
+		}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGVzID0gewogICAgICAgICdlbmQnOiBhcnJvdy51dGNub3coKS50bygnbG9jYWwnKS5mbG9vcignZGF5JykKICAgIH0KICAgIGRhdGVzWydzdGFydCddID0gZGF0ZXNbJ2VuZCddLnJlcGxhY2UoZGF5cz0tNykK</text>
+      <register name="1" type="4">
+        <text>{
+			var dataStr = data.toString();
+			var start, end, sequence, startTime;
+
+			start = dataStr.indexOf(&quot;#EXT-X-MEDIA-SEQUENCE:&quot;) + 22;
+			end = dataStr.indexOf(&quot;#&quot;, start);
+			sequence = parseInt(dataStr.substring(start, end));
+
+			start = dataStr.indexOf(&quot;,&quot;, end) + 2;
+			end = dataStr.indexOf(&quot;.&quot;, start);
+			startTime = parseInt(dataStr.substring(start, end));
+			return {startTime: startTime, sequence: sequence};
+		}</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgNWNiYjQyMDAwMDAwMDAwMDAwMDAwMDAwCg==</text>
+        <text encoding="base64">CWJkMTogY2Rucy5iZDEsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDVjYmI0MjAwMDAwMDAwMDAwMDAwMDAwMAo=</text>
+        <text encoding="base64">CSdkbC1hbGkxJzogY2Ruc1snZGwtYWxpMSddCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRhdGVzID0gewogICAgICAgICdlbmQnOiBhcnJvdy51dGNub3coKS50bygnbG9jYWwnKS5mbG9vcignZGF5JykKICAgIH0KICAgIGRhdGVzWydzdGFydCddID0gZGF0ZXNbJ2VuZCddLnJlcGxhY2UoZGF5cz0tNykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">e19pZDogeyRndDogT2JqZWN0SWQoJzVjYmI0MjAwMDAwMDAwMDAwMDAwMDAwMCcpfSx7Im1lcmNoYW50LmlkIjogMjI2fSB9Cg==</text>
+        <text encoding="base64">ICAgICMgNWNiYjQyMDAwMDAwMDAwMDAwMDAwMDAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJtZXJjaGFudC5pZCI6ICcnLAo=</text>
+        <text encoding="base64">ICAgIDVjYmI0MjAwMDAwMDAwMDAwMDAwMDAwMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">a2sK</text>
+        <text encoding="base64">e19pZDogeyRndDogT2JqZWN0SWQoJzVjYmI0MjAwMDAwMDAwMDAwMDAwMDAwMCcpfSx7Im1lcmNoYW50LmlkIjogMjI2fSB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IF90ZXJtSWRzQWxsSm9pbiA9IHRlcm1JZHNBbGxKb2luLnNsaWNlKDApLmZpbHRlcihfdGVybUlkID0+IF90ZXJtSWQgIT0gdGVybUlkKQo=</text>
+        <text encoding="base64">ICAgICJtZXJjaGFudC5pZCI6ICcnLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5yZWc=</text>
       </register>
     </registers>
     <search>
-      <last-search>connection</last-search>
+      <last-search>1500</last-search>
       <last-offset />
-      <last-pattern>connection</last-pattern>
+      <last-pattern>1500</last-pattern>
       <last-replace />
       <last-substitute>oth</last-substitute>
       <last-dir>1</last-dir>
@@ -1016,8 +1057,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXJtXD4=</entry>
-        <entry>termid</entry>
         <entry encoding="base64">XDx0ZXJtSWRcPg==</entry>
         <entry>push</entry>
         <entry>splice</entry>
@@ -1036,6 +1075,8 @@
         <entry encoding="base64">XDx3YWl0Rm9yVmVyaWZpZWRUaW1lclw+</entry>
         <entry>connecction</entry>
         <entry>connection</entry>
+        <entry>bd</entry>
+        <entry>1500</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvY2FzZS4rXDpcbi4rLyQxOigpID0+IHtyZXR1cm4gJDJ9L2c=</entry>
