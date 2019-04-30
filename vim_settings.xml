@@ -23,12 +23,6 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="15" column="21" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" timestamp="1556507589088">
-        <mark key="'" line="337" column="20" />
-        <mark key="[" line="308" column="33" />
-        <mark key="]" line="320" column="5" />
-        <mark key="." line="308" column="33" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.js" timestamp="1542858247929">
         <mark key="[" line="0" column="103" />
         <mark key="]" line="0" column="102" />
@@ -338,6 +332,13 @@
         <mark key="]" line="21" column="24" />
         <mark key="^" line="7" column="70" />
         <mark key="." line="12" column="14" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/Dockerfile" timestamp="1556595764575">
+        <mark key="'" line="11" column="11" />
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+        <mark key="^" line="17" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/domongo/config.js" timestamp="1552986092850">
         <mark key="[" line="5" column="15" />
@@ -694,7 +695,7 @@
       <file name="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" timestamp="1556191544674">
         <mark key="'" line="53" column="8093" />
       </file>
-      <file name="/JavaScript Console" timestamp="1556507538357">
+      <file name="/JavaScript Console" timestamp="1556595736063">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -752,7 +753,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556266246445">
+      <file name="/Dummy.txt" timestamp="1556595792355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="17" />
@@ -850,7 +851,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="14" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="74" column="35" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="91" column="10" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="92" column="14" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
@@ -950,22 +950,11 @@
       <jump line="354" column="18" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSync.js" />
       <jump line="128" column="33" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
       <jump line="337" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
+      <jump line="11" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-			var dataStr = data.toString();
-			var start, end, sequence, startTime;
-
-			start = dataStr.indexOf(&quot;#EXT-X-MEDIA-SEQUENCE:&quot;) + 22;
-			end = dataStr.indexOf(&quot;#&quot;, start);
-			sequence = parseInt(dataStr.substring(start, end));
-
-			start = dataStr.indexOf(&quot;,&quot;, end) + 2;
-			end = dataStr.indexOf(&quot;.&quot;, start);
-			startTime = parseInt(dataStr.substring(start, end));
-			return {startTime: startTime, sequence: sequence};
-		}</text>
+        <text>chore(routByRoomId): 适配 PaaS 的 roomId 规则</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -974,13 +963,13 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>1500</text>
+        <text>chore(routByRoomId): 适配 PaaS 的 roomId 规则</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>1500</text>
+        <text>pm2</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -1047,9 +1036,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1500</last-search>
+      <last-search>pm2</last-search>
       <last-offset />
-      <last-pattern>1500</last-pattern>
+      <last-pattern>pm2</last-pattern>
       <last-replace />
       <last-substitute>oth</last-substitute>
       <last-dir>1</last-dir>
@@ -1057,7 +1046,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXJtSWRcPg==</entry>
         <entry>push</entry>
         <entry>splice</entry>
         <entry>join</entry>
@@ -1077,6 +1065,7 @@
         <entry>connection</entry>
         <entry>bd</entry>
         <entry>1500</entry>
+        <entry>pm2</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvY2FzZS4rXDpcbi4rLyQxOigpID0+IHtyZXR1cm4gJDJ9L2c=</entry>
