@@ -493,12 +493,11 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" timestamp="1556446528811">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" timestamp="1556596342583">
         <mark key="'" line="127" column="42" />
-        <mark key="[" line="127" column="42" />
-        <mark key="]" line="127" column="42" />
-        <mark key="." line="127" column="42" />
-        <mark key="^" line="127" column="42" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" timestamp="1556193610963">
         <mark key="'" line="59" column="9" />
@@ -953,8 +952,8 @@
       <jump line="11" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>chore(routByRoomId): 适配 PaaS 的 roomId 规则</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXRyeXsKCQljb25zb2xlCgl9Y2F0Y2goZSl7fQo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -986,7 +985,13 @@
 			return {startTime: startTime, sequence: sequence};
 		}</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CXRyeXsKCQljb25zb2xlCgl9Y2F0Y2goZSl7fQo=</text>
+      </register>
+      <register name="q" type="2">
+        <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>{
 			var dataStr = data.toString();
 			var start, end, sequence, startTime;
@@ -1001,35 +1006,29 @@
 			return {startTime: startTime, sequence: sequence};
 		}</text>
       </register>
-      <register name="q" type="2">
-        <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CWJkMTogY2Rucy5iZDEsCg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">CSdkbC1hbGkxJzogY2Ruc1snZGwtYWxpMSddCg==</text>
+        <text encoding="base64">CWJkMTogY2Rucy5iZDEsCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGVzID0gewogICAgICAgICdlbmQnOiBhcnJvdy51dGNub3coKS50bygnbG9jYWwnKS5mbG9vcignZGF5JykKICAgIH0KICAgIGRhdGVzWydzdGFydCddID0gZGF0ZXNbJ2VuZCddLnJlcGxhY2UoZGF5cz0tNykK</text>
+        <text encoding="base64">CSdkbC1hbGkxJzogY2Ruc1snZGwtYWxpMSddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgNWNiYjQyMDAwMDAwMDAwMDAwMDAwMDAwCg==</text>
+        <text encoding="base64">ICAgIGRhdGVzID0gewogICAgICAgICdlbmQnOiBhcnJvdy51dGNub3coKS50bygnbG9jYWwnKS5mbG9vcignZGF5JykKICAgIH0KICAgIGRhdGVzWydzdGFydCddID0gZGF0ZXNbJ2VuZCddLnJlcGxhY2UoZGF5cz0tNykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDVjYmI0MjAwMDAwMDAwMDAwMDAwMDAwMAo=</text>
+        <text encoding="base64">ICAgICMgNWNiYjQyMDAwMDAwMDAwMDAwMDAwMDAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDVjYmI0MjAwMDAwMDAwMDAwMDAwMDAwMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">e19pZDogeyRndDogT2JqZWN0SWQoJzVjYmI0MjAwMDAwMDAwMDAwMDAwMDAwMCcpfSx7Im1lcmNoYW50LmlkIjogMjI2fSB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJtZXJjaGFudC5pZCI6ICcnLAo=</text>
+        <text encoding="base64">e19pZDogeyRndDogT2JqZWN0SWQoJzVjYmI0MjAwMDAwMDAwMDAwMDAwMDAwMCcpfSx7Im1lcmNoYW50LmlkIjogMjI2fSB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5yZWc=</text>
@@ -1042,7 +1041,7 @@
       <last-replace />
       <last-substitute>oth</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
