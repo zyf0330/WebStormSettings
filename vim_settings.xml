@@ -493,11 +493,12 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" timestamp="1556596342583">
-        <mark key="'" line="127" column="42" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" timestamp="1556609759109">
+        <mark key="'" line="50" column="3" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
+        <mark key="^" line="214" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" timestamp="1556193610963">
         <mark key="'" line="59" column="9" />
@@ -850,7 +851,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="35" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="91" column="10" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="92" column="14" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="96" column="21" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
@@ -950,10 +950,11 @@
       <jump line="128" column="33" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
       <jump line="337" column="20" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/streamSyncConfig.js" />
       <jump line="11" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/Dockerfile" />
+      <jump line="50" column="3" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXRyeXsKCQljb25zb2xlCgl9Y2F0Y2goZSl7fQo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -962,7 +963,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>chore(routByRoomId): 适配 PaaS 的 roomId 规则</text>
+        <text>}</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -986,12 +987,21 @@
 		}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXRyeXsKCQljb25zb2xlCgl9Y2F0Y2goZSl7fQo=</text>
+        <text encoding="base64">c2Rmc2Rm5pKS5omlCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">5L2g5aW95ZCXCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXRyeXsKCQljb25zb2xlCgl9Y2F0Y2goZSl7fQo=</text>
+      </register>
+      <register name="s" type="4">
+        <text>zmqSocketRoute</text>
+      </register>
+      <register name="4" type="4">
         <text>{
 			var dataStr = data.toString();
 			var start, end, sequence, startTime;
@@ -1006,32 +1016,23 @@
 			return {startTime: startTime, sequence: sequence};
 		}</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CWJkMTogY2Rucy5iZDEsCg==</text>
       </register>
-      <register name="s" type="4">
-        <text>zmqSocketRoute</text>
-      </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CSdkbC1hbGkxJzogY2Ruc1snZGwtYWxpMSddCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGRhdGVzID0gewogICAgICAgICdlbmQnOiBhcnJvdy51dGNub3coKS50bygnbG9jYWwnKS5mbG9vcignZGF5JykKICAgIH0KICAgIGRhdGVzWydzdGFydCddID0gZGF0ZXNbJ2VuZCddLnJlcGxhY2UoZGF5cz0tNykK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICMgNWNiYjQyMDAwMDAwMDAwMDAwMDAwMDAwCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIDVjYmI0MjAwMDAwMDAwMDAwMDAwMDAwMAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">e19pZDogeyRndDogT2JqZWN0SWQoJzVjYmI0MjAwMDAwMDAwMDAwMDAwMDAwMCcpfSx7Im1lcmNoYW50LmlkIjogMjI2fSB9Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5yZWc=</text>
+        <text>set timeoutlen=100</text>
       </register>
     </registers>
     <search>
@@ -1067,15 +1068,6 @@
         <entry>pm2</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvY2FzZS4rXDpcbi4rLyQxOigpID0+IHtyZXR1cm4gJDJ9L2c=</entry>
-        <entry encoding="base64">JXMvbmV3TXNnLnB1c2hcKC4rXCkvKCkgPT4gWyQxXS9nIA==</entry>
-        <entry>wq</entry>
-        <entry>29</entry>
-        <entry>93</entry>
-        <entry>385</entry>
-        <entry>31</entry>
-        <entry>114</entry>
-        <entry>170</entry>
         <entry>50</entry>
         <entry encoding="base64">JzwsJz5zL21vZGVsXC8v</entry>
         <entry>tabprevious</entry>
@@ -1087,6 +1079,15 @@
         <entry>noh</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5yZWc=</entry>
+        <entry>set ttimeout?</entry>
+        <entry>set timeoutlen?</entry>
+        <entry>set ttimeoutlen?</entry>
+        <entry>set timeoutlen=100</entry>
+        <entry>barbaric#switch</entry>
+        <entry>funciton</entry>
+        <entry>func</entry>
+        <entry>scripts</entry>
+        <entry>scriptnames</entry>
       </history-cmd>
       <history-expr />
       <history-input />
