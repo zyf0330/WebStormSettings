@@ -560,12 +560,11 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="16" column="12" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1557026364977">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1557026673346">
         <mark key="'" line="31" column="36" />
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="50" column="13" />
-        <mark key="." line="50" column="13" />
-        <mark key="^" line="50" column="13" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/index.js" timestamp="1549955831623">
         <mark key="[" line="19" column="0" />
@@ -955,7 +954,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgampqampqampqajppCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -964,7 +963,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>d</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -988,52 +987,40 @@
 		}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgampqampqampqajppCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YnV4OyBtYeS9oOWlveWVigo=</text>
+        <text encoding="base64">5pKS5oml5pKS5omlc2YgCuaSkuaJpXNkZiAKc2Rmc2RmCgrmkpLmiaUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2Rm5pKS5omlCuaSkuaJpQo=</text>
+        <text encoding="base64">ICBqampqampqago=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlleHBvcnRzLnRvTG9nc3Rhc2goJ2V2ZW50RGVsYXknLCB7a2luZCwgcm9vbUlkLCB0czogRGF0ZS5ub3coKSwgZGVsYXl9KQoJfQp9CnNkZuaSkuaJpQrmkpLmiaUK</text>
+        <text encoding="base64">ICAgICAgampqampqampqajppCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2Rmc2Rm5pKS5omlCg==</text>
+        <text encoding="base64">YnV4OyBtYeS9oOWlveWVigo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5L2g5aW95ZCXCg==</text>
+        <text encoding="base64">c2Rm5pKS5omlCuaSkuaJpQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXRyeXsKCQljb25zb2xlCgl9Y2F0Y2goZSl7fQo=</text>
+        <text encoding="base64">CQlleHBvcnRzLnRvTG9nc3Rhc2goJ2V2ZW50RGVsYXknLCB7a2luZCwgcm9vbUlkLCB0czogRGF0ZS5ub3coKSwgZGVsYXl9KQoJfQp9CnNkZuaSkuaJpQrmkpLmiaUK</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-			var dataStr = data.toString();
-			var start, end, sequence, startTime;
-
-			start = dataStr.indexOf(&quot;#EXT-X-MEDIA-SEQUENCE:&quot;) + 22;
-			end = dataStr.indexOf(&quot;#&quot;, start);
-			sequence = parseInt(dataStr.substring(start, end));
-
-			start = dataStr.indexOf(&quot;,&quot;, end) + 2;
-			end = dataStr.indexOf(&quot;.&quot;, start);
-			startTime = parseInt(dataStr.substring(start, end));
-			return {startTime: startTime, sequence: sequence};
-		}</text>
+      <register name="8" type="2">
+        <text encoding="base64">c2Rmc2Rm5pKS5omlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWJkMTogY2Rucy5iZDEsCg==</text>
+        <text encoding="base64">5L2g5aW95ZCXCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set timeoutlen=160</text>
+        <text>set timeoutlen?</text>
       </register>
     </registers>
     <search>
@@ -1069,10 +1056,6 @@
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>tabnext</entry>
-        <entry>tabnew</entry>
-        <entry>15</entry>
-        <entry>q</entry>
         <entry>230</entry>
         <entry>noh</entry>
         <entry>w</entry>
@@ -1087,8 +1070,12 @@
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
         <entry>set ttimeoutlen</entry>
         <entry>set ttimeoutlen?</entry>
-        <entry>set timeoutlen?</entry>
         <entry>set timeoutlen=160</entry>
+        <entry encoding="base64">bGV0IGc6YmFyYmFyaWNfdGltZW91dCA9IDEwIA==</entry>
+        <entry encoding="base64">bGV0IGc6YmFyYmFyaWNfdGltZW91dD0xMCA=</entry>
+        <entry encoding="base64">bGV0IGJhcmJhcmljX3RpbWVvdXQ9MTAg</entry>
+        <entry encoding="base64">bGV0IGJhcmJhcmljX3RpbWVvdXQgPSAxMCA=</entry>
+        <entry>set timeoutlen?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
