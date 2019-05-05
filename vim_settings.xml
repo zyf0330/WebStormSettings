@@ -560,12 +560,12 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="16" column="12" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1557026951597">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1557027068346">
         <mark key="'" line="31" column="36" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="59" column="7" />
-        <mark key="." line="59" column="7" />
-        <mark key="^" line="59" column="7" />
+        <mark key="[" line="61" column="7" />
+        <mark key="]" line="62" column="5" />
+        <mark key="." line="62" column="5" />
+        <mark key="^" line="62" column="5" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/index.js" timestamp="1549955831623">
         <mark key="[" line="19" column="0" />
@@ -1021,7 +1021,7 @@
         <text encoding="base64">c2Rm5pKS5omlCuaSkuaJpQo=</text>
       </register>
       <register name=":" type="4">
-        <text>set keep-english-in-normal-and-restore-in-insert?</text>
+        <text>set keep-english-in-normal-and-restore-in-insert</text>
       </register>
     </registers>
     <search>
@@ -1057,13 +1057,10 @@
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>set timeoutlen=100</entry>
-        <entry>barbaric#switch</entry>
         <entry>funciton</entry>
         <entry>func</entry>
         <entry>scripts</entry>
         <entry>scriptnames</entry>
-        <entry>set keep-english-in-normal-and-restore-in-insert</entry>
         <entry>set ttimeoutlen</entry>
         <entry>set ttimeoutlen?</entry>
         <entry>set timeoutlen=160</entry>
@@ -1074,9 +1071,12 @@
         <entry>set timeoutlen?</entry>
         <entry>set keep-english-in-normal-and-restore-in-inser?</entry>
         <entry>set set keep-english-in-normal?</entry>
+        <entry>set keep-english-in-normal-and-restore-in-insert?</entry>
         <entry>set keep-english-in-normal?</entry>
         <entry>set keep-english-in-normal</entry>
-        <entry>set keep-english-in-normal-and-restore-in-insert?</entry>
+        <entry>set nokeep-english-in-normal</entry>
+        <entry>set keep-english-in-normal-and-restore-in-insert</entry>
+        <entry>fzf</entry>
       </history-cmd>
       <history-expr />
       <history-input />
