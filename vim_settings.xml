@@ -499,12 +499,6 @@
         <mark key="." line="69" column="7" />
         <mark key="^" line="69" column="7" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" timestamp="1556422753226">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="12" />
-        <mark key="n" line="32" column="22" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/model/Room.js" timestamp="1555915057960">
         <mark key="'" line="67" column="13" />
         <mark key="[" line="122" column="28" />
@@ -792,7 +786,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557038108256">
+      <file name="/Dummy.txt" timestamp="1557039001270">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="17" />
@@ -992,8 +986,8 @@
       <jump line="23" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGUgaW5zdGFuY2VvZiBBcHBFcnJvciA9PSBmYWxzZSkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>fix(convertMsg): 一些请求的参数名取错</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1002,7 +996,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>new AppError('connect center fail')</text>
+        <text>fix(convertMsg): 一些请求的参数名取错</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
