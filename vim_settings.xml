@@ -271,6 +271,11 @@
         <mark key="." line="63" column="73" />
         <mark key="^" line="63" column="73" />
       </file>
+      <file name="/index.js" timestamp="1557028074114">
+        <mark key="'" line="32" column="39" />
+        <mark key="[" line="82" column="17" />
+        <mark key="]" line="82" column="45" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/Dockerfile" timestamp="1542938440752">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="23" />
@@ -357,6 +362,9 @@
         <mark key="]" line="23" column="24" />
         <mark key="^" line="23" column="35" />
         <mark key="." line="23" column="24" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" timestamp="1557027877583">
+        <mark key="'" line="50" column="8" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder-charts/deployEdge.sh" timestamp="1551420985460">
         <mark key="[" line="62" column="0" />
@@ -560,12 +568,18 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="16" column="12" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1557027068346">
-        <mark key="'" line="31" column="36" />
-        <mark key="[" line="61" column="7" />
-        <mark key="]" line="62" column="5" />
-        <mark key="." line="62" column="5" />
-        <mark key="^" line="62" column="5" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1557028079111">
+        <mark key="'" line="110" column="37" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="8" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/errorHandler.js" timestamp="1557027687025">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="37" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/index.js" timestamp="1549955831623">
         <mark key="[" line="19" column="0" />
@@ -852,37 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="27" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="114" column="2" filename="/media/zyf/data/Programming/project/Node/loveXX/node_modules/mysql/index.js" />
-      <jump line="156" column="51" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="22" column="17" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="59" column="9" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="277" column="50" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="346" column="50" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="146" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="230" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="205" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="12" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/protos/tinder/huixiaobao/events.proto" />
-      <jump line="231" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="211" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="178" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="210" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="100" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="103" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="113" column="70" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="180" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="176" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="183" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="185" column="75" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="225" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="121" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="129" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="136" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="141" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="115" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="119" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="125" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="126" column="68" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="135" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="145" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
@@ -952,10 +935,41 @@
       <jump line="211" column="19" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
       <jump line="49" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="31" column="36" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="58" column="39" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="64" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="73" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="267" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" />
+      <jump line="24" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" />
+      <jump line="344" column="43" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" />
+      <jump line="75" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="19" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" />
+      <jump line="27" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" />
+      <jump line="29" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" />
+      <jump line="250" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" />
+      <jump line="30" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" />
+      <jump line="78" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="83" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="84" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="94" column="56" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="5" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" />
+      <jump line="97" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="107" column="56" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="100" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="113" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="34" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" />
+      <jump line="50" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/tinder/apps/index.proto" />
+      <jump line="122" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="124" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="141" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="127" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="88" column="39" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="118" column="39" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="110" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="32" column="39" filename="/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIOa1i+ivlQo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -964,85 +978,65 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>{ success: true }</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsYmFja1w+</text>
+        <text>fullping</text>
       </register>
       <register name="0" type="4">
-        <text>{
-			var dataStr = data.toString();
-			var start, end, sequence, startTime;
-
-			start = dataStr.indexOf(&quot;#EXT-X-MEDIA-SEQUENCE:&quot;) + 22;
-			end = dataStr.indexOf(&quot;#&quot;, start);
-			sequence = parseInt(dataStr.substring(start, end));
-
-			start = dataStr.indexOf(&quot;index-&quot;) + 6;
-			end = dataStr.indexOf(&quot;.ts&quot;);
-			startTime = parseInt(dataStr.substring(start, end));
-			return {startTime: startTime, sequence: sequence};
-		}</text>
+        <text>{ header: { statusCode: 0 } }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIOa1i+ivlQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2RmZnNkZgo=</text>
+        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCB7IGhlYWRlcjogeyBzdGF0dXNDb2RlOiAwIH0gfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2Rmc2RmCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjYWxsYmFjayhudWxsLCB7IGhlYWRlcjogeyBzdGF0dXNDb2RlOiAwIH0gfSkK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCB7IGhlYWRlcjogeyBzdGF0dXNDb2RlOiAwIH0gfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">5pKS5oml5pKS5omlc2YgCuaSkuaJpXNkZiAKc2Rmc2RmCgrmkpLmiaUK</text>
+        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCB7IGhlYWRlcjogeyBzdGF0dXNDb2RlOiAwIH0gfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBqampqampqago=</text>
+        <text encoding="base64">ICByZXR1cm4geyBoZWFkZXI6IHsgc3RhdHVzQ29kZTogMCB9IH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgampqampqampqajppCg==</text>
+        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCB7IGhlYWRlcjogeyBzdGF0dXNDb2RlOiAwIH0gfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YnV4OyBtYeS9oOWlveWVigo=</text>
+        <text encoding="base64">ICByZXR1cm4geyBoZWFkZXI6IHsgc3RhdHVzQ29kZTogMCB9IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2Rm5pKS5omlCuaSkuaJpQo=</text>
+        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCApOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>set keep-english-in-normal-and-restore-in-insert</text>
+        <text>set nokeep-english-in-normal</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWxsYmFja1w+</last-search>
+      <last-search>fullping</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsYmFja1w+</last-pattern>
+      <last-pattern>fullping</last-pattern>
       <last-replace />
       <last-substitute>oth</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>splice</entry>
-        <entry>join</entry>
-        <entry encoding="base64">XDx0ZXJtSWRzU3RvY2tcPg==</entry>
-        <entry encoding="base64">XDxzZXNzaW9uc0FsbEpvaW5cPg==</entry>
-        <entry encoding="base64">XDx0ZXJtSWRzQWxsSm9pblw+</entry>
-        <entry encoding="base64">XDx0ZXJtSWRzQ2FsbFw+</entry>
-        <entry encoding="base64">XDxzYXZlXD4=</entry>
-        <entry>report_coll</entry>
         <entry encoding="base64">XDxhcnJvd1w+</entry>
         <entry encoding="base64">XDxyZXBvcnRcPg==</entry>
         <entry encoding="base64">XDxyZXBvcnRfY29sbGVjdGlvblw+</entry>
@@ -1054,7 +1048,15 @@
         <entry>bd</entry>
         <entry>1500</entry>
         <entry>pm2</entry>
+        <entry>callba</entry>
+        <entry>raisehan</entry>
+        <entry>downhand</entry>
+        <entry>call</entry>
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
+        <entry>chat</entry>
+        <entry>callback</entry>
+        <entry>success</entry>
+        <entry>fullping</entry>
       </history-search>
       <history-cmd>
         <entry>funciton</entry>
@@ -1074,9 +1076,9 @@
         <entry>set keep-english-in-normal-and-restore-in-insert?</entry>
         <entry>set keep-english-in-normal?</entry>
         <entry>set keep-english-in-normal</entry>
-        <entry>set nokeep-english-in-normal</entry>
-        <entry>set keep-english-in-normal-and-restore-in-insert</entry>
         <entry>fzf</entry>
+        <entry>set keep-english-in-normal-and-restore-in-insert</entry>
+        <entry>set nokeep-english-in-normal</entry>
       </history-cmd>
       <history-expr />
       <history-input />
