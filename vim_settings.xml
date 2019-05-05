@@ -560,11 +560,12 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="16" column="12" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1554110537043">
-        <mark key="[" line="49" column="13" />
-        <mark key="]" line="49" column="20" />
-        <mark key="." line="49" column="20" />
-        <mark key="^" line="49" column="20" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1557026364977">
+        <mark key="'" line="31" column="36" />
+        <mark key="[" line="49" column="17" />
+        <mark key="]" line="50" column="13" />
+        <mark key="." line="50" column="13" />
+        <mark key="^" line="50" column="13" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/index.js" timestamp="1549955831623">
         <mark key="[" line="19" column="0" />
@@ -695,7 +696,7 @@
       <file name="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" timestamp="1556191544674">
         <mark key="'" line="53" column="8093" />
       </file>
-      <file name="/JavaScript Console" timestamp="1556595736063">
+      <file name="/JavaScript Console" timestamp="1557026000047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -753,7 +754,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556595792355">
+      <file name="/Dummy.txt" timestamp="1557025684727">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="17" />
@@ -851,8 +852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="14" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
-      <jump line="96" column="21" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="123" column="27" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
       <jump line="114" column="2" filename="/media/zyf/data/Programming/project/Node/loveXX/node_modules/mysql/index.js" />
       <jump line="156" column="51" filename="/media/zyf/data/Programming/project/Node/loveXX/logToDB.js" />
@@ -951,10 +950,12 @@
       <jump line="11" column="11" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/Dockerfile" />
       <jump line="50" column="3" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
       <jump line="211" column="19" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
+      <jump line="49" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="31" column="36" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YnV4OyBtYeS9oOWlveWVigo=</text>
+        <text encoding="base64">ICAgICAgampqampqampqajppCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -963,13 +964,13 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>r</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>pm2</text>
+        <text encoding="base64">XDxjYWxsYmFja1w+</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -987,30 +988,33 @@
 		}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YnV4OyBtYeS9oOWlveWVigo=</text>
+        <text encoding="base64">ICAgICAgampqampqampqajppCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2Rm5pKS5omlCuaSkuaJpQo=</text>
+        <text encoding="base64">YnV4OyBtYeS9oOWlveWVigo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlleHBvcnRzLnRvTG9nc3Rhc2goJ2V2ZW50RGVsYXknLCB7a2luZCwgcm9vbUlkLCB0czogRGF0ZS5ub3coKSwgZGVsYXl9KQoJfQp9CnNkZuaSkuaJpQrmkpLmiaUK</text>
+        <text encoding="base64">c2Rm5pKS5omlCuaSkuaJpQo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2Rmc2Rm5pKS5omlCg==</text>
+        <text encoding="base64">CQlleHBvcnRzLnRvTG9nc3Rhc2goJ2V2ZW50RGVsYXknLCB7a2luZCwgcm9vbUlkLCB0czogRGF0ZS5ub3coKSwgZGVsYXl9KQoJfQp9CnNkZuaSkuaJpQrmkpLmiaUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">5L2g5aW95ZCXCg==</text>
+        <text encoding="base64">c2Rmc2Rm5pKS5omlCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">5L2g5aW95ZCXCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CXRyeXsKCQljb25zb2xlCgl9Y2F0Y2goZSl7fQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
 			var dataStr = data.toString();
 			var start, end, sequence, startTime;
@@ -1025,20 +1029,17 @@
 			return {startTime: startTime, sequence: sequence};
 		}</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CWJkMTogY2Rucy5iZDEsCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CSdkbC1hbGkxJzogY2Ruc1snZGwtYWxpMSddCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>set keep-english-in-normal-and-restore-in-insert</text>
+        <text>set timeoutlen=160</text>
       </register>
     </registers>
     <search>
-      <last-search>pm2</last-search>
+      <last-search encoding="base64">XDxjYWxsYmFja1w+</last-search>
       <last-offset />
-      <last-pattern>pm2</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsYmFja1w+</last-pattern>
       <last-replace />
       <last-substitute>oth</last-substitute>
       <last-dir>1</last-dir>
@@ -1046,7 +1047,6 @@
     </search>
     <history>
       <history-search>
-        <entry>push</entry>
         <entry>splice</entry>
         <entry>join</entry>
         <entry encoding="base64">XDx0ZXJtSWRzU3RvY2tcPg==</entry>
@@ -1066,10 +1066,9 @@
         <entry>bd</entry>
         <entry>1500</entry>
         <entry>pm2</entry>
+        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL21vZGVsXC8v</entry>
-        <entry>tabprevious</entry>
         <entry>tabnext</entry>
         <entry>tabnew</entry>
         <entry>15</entry>
@@ -1079,8 +1078,6 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5yZWc=</entry>
         <entry>set ttimeout?</entry>
-        <entry>set timeoutlen?</entry>
-        <entry>set ttimeoutlen?</entry>
         <entry>set timeoutlen=100</entry>
         <entry>barbaric#switch</entry>
         <entry>funciton</entry>
@@ -1088,6 +1085,10 @@
         <entry>scripts</entry>
         <entry>scriptnames</entry>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
+        <entry>set ttimeoutlen</entry>
+        <entry>set ttimeoutlen?</entry>
+        <entry>set timeoutlen?</entry>
+        <entry>set timeoutlen=160</entry>
       </history-cmd>
       <history-expr />
       <history-input />
