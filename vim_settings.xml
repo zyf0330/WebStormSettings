@@ -705,11 +705,11 @@
         <mark key="^" line="1" column="26" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" timestamp="1557197360237">
-        <mark key="'" line="55" column="8" />
+        <mark key="'" line="54" column="8" />
         <mark key="[" line="34" column="5" />
-        <mark key="]" line="35" column="48" />
-        <mark key="^" line="35" column="48" />
-        <mark key="." line="35" column="48" />
+        <mark key="]" line="34" column="48" />
+        <mark key="^" line="34" column="48" />
+        <mark key="." line="34" column="48" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/README.md" timestamp="1543381041191">
         <mark key="[" line="52" column="7" />
@@ -726,7 +726,7 @@
       <file name="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" timestamp="1556191544674">
         <mark key="'" line="53" column="8093" />
       </file>
-      <file name="/JavaScript Console" timestamp="1557203537789">
+      <file name="/JavaScript Console" timestamp="1557204372136">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -794,13 +794,14 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/utils/log.js" timestamp="1557203506561">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="25" column="22" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/utils/log.js" timestamp="1557204417076">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="17" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557039001270">
+      <file name="/Dummy.txt" timestamp="1557204440982">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="17" />
@@ -898,7 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="41" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="203" column="40" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="207" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="216" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
@@ -998,10 +998,11 @@
       <jump line="64" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
       <jump line="160" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
       <jump line="167" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
+      <jump line="26" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/utils/log.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZXR0eVByaW50OiB7CiAgICAgIC8vIHRyYW5zbGF0ZVRpbWU6IHRydWUsCiAgICB9LAo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1010,7 +1011,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IGZvcmNlQ29sb3I6IHRydWUg</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1019,43 +1020,43 @@
         <text encoding="base64">XDxhZGRXb3JrZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGUgaW5zdGFuY2VvZiBBcHBFcnJvciA9PSBmYWxzZSkgewo=</text>
+        <text encoding="base64">ICAgIHByZXR0eVByaW50OiB7CiAgICAgIHRyYW5zbGF0ZVRpbWU6IHRydWUsCiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZXR0eVByaW50OiB7CiAgICAgIC8vIHRyYW5zbGF0ZVRpbWU6IHRydWUsCiAgICB9LAo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgbGV2ZWxGaXJzdDogdHJ1ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGUpCg==</text>
+        <text encoding="base64">ICAgICAgLy8gbGV2ZWxGaXJzdDogdHJ1ZSwK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLy8gZm9yY2VDb2xvcjogdHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoeyBlcnJvcjogZSB9LCAnY29ubmVjdCcpCiAgICAgICAgZSA9IG5ldyBBcHBFcnJvcignY29ubmVjdCBjZW50ZXIgZmFpbCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0aW5kZXItY2VudGVyLXNkayI6ICJeMS4wLjAiCg==</text>
+        <text encoding="base64">ICAgICAgawo=</text>
       </register>
       <register name=":" type="4">
-        <text>set nokeep-english-in-normal</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1091,7 +1092,6 @@
         <entry encoding="base64">XDxhZGRXb3JrZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>funciton</entry>
         <entry>func</entry>
         <entry>scripts</entry>
         <entry>scriptnames</entry>
@@ -1111,6 +1111,7 @@
         <entry>fzf</entry>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
         <entry>set nokeep-english-in-normal</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
