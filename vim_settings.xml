@@ -568,11 +568,6 @@
         <mark key="^" line="24" column="12" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/package.json" timestamp="1557033117416">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="33" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/Node/loveXX/config.js" timestamp="1556187206278">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="0" column="0" />
@@ -580,8 +575,8 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="16" column="12" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1557038401160">
-        <mark key="'" line="47" column="13" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1557470672175">
+        <mark key="'" line="20" column="33" />
         <mark key="[" line="37" column="65" />
         <mark key="]" line="37" column="24" />
         <mark key="." line="37" column="24" />
@@ -832,6 +827,9 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" timestamp="1557470678372">
+        <mark key="'" line="65" column="51" />
+      </file>
       <file name="/media/zyf/data/Programming/project/Node/loveXX/query.js" timestamp="1556106180037">
         <mark key="'" line="43" column="15" />
         <mark key="[" line="54" column="1" />
@@ -910,9 +908,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="234" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="237" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="247" column="41" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="249" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="253" column="40" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
@@ -1010,6 +1005,9 @@
       <jump line="20" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" />
       <jump line="38" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/utils/log.js" />
+      <jump line="20" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
+      <jump line="64" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
+      <jump line="65" column="51" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1028,7 +1026,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRXb3JrZXJcPg==</text>
+        <text>clientonline</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldmVsOiBsb2dMZXZlbCwK</text>
@@ -1071,18 +1069,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRXb3JrZXJcPg==</last-search>
+      <last-search>clientonline</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRXb3JrZXJcPg==</last-pattern>
+      <last-pattern>clientonline</last-pattern>
       <last-replace />
       <last-substitute>oth</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>callba</entry>
-        <entry>raisehan</entry>
         <entry>downhand</entry>
         <entry>call</entry>
         <entry>chat</entry>
@@ -1101,6 +1097,8 @@
         <entry>is running</entry>
         <entry encoding="base64">XDxzdGFydFw+</entry>
         <entry encoding="base64">XDxhZGRXb3JrZXJcPg==</entry>
+        <entry>online</entry>
+        <entry>clientonline</entry>
       </history-search>
       <history-cmd>
         <entry>func</entry>
