@@ -801,11 +801,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557204440982">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1557204462865">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -1001,8 +1001,8 @@
       <jump line="26" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/utils/log.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByZXR0eVByaW50OiB7CiAgICAgIC8vIHRyYW5zbGF0ZVRpbWU6IHRydWUsCiAgICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>dep(config): 回退版本，新版本 array 不可变</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1011,7 +1011,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZvcmNlQ29sb3I6IHRydWUg</text>
+        <text>dep(config): 回退版本，新版本 array 不可变</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
