@@ -445,6 +445,13 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/redisClients.js" timestamp="1557905028333">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="55" />
+        <mark key="." line="9" column="55" />
+        <mark key="^" line="9" column="55" />
+      </file>
       <file name="/fragment.js" timestamp="1557900917914">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -914,7 +921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="292" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="294" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="297" column="49" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
@@ -1014,6 +1020,7 @@
       <jump line="21" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="276" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
       <jump line="278" column="41" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/redisClients.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1071,7 +1078,7 @@
         <text encoding="base64">ICAgICAgLy8gZm9yY2VDb2xvcjogdHJ1ZSwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>goto499</text>
       </register>
     </registers>
     <search>
@@ -1081,7 +1088,7 @@
       <last-replace />
       <last-substitute>oth</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1107,18 +1114,6 @@
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>func</entry>
-        <entry>scripts</entry>
-        <entry>scriptnames</entry>
-        <entry>set ttimeoutlen</entry>
-        <entry>set ttimeoutlen?</entry>
-        <entry>set timeoutlen=160</entry>
-        <entry encoding="base64">bGV0IGc6YmFyYmFyaWNfdGltZW91dCA9IDEwIA==</entry>
-        <entry encoding="base64">bGV0IGc6YmFyYmFyaWNfdGltZW91dD0xMCA=</entry>
-        <entry encoding="base64">bGV0IGJhcmJhcmljX3RpbWVvdXQ9MTAg</entry>
-        <entry encoding="base64">bGV0IGJhcmJhcmljX3RpbWVvdXQgPSAxMCA=</entry>
-        <entry>set timeoutlen?</entry>
-        <entry>set keep-english-in-normal-and-restore-in-inser?</entry>
         <entry>set set keep-english-in-normal?</entry>
         <entry>set keep-english-in-normal-and-restore-in-insert?</entry>
         <entry>set keep-english-in-normal?</entry>
@@ -1127,6 +1122,18 @@
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
         <entry>set nokeep-english-in-normal</entry>
         <entry>w</entry>
+        <entry>goto</entry>
+        <entry>gotot</entry>
+        <entry>go</entry>
+        <entry>go 2</entry>
+        <entry>goto 3</entry>
+        <entry>goto 5</entry>
+        <entry>goto 5,10</entry>
+        <entry>help goto</entry>
+        <entry>5</entry>
+        <entry>goto10000</entry>
+        <entry>goto500</entry>
+        <entry>goto499</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1180,7 +1187,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
