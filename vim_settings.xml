@@ -728,7 +728,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1557204372136">
+      <file name="/JavaScript Console" timestamp="1557471815869">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -889,8 +889,11 @@
         <mark key="^" line="92" column="51" />
         <mark key="." line="92" column="39" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" timestamp="1557471612388">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" timestamp="1557471801615">
         <mark key="'" line="92" column="16" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" timestamp="1557471815006">
+        <mark key="'" line="86" column="23" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" timestamp="1552533490632">
         <mark key="[" line="195" column="0" />
@@ -911,9 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="253" column="40" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="262" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="265" column="39" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="268" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="277" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
@@ -1011,6 +1011,9 @@
       <jump line="64" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
       <jump line="65" column="51" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/User.js" />
       <jump line="92" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" />
+      <jump line="14" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
+      <jump line="85" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
+      <jump line="86" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1029,7 +1032,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>client</text>
+        <text>disconnect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldmVsOiBsb2dMZXZlbCwK</text>
@@ -1072,9 +1075,9 @@
       </register>
     </registers>
     <search>
-      <last-search>client</last-search>
+      <last-search>disconnect</last-search>
       <last-offset />
-      <last-pattern>client</last-pattern>
+      <last-pattern>disconnect</last-pattern>
       <last-replace />
       <last-substitute>oth</last-substitute>
       <last-dir>1</last-dir>
@@ -1082,8 +1085,6 @@
     </search>
     <history>
       <history-search>
-        <entry>call</entry>
-        <entry>chat</entry>
         <entry>callback</entry>
         <entry>success</entry>
         <entry>fullping</entry>
@@ -1102,6 +1103,8 @@
         <entry>online</entry>
         <entry>clientonline</entry>
         <entry>client</entry>
+        <entry>loginfail</entry>
+        <entry>disconnect</entry>
       </history-search>
       <history-cmd>
         <entry>func</entry>
