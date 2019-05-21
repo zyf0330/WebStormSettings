@@ -65,8 +65,8 @@
         <mark key="." line="39" column="34" />
         <mark key="^" line="39" column="34" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" timestamp="1557906104111">
-        <mark key="'" line="16" column="5" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" timestamp="1557908420909">
+        <mark key="'" line="139" column="7" />
         <mark key="[" line="48" column="11" />
         <mark key="]" line="48" column="10" />
         <mark key="^" line="48" column="10" />
@@ -879,8 +879,10 @@
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/workers/index.js" timestamp="1557905651254">
         <mark key="'" line="1" column="6" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" timestamp="1557906704595">
-        <mark key="'" line="127" column="7" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" timestamp="1557910448744">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="167" column="20" />
+        <mark key="]" line="167" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/test/server.js" timestamp="1547708771241">
         <mark key="[" line="42" column="17" />
@@ -944,17 +946,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="519" column="44" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="520" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="523" column="40" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="524" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="527" column="46" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="359" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="34" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="51" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
-      <jump line="7" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
-      <jump line="13" column="74" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
-      <jump line="5" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/index.js" />
       <jump line="49" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="23" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/Service.js" />
       <jump line="94" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
@@ -1015,8 +1006,6 @@
       <jump line="5" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/index.js" />
       <jump line="40" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/index.js" />
       <jump line="89" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/index.js" />
-      <jump line="168" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
       <jump line="6" column="29" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/routers/duobei_client.js" />
       <jump line="10" column="27" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/routers/index.js" />
       <jump line="11" column="35" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/routers/index.js" />
@@ -1041,13 +1030,26 @@
       <jump line="195" column="15" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
       <jump line="185" column="26" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
       <jump line="16" column="15" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
-      <jump line="128" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
-      <jump line="11" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
       <jump line="127" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="55" column="14" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="57" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
+      <jump line="19" column="37" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="57" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="107" column="22" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
+      <jump line="139" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
+      <jump line="40" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="181" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="128" column="8" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="11" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="111" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="168" column="2" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="105" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="9" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feat(InviteNotifyNew): 通话过程中邀请时，用于通知之前加入的人有新的人被邀请</text>
+        <text>firstCltOnline</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1062,7 +1064,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuc3Fsb2dcPg==</text>
+        <text encoding="base64">XDxyZWRpc0luZm9cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIHJlc3VsdDogY29uc3RzLnJlc3VsdC5vaywKICAgICAgZXJyb3Jjb2RlOiBjb25zdHMuZXJyb3Jjb2RlLkludml0ZS5TVUNDRVNTLAogICAgICB0ZXJtU3RhdDogdGVybS5zdGF0ZSwKICAgICAgb3RoZXJQZWVySWRzOiBudWxsLAogICAgfQo=</text>
@@ -1105,9 +1107,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuc3Fsb2dcPg==</last-search>
+      <last-search encoding="base64">XDxyZWRpc0luZm9cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuc3Fsb2dcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZWRpc0luZm9cPg==</last-pattern>
       <last-replace />
       <last-substitute>oth</last-substitute>
       <last-dir>1</last-dir>
@@ -1115,26 +1117,26 @@
     </search>
     <history>
       <history-search>
-        <entry>client</entry>
-        <entry>loginfail</entry>
-        <entry>disconnect</entry>
-        <entry>intitenotifyre</entry>
-        <entry>invitenotifyrepl</entry>
-        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
-        <entry encoding="base64">XDxyZWRpc0NsaWVudFw+</entry>
-        <entry encoding="base64">XDxwdWJsaXNoZXJcPg==</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry>expire</entry>
         <entry encoding="base64">XDx3ZWl4aW5PbmxpbmVcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVQaW5nRmFpbFw+</entry>
         <entry encoding="base64">XDxoYW5kbGVUZWFjaGVyXD4=</entry>
-        <entry encoding="base64">XDxyZWRpc1NlbmRcPg==</entry>
         <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
         <entry encoding="base64">XDxpbmZsdXhDb25maWdcPg==</entry>
         <entry encoding="base64">XDxnZXRfY2xpZW50XD4=</entry>
         <entry>influxdb</entry>
+        <entry>redisrecord</entry>
+        <entry>rules</entry>
+        <entry>saved</entry>
+        <entry>userenv</entry>
+        <entry>redissend</entry>
+        <entry>nsq</entry>
         <entry encoding="base64">XDxuc3Fsb2dcPg==</entry>
+        <entry encoding="base64">XDxyZWRpc1NlbmRcPg==</entry>
+        <entry>redis</entry>
+        <entry encoding="base64">XDxyZWRpc0luZm9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set set keep-english-in-normal?</entry>
