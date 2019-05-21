@@ -93,6 +93,10 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
+      <file name="/helper.js" timestamp="1558421858015">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="78" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/etcdConfig" timestamp="1551084961353">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="9" />
@@ -498,6 +502,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/index.js" timestamp="1557905449010">
         <mark key="'" line="89" column="4" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/eventJson.js" timestamp="1558421902272">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" timestamp="1556422964077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -551,7 +561,7 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" timestamp="1558420636472">
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" timestamp="1558421011600">
         <mark key="'" line="79" column="4" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -674,8 +684,8 @@
         <mark key="." line="33" column="2" />
         <mark key="^" line="33" column="2" />
       </file>
-      <file name="/Room.js" timestamp="1555644685670">
-        <mark key="'" line="99" column="38" />
+      <file name="/Room.js" timestamp="1558422104138">
+        <mark key="'" line="47" column="9" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" timestamp="1557196282665">
         <mark key="'" line="167" column="8" />
@@ -685,6 +695,13 @@
         <mark key="]" line="58" column="0" />
         <mark key="^" line="46" column="3" />
         <mark key="." line="58" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" timestamp="1558421987030">
+        <mark key="'" line="104" column="58" />
+        <mark key="[" line="104" column="58" />
+        <mark key="]" line="104" column="70" />
+        <mark key="." line="94" column="37" />
+        <mark key="^" line="80" column="58" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/system/config.spec.js" timestamp="1543381139378">
         <mark key="[" line="58" column="7" />
@@ -763,7 +780,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1557901173472">
+      <file name="/JavaScript Console" timestamp="1558422361948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -838,7 +855,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557901284682">
+      <file name="/Dummy.txt" timestamp="1558422335825">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="13" />
@@ -913,6 +930,13 @@
         <mark key="^" line="57" column="32" />
         <mark key="." line="57" column="32" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" timestamp="1558422120410">
+        <mark key="'" line="78" column="18" />
+        <mark key="[" line="47" column="18" />
+        <mark key="]" line="47" column="20" />
+        <mark key="^" line="47" column="20" />
+        <mark key="." line="47" column="20" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/web/index.js" timestamp="1555034907057">
         <mark key="'" line="5" column="14" />
         <mark key="[" line="26" column="34" />
@@ -953,16 +977,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
-      <jump line="23" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
-      <jump line="72" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
-      <jump line="81" column="55" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
-      <jump line="83" column="54" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
-      <jump line="56" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/index.js" />
-      <jump line="67" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
-      <jump line="179" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
-      <jump line="62" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
       <jump line="77" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
       <jump line="168" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/amqpClient.js" />
       <jump line="54" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" />
@@ -1053,10 +1067,20 @@
       <jump line="74" column="2" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
       <jump line="39" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
       <jump line="79" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/util/helper.js" />
+      <jump line="7" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" />
+      <jump line="94" column="37" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
+      <jump line="104" column="58" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
+      <jump line="78" column="26" filename="/Room.js" />
+      <jump line="245" column="30" filename="/Room.js" />
+      <jump line="281" column="12" filename="/Room.js" />
+      <jump line="0" column="0" filename="/Room.js" />
+      <jump line="47" column="9" filename="/Room.js" />
+      <jump line="47" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" />
+      <jump line="78" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXJldHVybiBldmVudEpzb25GaWxlCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1065,68 +1089,67 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>const eventJsonFile =</text>
+        <text>1</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>end</text>
+        <text>eventJSONName</text>
       </register>
       <register name="0" type="4">
-        <text>eventJsonDir</text>
+        <text>eventJSONName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJldHVybiBldmVudEpzb25GaWxlCg==</text>
+        <text encoding="base64">ICAgIGZzLmFwcGVuZEZpbGUoZXZlbnRKc29uTmFtZSwgJywnICsgSlNPTi5zdHJpbmdpZnkoZXZlbnRKc29uKSArICdcbicsIChlKSA9PiB7Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CSwKCQksCg==</text>
+      <register name="2" type="8">
+        <text>'
+'
+'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW5ldyBEYXRlKHRzKQo=</text>
+        <text encoding="base64">CXJldHVybiBldmVudEpzb25GaWxlCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWQuc2V0TWludXRlcygwLCAwLCAwKSwKCWQuc2V0TWludXRlcyg1OSwgNTksIDk5OSksCg==</text>
+        <text encoding="base64">CSwKCQksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWQK</text>
+        <text encoding="base64">CW5ldyBEYXRlKHRzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWQuZ2V0VGltZSgpCg==</text>
+        <text encoding="base64">CWQuc2V0TWludXRlcygwLCAwLCAwKSwKCWQuc2V0TWludXRlcyg1OSwgNTksIDk5OSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWQsCg==</text>
+        <text encoding="base64">CWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWpqZGQK</text>
+        <text encoding="base64">CWQuZ2V0VGltZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAK</text>
+        <text encoding="base64">CWQsCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
+        <text>%s/eventJSONName/eventJSONDir/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>end</last-search>
+      <last-search>eventJSONName</last-search>
       <last-offset />
-      <last-pattern>end</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>eventJSONName</last-pattern>
+      <last-replace>eventJSONDir</last-replace>
+      <last-substitute>eventJSONName</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVUZWFjaGVyXD4=</entry>
-        <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
-        <entry encoding="base64">XDxpbmZsdXhDb25maWdcPg==</entry>
         <entry encoding="base64">XDxnZXRfY2xpZW50XD4=</entry>
         <entry>influxdb</entry>
         <entry>redisrecord</entry>
@@ -1139,15 +1162,16 @@
         <entry encoding="base64">XDxyZWRpc1NlbmRcPg==</entry>
         <entry>redis</entry>
         <entry encoding="base64">XDxyZWRpc0luZm9cPg==</entry>
-        <entry>events</entry>
         <entry>&quot;</entry>
         <entry>geteve</entry>
         <entry>start</entry>
         <entry>end</entry>
+        <entry>events</entry>
+        <entry>json</entry>
+        <entry encoding="base64">XDxldmVudEpTT05OYW1lXD4=</entry>
+        <entry>eventJSONName</entry>
       </history-search>
       <history-cmd>
-        <entry>set keep-english-in-normal-and-restore-in-insert?</entry>
-        <entry>set keep-english-in-normal?</entry>
         <entry>set keep-english-in-normal</entry>
         <entry>fzf</entry>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
@@ -1166,6 +1190,8 @@
         <entry>goto499</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry>noh</entry>
+        <entry>%s/eventJSONName/eventJSONDir/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
