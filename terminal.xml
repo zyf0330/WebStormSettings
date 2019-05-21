@@ -1,6 +1,8 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="passParentEnvs" value="false" />
+    <envs>
+      <env key="TILIX_ID" value="" />
+    </envs>
     <option name="myCopyOnSelection" value="false" />
     <option name="myPasteOnMiddleMouseButton" value="false" />
     <option name="myShellIntegration" value="false" />
