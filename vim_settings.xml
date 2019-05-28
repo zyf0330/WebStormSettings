@@ -41,6 +41,7 @@
         <mark key="." line="96" column="38" />
         <mark key="^" line="96" column="18" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/statsdClient.js" timestamp="1559029997084" />
       <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/confd/conf.d/config.js.toml" timestamp="1554801946047">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="21" />
@@ -65,7 +66,7 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/utils/cos.js" timestamp="1553756092154">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/utils/cos.js" timestamp="1558947826664">
         <mark key="[" line="39" column="26" />
         <mark key="]" line="39" column="34" />
         <mark key="." line="39" column="34" />
@@ -262,12 +263,12 @@
       <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/index.js" timestamp="1555467229112">
         <mark key="'" line="6" column="24" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/route/record.js" timestamp="1558938993966">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/route/record.js" timestamp="1558939400264">
         <mark key="'" line="22" column="29" />
-        <mark key="[" line="22" column="45" />
-        <mark key="]" line="22" column="45" />
-        <mark key="." line="22" column="45" />
-        <mark key="^" line="22" column="45" />
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="35" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/confd/conf.d/streamSyncConfig.js.toml" timestamp="1551081356600">
         <mark key="[" line="3" column="10" />
@@ -494,7 +495,7 @@
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/redisRecord.js" timestamp="1557905405677">
         <mark key="'" line="243" column="19" />
       </file>
-      <file name="/fragment.js" timestamp="1558938964420">
+      <file name="/fragment.js" timestamp="1559029979328">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -775,12 +776,12 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" timestamp="1557197360237">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recorder.js" timestamp="1559030461290">
         <mark key="'" line="54" column="8" />
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="34" column="48" />
-        <mark key="^" line="34" column="48" />
-        <mark key="." line="34" column="48" />
+        <mark key="[" line="38" column="52" />
+        <mark key="]" line="38" column="63" />
+        <mark key="^" line="38" column="63" />
+        <mark key="." line="38" column="63" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/README.md" timestamp="1543381041191">
         <mark key="[" line="52" column="7" />
@@ -804,7 +805,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1558938996630">
+      <file name="/JavaScript Console" timestamp="1559030589368">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -883,7 +884,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558597921362">
+      <file name="/Dummy.txt" timestamp="1559030325684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="13" />
@@ -972,6 +973,12 @@
         <mark key="]" line="5" column="66" />
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="66" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/config/default.yaml" timestamp="1559030070402">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/web/index.js" timestamp="1555034907057">
         <mark key="'" line="5" column="14" />
@@ -1121,7 +1128,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>parseInt(</text>
+        <text>message</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1130,7 +1137,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>parseInt(</text>
+        <text>message</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1139,7 +1146,7 @@
         <text>dispatch</text>
       </register>
       <register name="0" type="4">
-        <text>Number.isInteger</text>
+        <text>message</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpCg==</text>
