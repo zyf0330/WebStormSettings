@@ -106,12 +106,12 @@
         <mark key="." line="15" column="49" />
         <mark key="^" line="15" column="49" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" timestamp="1559099347907">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" timestamp="1559101695817">
         <mark key="'" line="46" column="13" />
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="27" />
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="30" column="51" />
+        <mark key="." line="30" column="51" />
+        <mark key="^" line="30" column="51" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/etcdConfig" timestamp="1551084961353">
         <mark key="[" line="5" column="10" />
@@ -509,11 +509,11 @@
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/redisRecord.js" timestamp="1557905405677">
         <mark key="'" line="243" column="19" />
       </file>
-      <file name="/fragment.js" timestamp="1559040420018">
+      <file name="/fragment.js" timestamp="1559101509171">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="11" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/utils/log.js" timestamp="1545127396279">
         <mark key="[" line="8" column="12" />
@@ -835,7 +835,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1559099057432">
+      <file name="/JavaScript Console" timestamp="1559101436555">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1156,7 +1156,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/1</text>
+        <text>上</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1165,7 +1165,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>/1</text>
+        <text>上</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1174,10 +1174,10 @@
         <text>logger</text>
       </register>
       <register name="0" type="4">
-        <text>recordPersistPeriodic</text>
+        <text>lastHourTime</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxhc3RIb3VyVGltZSA9IAo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
@@ -1186,7 +1186,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
@@ -1195,19 +1195,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJvY2Vzcy5vbgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVjb3JkUGVyc2lzdFBlcmlvZGljLnN0YXJ0KCkK</text>
+        <text encoding="base64">cHJvY2Vzcy5vbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IC8vIFRPRE8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVjb3JkUGVyc2lzdFBlcmlvZGljLnN0YXJ0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
