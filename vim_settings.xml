@@ -106,12 +106,12 @@
         <mark key="." line="15" column="49" />
         <mark key="^" line="15" column="49" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" timestamp="1559097628865">
-        <mark key="'" line="12" column="26" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="67" column="3" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" timestamp="1559099347907">
+        <mark key="'" line="46" column="13" />
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="23" column="27" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/etcdConfig" timestamp="1551084961353">
         <mark key="[" line="5" column="10" />
@@ -835,7 +835,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1559040399188">
+      <file name="/JavaScript Console" timestamp="1559099057432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -916,7 +916,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559097641666">
+      <file name="/Dummy.txt" timestamp="1559098013319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="10" />
@@ -1053,11 +1053,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="2" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/routers/index.js" />
-      <jump line="43" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/routers/index.js" />
-      <jump line="31" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/routers/index.js" />
-      <jump line="57" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/routers/index.js" />
-      <jump line="63" column="2" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/routers/index.js" />
       <jump line="11" column="18" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/workers/index.js" />
       <jump line="18" column="18" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/workers/index.js" />
       <jump line="25" column="18" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/workers/index.js" />
@@ -1147,16 +1142,21 @@
       <jump line="29" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersist.js" />
       <jump line="40" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersist.js" />
       <jump line="38" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersist.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" />
       <jump line="14" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" />
-      <jump line="15" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" />
       <jump line="61" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" />
       <jump line="12" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" />
       <jump line="20" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/worker/recordPersist.js" />
+      <jump line="53" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" />
+      <jump line="8" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" />
+      <jump line="15" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" />
+      <jump line="26" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" />
+      <jump line="37" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" />
+      <jump line="46" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistPeriodic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>修改 cos 文件名，去掉 tinder- 前缀</text>
+        <text>/1</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1165,19 +1165,19 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>修改 cos 文件名，去掉 tinder- 前缀</text>
+        <text>/1</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>stop</text>
+        <text>logger</text>
       </register>
       <register name="0" type="4">
         <text>recordPersistPeriodic</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
@@ -1186,7 +1186,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJvY2Vzcy5vbgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
@@ -1195,28 +1195,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVjb3JkUGVyc2lzdFBlcmlvZGljLnN0YXJ0KCkK</text>
+        <text encoding="base64">cHJvY2Vzcy5vbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IC8vIFRPRE8K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">cmVjb3JkUGVyc2lzdFBlcmlvZGljLnN0YXJ0KCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RhcnQoKS50aGVuKCgpID0+IHsKICB3b3JrZXIucHJvY2VzcygpCn0pCg==</text>
+        <text encoding="base64">IC8vIFRPRE8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBmaWxlUGF0aCA9IGAke3Jvb21JZH0vJHtkYXl9LyR7aG91cn0vdGluZGVyLWV2ZW50cy5qc29uLjAuMC4wLjAuMF8ke3N0YXJ0VGltZX1fJHtlbmRUaW1lfWAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>stop</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>stop</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>eventJSONDir</last-replace>
       <last-substitute>eventJSONName</last-substitute>
       <last-dir>1</last-dir>
@@ -1239,11 +1239,11 @@
         <entry>yyyy</entry>
         <entry>todate</entry>
         <entry encoding="base64">XDxrZXlzXD4=</entry>
-        <entry>logger</entry>
         <entry>roomid</entry>
         <entry encoding="base64">XDxzdGFydFRpbWVcPg==</entry>
         <entry>recordper</entry>
         <entry>stop</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
