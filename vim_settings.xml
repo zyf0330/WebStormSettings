@@ -980,6 +980,9 @@
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/workers/index.js" timestamp="1557905651254">
         <mark key="'" line="1" column="6" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" timestamp="1559197840231">
+        <mark key="'" line="24" column="9" />
+      </file>
       <file name="$USER_HOME$/Desktop/test/server.js" timestamp="1547708771241">
         <mark key="[" line="42" column="17" />
         <mark key="]" line="42" column="17" />
@@ -1069,7 +1072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="18" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
       <jump line="5" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
       <jump line="12" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
       <jump line="184" column="19" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
@@ -1169,6 +1171,7 @@
       <jump line="139" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
       <jump line="3" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
+      <jump line="24" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1187,7 +1190,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>4150</text>
+        <text encoding="base64">XDxwYXJzZU1lc3NhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1lcmdlX2xvZ3M6IHRydWUK</text>
@@ -1226,13 +1229,13 @@
         <text encoding="base64">ICAgICAgdC5nZXQK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>33</text>
       </register>
     </registers>
     <search>
-      <last-search>4150</last-search>
+      <last-search encoding="base64">XDxwYXJzZU1lc3NhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>4150</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJzZU1lc3NhZ2VcPg==</last-pattern>
       <last-replace>eventJSONDir</last-replace>
       <last-substitute>eventJSONName</last-substitute>
       <last-dir>1</last-dir>
@@ -1240,7 +1243,6 @@
     </search>
     <history>
       <history-search>
-        <entry>end</entry>
         <entry>events</entry>
         <entry>json</entry>
         <entry encoding="base64">XDxldmVudEpTT05OYW1lXD4=</entry>
@@ -1260,9 +1262,9 @@
         <entry>cos</entry>
         <entry>vendor</entry>
         <entry>4150</entry>
+        <entry encoding="base64">XDxwYXJzZU1lc3NhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>set keep-english-in-normal-and-restore-in-insert</entry>
         <entry>set nokeep-english-in-normal</entry>
         <entry>goto</entry>
         <entry>gotot</entry>
@@ -1282,6 +1284,7 @@
         <entry>reg</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>33</entry>
       </history-cmd>
       <history-expr />
       <history-input />
