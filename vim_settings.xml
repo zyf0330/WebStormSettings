@@ -71,12 +71,12 @@
         <mark key="." line="44" column="8" />
         <mark key="^" line="44" column="8" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" timestamp="1557908420909">
-        <mark key="'" line="139" column="7" />
-        <mark key="[" line="48" column="11" />
-        <mark key="]" line="48" column="10" />
-        <mark key="^" line="48" column="10" />
-        <mark key="." line="48" column="10" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" timestamp="1559197263251">
+        <mark key="'" line="3" column="12" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/.gitignore" timestamp="1546934090208">
         <mark key="[" line="4" column="0" />
@@ -646,6 +646,7 @@
         <mark key="." line="97" column="40" />
         <mark key="^" line="97" column="40" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/utils/ipip/lib/ipip.js" timestamp="1559197230120" />
       <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/app.js" timestamp="1555035628216">
         <mark key="'" line="19" column="5" />
         <mark key="[" line="19" column="4" />
@@ -846,7 +847,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1559183358508">
+      <file name="/JavaScript Console" timestamp="1559197243645">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1068,8 +1069,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/workers/index.js" />
-      <jump line="14" column="20" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
       <jump line="183" column="18" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
       <jump line="5" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
       <jump line="12" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
@@ -1083,7 +1082,6 @@
       <jump line="19" column="37" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
       <jump line="57" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
       <jump line="107" column="22" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
-      <jump line="139" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
       <jump line="40" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
       <jump line="181" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
       <jump line="128" column="8" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
@@ -1168,10 +1166,13 @@
       <jump line="27" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/Dockerfile-worker" />
       <jump line="28" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/Dockerfile-worker" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/Dockerfile-worker" />
+      <jump line="139" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
+      <jump line="3" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix(recordPersistPeriodic): 现在 cos 没有初始化时不会启动</text>
+        <text>vendors/mydata4vipweek2.dat</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1180,13 +1181,13 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>fix(recordPersistPeriodic): 现在 cos 没有初始化时不会启动</text>
+        <text>vendors/mydata4vipweek2.dat</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>cos</text>
+        <text>4150</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1lcmdlX2xvZ3M6IHRydWUK</text>
@@ -1229,9 +1230,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cos</last-search>
+      <last-search>4150</last-search>
       <last-offset />
-      <last-pattern>cos</last-pattern>
+      <last-pattern>4150</last-pattern>
       <last-replace>eventJSONDir</last-replace>
       <last-substitute>eventJSONName</last-substitute>
       <last-dir>1</last-dir>
@@ -1239,8 +1240,6 @@
     </search>
     <history>
       <history-search>
-        <entry>geteve</entry>
-        <entry>start</entry>
         <entry>end</entry>
         <entry>events</entry>
         <entry>json</entry>
@@ -1259,6 +1258,8 @@
         <entry>stop</entry>
         <entry>logger</entry>
         <entry>cos</entry>
+        <entry>vendor</entry>
+        <entry>4150</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
