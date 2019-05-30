@@ -338,11 +338,6 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/Dockerfile-worker" timestamp="1559185750064">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="48" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/klipper/node_modules/main.cpp" timestamp="1543547318047">
         <mark key="[" line="63" column="50" />
         <mark key="]" line="63" column="73" />
@@ -932,7 +927,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559183752079">
+      <file name="/Dummy.txt" timestamp="1559186330283">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="10" />
@@ -1175,8 +1170,8 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/Dockerfile-worker" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lcmdlX2xvZ3M6IHRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>fix(recordPersistPeriodic): 现在 cos 没有初始化时不会启动</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1185,7 +1180,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>fix(recordPersistPeriodic): 现在 cos 没有初始化时不会启动</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
