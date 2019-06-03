@@ -187,12 +187,12 @@
         <mark key="." line="29" column="27" />
         <mark key="^" line="29" column="27" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" timestamp="1556004989444">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/Session.js" timestamp="1559534009155">
         <mark key="'" line="59" column="32" />
-        <mark key="[" line="64" column="16" />
-        <mark key="]" line="65" column="13" />
-        <mark key="." line="65" column="13" />
-        <mark key="^" line="65" column="13" />
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="17" />
+        <mark key="." line="23" column="17" />
+        <mark key="^" line="23" column="17" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/test.js" timestamp="1554890680615">
         <mark key="[" line="9" column="3" />
@@ -569,6 +569,13 @@
         <mark key="." line="19" column="4" />
         <mark key="^" line="19" column="4" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" timestamp="1559534016566">
+        <mark key="'" line="144" column="29" />
+        <mark key="[" line="69" column="31" />
+        <mark key="]" line="69" column="34" />
+        <mark key="." line="69" column="34" />
+        <mark key="^" line="69" column="34" />
+      </file>
       <file name="$USER_HOME$/project/duobei/tinder-charts/pusher/templates/_prepare.tpl" timestamp="1547718884723">
         <mark key="[" line="1" column="105" />
         <mark key="]" line="1" column="108" />
@@ -720,6 +727,12 @@
         <mark key="]" line="74" column="56" />
         <mark key="^" line="74" column="56" />
         <mark key="." line="74" column="56" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/IDCStorage.js" timestamp="1559533988667">
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="23" />
+        <mark key="." line="43" column="23" />
+        <mark key="^" line="43" column="23" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/dataSource/Apps.js" timestamp="1555063536575">
         <mark key="'" line="13" column="9" />
@@ -1079,10 +1092,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="19" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
-      <jump line="195" column="15" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
-      <jump line="185" column="26" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
-      <jump line="16" column="15" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
       <jump line="127" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
       <jump line="55" column="14" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
       <jump line="57" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
@@ -1179,10 +1188,14 @@
       <jump line="24" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
       <jump line="10" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
       <jump line="164" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
+      <jump line="9" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
+      <jump line="82" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
+      <jump line="112" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
+      <jump line="144" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>system</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1191,13 +1204,13 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>system</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmZvU3RvcmVcPg==</text>
+        <text encoding="base64">XDxjYWxsU2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1lcmdlX2xvZ3M6IHRydWUK</text>
@@ -1240,9 +1253,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmZvU3RvcmVcPg==</last-search>
+      <last-search encoding="base64">XDxjYWxsU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmZvU3RvcmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsU2VydmljZVw+</last-pattern>
       <last-replace>eventJSONDir</last-replace>
       <last-substitute>eventJSONName</last-substitute>
       <last-dir>1</last-dir>
@@ -1250,8 +1263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
-        <entry encoding="base64">XDxldmVudEpTT05OYW1lXD4=</entry>
         <entry>eventJSONName</entry>
         <entry>dispatch</entry>
         <entry>sdc</entry>
@@ -1270,6 +1281,8 @@
         <entry>4150</entry>
         <entry encoding="base64">XDxwYXJzZU1lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxpbmZvU3RvcmVcPg==</entry>
+        <entry encoding="base64">XDxTZXNzaW9uXD4=</entry>
+        <entry encoding="base64">XDxjYWxsU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>set nokeep-english-in-normal</entry>
