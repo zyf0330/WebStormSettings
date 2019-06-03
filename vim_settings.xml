@@ -294,6 +294,9 @@
         <mark key="^" line="12" column="65" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" timestamp="1559533556995">
+        <mark key="'" line="164" column="2" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" timestamp="1556421802534">
         <mark key="'" line="227" column="8" />
       </file>
@@ -1076,8 +1079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
-      <jump line="12" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
       <jump line="184" column="19" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
       <jump line="195" column="15" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
       <jump line="185" column="26" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
@@ -1176,6 +1177,8 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
       <jump line="3" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
       <jump line="24" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="10" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
+      <jump line="164" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1194,7 +1197,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJzZU1lc3NhZ2VcPg==</text>
+        <text encoding="base64">XDxpbmZvU3RvcmVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1lcmdlX2xvZ3M6IHRydWUK</text>
@@ -1237,17 +1240,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJzZU1lc3NhZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxpbmZvU3RvcmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJzZU1lc3NhZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbmZvU3RvcmVcPg==</last-pattern>
       <last-replace>eventJSONDir</last-replace>
       <last-substitute>eventJSONName</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>events</entry>
         <entry>json</entry>
         <entry encoding="base64">XDxldmVudEpTT05OYW1lXD4=</entry>
         <entry>eventJSONName</entry>
@@ -1267,6 +1269,7 @@
         <entry>vendor</entry>
         <entry>4150</entry>
         <entry encoding="base64">XDxwYXJzZU1lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxpbmZvU3RvcmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set nokeep-english-in-normal</entry>
