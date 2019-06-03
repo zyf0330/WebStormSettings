@@ -646,7 +646,6 @@
         <mark key="." line="97" column="40" />
         <mark key="^" line="97" column="40" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/utils/ipip/lib/ipip.js" timestamp="1559197230120" />
       <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/app.js" timestamp="1555035628216">
         <mark key="'" line="19" column="5" />
         <mark key="[" line="19" column="4" />
@@ -1051,6 +1050,11 @@
         <mark key="^" line="92" column="51" />
         <mark key="." line="92" column="39" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/errors.js" timestamp="1559532842149">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/benchmark.js" timestamp="1557471801615">
         <mark key="'" line="92" column="16" />
       </file>
@@ -1174,8 +1178,8 @@
       <jump line="24" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>vendors/mydata4vipweek2.dat</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1184,7 +1188,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>vendors/mydata4vipweek2.dat</text>
+        <text>d</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1196,37 +1200,37 @@
         <text encoding="base64">ICAgIG1lcmdlX2xvZ3M6IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09QWSBhcHAtd29ya2VyLnltbCBwYWNrYWdlLmpzb24geWFybi5sb2NrIC9hcHAvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbCBcCiAgICAmJiB5YXJuIGNhY2hlIGNsZWFuCg==</text>
+        <text encoding="base64">c2Rm5pKScwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V09SS0RJUiAvYXBwCgo=</text>
+        <text encoding="base64">Q09QWSBhcHAtd29ya2VyLnltbCBwYWNrYWdlLmpzb24geWFybi5sb2NrIC9hcHAvCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbCBcCiAgICAmJiB5YXJuIGNhY2hlIGNsZWFuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RlJPTSBub2RlOjgtYWxwaW5lCg==</text>
+        <text encoding="base64">V09SS0RJUiAvYXBwCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4ZWNfbW9kZTogZm9yawo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1lcmdlX2xvZ3M6IHRydWUK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">RlJPTSBub2RlOjgtYWxwaW5lCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGV4ZWNfbW9kZTogZm9yawo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdC5nZXQK</text>
+        <text encoding="base64">ICAgIG1lcmdlX2xvZ3M6IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>33</text>
@@ -1239,7 +1243,7 @@
       <last-replace>eventJSONDir</last-replace>
       <last-substitute>eventJSONName</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
