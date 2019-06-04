@@ -136,8 +136,8 @@
         <mark key="^" line="12" column="65" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" timestamp="1559553534847">
-        <mark key="'" line="146" column="66" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" timestamp="1559556736430">
+        <mark key="'" line="10" column="40" />
         <mark key="[" line="146" column="67" />
         <mark key="]" line="146" column="67" />
         <mark key="^" line="42" column="16" />
@@ -388,8 +388,8 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559552988818">
-        <mark key="[" line="0" column="29" />
+      <file name="/Dummy.txt" timestamp="1559553562737">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -400,7 +400,7 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/broadcast/index.js" timestamp="1559552892670">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/broadcast/index.js" timestamp="1559554069730">
         <mark key="'" line="126" column="43" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -560,12 +560,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/index.spec.js" timestamp="1559550966903">
         <mark key="'" line="30" column="35" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/session/index.js" timestamp="1559551572270">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/session/index.js" timestamp="1559615618966">
         <mark key="'" line="114" column="25" />
-        <mark key="[" line="89" column="23" />
-        <mark key="]" line="89" column="37" />
-        <mark key="." line="89" column="37" />
-        <mark key="^" line="89" column="37" />
+        <mark key="[" line="56" column="13" />
+        <mark key="]" line="56" column="18" />
+        <mark key="." line="56" column="18" />
+        <mark key="^" line="56" column="18" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/protos/tinder/system/push/push.proto" timestamp="1559552785125">
         <mark key="'" line="0" column="0" />
@@ -873,7 +873,6 @@
       <jump line="48" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
       <jump line="84" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
       <jump line="82" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
-      <jump line="10" column="34" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
       <jump line="17" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
       <jump line="18" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
       <jump line="19" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
@@ -949,6 +948,7 @@
       <jump line="170" column="49" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
       <jump line="119" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
       <jump line="146" column="66" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
+      <jump line="10" column="40" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -967,7 +967,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncnBjSW1wbGVtZW50c1w+</text>
+        <text>command</text>
       </register>
       <register name="0" type="4">
         <text>SystemSession</text>
@@ -1006,13 +1006,13 @@
         <text encoding="base64">ICBjb25zdCBzMUJ1ZmYgPSA7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>56</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncnBjSW1wbGVtZW50c1w+</last-search>
+      <last-search>command</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncnBjSW1wbGVtZW50c1w+</last-pattern>
+      <last-pattern>command</last-pattern>
       <last-replace>this.</last-replace>
       <last-substitute>session.</last-substitute>
       <last-dir>1</last-dir>
@@ -1020,7 +1020,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDx0b0xpdGVcPg==</entry>
         <entry>quit</entry>
         <entry encoding="base64">XDxzMkJ1ZmZcPg==</entry>
@@ -1040,9 +1039,9 @@
         <entry>queuemessage</entry>
         <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry encoding="base64">XDxncnBjSW1wbGVtZW50c1w+</entry>
+        <entry>command</entry>
       </history-search>
       <history-cmd>
-        <entry>goto</entry>
         <entry>gotot</entry>
         <entry>go</entry>
         <entry>go 2</entry>
@@ -1062,6 +1061,7 @@
         <entry>33</entry>
         <entry encoding="base64">JzwsJz5zL3Nlc3Npb24uL3RoaXMuL2dj</entry>
         <entry>noh</entry>
+        <entry>56</entry>
       </history-cmd>
       <history-expr />
       <history-input />
