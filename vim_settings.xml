@@ -532,7 +532,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559639714986">
+      <file name="/Dummy.txt" timestamp="1559640390069">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="27" />
@@ -1072,7 +1072,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1559640035783">
+      <file name="/JavaScript Console" timestamp="1559640742167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1306,8 +1306,8 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-proto-models/tinder/system/session/session.proto" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cm1lc3NhZ2UgS2lja09mZiB7Cn0K</text>
+      <register name="&quot;" type="4">
+        <text>kickoff system message</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1316,7 +1316,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIG1lc3NhZ2VUeXBlID09ICdLaWNrT2ZmJw==</text>
+        <text>kickoff system message</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1363,7 +1363,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>44</text>
       </register>
     </registers>
     <search>
@@ -1399,9 +1399,6 @@
         <entry encoding="base64">XDxhcHBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>go</entry>
-        <entry>go 2</entry>
-        <entry>goto 3</entry>
         <entry>goto 5</entry>
         <entry>goto 5,10</entry>
         <entry>help goto</entry>
@@ -1419,6 +1416,9 @@
         <entry>w</entry>
         <entry>q</entry>
         <entry>noh</entry>
+        <entry>17</entry>
+        <entry>50</entry>
+        <entry>44</entry>
       </history-cmd>
       <history-expr />
       <history-input />
