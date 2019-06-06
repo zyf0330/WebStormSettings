@@ -558,6 +558,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="15" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/collects/collectEvent.ts" timestamp="1559717920474">
+        <mark key="'" line="69" column="14" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/src/index.d.ts" timestamp="1559641491575">
         <mark key="'" line="53" column="4" />
       </file>
@@ -1203,7 +1206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/chat/chat.spec.js" />
       <jump line="66" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/chat/chat.spec.js" />
       <jump line="29" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="153" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
@@ -1303,6 +1305,7 @@
       <jump line="35" column="15" filename="/index.js" />
       <jump line="112" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="32" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/session/index.js" />
+      <jump line="69" column="14" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/collects/collectEvent.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1321,7 +1324,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>getby</text>
+        <text>info</text>
       </register>
       <register name="0" type="4">
         <text>systemSession</text>
@@ -1364,9 +1367,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getby</last-search>
+      <last-search>info</last-search>
       <last-offset />
-      <last-pattern>getby</last-pattern>
+      <last-pattern>info</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1374,8 +1377,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxicm9hZGNhc3RcPg==</entry>
-        <entry encoding="base64">XDxiYXNpY0Jyb2FkY2FzdFw+</entry>
         <entry>id</entry>
         <entry encoding="base64">XDxzb2NrZXRzXD4=</entry>
         <entry encoding="base64">XDxzb2NrZXRcPg==</entry>
@@ -1394,6 +1395,8 @@
         <entry encoding="base64">XDxnZXRCeUlkc1w+</entry>
         <entry>getbyid</entry>
         <entry>getby</entry>
+        <entry>collect</entry>
+        <entry>info</entry>
       </history-search>
       <history-cmd>
         <entry>goto 5</entry>
