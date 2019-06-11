@@ -84,12 +84,12 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" timestamp="1560235776575">
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" timestamp="1560237050012">
         <mark key="'" line="1" column="24" />
-        <mark key="[" line="74" column="60" />
-        <mark key="]" line="74" column="70" />
-        <mark key="." line="74" column="70" />
-        <mark key="^" line="74" column="70" />
+        <mark key="[" line="79" column="1" />
+        <mark key="]" line="82" column="1" />
+        <mark key="." line="79" column="1" />
+        <mark key="^" line="79" column="1" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/onCommand.js" timestamp="1550803130382">
         <mark key="[" line="33" column="8" />
@@ -1093,7 +1093,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1560235628824">
+      <file name="/JavaScript Console" timestamp="1560235950698">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1337,7 +1337,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_.get(rawData, `reconn.${role}.total`)</text>
+        <text>function main() {
+  const result = handleReports([reportData])
+  console.log(result)
+}</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1357,38 +1360,41 @@
       <register name="0" type="4">
         <text>reconnTotal</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVjb25uVG90YWwgPSBbMF0K</text>
+      <register name="1" type="4">
+        <text>function main() {
+  const result = handleReports([reportData])
+  console.log(result)
+}</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">bWFpbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF8uZ2V0KHN0YXRpc3RpY3MsIGBwaW5nLiR7cm9sZX1gKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">aGFuZGxlUmVwb3J0cyhbcmVwb3J0RGF0YV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvcihjb25zdCBwYSkK</text>
+        <text encoding="base64">ICAgICAgcmVjb25uVG90YWwgPSBbMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBfLmdldChzdGF0aXN0aWNzLCAncGluZy4nKQo=</text>
+        <text encoding="base64">ICAgIF8uZ2V0KHN0YXRpc3RpY3MsIGBwaW5nLiR7cm9sZX1gKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBzdGF0aXN0aWNzCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8g5pS555So5oC75pWwCg==</text>
+        <text encoding="base64">ICAgIGZvcihjb25zdCBwYSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLy9yZWNvbm4vZ2M=</text>
