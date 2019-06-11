@@ -77,6 +77,11 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" timestamp="1560220311061">
+        <mark key="'" line="128" column="7" />
+        <mark key="[" line="158" column="21" />
+        <mark key="]" line="158" column="370" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/onCommand.js" timestamp="1550803130382">
         <mark key="[" line="33" column="8" />
         <mark key="]" line="33" column="20" />
@@ -1207,12 +1212,14 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="7" column="6" />
       </file>
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.csv" timestamp="1560220391928">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/package.json" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/ETCD.js" />
-      <jump line="159" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="1" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="18" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="24" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="6" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/index.js" />
@@ -1309,10 +1316,15 @@
       <jump line="87" column="34" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/api/routes.ts" />
       <jump line="147" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/api/routes.ts" />
       <jump line="150" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/api/routes.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
+      <jump line="7" column="7" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
+      <jump line="127" column="7" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
+      <jump line="128" column="7" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>feat(KickOff): 支持</text>
+      <register name="&quot;" type="8">
+        <text>teacher
+teacher</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1321,58 +1333,63 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>feat(KickOff): 支持</text>
+        <text>teacher</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>progress</text>
+        <text>local</text>
       </register>
-      <register name="0" type="4">
-        <text>systemSession</text>
+      <register name="0" type="8">
+        <text>teacher reconn local fai
+teacher reconn full fail</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>teacher
+teacher</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB9LCAxMDApCg==</text>
+      <register name="2" type="8">
+        <text>student
+student
+student
+student</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzZXRUaW1lb3V0KCgpID0+IHsKICAgIHNlc3Npb24ua2lja09mZigpCg==</text>
+        <text encoding="base64">dGVhY2hlciBydHQgZnVsbCwgCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dGVhY2hlciBydHQgZnVsbCwgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXNzaW9uLmtpY2tPZmYoKQo=</text>
+        <text encoding="base64">dGVhY2hlciBydHQgZnVsbCwgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24ua2lja09mZigpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24uc2Vzc2lvbklkID0gJycK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9LCAxMDApCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzZXRUaW1lb3V0KCgpID0+IHsKICAgIHNlc3Npb24ua2lja09mZigpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>50</text>
       </register>
     </registers>
     <search>
-      <last-search>progress</last-search>
+      <last-search>local</last-search>
       <last-offset />
-      <last-pattern>progress</last-pattern>
+      <last-pattern>local</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1380,8 +1397,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzb2NrZXRcPg==</entry>
-        <entry>socket.emit</entry>
         <entry>values</entry>
         <entry>this.sockets</entry>
         <entry encoding="base64">XDxkaXNjb25uZWN0XD4=</entry>
@@ -1400,6 +1415,8 @@
         <entry>info</entry>
         <entry>progess</entry>
         <entry>progress</entry>
+        <entry>teacher</entry>
+        <entry>local</entry>
       </history-search>
       <history-cmd>
         <entry>goto 5</entry>
