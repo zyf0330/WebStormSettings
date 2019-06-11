@@ -1190,6 +1190,9 @@
       <file name="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" timestamp="1557471815006">
         <mark key="'" line="86" column="23" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/api/routes.ts" timestamp="1560151077209">
+        <mark key="'" line="150" column="28" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" timestamp="1559642402487">
         <mark key="'" line="234" column="18" />
         <mark key="[" line="237" column="0" />
@@ -1206,12 +1209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/chat/chat.spec.js" />
-      <jump line="29" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="153" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="16" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/package.json" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/protos/tinder/system/session/session.proto" />
-      <jump line="25" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/chat/chat.spec.js" />
       <jump line="20" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/package.json" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/ETCD.js" />
       <jump line="159" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
@@ -1306,6 +1303,12 @@
       <jump line="112" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="32" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/session/index.js" />
       <jump line="69" column="14" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/collects/collectEvent.ts" />
+      <jump line="20" column="3" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/api/routes.ts" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/api/routes.ts" />
+      <jump line="5" column="39" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/api/routes.ts" />
+      <jump line="87" column="34" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/api/routes.ts" />
+      <jump line="147" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/api/routes.ts" />
+      <jump line="150" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/api/routes.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1324,7 +1327,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>info</text>
+        <text>progress</text>
       </register>
       <register name="0" type="4">
         <text>systemSession</text>
@@ -1367,9 +1370,9 @@
       </register>
     </registers>
     <search>
-      <last-search>info</last-search>
+      <last-search>progress</last-search>
       <last-offset />
-      <last-pattern>info</last-pattern>
+      <last-pattern>progress</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1377,8 +1380,6 @@
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
-        <entry encoding="base64">XDxzb2NrZXRzXD4=</entry>
         <entry encoding="base64">XDxzb2NrZXRcPg==</entry>
         <entry>socket.emit</entry>
         <entry>values</entry>
@@ -1397,6 +1398,8 @@
         <entry>getby</entry>
         <entry>collect</entry>
         <entry>info</entry>
+        <entry>progess</entry>
+        <entry>progress</entry>
       </history-search>
       <history-cmd>
         <entry>goto 5</entry>
