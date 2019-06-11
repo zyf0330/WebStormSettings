@@ -678,6 +678,10 @@
         <mark key="." line="15" column="49" />
         <mark key="^" line="15" column="49" />
       </file>
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/node_modules/mongodb/lib/collection.js" timestamp="1560239911554">
+        <mark key="[" line="274" column="11" />
+        <mark key="]" line="274" column="18" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/etcdConfig" timestamp="1551084961353">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="9" />
@@ -779,12 +783,12 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" timestamp="1560239883976">
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" timestamp="1560240841894">
         <mark key="'" line="7" column="14" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="13" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="36" />
+        <mark key="." line="29" column="36" />
+        <mark key="^" line="29" column="36" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/.arclint" timestamp="1541487440178">
         <mark key="[" line="27" column="22" />
@@ -1102,7 +1106,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1560237736653">
+      <file name="/JavaScript Console" timestamp="1560240754624">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1350,7 +1354,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>query</text>
+        <text>: doc.ping</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1359,7 +1363,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>: doc.ping</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1368,16 +1372,16 @@
         <text>todo</text>
       </register>
       <register name="0" type="4">
-        <text>ObjectId</text>
+        <text>{Cursor}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9pZDogeyRndGU6IG5ldyBPYmplY3RJRCgnNWMyYTNkMDAwMDAwMDAwMDAwMDAwMDAwJyl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBfaWQ6IHskZ3RlOiBuZXcgT2JqZWN0SUQoJzVjMmEzZDAwMDAwMDAwMDAwMDAwMDAwMCcpfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1386,27 +1390,22 @@
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXBvcnRzQ29sLmZpbmQoeydtZXJjaGFudC5pZCc6IDUyOTZ9KQo=</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHsK</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-        if (err) {
-          return rej(err)
-        }
-        res(client)
-      }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvKioKICAgKiB7Q3Vyc29yfQogICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtb25nby5jb2xsZWN0aW9uKGNvbUNsaWVudCkK</text>
+        <text encoding="base64">ICAgIF9pZDogeyRndGU6IG5ldyBPYmplY3RJRCgnNWMyYTNkMDAwMDAwMDAwMDAwMDAwMDAwJyl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb2xsZWN0aW9uKGNsaWVudCwgbmFtZSkgewogICAgcmV0dXJuIGNsaWVudC5kYigpLmNvbGxlY3Rpb24obmFtZSkKICB9LAogIGFzeW5jIGNsb3NlKGNsaWVudCkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXMpID0+IHsKICAgICAgY2xpZW50LmNsb3NlKHJlcykKICAgIH0pCiAgfSwK</text>
+        <text encoding="base64">ICBfaWQ6IHskZ3RlOiBuZXcgT2JqZWN0SUQoJzVjMmEzZDAwMDAwMDAwMDAwMDAwMDAwMCcpfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
