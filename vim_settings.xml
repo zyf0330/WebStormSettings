@@ -522,9 +522,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/config.yaml" timestamp="1560237813038">
-        <mark key="[" line="1" column="67" />
-        <mark key="]" line="2" column="6" />
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/config.yaml" timestamp="1560238148202">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
@@ -589,11 +589,11 @@
         <mark key="^" line="42" column="40" />
         <mark key="." line="42" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/mongo.js" timestamp="1560237589776">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="13" column="10" />
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/mongo.js" timestamp="1560238302398">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+        <mark key="^" line="12" column="7" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/Service.js" timestamp="1550805595420">
         <mark key="[" line="57" column="30" />
@@ -646,6 +646,10 @@
         <mark key="]" line="28" column="19" />
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/node_modules/mongodb/lib/mongo_client.js" timestamp="1560238259570">
+        <mark key="[" line="328" column="11" />
+        <mark key="]" line="328" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.js" timestamp="1558598058930">
         <mark key="[" line="3" column="54" />
@@ -775,6 +779,13 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" timestamp="1560239055249">
+        <mark key="'" line="9" column="32" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="18" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/.arclint" timestamp="1541487440178">
         <mark key="[" line="27" column="22" />
         <mark key="]" line="27" column="22" />
@@ -822,6 +833,10 @@
         <mark key="]" line="38" column="56" />
         <mark key="." line="38" column="56" />
         <mark key="^" line="45" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/指标.md" timestamp="1560239047490">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="46" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/client.js" timestamp="1554891133919">
         <mark key="[" line="14" column="15" />
@@ -1232,8 +1247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
-      <jump line="18" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/index.js" />
       <jump line="59" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="90" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
       <jump line="239" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
@@ -1332,10 +1345,12 @@
       <jump line="26" column="4" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
       <jump line="62" column="1" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
       <jump line="1" column="24" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
+      <jump line="10" column="12" filename="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" />
+      <jump line="9" column="32" filename="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>net</text>
+        <text>(</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1344,7 +1359,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>net</text>
+        <text>(</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1353,43 +1368,45 @@
         <text>todo</text>
       </register>
       <register name="0" type="4">
-        <text>mongoClient</text>
+        <text>({'merchant.id': 5296})</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCB3YXRjaHNlc3Npb25zID0gY2xpZW50LmRiKCkuY29sbGVjdGlvbignd2F0Y2hzZXNzaW9ucycpCiAgY29uc3QgY29sbGVjdGV2ZW50cyA9IGNsaWVudC5kYigpLmNvbGxlY3Rpb24oJ2NvbGxlY3RldmVudHMnKQogIGF3YWl0IGZpeERhdGEod2F0Y2hzZXNzaW9ucywgY29sbGVjdGV2ZW50cykKICBhd2FpdCBjbGllbnQuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjbGllbnQ6IGdldHQK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgT2JqZWN0SUQgPSBtb25nb2RiLk9iamVjdElECg==</text>
+      <register name="3" type="4">
+        <text>{
+        if (err) {
+          return rej(err)
+        }
+        res(client)
+      }</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnY29uZmlnJykK</text>
+        <text encoding="base64">ICBtb25nby5jb2xsZWN0aW9uKGNvbUNsaWVudCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb2xsZWN0aW9uKGNsaWVudCwgbmFtZSkgewogICAgcmV0dXJuIGNsaWVudC5kYigpLmNvbGxlY3Rpb24obmFtZSkKICB9LAogIGFzeW5jIGNsb3NlKGNsaWVudCkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXMpID0+IHsKICAgICAgY2xpZW50LmNsb3NlKHJlcykKICAgIH0pCiAgfSwK</text>
       </register>
-      <register name="6" type="4">
-        <text>function main() {
-  const result = handleReports([reportData])
-  console.log(result)
-}</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bWFpbigpCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgY29tQ2xpZW50ID0gbW9uZ28uaW5pdENsaWVudChjb25maWcubW9uZ29kYlVybC5jb20pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aGFuZGxlUmVwb3J0cyhbcmVwb3J0RGF0YV0pCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudC5jbG9zZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLy9yZWNvbm4vZ2M=</text>
