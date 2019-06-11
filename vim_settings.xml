@@ -77,12 +77,12 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" timestamp="1560228022482">
-        <mark key="'" line="429" column="3" />
-        <mark key="[" line="429" column="5" />
-        <mark key="]" line="429" column="10" />
-        <mark key="." line="429" column="10" />
-        <mark key="^" line="429" column="10" />
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" timestamp="1560228784990">
+        <mark key="'" line="403" column="19" />
+        <mark key="[" line="402" column="0" />
+        <mark key="]" line="402" column="0" />
+        <mark key="." line="402" column="0" />
+        <mark key="^" line="433" column="1" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/onCommand.js" timestamp="1550803130382">
         <mark key="[" line="33" column="8" />
@@ -1086,7 +1086,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1560227530269">
+      <file name="/JavaScript Console" timestamp="1560228703908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1227,7 +1227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="142" column="51" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/session/index.js" />
       <jump line="106" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="111" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/index.js" />
@@ -1327,10 +1326,11 @@
       <jump line="393" column="11" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
       <jump line="391" column="12" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
       <jump line="429" column="3" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
+      <jump line="404" column="19" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>数值无意义</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBpbmdSb2xlUmVzdWx0ID0gc3RhdGlzdGljcy5waW5nW3JvbGVdCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1339,7 +1339,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>数值无意义</text>
+        <text>pingRoleResult</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1348,40 +1348,40 @@
         <text>handle</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cmVzdWx0cy5waW5nW3JvbGVdIA==</text>
+        <text>statisticsData</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBpbmdSb2xlUmVzdWx0ID0gc3RhdGlzdGljcy5waW5nW3JvbGVdCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKHJlc3VsdHMucGluZ1tyb2xlXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVhY2hlciByZWNvbm4gbG9jYWwgZmFpbCwgMSwgMCwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgMCwgMSwgMCwgNAp0ZWFjaGVyIHJlY29ubiBmdWxsIGZhaWwsCnN0dWRlbnQgcmVjb25uIGxvY2FsIGZhaWwsCnN0dWRlbnQgcmVjb25uIGZ1bGwgZmFpbCwK</text>
+        <text encoding="base64">ICAgICAgcnR0X2RldGFpbFtgJHtwYXRoVHlwZX1fbWVhbmBdID0K</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgbyA9IG1hdGgubWVhbihbCiAgNTksCiAgMCwKICA2MiwKICA2NCwKICA1OCwKICA1OSwKICA1OSwKICA2MywKICA2MywKICA2MSwKICA2MiwKICA1OCwKICA2MywKICA2NCwKICA1OCwKICA2NSwKICA1OSwKICA2MSwKICA1NywKICA2NSwKICA2NCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDAsCiAgMCwKICAwLAogIDQ0LAogIDQwLAogIDQzLAogIDM0LAogIDM3LAogIDM5LAogIDM5LAogIDQ0LAogIDM0LAogIDM1LAogIDQ4LAogIDM5LAogIDQwLAogIDQwLAogIDQyLAogIDM2LApdLmZpbHRlcihuID0+IG4gIT0gMCkpCm8K</text>
+        <text encoding="base64">ICAgIGlmIChyZXN1bHRzLnBpbmdbcm9sZV0gPT0gbnVsbCkgewogICAgICByZXN1bHRzLnBpbmdbcm9sZV0gPSB7IG1lYW46IFtdLCBtZWRpYW46IFtdIH0KICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWVhCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZGV0YWlsU2VyaWVzID0gIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoc2VyaWVzLmxlbmd0aCA9PSAwKSB7CiAgICBzZXJpZXMucHVzaCgwKQogIH0K</text>
+        <text encoding="base64">ICAgICAgcm9sZVBpbmcucnR0X2RldGFpbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgdHlwZXMgPSBbJ3BpbmcnLCAncmVjb25uJ10K</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZGV0YWlsID0gJ3J0dF9kZXRhaWwnIGluIHJvbGVQaW5nID8gcm9sZVBpbmcucnR0X2RldGFpbFtwYXRoVHlwZV0gOiB7fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0cy5wdXNoKCkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKHJlc3VsdHMucGluZ1tyb2xlXSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLy9yZWNvbm4vZ2M=</text>
