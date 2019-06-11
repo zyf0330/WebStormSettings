@@ -77,10 +77,12 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" timestamp="1560220311061">
-        <mark key="'" line="128" column="7" />
-        <mark key="[" line="158" column="21" />
-        <mark key="]" line="158" column="370" />
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" timestamp="1560223732870">
+        <mark key="'" line="0" column="27" />
+        <mark key="[" line="382" column="51" />
+        <mark key="]" line="382" column="51" />
+        <mark key="." line="382" column="51" />
+        <mark key="^" line="382" column="51" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/onCommand.js" timestamp="1550803130382">
         <mark key="[" line="33" column="8" />
@@ -1079,7 +1081,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1559643607171">
+      <file name="/JavaScript Console" timestamp="1560223261703">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1212,18 +1214,14 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.csv" timestamp="1560220391928">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.csv" timestamp="1560222691435">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="24" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="6" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/index.js" />
-      <jump line="74" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/__test__/chat/chat.spec.js" />
       <jump line="47" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="18" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="59" column="41" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/broadcast/index.js" />
@@ -1316,15 +1314,18 @@
       <jump line="87" column="34" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/api/routes.ts" />
       <jump line="147" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/api/routes.ts" />
       <jump line="150" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/api/routes.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
-      <jump line="7" column="7" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
       <jump line="127" column="7" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
       <jump line="128" column="7" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
+      <jump line="195" column="13" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
+      <jump line="374" column="0" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
+      <jump line="7" column="7" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
+      <jump line="18" column="27" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
+      <jump line="302" column="15" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
+      <jump line="0" column="27" filename="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>teacher
-teacher</text>
+      <register name="&quot;" type="4">
+        <text>{}</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1333,63 +1334,62 @@ teacher</text>
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>teacher</text>
+        <text>{}</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>local</text>
+        <text>iso</text>
       </register>
-      <register name="0" type="8">
-        <text>teacher reconn local fai
-teacher reconn full fail</text>
+      <register name="0" type="4">
+        <text>handleDetailSeries</text>
       </register>
-      <register name="1" type="8">
-        <text>teacher
-teacher</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>student
-student
-student
-student</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVhY2hlciBydHQgZnVsbCwgCg==</text>
+        <text encoding="base64">ICAgIGRldGFpbFNlcmllcwo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGVhY2hlciBydHQgZnVsbCwgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVhY2hlciBydHQgZnVsbCwgCg==</text>
+        <text encoding="base64">ICBwaW5nW3JvbGVdLnJ0dF9kZXRhaWxbdHlwZV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9LCAxMDApCg==</text>
+        <text encoding="base64">cmVwb3J0LnBpbmcudGVhY2hlci5ydHRfZGV0YWlsLmZ1bGwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBzZXRUaW1lb3V0KCgpID0+IHsKICAgIHNlc3Npb24ua2lja09mZigpCg==</text>
+      <register name="8" type="8">
+        <text>teacher
+teacher</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="8">
+        <text>student
+student
+student
+student</text>
       </register>
       <register name=":" type="4">
         <text>50</text>
       </register>
     </registers>
     <search>
-      <last-search>local</last-search>
+      <last-search>iso</last-search>
       <last-offset />
-      <last-pattern>local</last-pattern>
+      <last-pattern>iso</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1397,7 +1397,6 @@ student</text>
     </search>
     <history>
       <history-search>
-        <entry>values</entry>
         <entry>this.sockets</entry>
         <entry encoding="base64">XDxkaXNjb25uZWN0XD4=</entry>
         <entry>apperror</entry>
@@ -1417,6 +1416,7 @@ student</text>
         <entry>progress</entry>
         <entry>teacher</entry>
         <entry>local</entry>
+        <entry>iso</entry>
       </history-search>
       <history-cmd>
         <entry>goto 5</entry>
