@@ -238,10 +238,10 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" timestamp="1560310381832">
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" timestamp="1560310768078">
         <mark key="'" line="26" column="8" />
-        <mark key="[" line="34" column="64" />
-        <mark key="]" line="34" column="72" />
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="34" column="62" />
         <mark key="." line="34" column="67" />
         <mark key="^" line="34" column="67" />
       </file>
@@ -702,7 +702,7 @@
       <file name="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" timestamp="1556191544674">
         <mark key="'" line="53" column="8093" />
       </file>
-      <file name="/JavaScript Console" timestamp="1560310700937">
+      <file name="/JavaScript Console" timestamp="1560321422521">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -817,8 +817,11 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="59" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" timestamp="1559197840231">
-        <mark key="'" line="24" column="9" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" timestamp="1560321468833">
+        <mark key="'" line="69" column="12" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/node_modules/convict/lib/convict.js" timestamp="1559545278183">
         <mark key="'" line="766" column="6" />
@@ -882,9 +885,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="154" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="5" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="34" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="74" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
       <jump line="42" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
@@ -982,10 +982,13 @@
       <jump line="0" column="654" filename="$USER_HOME$/Desktop/bolatuAnalyze/reports-com.json" />
       <jump line="14" column="7" filename="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" />
       <jump line="79" column="22" filename="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" />
+      <jump line="127" column="14" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="71" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="69" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmNvbnN0IHJlcyA9IHBhcnNlUnVsZSh7Im1lc3NhZ2UiOnsicm9vbSI6Imp6NjM5ZDdhZjkyMzI5NDdmZDlmYWQ2OGFmMzAxYTE2NGMiLCJ1aWQiOiJqejQ5MzdkYzU0MjA2YTQxNzU5MWRmYmFlNWU1YmQwZDE0OnQiLCJwYXJ0bmVySWQiOiIyMDE4MDMwNzE1MjAwODMyNTI5NiIsInNpIjo0MzA0NSwiY3QiOjEsIlN0YXR1cyI6IltGaXJzdENsdE9ubGluZV1qejQ5MzdkYzU0MjA2YTQxNzU5MWRmYmFlNWU1YmQwZDE0In0sInRpbWVzdGFtcCI6IjIwMTktMDYtMTFUMTE6NTc6MjkuODgxWiIsImlwIjoiMjIyLjI0Ny4xNjcuMTk0IiwidWEiOiJTZGtWZXJzaW9uL2RieS1ub2RlLXNkayB2MC4xNS4xNiAod3d3LmR1b2JlaXl1bi5jb20pOyBBcHBWZXJzaW9uL3YyLjIuMF9iZXRhX2FydCAuIChidWlsdCBvbiBNYXkgMjcgMjAxOSAxMjoyMTo1ODsgc3VwcG9ydCB1bmlzb2NrZXQgKTsgZ2l0IChicmFuY2gvbGl2ZXBsYXkgY29tbWl0LzdlZWEzZjg3NjkzNTRmOGMxMTUyOTg2NDdhOWY3OWE3ZmRmOTk5YTQpIn0ubWVzc2FnZS5TdGF0dXMpCnJlcwo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -994,58 +997,58 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>com</text>
+        <text>c</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>com</text>
+        <text>status</text>
       </register>
       <register name="0" type="4">
         <text>handlePromise</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgZmluYWxseShhc3luYyAoKSA9PiB7CiAgfSkK</text>
+        <text encoding="base64">CmNvbnN0IHJlcyA9IHBhcnNlUnVsZSh7Im1lc3NhZ2UiOnsicm9vbSI6Imp6NjM5ZDdhZjkyMzI5NDdmZDlmYWQ2OGFmMzAxYTE2NGMiLCJ1aWQiOiJqejQ5MzdkYzU0MjA2YTQxNzU5MWRmYmFlNWU1YmQwZDE0OnQiLCJwYXJ0bmVySWQiOiIyMDE4MDMwNzE1MjAwODMyNTI5NiIsInNpIjo0MzA0NSwiY3QiOjEsIlN0YXR1cyI6IltGaXJzdENsdE9ubGluZV1qejQ5MzdkYzU0MjA2YTQxNzU5MWRmYmFlNWU1YmQwZDE0In0sInRpbWVzdGFtcCI6IjIwMTktMDYtMTFUMTE6NTc6MjkuODgxWiIsImlwIjoiMjIyLjI0Ny4xNjcuMTk0IiwidWEiOiJTZGtWZXJzaW9uL2RieS1ub2RlLXNkayB2MC4xNS4xNiAod3d3LmR1b2JlaXl1bi5jb20pOyBBcHBWZXJzaW9uL3YyLjIuMF9iZXRhX2FydCAuIChidWlsdCBvbiBNYXkgMjcgMjAxOSAxMjoyMTo1ODsgc3VwcG9ydCB1bmlzb2NrZXQgKTsgZ2l0IChicmFuY2gvbGl2ZXBsYXkgY29tbWl0LzdlZWEzZjg3NjkzNTRmOGMxMTUyOTg2NDdhOWY3OWE3ZmRmOTk5YTQpIn0ubWVzc2FnZS5TdGF0dXMpCnJlcwo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgZmluYWxseShhc3luYyAoKSA9PiB7CiAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGNvbUNsaWVudC5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd3JpdGVTdHJlYW0uY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IGNvbUNsaWVudC5jbG9zZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgMSAgIGN1cnNvclN0cmVhbS5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgd3JpdGVTdHJlYW0uY2xvc2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgMSAgIGN1cnNvclN0cmVhbS5jbG9zZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhd2FpdCBjb21DbGllbnQuY2xvc2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGUK</text>
+        <text encoding="base64">ICBhd2FpdCBjb21DbGllbnQuY2xvc2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGUK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>com</last-search>
+      <last-search>status</last-search>
       <last-offset />
-      <last-pattern>com</last-pattern>
+      <last-pattern>status</last-pattern>
       <last-replace>reconn</last-replace>
       <last-substitute>ping</last-substitute>
       <last-dir>1</last-dir>
@@ -1053,9 +1056,6 @@
     </search>
     <history>
       <history-search>
-        <entry>release</entry>
-        <entry encoding="base64">XDxnZXRCeUlkc1w+</entry>
-        <entry>getbyid</entry>
         <entry>getby</entry>
         <entry>collect</entry>
         <entry>info</entry>
@@ -1073,6 +1073,9 @@
         <entry encoding="base64">XDxyZWpcPg==</entry>
         <entry>mean</entry>
         <entry>com</entry>
+        <entry>type</entry>
+        <entry encoding="base64">XDxwYXJzZVJ1bGVcPg==</entry>
+        <entry>status</entry>
       </history-search>
       <history-cmd>
         <entry>goto 5,10</entry>
