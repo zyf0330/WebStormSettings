@@ -71,6 +71,9 @@
         <mark key="." line="44" column="8" />
         <mark key="^" line="44" column="8" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" timestamp="1560321591884">
+        <mark key="'" line="131" column="7" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/index.js" timestamp="1559628980700">
         <mark key="'" line="6" column="11" />
       </file>
@@ -458,8 +461,8 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/redisRecord.js" timestamp="1557905405677">
-        <mark key="'" line="243" column="19" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/redisRecord.js" timestamp="1560321614178">
+        <mark key="'" line="18" column="6" />
       </file>
       <file name="/fragment.js" timestamp="1560243814678">
         <mark key="[" line="0" column="0" />
@@ -563,12 +566,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" timestamp="1560310699329">
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" timestamp="1560322266690">
         <mark key="'" line="79" column="22" />
-        <mark key="[" line="79" column="41" />
-        <mark key="]" line="79" column="43" />
-        <mark key="." line="79" column="43" />
-        <mark key="^" line="79" column="43" />
+        <mark key="[" line="86" column="15" />
+        <mark key="]" line="86" column="17" />
+        <mark key="." line="86" column="17" />
+        <mark key="^" line="86" column="17" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/errorHandler.js" timestamp="1557038362046">
         <mark key="[" line="8" column="38" />
@@ -885,10 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="74" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
-      <jump line="42" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" />
-      <jump line="101" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="151" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="37" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
@@ -985,10 +984,14 @@
       <jump line="127" column="14" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
       <jump line="71" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
       <jump line="69" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="99" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
+      <jump line="123" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
+      <jump line="131" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
+      <jump line="18" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/redisRecord.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmNvbnN0IHJlcyA9IHBhcnNlUnVsZSh7Im1lc3NhZ2UiOnsicm9vbSI6Imp6NjM5ZDdhZjkyMzI5NDdmZDlmYWQ2OGFmMzAxYTE2NGMiLCJ1aWQiOiJqejQ5MzdkYzU0MjA2YTQxNzU5MWRmYmFlNWU1YmQwZDE0OnQiLCJwYXJ0bmVySWQiOiIyMDE4MDMwNzE1MjAwODMyNTI5NiIsInNpIjo0MzA0NSwiY3QiOjEsIlN0YXR1cyI6IltGaXJzdENsdE9ubGluZV1qejQ5MzdkYzU0MjA2YTQxNzU5MWRmYmFlNWU1YmQwZDE0In0sInRpbWVzdGFtcCI6IjIwMTktMDYtMTFUMTE6NTc6MjkuODgxWiIsImlwIjoiMjIyLjI0Ny4xNjcuMTk0IiwidWEiOiJTZGtWZXJzaW9uL2RieS1ub2RlLXNkayB2MC4xNS4xNiAod3d3LmR1b2JlaXl1bi5jb20pOyBBcHBWZXJzaW9uL3YyLjIuMF9iZXRhX2FydCAuIChidWlsdCBvbiBNYXkgMjcgMjAxOSAxMjoyMTo1ODsgc3VwcG9ydCB1bmlzb2NrZXQgKTsgZ2l0IChicmFuY2gvbGl2ZXBsYXkgY29tbWl0LzdlZWEzZjg3NjkzNTRmOGMxMTUyOTg2NDdhOWY3OWE3ZmRmOTk5YTQpIn0ubWVzc2FnZS5TdGF0dXMpCnJlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>const</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -997,16 +1000,16 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>const</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>firstclientonline</text>
       </register>
-      <register name="0" type="4">
-        <text>handlePromise</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCByZXBvcnREYXRhcyA9IHJlcXVpcmUoJy4vcmVwb3J0cy1jb20uanNvbicpCiAgY29uc3QgcmVzdWx0ID0gaGFuZGxlUmVwb3J0cyhyZXBvcnREYXRhcykKICByZXN1bHQuY291bnQgPSByZXBvcnREYXRhcy5sZW5ndGgKICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmNvbnN0IHJlcyA9IHBhcnNlUnVsZSh7Im1lc3NhZ2UiOnsicm9vbSI6Imp6NjM5ZDdhZjkyMzI5NDdmZDlmYWQ2OGFmMzAxYTE2NGMiLCJ1aWQiOiJqejQ5MzdkYzU0MjA2YTQxNzU5MWRmYmFlNWU1YmQwZDE0OnQiLCJwYXJ0bmVySWQiOiIyMDE4MDMwNzE1MjAwODMyNTI5NiIsInNpIjo0MzA0NSwiY3QiOjEsIlN0YXR1cyI6IltGaXJzdENsdE9ubGluZV1qejQ5MzdkYzU0MjA2YTQxNzU5MWRmYmFlNWU1YmQwZDE0In0sInRpbWVzdGFtcCI6IjIwMTktMDYtMTFUMTE6NTc6MjkuODgxWiIsImlwIjoiMjIyLjI0Ny4xNjcuMTk0IiwidWEiOiJTZGtWZXJzaW9uL2RieS1ub2RlLXNkayB2MC4xNS4xNiAod3d3LmR1b2JlaXl1bi5jb20pOyBBcHBWZXJzaW9uL3YyLjIuMF9iZXRhX2FydCAuIChidWlsdCBvbiBNYXkgMjcgMjAxOSAxMjoyMTo1ODsgc3VwcG9ydCB1bmlzb2NrZXQgKTsgZ2l0IChicmFuY2gvbGl2ZXBsYXkgY29tbWl0LzdlZWEzZjg3NjkzNTRmOGMxMTUyOTg2NDdhOWY3OWE3ZmRmOTk5YTQpIn0ubWVzc2FnZS5TdGF0dXMpCnJlcwo=</text>
@@ -1046,9 +1049,9 @@
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>firstclientonline</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>firstclientonline</last-pattern>
       <last-replace>reconn</last-replace>
       <last-substitute>ping</last-substitute>
       <last-dir>1</last-dir>
@@ -1056,9 +1059,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getby</entry>
-        <entry>collect</entry>
-        <entry>info</entry>
         <entry>progess</entry>
         <entry>progress</entry>
         <entry>teacher</entry>
@@ -1076,6 +1076,9 @@
         <entry>type</entry>
         <entry encoding="base64">XDxwYXJzZVJ1bGVcPg==</entry>
         <entry>status</entry>
+        <entry encoding="base64">XDxGaXJzdENsdE9ubGluZVw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVyc1w+</entry>
+        <entry>firstclientonline</entry>
       </history-search>
       <history-cmd>
         <entry>goto 5,10</entry>
