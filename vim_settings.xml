@@ -238,12 +238,12 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" timestamp="1560305645644">
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" timestamp="1560310381832">
         <mark key="'" line="26" column="8" />
-        <mark key="[" line="34" column="62" />
-        <mark key="]" line="34" column="62" />
-        <mark key="." line="34" column="62" />
-        <mark key="^" line="34" column="62" />
+        <mark key="[" line="34" column="64" />
+        <mark key="]" line="34" column="72" />
+        <mark key="." line="34" column="67" />
+        <mark key="^" line="34" column="67" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/confd/conf.d/streamSyncConfig.js.toml" timestamp="1551081356600">
         <mark key="[" line="3" column="10" />
@@ -563,9 +563,9 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" timestamp="1560305901728">
-        <mark key="'" line="33" column="43" />
-        <mark key="[" line="79" column="40" />
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" timestamp="1560310699329">
+        <mark key="'" line="79" column="22" />
+        <mark key="[" line="79" column="41" />
         <mark key="]" line="79" column="43" />
         <mark key="." line="79" column="43" />
         <mark key="^" line="79" column="43" />
@@ -702,7 +702,7 @@
       <file name="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" timestamp="1556191544674">
         <mark key="'" line="53" column="8093" />
       </file>
-      <file name="/JavaScript Console" timestamp="1560305912708">
+      <file name="/JavaScript Console" timestamp="1560310700937">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -762,7 +762,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559647200172">
+      <file name="/Dummy.txt" timestamp="1560307627204">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="27" />
@@ -882,7 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="152" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="154" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="5" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
@@ -979,13 +978,14 @@
       <jump line="26" column="8" filename="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" />
       <jump line="78" column="17" filename="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" />
-      <jump line="14" column="15" filename="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" />
       <jump line="33" column="43" filename="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" />
       <jump line="0" column="654" filename="$USER_HOME$/Desktop/bolatuAnalyze/reports-com.json" />
+      <jump line="14" column="7" filename="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" />
+      <jump line="79" column="22" filename="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{ _id, room, ping, reconn }</text>
+        <text>com</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -994,13 +994,13 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>{ _id, room, ping, reconn }</text>
+        <text>com</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>mean</text>
+        <text>com</text>
       </register>
       <register name="0" type="4">
         <text>handlePromise</text>
@@ -1043,17 +1043,16 @@
       </register>
     </registers>
     <search>
-      <last-search>mean</last-search>
+      <last-search>com</last-search>
       <last-offset />
-      <last-pattern>mean</last-pattern>
+      <last-pattern>com</last-pattern>
       <last-replace>reconn</last-replace>
       <last-substitute>ping</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry>release</entry>
         <entry encoding="base64">XDxnZXRCeUlkc1w+</entry>
         <entry>getbyid</entry>
@@ -1073,6 +1072,7 @@
         <entry encoding="base64">XDxkYXRlUmFuZ2VcPg==</entry>
         <entry encoding="base64">XDxyZWpcPg==</entry>
         <entry>mean</entry>
+        <entry>com</entry>
       </history-search>
       <history-cmd>
         <entry>goto 5,10</entry>
