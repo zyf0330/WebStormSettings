@@ -566,11 +566,11 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" timestamp="1560322266690">
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" timestamp="1560323573034">
         <mark key="'" line="79" column="22" />
-        <mark key="[" line="86" column="15" />
-        <mark key="]" line="86" column="17" />
-        <mark key="." line="86" column="17" />
+        <mark key="[" line="82" column="21" />
+        <mark key="]" line="82" column="21" />
+        <mark key="." line="82" column="21" />
         <mark key="^" line="86" column="17" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/errorHandler.js" timestamp="1557038362046">
@@ -820,8 +820,8 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="59" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" timestamp="1560321468833">
-        <mark key="'" line="69" column="12" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" timestamp="1560322599709">
+        <mark key="'" line="10" column="6" />
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
@@ -888,7 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="37" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="42" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
@@ -988,10 +987,11 @@
       <jump line="123" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
       <jump line="131" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" />
       <jump line="18" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/redisRecord.js" />
+      <jump line="10" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text>h</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1000,13 +1000,13 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>h</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>firstclientonline</text>
+        <text encoding="base64">XDxpbmZsdXhTZW5kXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCByZXBvcnREYXRhcyA9IHJlcXVpcmUoJy4vcmVwb3J0cy1jb20uanNvbicpCiAgY29uc3QgcmVzdWx0ID0gaGFuZGxlUmVwb3J0cyhyZXBvcnREYXRhcykKICByZXN1bHQuY291bnQgPSByZXBvcnREYXRhcy5sZW5ndGgKICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
@@ -1049,9 +1049,9 @@
       </register>
     </registers>
     <search>
-      <last-search>firstclientonline</last-search>
+      <last-search encoding="base64">XDxpbmZsdXhTZW5kXD4=</last-search>
       <last-offset />
-      <last-pattern>firstclientonline</last-pattern>
+      <last-pattern encoding="base64">XDxpbmZsdXhTZW5kXD4=</last-pattern>
       <last-replace>reconn</last-replace>
       <last-substitute>ping</last-substitute>
       <last-dir>1</last-dir>
@@ -1059,7 +1059,6 @@
     </search>
     <history>
       <history-search>
-        <entry>progess</entry>
         <entry>progress</entry>
         <entry>teacher</entry>
         <entry>local</entry>
@@ -1079,6 +1078,7 @@
         <entry encoding="base64">XDxGaXJzdENsdE9ubGluZVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVyc1w+</entry>
         <entry>firstclientonline</entry>
+        <entry encoding="base64">XDxpbmZsdXhTZW5kXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>goto 5,10</entry>
