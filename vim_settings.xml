@@ -317,9 +317,11 @@
         <mark key="." line="26" column="78" />
         <mark key="^" line="26" column="78" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/指标.md" timestamp="1560239047490">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="46" />
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/指标.md" timestamp="1560418222210">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/client.js" timestamp="1554891133919">
         <mark key="[" line="14" column="15" />
@@ -567,12 +569,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" timestamp="1560395693747">
-        <mark key="'" line="79" column="22" />
-        <mark key="[" line="79" column="30" />
-        <mark key="]" line="79" column="43" />
-        <mark key="." line="79" column="43" />
-        <mark key="^" line="79" column="43" />
+      <file name="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" timestamp="1560418135407">
+        <mark key="'" line="57" column="12" />
+        <mark key="[" line="85" column="108" />
+        <mark key="]" line="85" column="107" />
+        <mark key="." line="85" column="107" />
+        <mark key="^" line="85" column="107" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/errorHandler.js" timestamp="1557038362046">
         <mark key="[" line="8" column="38" />
@@ -706,7 +708,7 @@
       <file name="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" timestamp="1556191544674">
         <mark key="'" line="53" column="8093" />
       </file>
-      <file name="/JavaScript Console" timestamp="1560395409851">
+      <file name="/JavaScript Console" timestamp="1560418176067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -766,11 +768,11 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560395434197">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1560418575939">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -889,8 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="80" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="81" column="54" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="83" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="86" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
@@ -989,10 +989,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" />
       <jump line="24" column="18" filename="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" />
       <jump line="52" column="64" filename="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" />
+      <jump line="52" column="33" filename="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" />
+      <jump line="57" column="12" filename="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'./reports-com-2019.06.03.00:00:00-2019.06.10.00:00:00.json'</text>
+        <text>从命令参数传入分析的 report 数据</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1001,58 +1003,58 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>'./reports-com-2019.06.03.00:00:00-2019.06.10.00:00:00.json'</text>
+        <text>从命令参数传入分析的 report 数据</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>from</text>
+        <text encoding="base64">XDxzdGF0aXN0aWNzRGF0YVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>${from.format('YYYY-MM-DD.HH:mm:ss')}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0YXRpc3RpY3NbYHJlY29ubi4ke3JvbGV9LmxvY2FsRmFpbC5tZWRpYW5gXSA9IG1hdGgubWVkaWFuKHJlY29ublRvdGFsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXBvcnREYXRhcyA9IHJlcXVpcmUoJy4vcmVwb3J0cy1uZXQuanNvbicpCiAgcmVzdWx0ID0gaGFuZGxlUmVwb3J0cyhyZXBvcnREYXRhcykKICByZXN1bHQuY291bnQgPSByZXBvcnREYXRhcy5sZW5ndGgKICBjb25zb2xlLmxvZygnbmV0JywgcmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdG90YWxSZWNvbm4gPSAK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXBvcnREYXRhcyA9IHJlcXVpcmUoJy4vcmVwb3J0cy1uZXQuanNvbicpCiAgcmVzdWx0ID0gaGFuZGxlUmVwb3J0cyhyZXBvcnREYXRhcykKICByZXN1bHQuY291bnQgPSByZXBvcnREYXRhcy5sZW5ndGgKICBjb25zb2xlLmxvZygnbmV0JywgcmVzdWx0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmNvbnN0IGQgPSBuZXcgRGF0ZSgpCmNvbnNvbGUubG9nKGQudG9JU09TdHJpbmcoKSkKY29uc29sZS5sb2coZXhwb3J0cy5vYmplY3RJZEZyb21EYXRlKGQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vbWVudCgpLmRkCg==</text>
+        <text encoding="base64">CmNvbnN0IGQgPSBuZXcgRGF0ZSgpCmNvbnNvbGUubG9nKGQudG9JU09TdHJpbmcoKSkKY29uc29sZS5sb2coZXhwb3J0cy5vYmplY3RJZEZyb21EYXRlKGQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgeyBPYmplY3RJZCB9ID0gcmVxdWlyZSgnbW9uZ29kYicpCg==</text>
+        <text encoding="base64">ICAgIG1vbWVudCgpLmRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZXhwb3J0cy5vYmplY3RJZEZyb21EYXRlKGQpKQo=</text>
+        <text encoding="base64">Y29uc3QgeyBPYmplY3RJZCB9ID0gcmVxdWlyZSgnbW9uZ29kYicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZC5zZXRIb3VycygwKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZXhwb3J0cy5vYmplY3RJZEZyb21EYXRlKGQpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSAK</text>
+        <text encoding="base64">ZC5zZXRIb3VycygwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>from</last-search>
+      <last-search encoding="base64">XDxzdGF0aXN0aWNzRGF0YVw+</last-search>
       <last-offset />
-      <last-pattern>from</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0aXN0aWNzRGF0YVw+</last-pattern>
       <last-replace>reconn</last-replace>
       <last-substitute>ping</last-substitute>
       <last-dir>1</last-dir>
@@ -1060,8 +1062,6 @@
     </search>
     <history>
       <history-search>
-        <entry>local</entry>
-        <entry>iso</entry>
         <entry>poing</entry>
         <entry>ping</entry>
         <entry>handle</entry>
@@ -1080,6 +1080,8 @@
         <entry encoding="base64">XDxpbmZsdXhTZW5kXD4=</entry>
         <entry>date</entry>
         <entry>from</entry>
+        <entry encoding="base64">XDx0b3RhbFw+</entry>
+        <entry encoding="base64">XDxzdGF0aXN0aWNzRGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>goto 5,10</entry>
