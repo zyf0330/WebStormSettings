@@ -775,7 +775,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560479364537">
+      <file name="/Dummy.txt" timestamp="1560500510812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="27" />
@@ -1001,7 +1001,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>M</text>
+        <text>feat(statisticsReport): 添加 localFail 和 fullFail 的统计</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1010,7 +1010,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text>feat(statisticsReport): 添加 localFail 和 fullFail 的统计</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
