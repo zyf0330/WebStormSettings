@@ -569,6 +569,13 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" timestamp="1560479266666">
+        <mark key="'" line="355" column="0" />
+        <mark key="[" line="351" column="28" />
+        <mark key="]" line="352" column="15" />
+        <mark key="^" line="352" column="15" />
+        <mark key="." line="352" column="15" />
+      </file>
       <file name="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" timestamp="1560418135407">
         <mark key="'" line="57" column="12" />
         <mark key="[" line="85" column="108" />
@@ -768,11 +775,11 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560418575939">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
+      <file name="/Dummy.txt" timestamp="1560479364537">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -891,26 +898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="54" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="83" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="86" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="89" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="92" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="193" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="185" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="183" column="58" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="172" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/protos/tinder/system/forward/forward.proto" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-proto-models/tinder/system/session/session.proto" />
-      <jump line="165" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="202" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="367" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="448" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="457" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="41" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="268" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/index.js" />
-      <jump line="82" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/src/index.d.ts" />
       <jump line="158" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/src/index.d.ts" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/src/index.d.ts" />
       <jump line="84" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/src/index.d.ts" />
@@ -991,10 +978,30 @@
       <jump line="52" column="64" filename="$USER_HOME$/Desktop/bolatuAnalyze/fetchReportData.js" />
       <jump line="52" column="33" filename="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" />
       <jump line="57" column="12" filename="$USER_HOME$/Desktop/bolatuAnalyze/statisticsReport.js" />
+      <jump line="229" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="35" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="44" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="52" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="59" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="53" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="49" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="9" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="13" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="40" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="43" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="48" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="51" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="256" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="258" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="345" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="7" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="358" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
+      <jump line="355" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>从命令参数传入分析的 report 数据</text>
+        <text>fix: 初始化消息排序策略有问题，导致 initChat 乱序</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1003,58 +1010,58 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>从命令参数传入分析的 report 数据</text>
+        <text>fix: 初始化消息排序策略有问题，导致 initChat 乱序</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0aXN0aWNzRGF0YVw+</text>
+        <text>InitDenyChatList</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRpc3RpY3NbYHJlY29ubi4ke3JvbGV9LmxvY2FsRmFpbC5tZWRpYW5gXSA9IG1hdGgubWVkaWFuKHJlY29ublRvdGFsKQo=</text>
+      <register name="0" type="4">
+        <text>InitDenyChatList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdG90YWxSZWNvbm4gPSAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXBvcnREYXRhcyA9IHJlcXVpcmUoJy4vcmVwb3J0cy1uZXQuanNvbicpCiAgcmVzdWx0ID0gaGFuZGxlUmVwb3J0cyhyZXBvcnREYXRhcykKICByZXN1bHQuY291bnQgPSByZXBvcnREYXRhcy5sZW5ndGgKICBjb25zb2xlLmxvZygnbmV0JywgcmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNvbnN0IGQgPSBuZXcgRGF0ZSgpCmNvbnNvbGUubG9nKGQudG9JU09TdHJpbmcoKSkKY29uc29sZS5sb2coZXhwb3J0cy5vYmplY3RJZEZyb21EYXRlKGQpKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vbWVudCgpLmRkCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdG90YWxSZWNvbm4gPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgeyBPYmplY3RJZCB9ID0gcmVxdWlyZSgnbW9uZ29kYicpCg==</text>
+        <text encoding="base64">ICByZXBvcnREYXRhcyA9IHJlcXVpcmUoJy4vcmVwb3J0cy1uZXQuanNvbicpCiAgcmVzdWx0ID0gaGFuZGxlUmVwb3J0cyhyZXBvcnREYXRhcykKICByZXN1bHQuY291bnQgPSByZXBvcnREYXRhcy5sZW5ndGgKICBjb25zb2xlLmxvZygnbmV0JywgcmVzdWx0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZXhwb3J0cy5vYmplY3RJZEZyb21EYXRlKGQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZC5zZXRIb3VycygwKQo=</text>
+        <text encoding="base64">CmNvbnN0IGQgPSBuZXcgRGF0ZSgpCmNvbnNvbGUubG9nKGQudG9JU09TdHJpbmcoKSkKY29uc29sZS5sb2coZXhwb3J0cy5vYmplY3RJZEZyb21EYXRlKGQpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSAK</text>
+        <text encoding="base64">ICAgIG1vbWVudCgpLmRkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0aXN0aWNzRGF0YVw+</last-search>
+      <last-search>InitDenyChatList</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0aXN0aWNzRGF0YVw+</last-pattern>
+      <last-pattern>InitDenyChatList</last-pattern>
       <last-replace>reconn</last-replace>
       <last-substitute>ping</last-substitute>
       <last-dir>1</last-dir>
@@ -1062,10 +1069,6 @@
     </search>
     <history>
       <history-search>
-        <entry>poing</entry>
-        <entry>ping</entry>
-        <entry>handle</entry>
-        <entry encoding="base64">XDxoYW5kbGVSZXBvcnRzXD4=</entry>
         <entry>todo</entry>
         <entry encoding="base64">XDxkYXRlUmFuZ2VcPg==</entry>
         <entry encoding="base64">XDxyZWpcPg==</entry>
@@ -1082,6 +1085,10 @@
         <entry>from</entry>
         <entry encoding="base64">XDx0b3RhbFw+</entry>
         <entry encoding="base64">XDxzdGF0aXN0aWNzRGF0YVw+</entry>
+        <entry>denychatbyuid</entry>
+        <entry encoding="base64">XDxhcmdzXD4=</entry>
+        <entry>chat</entry>
+        <entry>InitDenyChatList</entry>
       </history-search>
       <history-cmd>
         <entry>goto 5,10</entry>
