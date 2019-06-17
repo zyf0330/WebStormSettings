@@ -794,8 +794,10 @@
       <file name="/media/zyf/data/Programming/project/duobei/node-rtmp-message-server/src/Socket.ts" timestamp="1560762886465">
         <mark key="'" line="135" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560762773197">
+      <file name="/Dummy.txt" timestamp="1560763926679">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
         <mark key="[" line="1" column="7" />
@@ -1025,7 +1027,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>emit</text>
+        <text>fix(Socket): 向客户端发送广播的接口调用错误</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1034,7 +1036,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>emit</text>
+        <text>fix(Socket): 向客户端发送广播的接口调用错误</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1045,39 +1047,40 @@
       <register name="0" type="4">
         <text>'disconnectReason'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+      <register name="1" type="4">
+        <text>chore(socket/connect): 现在连接日志会记录客户端 ip
+获取的是 tcp 连接的 remoteAddress，可能是代理地址</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zb2NrZXQuZW1pdCgnZGlzY29ubmVjdFJlYXNvbicsIHJlYXNvbikgLy8gVE9ETwo=</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zb2NrZXQuZW1pdCgnZGlzY29ubmVjdFJlYXNvbicsIHJlYXNvbikgLy8gVE9ETwo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5lbWl0KCdsb2dpblN1Y2Nlc3MnKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgTWF0aC4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5lbWl0KCdsb2dpblN1Y2Nlc3MnKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgTWF0aC4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>- RTT
 - Reconn 的 local 和 full</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjoge30sCg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s//std/gc</text>
