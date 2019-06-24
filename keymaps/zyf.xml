@@ -38,6 +38,7 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="FindInPath" />
   <action id="GuiDesigner.Duplicate">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>

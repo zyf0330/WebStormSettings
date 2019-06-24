@@ -379,11 +379,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="13" column="49" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/index.d.ts" timestamp="1561359160834">
-        <mark key="[" line="59" column="3" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/index.d.ts" timestamp="1561359375246">
+        <mark key="[" line="56" column="38" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/protos/tinder/system/forward/forward.proto" timestamp="1559640195305">
         <mark key="'" line="0" column="0" />
@@ -1236,6 +1236,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl alt pressed LEFT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
