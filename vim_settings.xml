@@ -298,11 +298,12 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/hls.js" timestamp="1561364576877">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/hls.js" timestamp="1561365648720">
         <mark key="'" line="105" column="1" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+        <mark key="[" line="111" column="19" />
+        <mark key="]" line="111" column="18" />
+        <mark key="." line="111" column="18" />
+        <mark key="^" line="111" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/klipper/node_modules/main.cpp" timestamp="1543547318047">
         <mark key="[" line="63" column="50" />
@@ -847,6 +848,12 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
+      <file name="/Dummy.txt" timestamp="1561364640054">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/user.ts" timestamp="1552992665995">
         <mark key="[" line="33" column="73" />
         <mark key="]" line="33" column="73" />
@@ -1058,8 +1065,8 @@
       <jump line="120" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dHJpZ2dlckhMU1B1c2hUb0FsbCh7fSwgZmFsc2UpCgo=</text>
+      <register name="&quot;" type="4">
+        <text>chore: 房间不存在的错误使用 AppError 包装，不再打印多余日志</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1068,7 +1075,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>trigger</text>
+        <text>chore: 房间不存在的错误使用 AppError 包装，不再打印多余日志</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
