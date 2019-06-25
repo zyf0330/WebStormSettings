@@ -271,8 +271,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/routers/duobei_client.js" timestamp="1557905614846">
         <mark key="'" line="6" column="29" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" timestamp="1559631918137">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" timestamp="1561433114553">
         <mark key="'" line="42" column="26" />
+        <mark key="[" line="104" column="17" />
+        <mark key="]" line="104" column="16" />
+        <mark key="." line="104" column="16" />
+        <mark key="^" line="104" column="16" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/.arclint" timestamp="1541487440178">
         <mark key="[" line="27" column="22" />
@@ -891,6 +895,9 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/src/index.d.ts" timestamp="1559641491575">
         <mark key="'" line="53" column="4" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1561432701237">
+        <mark key="'" line="50" column="29" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/workers/index.js" timestamp="1557905651254">
         <mark key="'" line="1" column="6" />
       </file>
@@ -963,8 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/node_modules/tinder-center-sdk/src/session/index.js" />
-      <jump line="36" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/node_modules/tinder-center-sdk/src/session/index.js" />
       <jump line="10" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/node_modules/tinder-center-sdk/src/session/index.js" />
       <jump line="219" column="26" filename="/application.js" />
       <jump line="0" column="0" filename="/application.js" />
@@ -1063,10 +1068,12 @@
       <jump line="5" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/hls.js" />
       <jump line="105" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/hls.js" />
       <jump line="120" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Room.js" />
+      <jump line="42" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="50" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>chore: 房间不存在的错误使用 AppError 包装，不再打印多余日志</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1075,13 +1082,13 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>chore: 房间不存在的错误使用 AppError 包装，不再打印多余日志</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFydHVwSGxzXD4=</text>
+        <text>apperror</text>
       </register>
       <register name="0" type="4">
         <text>inspect</text>
@@ -1124,9 +1131,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGFydHVwSGxzXD4=</last-search>
+      <last-search>apperror</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFydHVwSGxzXD4=</last-pattern>
+      <last-pattern>apperror</last-pattern>
       <last-replace>session</last-replace>
       <last-substitute>this</last-substitute>
       <last-dir>1</last-dir>
@@ -1134,7 +1141,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this</entry>
         <entry encoding="base64">XDx0b0xpdGVcPg==</entry>
         <entry encoding="base64">XDxzMUJ1ZmZcPg==</entry>
         <entry encoding="base64">XDxzMkJ1ZmZcPg==</entry>
@@ -1154,6 +1160,7 @@
         <entry>ax</entry>
         <entry encoding="base64">XDxheGlvc1w+</entry>
         <entry encoding="base64">XDxzdGFydHVwSGxzXD4=</entry>
+        <entry>apperror</entry>
       </history-search>
       <history-cmd>
         <entry>echo mapleader</entry>
