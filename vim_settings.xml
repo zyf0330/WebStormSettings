@@ -852,10 +852,10 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561364640054">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="33" />
-        <mark key="." line="0" column="33" />
+      <file name="/Dummy.txt" timestamp="1561434429463">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="33" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/user.ts" timestamp="1552992665995">
@@ -895,8 +895,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/node_modules/tinder-center-sdk/src/index.d.ts" timestamp="1559641491575">
         <mark key="'" line="53" column="4" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1561432701237">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1561434162503">
         <mark key="'" line="50" column="29" />
+        <mark key="[" line="89" column="21" />
+        <mark key="]" line="89" column="48" />
+        <mark key="^" line="89" column="48" />
+        <mark key="." line="89" column="48" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/workers/index.js" timestamp="1557905651254">
         <mark key="'" line="1" column="6" />
@@ -1073,7 +1077,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>kickoff system message</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1082,7 +1086,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>kickoff system message</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
