@@ -196,12 +196,12 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/index.js" timestamp="1561519707053">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/index.js" timestamp="1561534134609">
         <mark key="'" line="17" column="33" />
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="18" column="17" />
-        <mark key="." line="18" column="17" />
-        <mark key="^" line="18" column="17" />
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="4" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/index.d.ts" timestamp="1560849882790">
         <mark key="'" line="108" column="32" />
@@ -872,7 +872,7 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561519987329">
+      <file name="/Dummy.txt" timestamp="1561521121364">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1105,8 +1105,8 @@
       <jump line="85" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/protos/tinder/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgaW5mb1N0b3JlID0gcmVxdWlyZSgnLi4vLi4vc3JjL2luZm9TdG9yZScpCi8vIGluZm9TdG9yZS5hcHBOYW1lID0gJ2NoYXQnCg==</text>
+      <register name="&quot;" type="4">
+        <text>encode</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1115,7 +1115,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>app =</text>
+        <text>encode</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1123,8 +1123,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx3YXRjaENoYW5nZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwcCA9IHJlcXVpcmUoJy4uL3NlcnZpY2UnKTsK</text>
+      <register name="0" type="4">
+        <text>encodeMessage</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3QgaW5mb1N0b3JlID0gcmVxdWlyZSgnLi4vLi4vc3JjL2luZm9TdG9yZScpCi8vIGluZm9TdG9yZS5hcHBOYW1lID0gJ2NoYXQnCg==</text>
