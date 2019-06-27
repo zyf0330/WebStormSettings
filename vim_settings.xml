@@ -18,6 +18,11 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/ETCD.js" timestamp="1559628970110">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/.npmignore" timestamp="1561627613735">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.js" timestamp="1542858247929">
         <mark key="[" line="0" column="103" />
         <mark key="]" line="0" column="102" />
@@ -619,12 +624,6 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" timestamp="1561435216061">
-        <mark key="'" line="99" column="10" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="73" />
-        <mark key="." line="99" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/protos/events.proto" timestamp="1550733083829">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="18" />
@@ -712,12 +711,6 @@
       <file name="/Room.js" timestamp="1558422104138">
         <mark key="'" line="47" column="9" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" timestamp="1560848758017">
-        <mark key="'" line="79" column="34" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" timestamp="1561624901199">
         <mark key="'" line="96" column="82" />
         <mark key="[" line="96" column="55" />
@@ -781,6 +774,11 @@
         <mark key="]" line="8" column="43" />
         <mark key="." line="8" column="43" />
         <mark key="^" line="8" column="43" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/package.json" timestamp="1561628027351">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_37.js" timestamp="1556245889117">
         <mark key="[" line="1" column="17" />
@@ -890,10 +888,10 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561624976648">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1561627030304">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="31" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-data-center/src/services/user.ts" timestamp="1552992665995">
@@ -914,6 +912,12 @@
         <mark key="]" line="139" column="64" />
         <mark key="." line="139" column="64" />
         <mark key="^" line="139" column="64" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/.gitignore" timestamp="1561627987604">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.js" timestamp="1545114069211">
         <mark key="[" line="2" column="0" />
@@ -1129,8 +1133,8 @@
       <jump line="97" column="82" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>可以</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAiZmlsZXMiOiBbCiAgXSwK</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1139,7 +1143,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>可以</text>
+        <text>*</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1150,40 +1154,38 @@
       <register name="0" type="4">
         <text>appName</text>
       </register>
-      <register name="1" type="4">
-        <text>{ globOptions: { dot: false }}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAiZmlsZXMiOiBbCiAgXSwK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZU5hbWU6IHRoaXMuc2VydmljZU5hbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3BzID0gYXdhaXQgdGhpcy5wcm9tcHQoW3sKICAgICAgdHlwZTogJ2NvbmZpcm0nLAogICAgICBuYW1lOiAnY2VudGVyUmVwb05hbWUnLAogICAgICBtZXNzYWdlOiAn5Lit5b+D5Lia5Yqh5Luj56CB5bqT5ZCN56ewJywKICAgICAgZGVmYXVsdDogCiAgICB9LCB7CiAgICAgIHR5cGU6ICdjb25maXJtJywKICAgICAgbmFtZTogJ2VkZ2VSZXBvTmFtZScsCiAgICAgIG1lc3NhZ2U6ICfovrnnvJjkuJrliqHku6PnoIHlupPlkI3np7AnLAogICAgICBkZWZhdWx0OgogICAgfV0pOwo=</text>
+        <text encoding="base64">LmdpdGF0dHJpYnV0ZXMK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKY29uc3QgR2VuZXJhdG9yID0gcmVxdWlyZSgneWVvbWFuLWdlbmVyYXRvcicpOwpjb25zdCBjaGFsayA9IHJlcXVpcmUoJ2NoYWxrJyk7CmNvbnN0IHlvc2F5ID0gcmVxdWlyZSgneW9zYXknKTsKY29uc3QgZnMgPSByZXF1aXJlKCdmcy1leHRyYScpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpOwpjb25zdCB1dGlscyA9IHJlcXVpcmUoJy4uLy4uL3V0aWxzJyk7Cgpjb25zdCBlZGdlRGVwcyA9IHsKICBwcm9kOiBbJ3RpbmRlci1lZGdlLW5vZGVqcyddLAogIGRldjogWydlc2xpbnQnLCAnZXNsaW50LXBsdWdpbi1ub2RlJ10KfTsKY29uc3QgY2VudGVyRGVwcyA9IHsKICBwcm9kOiBbJ3RpbmRlci1jZW50ZXItc2RrJywgJ3Byb3RvYnVmanMnLCAnZ3JwY0AxLjEzLjEnXSwKICBkZXY6IFsnZXNsaW50JywgJ2VzbGludC1wbHVnaW4tbm9kZSddCn07Cgptb2R1bGUuZXhwb3J0cyA9IGNsYXNzIGV4dGVuZHMgR2VuZXJhdG9yIHsKICBhc3luYyBwcm9tcHRpbmcoKSB7CiAgICAvLyBIYXZlIFllb21hbiBncmVldCB0aGUgdXNlci4KICAgIHRoaXMubG9nKAogICAgICB5b3NheShgV2VsY29tZSB0byB0aGUgZXhxdWlzaXRlICR7Y2hhbGsucmVkKCdnZW5lcmF0b3ItdGluZGVyJyl9IGdlbmVyYXRvciFgKQogICAgKTsKCiAgICBjb25zdCBwcm9tcHRzID0gWwogICAgICB7CiAgICAgICAgdHlwZTogJ2lucHV0JywKICAgICAgICBuYW1lOiAnc2VydmljZU5hbWUnLAogICAgICAgIG1lc3NhZ2U6ICfor7fovpPlhaXmnI3liqHlkI3np7AoZWcgYXBwcywganNvbnBhdGNoLCBjaGF0KScsCiAgICAgICAgZGVzYzogJ+S4jeimgeS9v+eUqOaVsOWtl+W8gOWktOOAgumcgOimgeehruS/nWBwcm90b3MvdGluZGVyL3vmnI3liqHlkI3np7B9YOWtmOWcqOW5tuW3sue7j+WumuS5iScKICAgICAgfSwKICAgICAgewogICAgICAgIHR5cGU6ICdpbnB1dCcsCiAgICAgICAgbmFtZTogJ2F1dGhvcicsCiAgICAgICAgbWVzc2FnZTogJ+S9nOiAhScKICAgICAgfQogICAgXTsKICAgIGxldCBwcm9wczsKCiAgICBwcm9wcyA9IGF3YWl0IHRoaXMucHJvbXB0KHByb21wdHMpOwogICAgdGhpcy5zZXJ2aWNlTmFtZSA9IHByb3BzLnNlcnZpY2VOYW1lOwogICAgdGhpcy5hcHBBdXRob3IgPSBwcm9wcy5hdXRob3I7CiAgICBwcm9wcyA9IGF3YWl0IHRoaXMucHJvbXB0KFsKICAgICAgewogICAgICAgIHR5cGU6ICdpbnB1dCcsCiAgICAgICAgbmFtZTogJ2NlbnRlclJlcG9OYW1lJywKICAgICAgICBtZXNzYWdlOiAn5Lit5b+D5Lia5Yqh5Luj56CB5bqT5ZCN56ewJywKICAgICAgICBkZWZhdWx0OiB1dGlscy5ub3JtYWxpemVOYW1lKHRoaXMuc2VydmljZU5hbWUsICdjZW50ZXInKQogICAgICB9LAogICAgICB7CiAgICAgICAgdHlwZTogJ2lucHV0JywKICAgICAgICBuYW1lOiAnZWRnZVJlcG9OYW1lJywKICAgICAgICBtZXNzYWdlOiAn6L6557yY5Lia5Yqh5Luj56CB5bqT5ZCN56ewJywKICAgICAgICBkZWZhdWx0OiB1dGlscy5ub3JtYWxpemVOYW1lKHRoaXMuc2VydmljZU5hbWUsICdlZGdlJykKICAgICAgfQogICAgXSk7CiAgICB0aGlzLmNlbnRlclJlcG9OYW1lID0gcHJvcHMuY2VudGVyUmVwb05hbWU7CiAgICB0aGlzLmVkZ2VSZXBvTmFtZSA9IHByb3BzLmVkZ2VSZXBvTmFtZTsKICAgIGNvbnN0IHsgY29uZmlybSB9ID0gYXdhaXQgdGhpcy5wcm9tcHQoWwogICAgICB7CiAgICAgICAgdHlwZTogJ2NvbmZpcm0nLAogICAgICAgIG5hbWU6ICdjb25maXJtJywKICAgICAgICBtZXNzYWdlOiBg6K+356Gu6K6k77yaCiAg5pyN5Yqh5ZCN56ewKHNlcnZpY2VOYW1lKe+8miR7dGhpcy5zZXJ2aWNlTmFtZX0KICDkvZzogIUoQXV0aG9yKe+8miR7dGhpcy5hcHBBdXRob3J9CiAg5Lit5b+D5Luj56CB5bqT6Lev5b6E77yaJHt0aGlzLmNlbnRlclJlcG9OYW1lfQogIOi+uee8mOS7o+eggeW6k+i3r+W+hO+8miR7dGhpcy5lZGdlUmVwb05hbWV9CiAgcHJvdG9QYXRo55qE6Lev5b6EKFByb3RvUGF0aCnvvJoncHJvdG9zL3RpbmRlci8ke3RoaXMuc2VydmljZU5hbWV9J2AKICAgICAgfQogICAgXSk7CiAgICBpZiAoY29uZmlybSA9PT0gZmFsc2UpIHsKICAgICAgcHJvY2Vzcy5leGl0KDApOwogICAgfQogIH0KCiAgd3JpdGluZygpIHsKICAgIGZ1bmN0aW9uIGNwU2hhcmVGaWxlcyhmcm9tLCB0bykgewogICAgICByZXR1cm4gZnMuY29weVN5bmMoZnJvbSwgdG8pOwogICAgfQogICAgY3BTaGFyZUZpbGVzKHRoaXMudGVtcGxhdGVQYXRoKCdzaGFyZScpLCB0aGlzLmNlbnRlclJlcG9OYW1lKTsKICAgIGNwU2hhcmVGaWxlcyh0aGlzLnRlbXBsYXRlUGF0aCgnc2hhcmUnKSwgdGhpcy5lZGdlUmVwb05hbWUpOwogIH0KCg==</text>
+        <text encoding="base64">LmVzbGludGlnbm9yZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaW5mb1N0b3JlID0gcmVxdWlyZSgnLi4vLi4vc3JjL2luZm9TdG9yZScpCi8vIGluZm9TdG9yZS5hcHBOYW1lID0gJ2NoYXQnCg==</text>
+        <text encoding="base64">ICAiZmlsZXMiOiBbCiAgXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHR5cGUge3tzZXJ2aWNlOiBudWxsLCBwcm90bzogbnVsbCwgZ3JwYzogbnVsbH19Cg==</text>
+        <text encoding="base64">ICAgICIqIiwKICAgICJnZW5lcmF0b3JzIgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>*
-     * @deprecated
-     */</text>
+      <register name="7" type="2">
+        <text encoding="base64">LnlvLXJjLmpzb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmdpdAouYXJjY29uZmlnCi5lZGl0b3Jjb25maWcK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMucHJvdG8ucHJvdG9idWZzCg==</text>
+      <register name="9" type="4">
+        <text>{ globOptions: { dot: false }}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
