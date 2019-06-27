@@ -99,8 +99,8 @@
         <mark key="." line="15" column="49" />
         <mark key="^" line="15" column="49" />
       </file>
-      <file name="/application.js" timestamp="1560843586981">
-        <mark key="'" line="40" column="3" />
+      <file name="/application.js" timestamp="1561534597308">
+        <mark key="'" line="146" column="19" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/etcdConfig" timestamp="1551084961353">
         <mark key="[" line="5" column="10" />
@@ -872,7 +872,7 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561521121364">
+      <file name="/Dummy.txt" timestamp="1561534400263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1003,7 +1003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="15" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/session/sessionService.js" />
       <jump line="117" column="20" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="8" column="43" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="10" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/session/sessionService.js" />
@@ -1103,10 +1102,11 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/protos/tinder/index.js" />
       <jump line="76" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/protos/tinder/index.js" />
       <jump line="85" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/protos/tinder/index.js" />
+      <jump line="146" column="19" filename="/application.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>encode</text>
+        <text>chore(protos): 只给 app 暴露它自己的 proto</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1115,13 +1115,13 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>encode</text>
+        <text>chore(protos): 只给 app 暴露它自己的 proto</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3YXRjaENoYW5nZVw+</text>
+        <text>health</text>
       </register>
       <register name="0" type="4">
         <text>encodeMessage</text>
@@ -1166,9 +1166,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3YXRjaENoYW5nZVw+</last-search>
+      <last-search>health</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3YXRjaENoYW5nZVw+</last-pattern>
+      <last-pattern>health</last-pattern>
       <last-replace>session</last-replace>
       <last-substitute>this</last-substitute>
       <last-dir>1</last-dir>
@@ -1176,7 +1176,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Session</entry>
         <entry>session</entry>
         <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
@@ -1196,6 +1195,7 @@
         <entry encoding="base64">XDxhcHBcPg==</entry>
         <entry>watch</entry>
         <entry encoding="base64">XDx3YXRjaENoYW5nZVw+</entry>
+        <entry>health</entry>
       </history-search>
       <history-cmd>
         <entry>echo mapleader</entry>
