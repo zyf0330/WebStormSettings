@@ -463,11 +463,11 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561702103137">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1561702252656">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/1.js" timestamp="1553224128412">
         <mark key="[" line="11" column="0" />
@@ -1164,8 +1164,8 @@
       <jump line="17" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-charts/generateConfig.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAtLXZhbHVlcy1kaXIgZGVwbG95LyRuYW1lc3BhY2UvdmFsdWVzCiMgLS1hcHAgYXBwTmFtZQojIC0tdmFsdWVzIGsxPXYxLGsyPXYyLC4uLgo=</text>
+      <register name="&quot;" type="4">
+        <text>chore(script): 将 setConfig 改到各个 deploy 脚本中调用</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1174,7 +1174,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>Prefix</text>
+        <text>chore(script): 将 setConfig 改到各个 deploy 脚本中调用</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
