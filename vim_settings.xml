@@ -120,10 +120,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/routers/index.js" timestamp="1557905637785">
         <mark key="'" line="63" column="2" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-charts/generateConfig.sh" timestamp="1561700006045">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-charts/generateConfig.sh" timestamp="1561702115518">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/index.js" timestamp="1561534134609">
         <mark key="'" line="17" column="33" />
@@ -212,6 +214,9 @@
         <mark key="]" line="6" column="36" />
         <mark key="^" line="27" column="47" />
         <mark key="." line="6" column="23" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-charts/setConfig.sh" timestamp="1561700031443">
+        <mark key="'" line="18" column="16" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/schema.json" timestamp="1545117888522">
         <mark key="[" line="1" column="3" />
@@ -443,12 +448,6 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-charts/deployEdge.sh" timestamp="1561699957652">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="15" />
-        <mark key="." line="3" column="79" />
-        <mark key="^" line="3" column="79" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/grpcClient.js" timestamp="1547782851977">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -464,7 +463,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561699675894">
+      <file name="/Dummy.txt" timestamp="1561702103137">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1063,8 +1062,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="4" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/__test__/system/session.spec.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/__test__/system/session.spec.js" />
       <jump line="4" column="29" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/__test__/system/session.spec.js" />
       <jump line="30" column="28" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/__test__/system/session.spec.js" />
       <jump line="52" column="27" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/__test__/system/session.spec.js" />
@@ -1163,10 +1160,12 @@
       <jump line="7" column="3" filename="/generateConfig.sh" />
       <jump line="27" column="17" filename="/generateConfig.sh" />
       <jump line="11" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-charts/generateConfig.sh" />
+      <jump line="18" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-charts/setConfig.sh" />
+      <jump line="17" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-charts/generateConfig.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">JHthLWJ9Cg==</text>
+        <text encoding="base64">IyAtLXZhbHVlcy1kaXIgZGVwbG95LyRuYW1lc3BhY2UvdmFsdWVzCiMgLS1hcHAgYXBwTmFtZQojIC0tdmFsdWVzIGsxPXYxLGsyPXYyLC4uLgo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1175,66 +1174,65 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>a-b</text>
+        <text>Prefix</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>charts</text>
+        <text>_</text>
       </register>
       <register name="0" type="4">
         <text>configFilePrefix</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHthLWJ9Cg==</text>
+        <text encoding="base64">IyAtLXZhbHVlcy1kaXIgZGVwbG95LyRuYW1lc3BhY2UvdmFsdWVzCiMgLS1hcHAgYXBwTmFtZQojIC0tdmFsdWVzIGsxPXYxLGsyPXYyLC4uLgo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2hhcnRzPSR7Y2hhcnRzLScnfQo=</text>
+        <text encoding="base64">IyAtLXZhbHVlcy1kaXIgZGVwbG95LyRuYW1lc3BhY2UvdmFsdWVzCiMgLS1hcHAgYXBwTmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAtLXZhbHVlcyBrMT12MSxrMj12MiwuLi4K</text>
+        <text encoding="base64">JHthLWJ9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2hhcnRzPSR7Y2hhcnRzLScnfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAtLXZhbHVlcyBrMT12MSxrMj12MiwuLi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBzb3VyY2Ugc2VsZiBzY3JpcHQgaW4gb3RoZXIgdG8gdXNlLCBub3QgZXhlY3V0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsdWVzX2Rpcj0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwPQo=</text>
+        <text encoding="base64">IyBzb3VyY2Ugc2VsZiBzY3JpcHQgaW4gb3RoZXIgdG8gdXNlLCBub3QgZXhlY3V0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXZhbCAkKC4vc2V0Q29uZmlnLnNoICQqKQo=</text>
+        <text encoding="base64">dmFsdWVzX2Rpcj0K</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>charts</last-search>
+      <last-search>_</last-search>
       <last-offset />
-      <last-pattern>charts</last-pattern>
+      <last-pattern>_</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>watch</entry>
         <entry encoding="base64">XDx3YXRjaENoYW5nZVw+</entry>
         <entry>health</entry>
         <entry encoding="base64">XDxlZGdlRGVwc1w+</entry>
@@ -1254,6 +1252,7 @@
         <entry encoding="base64">XDxjZW50ZXJSZXBvTmFtZVw+</entry>
         <entry>git</entry>
         <entry>charts</entry>
+        <entry>_</entry>
       </history-search>
       <history-cmd>
         <entry>let mapleader = &quot; &quot;</entry>
@@ -1273,9 +1272,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>%s/&quot;/'/g</entry>
-        <entry>noh</entry>
         <entry>w</entry>
         <entry>action FindInPath</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
