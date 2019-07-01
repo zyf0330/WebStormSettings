@@ -493,11 +493,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" timestamp="1561963201356">
-        <mark key="'" line="50" column="4" />
-        <mark key="[" line="49" column="6" />
-        <mark key="]" line="53" column="26" />
-        <mark key="." line="53" column="26" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" timestamp="1561964587011">
+        <mark key="'" line="1" column="17" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="52" />
+        <mark key="." line="8" column="2" />
         <mark key="^" line="53" column="26" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/collects/collectEvent.ts" timestamp="1559717920474">
@@ -940,7 +940,7 @@
       <file name="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" timestamp="1556191544674">
         <mark key="'" line="53" column="8093" />
       </file>
-      <file name="/JavaScript Console" timestamp="1561962184646">
+      <file name="/JavaScript Console" timestamp="1561964384054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1033,12 +1033,12 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/index.js" timestamp="1561961880677">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="12" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/index.js" timestamp="1561964616775">
+        <mark key="'" line="8" column="8" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-zwt-center/src/index.js" timestamp="1546835815148">
         <mark key="[" line="92" column="39" />
@@ -1082,10 +1082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="42" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" />
-      <jump line="102" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/hls.js" />
-      <jump line="116" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/hls.js" />
-      <jump line="10" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/hls.js" />
       <jump line="118" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/hls.js" />
       <jump line="115" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/hls.js" />
       <jump line="111" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/hls.js" />
@@ -1182,10 +1178,14 @@
       <jump line="4" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
       <jump line="48" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
       <jump line="50" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
+      <jump line="53" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
+      <jump line="8" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/index.js" />
+      <jump line="20" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
+      <jump line="1" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1194,85 +1194,58 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>'sio connect fail'</text>
+        <text>l</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxydW5UaW1lXD4=</text>
+        <text encoding="base64">XDxsb2dKc29uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>configFilePrefix</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgeyBjb21tYW5kLCBsb2dKc29uLCBvbmNlIH0gPSByZXF1aXJlKCcuL3V0aWwnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>try {
-      //测试请求响应链路是否正常
-      await command(client, 'getCommandLinkSituation')
-      logJson(300, 'CommandLink Service Perform', this.addr)
-      //测试centerRedis是否正常
-      // const centerRedisSituation = await command(client, 'getCenterRedisSituation')
-      // if(centerRedisSituation.header.success === false){
-      //   logJson('centerRedis connect fail')
-      // }
-
-      //测试rabbitmq服务是否正常
-      //const rabbitmqSituation = await command(client, 'getRabbitmqSituation')
-      // if(rabbitmqSituation.header.success === false){
-      //   logJson('rabbitmq connect fail')
-      // }else{
-      //   //发送广播消息
-      //   await command(client, 'broadcast', 'test')
-      //   try{
-      //     await once(client, 'BroadcastMessages', this.taskConfig.maxTime)
-      //   }catch(err){
-      //     if(err === 'Timeout'){
-      //       logJson('pusher或rabbitmq,connector通知链路出错')
-      //     }
-      //   }
-      // }
-    } catch (err) {
-      logJson(500, 'basic fail', this.addr)
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBkZXN0cm95Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZXJyID0+IHsKICAgICAgICByZWooZXJyKQogICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ0pzb24oNTAwLCAsIHRoaXMuYWRkcikK</text>
+        <text encoding="base64">ICBhd2FpdCBwcm9jZXNzCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">LnRoZW4oKCkgPT4gewogICAgbG8KICB9KQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXJyKSB7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5vbignY29ubmVjdF9lcnJvcicsIGVyciA9PiB7CiAgICAgIGlmIChlcnIpIHsKICAgICAgICBsb2dKc29uKDUwMCwgJ3NpbyBjb25uZWN0IGZhaWwnLCB0aGlzLmFkZHIpCiAgICAgIH0KICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5vbmNlKCdjb25uZWN0JywgKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxydW5UaW1lXD4=</last-search>
+      <last-search encoding="base64">XDxsb2dKc29uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxydW5UaW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dKc29uXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1280,8 +1253,6 @@
     </search>
     <history>
       <history-search>
-        <entry>health</entry>
-        <entry encoding="base64">XDxlZGdlRGVwc1w+</entry>
         <entry>dockerignore</entry>
         <entry>appName</entry>
         <entry>servicename</entry>
@@ -1300,6 +1271,8 @@
         <entry>charts</entry>
         <entry>_</entry>
         <entry encoding="base64">XDxydW5UaW1lXD4=</entry>
+        <entry>logjs</entry>
+        <entry encoding="base64">XDxsb2dKc29uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>let mapleader = &quot; &quot;</entry>
