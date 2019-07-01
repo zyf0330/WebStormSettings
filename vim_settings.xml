@@ -493,12 +493,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" timestamp="1561962299794">
-        <mark key="'" line="4" column="13" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="16" column="29" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" timestamp="1561963201356">
+        <mark key="'" line="50" column="4" />
+        <mark key="[" line="49" column="6" />
+        <mark key="]" line="53" column="26" />
+        <mark key="." line="53" column="26" />
+        <mark key="^" line="53" column="26" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/collects/collectEvent.ts" timestamp="1559717920474">
         <mark key="'" line="69" column="14" />
@@ -1082,8 +1082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="86" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/__test__/system/session.spec.js" />
-      <jump line="64" column="62" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/__test__/system/session.spec.js" />
       <jump line="7" column="42" filename="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/src/application.js" />
       <jump line="102" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/hls.js" />
       <jump line="116" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/hls.js" />
@@ -1182,10 +1180,12 @@
       <jump line="4" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/index.js" />
       <jump line="6" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
       <jump line="4" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
+      <jump line="48" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
+      <jump line="50" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgY2xpZW50Lm9uY2UoJ2VudGVyUm9vbScsICgpKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1194,7 +1194,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>disconnect</text>
+        <text>'sio connect fail'</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1206,37 +1206,64 @@
         <text>configFilePrefix</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgY2xpZW50Lm9uY2UoJ2VudGVyUm9vbScsICgpKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyBQcm9taXNlKCkK</text>
+      <register name="2" type="4">
+        <text>try {
+      //测试请求响应链路是否正常
+      await command(client, 'getCommandLinkSituation')
+      logJson(300, 'CommandLink Service Perform', this.addr)
+      //测试centerRedis是否正常
+      // const centerRedisSituation = await command(client, 'getCenterRedisSituation')
+      // if(centerRedisSituation.header.success === false){
+      //   logJson('centerRedis connect fail')
+      // }
+
+      //测试rabbitmq服务是否正常
+      //const rabbitmqSituation = await command(client, 'getRabbitmqSituation')
+      // if(rabbitmqSituation.header.success === false){
+      //   logJson('rabbitmq connect fail')
+      // }else{
+      //   //发送广播消息
+      //   await command(client, 'broadcast', 'test')
+      //   try{
+      //     await once(client, 'BroadcastMessages', this.taskConfig.maxTime)
+      //   }catch(err){
+      //     if(err === 'Timeout'){
+      //       logJson('pusher或rabbitmq,connector通知链路出错')
+      //     }
+      //   }
+      // }
+    } catch (err) {
+      logJson(500, 'basic fail', this.addr)
+    }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucnVuVGltZSA9IHJ1blRpbWUK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZXJyID0+IHsKICAgICAgICByZWooZXJyKQogICAgICB9</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmV3IENyb25Kb2IodGhpcy5ydW5UaW1lLCBhc3luYyAoKSA9PiB7CiAgTW9uaXRvckNsaWVudFRlc3Quc3RhcnQoKQp9LCBudWxsLCB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ0pzb24oNTAwLCAsIHRoaXMuYWRkcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TW9uaXRvckNsaWVudFRlc3Quc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldyBDcm9uSm9iKHRoaXMucnVuVGltZSwgYXN5bmMgKCkgPT4gewoKICAgIH0sIG51bGwsIHRydWUpCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudC5vbignY29ubmVjdF9lcnJvcicsIGVyciA9PiB7CiAgICAgIGlmIChlcnIpIHsKICAgICAgICBsb2dKc29uKDUwMCwgJ3NpbyBjb25uZWN0IGZhaWwnLCB0aGlzLmFkZHIpCiAgICAgIH0KICAgIH0pCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICAvL+a1i+ivleivt+axguWTjeW6lOmTvui3r+aYr+WQpuato+W4uAogICAgICAgIGF3YWl0IGNvbW1hbmQoY2xpZW50LCAnZ2V0Q29tbWFuZExpbmtTaXR1YXRpb24nKQogICAgICAgIGxvZ0pzb24oMzAwLCAnQ29tbWFuZExpbmsgU2VydmljZSBQZXJmb3JtJywgdGhpcy5hZGRyKQogICAgICAgIC8v5rWL6K+VY2VudGVyUmVkaXPmmK/lkKbmraPluLgKICAgICAgICAvLyBjb25zdCBjZW50ZXJSZWRpc1NpdHVhdGlvbiA9IGF3YWl0IGNvbW1hbmQoY2xpZW50LCAnZ2V0Q2VudGVyUmVkaXNTaXR1YXRpb24nKQogICAgICAgIC8vIGlmKGNlbnRlclJlZGlzU2l0dWF0aW9uLmhlYWRlci5zdWNjZXNzID09PSBmYWxzZSl7CiAgICAgICAgLy8gICBsb2dKc29uKCdjZW50ZXJSZWRpcyBjb25uZWN0IGZhaWwnKQogICAgICAgIC8vIH0KCiAgICAgICAgLy/mtYvor5VyYWJiaXRtceacjeWKoeaYr+WQpuato+W4uAogICAgICAgIC8vY29uc3QgcmFiYml0bXFTaXR1YXRpb24gPSBhd2FpdCBjb21tYW5kKGNsaWVudCwgJ2dldFJhYmJpdG1xU2l0dWF0aW9uJykKICAgICAgICAvLyBpZihyYWJiaXRtcVNpdHVhdGlvbi5oZWFkZXIuc3VjY2VzcyA9PT0gZmFsc2UpewogICAgICAgIC8vICAgbG9nSnNvbigncmFiYml0bXEgY29ubmVjdCBmYWlsJykKICAgICAgICAvLyB9ZWxzZXsKICAgICAgICAvLyAgIC8v5Y+R6YCB5bm/5pKt5raI5oGvCiAgICAgICAgLy8gICBhd2FpdCBjb21tYW5kKGNsaWVudCwgJ2Jyb2FkY2FzdCcsICd0ZXN0JykKICAgICAgICAvLyAgIHRyeXsKICAgICAgICAvLyAgICAgYXdhaXQgb25jZShjbGllbnQsICdCcm9hZGNhc3RNZXNzYWdlcycsIHRoaXMudGFza0NvbmZpZy5tYXhUaW1lKQogICAgICAgIC8vICAgfWNhdGNoKGVycil7CiAgICAgICAgLy8gICAgIGlmKGVyciA9PT0gJ1RpbWVvdXQnKXsKICAgICAgICAvLyAgICAgICBsb2dKc29uKCdwdXNoZXLmiJZyYWJiaXRtcSxjb25uZWN0b3LpgJrnn6Xpk77ot6/lh7rplJknKQogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8gICB9CiAgICAgICAgLy8gfQogICAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgICBsb2dKc29uKDUwMCwgJ2Jhc2ljIGZhaWwnLCB0aGlzLmFkZHIpCiAgICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sIG51bGwsIHRydWUpCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudC5vbmNlKCdjb25uZWN0JywgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
