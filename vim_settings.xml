@@ -443,12 +443,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" timestamp="1562034609923">
-        <mark key="'" line="17" column="56" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="23" column="35" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" timestamp="1562034760842">
+        <mark key="'" line="41" column="17" />
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="46" column="13" />
+        <mark key="." line="46" column="13" />
+        <mark key="^" line="46" column="13" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/collects/collectEvent.ts" timestamp="1559717920474">
         <mark key="'" line="69" column="14" />
@@ -1002,8 +1002,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
-      <jump line="13" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
       <jump line="14" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
       <jump line="44" column="61" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
       <jump line="62" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
@@ -1095,17 +1093,19 @@
       <jump line="18" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
       <jump line="21" column="52" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
       <jump line="48" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
-      <jump line="41" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
       <jump line="34" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
       <jump line="32" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
       <jump line="25" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/log.js" />
       <jump line="1" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
       <jump line="3" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
       <jump line="17" column="56" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
+      <jump line="29" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
+      <jump line="33" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
+      <jump line="41" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dKc29uKDMwMCwgLCB0aGlzLmFkZHIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>this.addr</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1114,7 +1114,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>'CommandLink Service Perform'</text>
+        <text>this.addr</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
