@@ -59,6 +59,12 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/center/Dockerfile" timestamp="1562064688465">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/config/default.js" timestamp="1560321591884">
         <mark key="'" line="131" column="7" />
       </file>
@@ -348,6 +354,13 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" timestamp="1562064831924">
+        <mark key="'" line="78" column="6" />
+        <mark key="[" line="96" column="55" />
+        <mark key="]" line="96" column="55" />
+        <mark key="." line="96" column="55" />
+        <mark key="^" line="96" column="81" />
+      </file>
       <file name="$USER_HOME$/project/duobei/dby-etcd-browser/app.js" timestamp="1552373774331">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -438,10 +451,10 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562049684963">
+      <file name="/Dummy.txt" timestamp="1562064732202">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/1.js" timestamp="1553224128412">
@@ -1026,8 +1039,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="17" filename="/generateConfig.sh" />
-      <jump line="11" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-charts/generateConfig.sh" />
       <jump line="18" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-charts/setConfig.sh" />
       <jump line="17" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-charts/generateConfig.sh" />
       <jump line="45" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
@@ -1126,10 +1137,12 @@
       <jump line="57" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
       <jump line="16" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
+      <jump line="74" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="78" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>作为包安装时，源文件缺失</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1138,13 +1151,13 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>rej</text>
+        <text>作为包安装时，源文件缺失</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0dXNcPg==</text>
+        <text>git</text>
       </register>
       <register name="0" type="4">
         <text>currentCommand</text>
@@ -1189,9 +1202,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0dXNcPg==</last-search>
+      <last-search>git</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0dXNcPg==</last-pattern>
+      <last-pattern>git</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1199,7 +1212,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
         <entry>open</entry>
         <entry>autocon</entry>
         <entry encoding="base64">XDxpb1w+</entry>
@@ -1219,6 +1231,7 @@
         <entry>com</entry>
         <entry>curre</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
+        <entry>git</entry>
       </history-search>
       <history-cmd>
         <entry>let mapleader = &quot; &quot;</entry>
