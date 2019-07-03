@@ -195,6 +195,9 @@
         <mark key="." line="26" column="78" />
         <mark key="^" line="26" column="78" />
       </file>
+      <file name="internal/modules/cjs/loader.js" timestamp="1562135756064">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-charts/setConfig.sh" timestamp="1561700031443">
         <mark key="'" line="18" column="16" />
       </file>
@@ -230,6 +233,13 @@
         <mark key="]" line="23" column="24" />
         <mark key="^" line="23" column="35" />
         <mark key="." line="23" column="24" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-basic-edge/node_modules/tinder-edge-nodejs/src/protos/tinder/index.js" timestamp="1562135903837">
+        <mark key="'" line="91" column="8" />
+        <mark key="[" line="101" column="43" />
+        <mark key="]" line="101" column="46" />
+        <mark key="." line="101" column="46" />
+        <mark key="^" line="101" column="46" />
       </file>
       <file name="/media/zyf/data/Programming/project/Node/loveXX/db.js" timestamp="1556186000921">
         <mark key="[" line="21" column="0" />
@@ -591,6 +601,7 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="38" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-basic-edge/node_modules/tinder-edge-nodejs/config/default.js" timestamp="1562135696817" />
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1541644623822">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="8" />
@@ -915,7 +926,7 @@
       <file name="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" timestamp="1556191544674">
         <mark key="'" line="53" column="8093" />
       </file>
-      <file name="/JavaScript Console" timestamp="1562123116494">
+      <file name="/JavaScript Console" timestamp="1562135907596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1047,7 +1058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
       <jump line="248" column="54" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
       <jump line="263" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
       <jump line="301" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
@@ -1147,10 +1157,11 @@
       <jump line="110" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-benchmark-client/Client.js" />
       <jump line="111" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-benchmark-client/Client.js" />
       <jump line="141" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-benchmark-client/Client.js" />
+      <jump line="91" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-basic-edge/node_modules/tinder-edge-nodejs/src/protos/tinder/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>完善</text>
+        <text>rootLoadedProto.nested</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1165,10 +1176,10 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>disconnect</text>
+        <text encoding="base64">XDxhZGRQcm90b1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQub2ZmKCdkaXNjb25uZWN0JykK</text>
+      <register name="0" type="4">
+        <text>rootLoadedProto.nested</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY2xpZW50Lm9mZgo=</text>
@@ -1210,9 +1221,9 @@
       </register>
     </registers>
     <search>
-      <last-search>disconnect</last-search>
+      <last-search encoding="base64">XDxhZGRQcm90b1w+</last-search>
       <last-offset />
-      <last-pattern>disconnect</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRQcm90b1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1220,7 +1231,6 @@
     </search>
     <history>
       <history-search>
-        <entry>l</entry>
         <entry>logjson</entry>
         <entry encoding="base64">XDxjb252ZXJ0TXNnXD4=</entry>
         <entry encoding="base64">XDxpc0ZsYXNoXD4=</entry>
@@ -1240,6 +1250,7 @@
         <entry encoding="base64">XDxyb29tQWNjZXNzS2V5XD4=</entry>
         <entry>token</entry>
         <entry>disconnect</entry>
+        <entry encoding="base64">XDxhZGRQcm90b1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm5vcmVtYXAgPExlYWRlcj5vICRhPENSPjxFU0M+</entry>
