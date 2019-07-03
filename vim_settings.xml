@@ -446,10 +446,10 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562121850019">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1562122435580">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/1.js" timestamp="1553224128412">
@@ -470,12 +470,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" timestamp="1562049796314">
-        <mark key="'" line="16" column="11" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="13" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="56" column="12" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" timestamp="1562122742085">
+        <mark key="'" line="58" column="15" />
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+        <mark key="^" line="22" column="15" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/collects/collectEvent.ts" timestamp="1559717920474">
         <mark key="'" line="69" column="14" />
@@ -1037,8 +1037,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/engine.io-client/lib/socket.js" />
-      <jump line="129" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/engine.io-client/lib/socket.js" />
       <jump line="5" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/engine.io-client/lib/socket.js" />
       <jump line="227" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/engine.io-client/lib/socket.js" />
       <jump line="230" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/engine.io-client/lib/socket.js" />
@@ -1137,10 +1135,12 @@
       <jump line="16" column="42" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
       <jump line="37" column="27" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
       <jump line="39" column="29" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/src/connector/Socket.js" />
+      <jump line="26" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
+      <jump line="56" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: disconnect 产生的错误日志添加 session 上下文信息</text>
+        <text>Reason</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1149,60 +1149,60 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>: disconnect 产生的错误日志添加 session 上下文信息</text>
+        <text>Reason</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>forwarder</text>
+        <text encoding="base64">XDxvZmZcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>NoRoute</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQub2ZmKCdkaXNjb25uZWN0JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNvY2tldC5lbWl0KCdsb2dpbkZhaWwnLCBlLm1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgY2xpZW50Lm9mZgo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNvY2tldC5lbWl0KCdsb2dpbkZhaWwnLCBlLm1lc3NhZ2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYoKXsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgaWYoKXsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5kaXNjb25uZWN0KCdFZGdlTm90RXhpc3RzJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcygpCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5kaXNjb25uZWN0KCdFZGdlTm90RXhpc3RzJykK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIHJlcygpCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlcygpCg==</text>
+      </register>
+      <register name="9" type="4">
         <text>{
           command: 
         }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5vbmNlKCdkaXNjb25uZWN0JywgKHJlYXNvbikgPT4gewogICAgICB0aGlzLmxvZ2dlci5lcnJvcih7IHJlYXNvbiwgY3VycmVudENvbW1hbmQ6IGNsaWVudC5jdXJyZW50Q29tbWFuZCB9LCAnc2lvIGRpc2Nvbm5lY3QgdW5leHBlY3RlZCcpCiAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search>forwarder</last-search>
+      <last-search encoding="base64">XDxvZmZcPg==</last-search>
       <last-offset />
-      <last-pattern>forwarder</last-pattern>
+      <last-pattern encoding="base64">XDxvZmZcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1210,7 +1210,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpb1w+</entry>
         <entry>this.io</entry>
         <entry encoding="base64">XDxvcGVuXD4=</entry>
         <entry encoding="base64">XDxvcHRzXD4=</entry>
@@ -1230,6 +1229,7 @@
         <entry>git</entry>
         <entry>forwa</entry>
         <entry>forwarder</entry>
+        <entry encoding="base64">XDxvZmZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>let mapleader = &quot; &quot;</entry>
