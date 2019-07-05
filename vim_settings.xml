@@ -54,6 +54,9 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/services/progress.ts" timestamp="1562230366793">
+        <mark key="'" line="7" column="5" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/center/Dockerfile" timestamp="1562064688465">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -294,6 +297,9 @@
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/protos/tinder/huixiaobao/index.proto" timestamp="1555666276937">
         <mark key="'" line="42" column="5" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/services/user.ts" timestamp="1562230606443">
+        <mark key="'" line="130" column="2" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/protos/events.proto" timestamp="1550733083829">
         <mark key="[" line="14" column="17" />
@@ -1060,13 +1066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="348" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="354" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="355" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="541" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="256" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="219" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
       <jump line="222" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
       <jump line="181" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/socket.js" />
       <jump line="187" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/socket.js" />
@@ -1160,6 +1159,13 @@
       <jump line="91" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-basic-edge/node_modules/tinder-edge-nodejs/src/protos/tinder/index.js" />
       <jump line="30" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-basic-edge/node_modules/tinder-edge-nodejs/config/default.js" />
       <jump line="5" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-basic-edge/node_modules/tinder-edge-nodejs/src/protos/tinder/index.js" />
+      <jump line="10" column="44" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/services/progress.ts" />
+      <jump line="7" column="5" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/services/progress.ts" />
+      <jump line="6" column="2" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/services/user.ts" />
+      <jump line="17" column="41" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/services/user.ts" />
+      <jump line="22" column="33" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/services/user.ts" />
+      <jump line="110" column="21" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/services/user.ts" />
+      <jump line="130" column="2" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/services/user.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1178,7 +1184,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRQcm90b1w+</text>
+        <text>details</text>
       </register>
       <register name="0" type="4">
         <text>rootLoadedProto.nested</text>
@@ -1223,9 +1229,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRQcm90b1w+</last-search>
+      <last-search>details</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRQcm90b1w+</last-pattern>
+      <last-pattern>details</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1233,9 +1239,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logjson</entry>
-        <entry encoding="base64">XDxjb252ZXJ0TXNnXD4=</entry>
-        <entry encoding="base64">XDxpc0ZsYXNoXD4=</entry>
         <entry>logger.</entry>
         <entry>level</entry>
         <entry>logger</entry>
@@ -1253,6 +1256,9 @@
         <entry>token</entry>
         <entry>disconnect</entry>
         <entry encoding="base64">XDxhZGRQcm90b1w+</entry>
+        <entry encoding="base64">XDxBdmFsaWFibGVEb2N1bWVudFw+</entry>
+        <entry encoding="base64">XDxXYXRjaFVzZXJcPg==</entry>
+        <entry>details</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm5vcmVtYXAgPExlYWRlcj5vICRhPENSPjxFU0M+</entry>
