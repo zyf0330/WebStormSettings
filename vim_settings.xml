@@ -45,8 +45,12 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" timestamp="1557906276178">
-        <mark key="'" line="16" column="15" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" timestamp="1562295631724">
+        <mark key="'" line="159" column="6" />
+        <mark key="[" line="159" column="3" />
+        <mark key="]" line="159" column="2" />
+        <mark key="^" line="159" column="2" />
+        <mark key="." line="159" column="2" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/Dockerfile" timestamp="1562034314815">
         <mark key="[" line="25" column="20" />
@@ -159,10 +163,6 @@
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/routers/duobei_client.js" timestamp="1557905614846">
         <mark key="'" line="6" column="29" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/component-emitter/index.js" timestamp="1562048018948">
-        <mark key="[" line="84" column="18" />
-        <mark key="]" line="84" column="35" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Forwarder.js" timestamp="1562121572569">
         <mark key="'" line="42" column="27" />
         <mark key="[" line="44" column="23" />
@@ -218,12 +218,6 @@
         <mark key="]" line="12" column="49" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="13" column="49" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/onCommand.js" timestamp="1562035703661">
-        <mark key="'" line="22" column="14" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-edge/appConfig.json" timestamp="1546934177868">
         <mark key="[" line="3" column="0" />
@@ -499,6 +493,9 @@
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/workers/index.js" timestamp="1557905651254">
         <mark key="'" line="1" column="6" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" timestamp="1562295648856">
+        <mark key="'" line="10" column="6" />
+      </file>
       <file name="$USER_HOME$/Desktop/test/server.js" timestamp="1547708771241">
         <mark key="[" line="42" column="17" />
         <mark key="]" line="42" column="17" />
@@ -681,12 +678,6 @@
         <mark key="]" line="14" column="20" />
         <mark key="." line="14" column="15" />
         <mark key="^" line="13" column="15" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/utils/index.js" timestamp="1562048388228">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/project/duobei/tinder/tinder-center-sdk/__test__/chat/chat.spec.js" timestamp="1560845926151">
         <mark key="[" line="8" column="47" />
@@ -967,10 +958,6 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="/deployEdge.sh" timestamp="1561699308863">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="25" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/node-rtmp-message-server/src/Socket.ts" timestamp="1560762886465">
         <mark key="'" line="135" column="10" />
       </file>
@@ -1004,10 +991,6 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="46" />
-      </file>
-      <file name="/MonitorClient.js" timestamp="1561969850616">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="12" column="6" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/node_modules/convict/lib/convict.js" timestamp="1559545278183">
         <mark key="'" line="766" column="6" />
@@ -1054,10 +1037,6 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="/diff.js" timestamp="1562049111649">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="32" />
-      </file>
       <file name="$USER_HOME$/Desktop/bolatuAnalyze/jzd77db83a16d94126ab809a1f7bdfc446.csv" timestamp="1560222691435">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="24" />
@@ -1066,17 +1045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="181" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/socket.js" />
-      <jump line="187" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/socket.js" />
-      <jump line="431" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="68" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="203" column="34" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="215" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="106" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/socket.js" />
-      <jump line="107" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/socket.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/socket.js" />
       <jump line="69" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/socket.js" />
       <jump line="79" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/socket.js" />
       <jump line="89" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/socket.js" />
@@ -1166,6 +1134,17 @@
       <jump line="22" column="33" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/services/user.ts" />
       <jump line="110" column="21" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/services/user.ts" />
       <jump line="130" column="2" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/services/user.ts" />
+      <jump line="185" column="25" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
+      <jump line="186" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
+      <jump line="147" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
+      <jump line="152" column="8" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
+      <jump line="153" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
+      <jump line="155" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
+      <jump line="179" column="11" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
+      <jump line="21" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
+      <jump line="159" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
+      <jump line="114" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="10" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1184,7 +1163,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>details</text>
+        <text encoding="base64">XDxpbmZsdXhTZW5kXD4=</text>
       </register>
       <register name="0" type="4">
         <text>rootLoadedProto.nested</text>
@@ -1229,19 +1208,16 @@
       </register>
     </registers>
     <search>
-      <last-search>details</last-search>
+      <last-search encoding="base64">XDxpbmZsdXhTZW5kXD4=</last-search>
       <last-offset />
-      <last-pattern>details</last-pattern>
+      <last-pattern encoding="base64">XDxpbmZsdXhTZW5kXD4=</last-pattern>
       <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-substitute encoding="base64">XDxoYW5kbGVyc1w+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logger.</entry>
-        <entry>level</entry>
-        <entry>logger</entry>
         <entry>addr</entry>
         <entry>command</entry>
         <entry>com</entry>
@@ -1259,6 +1235,9 @@
         <entry encoding="base64">XDxBdmFsaWFibGVEb2N1bWVudFw+</entry>
         <entry encoding="base64">XDxXYXRjaFVzZXJcPg==</entry>
         <entry>details</entry>
+        <entry encoding="base64">XDxwb2ludFF1ZXVlXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVyc1w+</entry>
+        <entry encoding="base64">XDxpbmZsdXhTZW5kXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm5vcmVtYXAgPExlYWRlcj5vICRhPENSPjxFU0M+</entry>
