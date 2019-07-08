@@ -673,6 +673,12 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/mongodb.js" timestamp="1562553690568">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/sail-stats-service/client.js" timestamp="1554891133919">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="20" />
@@ -835,6 +841,9 @@
         <mark key="]" line="144" column="5" />
         <mark key="." line="144" column="5" />
         <mark key="^" line="144" column="5" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/playback/subPlayback.js" timestamp="1562553866183">
+        <mark key="'" line="94" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1561969017051">
         <mark key="'" line="0" column="1" />
@@ -1045,13 +1054,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/socket.js" />
-      <jump line="79" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/socket.js" />
-      <jump line="89" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/socket.js" />
-      <jump line="220" column="42" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="365" column="42" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="225" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/socket.io-client/lib/manager.js" />
-      <jump line="0" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" />
       <jump line="7" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/index.js" />
       <jump line="9" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
       <jump line="11" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/MonitorClient.js" />
@@ -1145,6 +1147,13 @@
       <jump line="159" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/influxdb.js" />
       <jump line="114" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
       <jump line="10" column="6" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" />
+      <jump line="126" column="17" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/playback/subPlayback.js" />
+      <jump line="140" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/playback/subPlayback.js" />
+      <jump line="145" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/playback/subPlayback.js" />
+      <jump line="9" column="47" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/playback/subPlayback.js" />
+      <jump line="163" column="10" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/playback/subPlayback.js" />
+      <jump line="164" column="18" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/playback/subPlayback.js" />
+      <jump line="94" column="11" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/playback/subPlayback.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1163,7 +1172,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmZsdXhTZW5kXD4=</text>
+        <text encoding="base64">XDxzYXZlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>rootLoadedProto.nested</text>
@@ -1208,9 +1217,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmZsdXhTZW5kXD4=</last-search>
+      <last-search encoding="base64">XDxzYXZlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmZsdXhTZW5kXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxoYW5kbGVyc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -1218,8 +1227,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addr</entry>
-        <entry>command</entry>
         <entry>com</entry>
         <entry>curre</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
@@ -1238,6 +1245,8 @@
         <entry encoding="base64">XDxwb2ludFF1ZXVlXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVyc1w+</entry>
         <entry encoding="base64">XDxpbmZsdXhTZW5kXD4=</entry>
+        <entry encoding="base64">XDxyb29tU3RhdGlzdGljQ29sXD4=</entry>
+        <entry encoding="base64">XDxzYXZlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm5vcmVtYXAgPExlYWRlcj5vICRhPENSPjxFU0M+</entry>
