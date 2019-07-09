@@ -479,11 +479,11 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562647865009">
+      <file name="/Dummy.txt" timestamp="1562665785794">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="8" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+        <mark key="^" line="0" column="35" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/1.js" timestamp="1553224128412">
         <mark key="[" line="11" column="0" />
@@ -519,7 +519,7 @@
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/workers/index.js" timestamp="1557905651254">
         <mark key="'" line="1" column="6" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" timestamp="1562295648856">
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/clientStatus.js" timestamp="1562666981203">
         <mark key="'" line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/test/server.js" timestamp="1547708771241">
@@ -1212,7 +1212,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>的</text>
+        <text>scripts(fixData):</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1221,7 +1221,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>的</text>
+        <text>scripts(fixData):</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1270,7 +1270,7 @@
         <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZS5zZWxlY3RDRE4gPSBjb252ZXJ0VG9TZWxlY3QodGhpcy5zdGF0ZS5jZG4pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -1324,8 +1324,8 @@
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry>q</entry>
-        <entry>action FindInPath</entry>
         <entry>w</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
