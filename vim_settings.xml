@@ -494,7 +494,7 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562665785794">
+      <file name="/Dummy.txt" timestamp="1562840324815">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
@@ -575,6 +575,12 @@
         <mark key="]" line="7" column="6" />
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/.gitignore" timestamp="1562840377342">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/ETCD.js" timestamp="1559628970110">
         <mark key="'" line="0" column="0" />
@@ -1251,8 +1257,8 @@
       <jump line="87" column="47" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgciA9IG1vZHVsZS5leHBvcnRzKCkudGhlbigoLi4uYXJncykgPT4gewogIGNvbnNvbGUubG9nKC4uLmFyZ3MpCn0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>cacert</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1261,7 +1267,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>cacert</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
