@@ -198,8 +198,8 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="28" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/collects/routes.ts" timestamp="1562665726171">
-        <mark key="'" line="89" column="18" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/collects/routes.ts" timestamp="1562815399925">
+        <mark key="'" line="2" column="40" />
         <mark key="[" line="41" column="77" />
         <mark key="]" line="41" column="77" />
         <mark key="^" line="41" column="77" />
@@ -352,6 +352,9 @@
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/index.js" timestamp="1562812299090">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/errorHandler.js" timestamp="1557038362046">
         <mark key="[" line="8" column="38" />
@@ -1120,7 +1123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="11" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/playback/subPlayback.js" />
       <jump line="159" column="8" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/playback/subPlayback.js" />
       <jump line="32" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/playback.js" />
       <jump line="53" column="9" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/playback.js" />
@@ -1220,6 +1222,7 @@
       <jump line="14" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
       <jump line="314" column="42" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
       <jump line="89" column="18" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/collects/routes.ts" />
+      <jump line="2" column="40" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/collects/routes.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1238,7 +1241,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>width</text>
+        <text encoding="base64">XDxleHRyYWN0SW5mb1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJkb2NzOmFsbCI6ICJhcGlkb2MgLS1wcml2YXRlIHRydWUgLWkgc3JjLyAtbyBkb2NzLyIsCg==</text>
@@ -1285,17 +1288,16 @@
       </register>
     </registers>
     <search>
-      <last-search>width</last-search>
+      <last-search encoding="base64">XDxleHRyYWN0SW5mb1w+</last-search>
       <last-offset />
-      <last-pattern>width</last-pattern>
+      <last-pattern encoding="base64">XDxleHRyYWN0SW5mb1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxoYW5kbGVyc1w+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZFw+</entry>
         <entry>localsto</entry>
         <entry>视频类型</entry>
         <entry encoding="base64">XDxyb3dcPg==</entry>
@@ -1315,6 +1317,7 @@
         <entry encoding="base64">XDxpc1ZpZGVvXD4=</entry>
         <entry encoding="base64">XDxkaXZcPg==</entry>
         <entry>width</entry>
+        <entry encoding="base64">XDxleHRyYWN0SW5mb1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm5vcmVtYXAgPExlYWRlcj5vICRhPENSPjxFU0M+</entry>
