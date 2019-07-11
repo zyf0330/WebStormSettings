@@ -659,12 +659,12 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" timestamp="1562834889479">
-        <mark key="'" line="33" column="21" />
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
-        <mark key="^" line="38" column="4" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" timestamp="1562835664685">
+        <mark key="'" line="38" column="32" />
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="44" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/engine.io-client/lib/socket.js" timestamp="1561966011552">
         <mark key="'" line="452" column="36" />
@@ -851,7 +851,7 @@
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-feedback-log-server/record/redisRecord.js" timestamp="1560321614178">
         <mark key="'" line="18" column="6" />
       </file>
-      <file name="/fragment.js" timestamp="1562827139445">
+      <file name="/fragment.js" timestamp="1562835061865">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -1010,7 +1010,7 @@
       <file name="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" timestamp="1556191544674">
         <mark key="'" line="53" column="8093" />
       </file>
-      <file name="/JavaScript Console" timestamp="1562834891222">
+      <file name="/JavaScript Console" timestamp="1562835645587">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1136,7 +1136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
       <jump line="111" column="27" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
       <jump line="126" column="46" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
       <jump line="152" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
@@ -1236,10 +1235,11 @@
       <jump line="9" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
       <jump line="10" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
       <jump line="33" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
+      <jump line="37" column="32" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgcXVlcnlzdHJpbmcgPSByZXF1aXJlKCdxdWVyeXN0cmluZycpCg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1248,7 +1248,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>, headers:</text>
+        <text>null</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1260,37 +1260,37 @@
         <text>querystring</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgcXVlcnlzdHJpbmcgPSByZXF1aXJlKCdxdWVyeXN0cmluZycpCg==</text>
+        <text encoding="base64">YXhpb3MuZGVmYXVsdHMuaGVhZGVycy5wb3N0WydDb250ZW50LVR5cGUnXSA9ICdtdWx0aXBhcnQvZm9ybS1kYXRhJzsK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgcXVlcnlzdHJpbmcgPSByZXF1aXJlKCdxdWVyeXN0cmluZycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmZC5hcHBlbmQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aGVhZGVyczogeydDb250ZW50LVR5cGUnOiAnJyB9Cg==</text>
+        <text encoding="base64">ICBmZC5hcHBlbmQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXhpb3MuZGVmYXVsdHMuaGVhZGVycy5wb3N0WydDb250ZW50LVR5cGUnXSA9ICdhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQnCg==</text>
+        <text encoding="base64">aGVhZGVyczogeydDb250ZW50LVR5cGUnOiAnJyB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXhpb3MuZGVmYXVsdHMuaGVhZGVycy5wb3N0WydDb250ZW50LVR5cGUnXSA9ICdhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name=":" type="4">
         <text>action FindInPath</text>
