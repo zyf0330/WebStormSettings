@@ -582,6 +582,9 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Client.js" timestamp="1562926614365">
+        <mark key="'" line="197" column="11" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/ETCD.js" timestamp="1559628970110">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1155,8 +1158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
-      <jump line="39" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
       <jump line="62" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
       <jump line="100" column="27" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
       <jump line="228" column="30" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
@@ -1255,6 +1256,8 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
       <jump line="65" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
       <jump line="87" column="47" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
+      <jump line="10" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Client.js" />
+      <jump line="197" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Client.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1273,7 +1276,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>authinfo</text>
+        <text>getaudi</text>
       </register>
       <register name="0" type="4">
         <text>92f7ebf1-f8b9-4ca3-bfb6-5396e489bc25</text>
@@ -1312,13 +1315,13 @@
         <text encoding="base64">ICAgIGRldmljZVR5cGU6IDEsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search>authinfo</last-search>
+      <last-search>getaudi</last-search>
       <last-offset />
-      <last-pattern>authinfo</last-pattern>
+      <last-pattern>getaudi</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
@@ -1326,7 +1329,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ax</entry>
         <entry>server</entry>
         <entry>axio</entry>
         <entry>axios</entry>
@@ -1346,6 +1348,7 @@
         <entry>devicetype</entry>
         <entry>autjhinfo</entry>
         <entry>authinfo</entry>
+        <entry>getaudi</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
@@ -1362,12 +1365,12 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>noh</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry>w</entry>
-        <entry>action FindInPath</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLz0vOi9n</entry>
         <entry>reg</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
