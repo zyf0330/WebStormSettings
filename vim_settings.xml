@@ -107,12 +107,6 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="22" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/VideoContainer.js" timestamp="1562647980068">
-        <mark key="'" line="81" column="14" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/config/default.js" timestamp="1546499078795">
         <mark key="[" line="29" column="23" />
         <mark key="]" line="29" column="27" />
@@ -325,6 +319,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="20" column="49" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/checkHLSEvent.js" timestamp="1563246039673">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/grpcClients.js" timestamp="1547782013657">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -490,7 +490,7 @@
         <mark key="^" line="0" column="102" />
         <mark key="." line="0" column="102" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563244935661">
+      <file name="/Dummy.txt" timestamp="1563244986076">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -689,6 +689,9 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" timestamp="1563246047101">
+        <mark key="'" line="364" column="19" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/.arclint" timestamp="1541487440178">
         <mark key="[" line="27" column="22" />
@@ -1160,10 +1163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
-      <jump line="112" column="35" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
-      <jump line="194" column="94" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
-      <jump line="199" column="94" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
       <jump line="212" column="37" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
       <jump line="44" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
       <jump line="178" column="42" filename="/media/zyf/data/Programming/project/duobei/dby-react-video-player/src/Example.js" />
@@ -1260,10 +1259,14 @@
       <jump line="52" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
       <jump line="90" column="35" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
       <jump line="40" column="41" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
+      <jump line="191" column="22" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
+      <jump line="356" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
+      <jump line="357" column="39" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
+      <jump line="364" column="19" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Z:\850evo\</text>
+        <text>roomId</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1272,16 +1275,16 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>Z:\850evo\</text>
+        <text>IO</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>nickname</text>
+        <text>auth</text>
       </register>
       <register name="0" type="4">
-        <text>authInfoUrl</text>
+        <text>roomId</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3QgYXV0aEluZm9VcmwgPSAnaHR0cDovL2FwaV9kZXYuZHVvYmVpeXVuLmNvbS9hcGkvdjQvcm9vbS9hdXRoaW5mbz91aWQ9dGVhY2hlciZuaWNrbmFtZT10ZWFjaGVyJnJvb21JZD1qejJhMmZlMTdjMzA5NTRkNzJiZGQ4M2I2YTNmZTI1YzhhJnVzZXJSb2xlPTEmcGFydG5lcj0yMDE1MDUxNTE1MTYyNyZ0aW1lc3RhbXA9MTU2MzE3ODM2OTQ4MiZzaWduPWI2NTgwYzUzMTU4OTYzYTY1MmZmZWZlNzhhNzM1YWYwJwo=</text>
@@ -1321,9 +1324,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nickname</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>nickname</last-pattern>
+      <last-pattern>auth</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
@@ -1331,10 +1334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>server</entry>
-        <entry>axio</entry>
-        <entry>axios</entry>
-        <entry encoding="base64">XDxodHRwQWdlbnRcPg==</entry>
         <entry>super</entry>
         <entry>reuest</entry>
         <entry>request</entry>
@@ -1351,6 +1350,10 @@
         <entry>authinfo</entry>
         <entry>getaudi</entry>
         <entry>nickname</entry>
+        <entry>connect</entry>
+        <entry encoding="base64">XDxzb2NrZXRcPg==</entry>
+        <entry encoding="base64">XDxoYW5kc2hha2VEYXRhXD4=</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
