@@ -344,9 +344,12 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/index.js" timestamp="1563335117465">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/index.js" timestamp="1563338435914">
         <mark key="'" line="6" column="47" />
-        <mark key="^" line="14" column="2" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/errorHandler.js" timestamp="1557038362046">
         <mark key="[" line="8" column="38" />
@@ -786,12 +789,12 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="4" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/publishStream.js" timestamp="1563335005305">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="14" column="106" />
-        <mark key="]" line="14" column="106" />
-        <mark key="." line="14" column="106" />
-        <mark key="^" line="4" column="50" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/publishStream.js" timestamp="1563338467465">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="12" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.js" timestamp="1547178056733">
         <mark key="[" line="2" column="12" />
@@ -1035,7 +1038,7 @@
       <file name="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" timestamp="1556191544674">
         <mark key="'" line="53" column="8093" />
       </file>
-      <file name="/JavaScript Console" timestamp="1563337364983">
+      <file name="/JavaScript Console" timestamp="1563337984605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1173,7 +1176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="449" column="39" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
       <jump line="79" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
       <jump line="18" column="41" filename="/media/zyf/data/Programming/project/duobei/dby-test-mobile-server/old/Client.js" />
@@ -1273,10 +1275,11 @@
       <jump line="12" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/index.js" />
       <jump line="6" column="47" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/index.js" />
       <jump line="7" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/config.yaml" />
+      <jump line="10" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/publishStream.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>确保推流进程被关闭</text>
+        <text>stop</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1285,7 +1288,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>确保推流进程被关闭</text>
+        <text>stop</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1297,44 +1300,37 @@
         <text encoding="base64">ICB7YToxfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaXNoU3RyZWFtLnN0YXJ0KHRlYWNoZXJBdXRoSW5mb1VybCkK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1Ymxpc2hTdHJlYW0uc3RvcCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaXNoU3RyZWFtLnN0b3AoKQo=</text>
+        <text encoding="base64">ICBzdG9wOiAoKSA9PiB7CgogIH0sCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGlmIChjaGlsZFByb2Nlc3MgIT0gbnVsbCkgewogICAgICBjaGlsZFByb2Nlc3Mua2lsbCgpCiAgICB9</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LCAoLi4uYXJncykgPT4gewogICAgICBjb25zb2xlLmxvZyguLi5hcmdzKQogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">bGV0IGNoaWxkUHJvY2Vzcwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>serverAddress: http://api_dev.duobeiyun.com
-partnerId: 20150515151627
-appKey: fbd291dd1c2f4dcea32dd1d49ed95272
-publishStreamExecFile: ./dby-client-tool/dby-client-tool.exe
-videoFile: ./short_cat_soup_320x240_yuv420p.yuv
-audioFile: ./short_beating_heart_s16le_mono_16k.pcm
-
-checkTimeout: 200</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwdWJsaXNoU3RyZWFtLnN0YXJ0KHRlYWNoZXJBdXRoSW5mb1VybCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgYXJyID0gW3sgYTogMSB9LCB7IGE6IDEgfV0KCmNvbnN0IG9iaiA9IHsgYTogWzEsIDFdIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action FindInPath</text>
