@@ -344,12 +344,12 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/index.js" timestamp="1563338435914">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/index.js" timestamp="1563338507480">
         <mark key="'" line="6" column="47" />
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="14" column="9" />
-        <mark key="^" line="14" column="9" />
-        <mark key="." line="14" column="9" />
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/errorHandler.js" timestamp="1557038362046">
         <mark key="[" line="8" column="38" />
@@ -496,11 +496,11 @@
         <mark key="^" line="0" column="102" />
         <mark key="." line="0" column="102" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563335239914">
+      <file name="/Dummy.txt" timestamp="1563338486536">
         <mark key="j" line="0" column="42" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="14" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/1.js" timestamp="1553224128412">
@@ -1279,7 +1279,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stop</text>
+        <text>chore: 确保推流进程最后会被关闭</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1288,7 +1288,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>stop</text>
+        <text>chore: 确保推流进程最后会被关闭</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
