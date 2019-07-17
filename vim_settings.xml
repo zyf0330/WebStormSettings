@@ -495,7 +495,7 @@
         <mark key="^" line="0" column="102" />
         <mark key="." line="0" column="102" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563349337909">
+      <file name="/Dummy.txt" timestamp="1563353448518">
         <mark key="j" line="0" column="42" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1173,10 +1173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/Client.js" />
-      <jump line="11" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/Client.js" />
-      <jump line="23" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/Client.js" />
-      <jump line="103" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/Client.js" />
       <jump line="104" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/Client.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
       <jump line="407" column="4" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/msgCenter/Client.js" />
@@ -1273,10 +1269,18 @@
       <jump line="19" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
       <jump line="31" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
       <jump line="82" column="27" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
+      <jump line="82" column="2" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/types/models.ts" />
+      <jump line="31" column="10" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/types/models.ts" />
+      <jump line="30" column="2" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/types/models.ts" />
+      <jump line="25" column="2" filename="/media/zyf/data/Programming/project/duobei/datalog/dby-data-center/src/types/models.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6bbb74a990c047059bca2fe7f8aa2f5f</text>
+        <text>info: {
+      patternProperties: {
+        '.*': [{type: 'number'}, {type: 'string'}],
+      },
+    }</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1285,58 +1289,61 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>6bbb74a990c047059bca2fe7f8aa2f5f</text>
+        <text>[{type: 'number'}, {type: 'string'}]</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVSb29tXD4=</text>
+        <text encoding="base64">XDxyYW5nZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAuY29tCiMgdGVzdC1vbGQtYXBwcwotIGFwaUFkZHI6IGh0dHBzOi8vYXBpLmR1b2JlaXl1bi5jb20KICBwYXJ0bmVySWQ6IDIwMTkwNzE3MTU0MDU0NDY2MTc0CiAgYXBwS2V5OiA2YmJiNzRhOTkwYzA0NzA1OWJjYTJmZTdmOGFhMmY1ZgojIHRlc3QtdGluZGVyLWFwcHMKLSBhcGlBZGRyOiBodHRwczovL2FwaS5kdW9iZWl5dW4uY29tCiAgcGFydG5lcklkOiAyMDE5MDcxNzE1NDA1NDQ2NjE3NAogIGFwcEtleTogNmJiYjc0YTk5MGMwNDcwNTliY2EyZmU3ZjhhYTJmNWYK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyB0ZXN0LXRpbmRlci1hcHBzCi0gYXBpQWRkcjogaHR0cHM6Ly9hcGkuZHVvYmVpeXVuLmNvbQogIHBhcnRuZXJJZDogMjAxOTA3MTcxNTQwNTQ0NjYxNzQKICBhcHBLZXk6IDZiYmI3NGE5OTBjMDQ3MDU5YmNhMmZlN2Y4YWEyZjVmCg==</text>
+      <register name="1" type="4">
+        <text>{
+          type: 'array',
+          items: ,
+        }</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgc2VydmVyOiB7dHlwZTogJ3N0cmluZyd9LAogICAgICByZXNvdXJjZToge3R5cGU6ICdzdHJpbmcnfSwKICAgICAgY3VycmVudFRpbWU6IHt0eXBlOiAnbnVtYmVyJ30s</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc28K</text>
+        <text encoding="base64">IyB0ZXN0LXRpbmRlci1hcHBzCi0gYXBpQWRkcjogaHR0cHM6Ly9hcGkuZHVvYmVpeXVuLmNvbQogIHBhcnRuZXJJZDogMjAxOTA3MTcxNTQwNTQ0NjYxNzQKICBhcHBLZXk6IDZiYmI3NGE5OTBjMDQ3MDU5YmNhMmZlN2Y4YWEyZjVmCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qge2Zvcm1hdH0gPSByZXF1aXJlKCd1dGlsJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCmNvbnN0IGxvZyA9IGZzLmNyZWF0ZVdyaXRlU3RyZWFtKCcuL291dC5sb2cnLCB7ZmxhZ3M6ICdhJ30pCmNvbnNvbGUubG9nID0gKC4uLmFyZ3MpID0+IHsKICBsb2cud3JpdGUoYXJncy5tYXAoSlNPTi5zdHJpbmdpZnkpLmpvaW4oJyAnKSArICdcbicpCn0K</text>
+        <text encoding="base64">Y29uc28K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgbG9nID0gZnMuY3JlYXRlV3JpdGVTdHJlYW0oJy4vb3V0LmxvZycsIHtmbGFnczogJ2EnfSkKY29uc29sZS5sb2cgPSAoLi4uYXJncykgPT4gewogIGxvZy53cml0ZShhcmdzLm1hcChKU09OLnN0cmluZ2lmeSkuam9pbignICcpICsgJ1xuJykKfQo=</text>
+        <text encoding="base64">Y29uc3Qge2Zvcm1hdH0gPSByZXF1aXJlKCd1dGlsJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gcHJvY2Vzcy5zdGRlcnIucGlwZShmcy5jcmVhdGVXcml0ZVN0cmVhbSgnLi9lcnIubG9nJykpCg==</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCmNvbnN0IGxvZyA9IGZzLmNyZWF0ZVdyaXRlU3RyZWFtKCcuL291dC5sb2cnLCB7ZmxhZ3M6ICdhJ30pCmNvbnNvbGUubG9nID0gKC4uLmFyZ3MpID0+IHsKICBsb2cud3JpdGUoYXJncy5tYXAoSlNPTi5zdHJpbmdpZnkpLmpvaW4oJyAnKSArICdcbicpCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJvY2Vzcy5zdGRvdXQucGlwZSgpCg==</text>
+        <text encoding="base64">Y29uc3QgbG9nID0gZnMuY3JlYXRlV3JpdGVTdHJlYW0oJy4vb3V0LmxvZycsIHtmbGFnczogJ2EnfSkKY29uc29sZS5sb2cgPSAoLi4uYXJncykgPT4gewogIGxvZy53cml0ZShhcmdzLm1hcChKU09OLnN0cmluZ2lmeSkuam9pbignICcpICsgJ1xuJykKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS4K</text>
+        <text encoding="base64">Ly8gcHJvY2Vzcy5zdGRlcnIucGlwZShmcy5jcmVhdGVXcml0ZVN0cmVhbSgnLi9lcnIubG9nJykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVSb29tXD4=</last-search>
+      <last-search encoding="base64">XDxyYW5nZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVSb29tXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyYW5nZVw+</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
@@ -1344,7 +1351,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb29tSWRcPg==</entry>
         <entry encoding="base64">XDxxdWVyeUNvbmZpZ1w+</entry>
         <entry encoding="base64">XDxpbml0U29ja2V0XD4=</entry>
         <entry>agent</entry>
@@ -1364,6 +1370,7 @@
         <entry>time</entry>
         <entry>create</entry>
         <entry encoding="base64">XDxjcmVhdGVSb29tXD4=</entry>
+        <entry encoding="base64">XDxyYW5nZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
