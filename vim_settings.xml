@@ -514,7 +514,7 @@
         <mark key="^" line="0" column="102" />
         <mark key="." line="0" column="102" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563853251747">
+      <file name="/Dummy.txt" timestamp="1563853446864">
         <mark key="j" line="0" column="42" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
@@ -1380,7 +1380,7 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coe21zZzogJy0tLS0tLS0tLS0tLS0tLS0tLS0nLCBzZXJ2ZXJ9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -1433,9 +1433,9 @@
         <entry encoding="base64">JzwsJz5zLz0vOi9n</entry>
         <entry>reg</entry>
         <entry>q</entry>
-        <entry>action FindInPath</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry>w</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
