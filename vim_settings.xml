@@ -700,11 +700,11 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" timestamp="1563871227352">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" timestamp="1563872464161">
         <mark key="'" line="83" column="8" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="3" />
-        <mark key="." line="99" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/engine.io-client/lib/socket.js" timestamp="1561966011552">
         <mark key="'" line="452" column="36" />
@@ -1080,7 +1080,7 @@
       <file name="/media/zyf/data/Programming/project/Node/loveXX/zhihuorizhi" timestamp="1556191544674">
         <mark key="'" line="53" column="8093" />
       </file>
-      <file name="/JavaScript Console" timestamp="1563871005264">
+      <file name="/JavaScript Console" timestamp="1563872498019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1318,7 +1318,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1327,7 +1327,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>JSON</text>
+        <text>room</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1336,44 +1336,48 @@
         <text encoding="base64">XDxzZXJ2aWNlRW52S2V5XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>serviceEnvKey</text>
+        <text>roomInfo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>{
+      roomId,
+      teacherAuthInfoUrl,
+      studentAuthInfoUrl,
+    }</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="s" type="4">
+        <text>zmqSocketRoute</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>{
     roomId,
     teacherAuthInfoUrl,
     studentAuthInfoUrl,
   }</text>
       </register>
-      <register name="s" type="4">
-        <text>zmqSocketRoute</text>
-      </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y29uc3QgcyA9IG51bGwKcy50b1N0cmluZygpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbicK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ3N0YXNoKG9iaikK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeXt9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0cnl7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAgIGxvZ3N0YXNoKG9iaikK</text>
       </register>
       <register name=":" type="4">
         <text>action FindInPath</text>
