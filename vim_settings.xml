@@ -658,11 +658,11 @@
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="5" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/utils/cos.js" timestamp="1563938722459">
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="19" />
-        <mark key="^" line="45" column="19" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/utils/cos.js" timestamp="1563939120453">
+        <mark key="[" line="55" column="1" />
+        <mark key="]" line="57" column="22" />
+        <mark key="." line="57" column="22" />
+        <mark key="^" line="57" column="22" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/index.js" timestamp="1559628980700">
         <mark key="'" line="6" column="11" />
@@ -1017,7 +1017,8 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/qcloud_cli/src/download.js" timestamp="1563938697596">
+      <file name="/media/zyf/data/Programming/project/duobei/qcloud_cli/src/download.js" timestamp="1563938831045">
+        <mark key="'" line="15" column="17" />
         <mark key="[" line="83" column="4" />
         <mark key="]" line="108" column="4" />
       </file>
@@ -1257,9 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="5" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/checkHLSEvent.js" />
-      <jump line="46" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/checkHLSEvent.js" />
-      <jump line="15" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/checkHLSEvent.js" />
       <jump line="52" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/checkHLSEvent.js" />
       <jump line="13" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/checkHLSEvent.js" />
       <jump line="78" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" />
@@ -1357,10 +1355,13 @@
       <jump line="52" column="48" filename="/media/zyf/data/Programming/project/duobei/qcloud_cli/qcloud_cli.js" />
       <jump line="58" column="22" filename="/media/zyf/data/Programming/project/duobei/qcloud_cli/qcloud_cli.js" />
       <jump line="127" column="17" filename="/media/zyf/data/Programming/project/duobei/qcloud_cli/qcloud_cli.js" />
+      <jump line="82" column="22" filename="/media/zyf/data/Programming/project/duobei/qcloud_cli/src/download.js" />
+      <jump line="101" column="51" filename="/media/zyf/data/Programming/project/duobei/qcloud_cli/src/download.js" />
+      <jump line="15" column="17" filename="/media/zyf/data/Programming/project/duobei/qcloud_cli/src/download.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.client</text>
+        <text encoding="base64">KGVyciwgZGF0YSkgPT4gewogICAgaWYgKGVycikgewogICAgICBsb2dnZXIuZ2V0KCdkb3dubG9hZCcpLmVycm9yKGVycik7CiAgICAgIHJldHVybiByZWplY3QoZXJyKTsKICAgIH0KICAgIGlmIChkYXRhLklzVHJ1bmNhdGVkID09PSAndHJ1ZScpIHsKICAgICAgLy8gVE9ETzogaGFuZGxlIHRydW5jYXRlZCAoS2V5cyBjb3VudCBncmVhdCB0aGFuIDEwMDApCiAgICAgIHJldHVybiByZWplY3QoJ05vdCBpbXBsZW1lbnQnKTsKICAgIH0KICAgIGlmIChfLmlzRW1wdHkoZGF0YS5Db250ZW50cykpIHsKICAgICAgcmV0dXJuIHJlamVjdChgJHtyZW1vdGVfYmFzZX0gbm90IGV4aXN0IG9yIGlzIGVtcHR5YCk7CiAgICB9CiAgICByZXR1cm4gUHJvbWlzZS5tYXAoZGF0YS5Db250ZW50cywgKGNvbnRlbnQpID0+IHsKICAgICAgbG9nZ2VyLmdldCgnZG93bmxvYWQnKS5pbmZvKGBTdGFydCBEb3dubG9hZCAke2NvbnRlbnQuS2V5fSAtPiAke2Rlc3RpbmF0aW9ufWApOwogICAgICByZXR1cm4gcmV0cnlEb3dubG9hZEZpbGUoY29udGVudC5LZXksIHBhdGgucmVzb2x2ZShkZXN0aW5hdGlvbiwgY29udGVudC5LZXkpKS5jYXRjaChlcnIgPT4gewogICAgICAgIGxvZ2dlci5nZXQoJ2Rvd25sb2FkJykuZXJyb3IoYERvd25sb2FkICR7Y29udGVudC5LZXl9IC0+ICR7ZGVzdGluYXRpb259IEZhaWxlZGApCiAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGVycikKICAgICAgfSkKICAgIH0sIHsgY29uY3VycmVuY3k6IGxpbWl0IH0pLmNhdGNoKGVyciA9PiB7CiAgICAgIHJldHVybiByZWplY3QoZXJyKQogICAgfSkKICB9</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1369,58 +1370,58 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>.client</text>
+        <text>remote_base</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>download</text>
+        <text encoding="base64">XDxyZXNvbHZlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y29zLmNsaWVudC5nZXRCdWNrZXQoewogICAgICBCdWNrZXQ6IGNvcy5vcHRpb25zLkJ1Y2tldCwKICAgICAgUmVnaW9uOiBjb3Mub3B0aW9ucy5SZWdpb24sCiAgICAgIFByZWZpeCA6IHJlbW90ZV9iYXNlLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiDlv4XpobsgKi8KICAgIH0sIChlcnIsIGRhdGEpID0+IHsKICAgICAgaWYgKGVycikgewogICAgICAgIGxvZ2dlci5nZXQoJ2Rvd25sb2FkJykuZXJyb3IoZXJyKTsKICAgICAgICByZXR1cm4gcmVqZWN0KGVycik7CiAgICAgIH0KICAgICAgaWYgKGRhdGEuSXNUcnVuY2F0ZWQgPT09ICd0cnVlJykgewogICAgICAgIC8vIFRPRE86IGhhbmRsZSB0cnVuY2F0ZWQgKEtleXMgY291bnQgZ3JlYXQgdGhhbiAxMDAwKQogICAgICAgIHJldHVybiByZWplY3QoJ05vdCBpbXBsZW1lbnQnKTsKICAgICAgfQogICAgICBpZiAoXy5pc0VtcHR5KGRhdGEuQ29udGVudHMpKSB7CiAgICAgICAgcmV0dXJuIHJlamVjdChgJHtyZW1vdGVfYmFzZX0gbm90IGV4aXN0IG9yIGlzIGVtcHR5YCk7CiAgICAgIH0KICAgICAgcmV0dXJuIFByb21pc2UubWFwKGRhdGEuQ29udGVudHMsIChjb250ZW50KSA9PiB7CiAgICAgICAgbG9nZ2VyLmdldCgnZG93bmxvYWQnKS5pbmZvKGBTdGFydCBEb3dubG9hZCAke2NvbnRlbnQuS2V5fSAtPiAke2Rlc3RpbmF0aW9ufWApOwogICAgICAgIHJldHVybiByZXRyeURvd25sb2FkRmlsZShjb250ZW50LktleSwgcGF0aC5yZXNvbHZlKGRlc3RpbmF0aW9uLCBjb250ZW50LktleSkpLmNhdGNoKCBlcnIgPT4gewogICAgICAgICAgbG9nZ2VyLmdldCgnZG93bmxvYWQnKS5lcnJvcihgRG93bmxvYWQgJHtjb250ZW50LktleX0gLT4gJHtkZXN0aW5hdGlvbn0gRmFpbGVkYCkKICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlamVjdChlcnIpCiAgICAgICAgfSkKICAgICAgfSwge2NvbmN1cnJlbmN5OiBsaW1pdH0pLmNhdGNoKCBlcnIgPT4gewogICAgICAgIHJldHVybiByZWplY3QoZXJyKQogICAgICB9KQogICAgfQ==</text>
+        <text>filename</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">KGVyciwgZGF0YSkgPT4gewogICAgaWYgKGVycikgewogICAgICBsb2dnZXIuZ2V0KCdkb3dubG9hZCcpLmVycm9yKGVycik7CiAgICAgIHJldHVybiByZWplY3QoZXJyKTsKICAgIH0KICAgIGlmIChkYXRhLklzVHJ1bmNhdGVkID09PSAndHJ1ZScpIHsKICAgICAgLy8gVE9ETzogaGFuZGxlIHRydW5jYXRlZCAoS2V5cyBjb3VudCBncmVhdCB0aGFuIDEwMDApCiAgICAgIHJldHVybiByZWplY3QoJ05vdCBpbXBsZW1lbnQnKTsKICAgIH0KICAgIGlmIChfLmlzRW1wdHkoZGF0YS5Db250ZW50cykpIHsKICAgICAgcmV0dXJuIHJlamVjdChgJHtyZW1vdGVfYmFzZX0gbm90IGV4aXN0IG9yIGlzIGVtcHR5YCk7CiAgICB9CiAgICByZXR1cm4gUHJvbWlzZS5tYXAoZGF0YS5Db250ZW50cywgKGNvbnRlbnQpID0+IHsKICAgICAgbG9nZ2VyLmdldCgnZG93bmxvYWQnKS5pbmZvKGBTdGFydCBEb3dubG9hZCAke2NvbnRlbnQuS2V5fSAtPiAke2Rlc3RpbmF0aW9ufWApOwogICAgICByZXR1cm4gcmV0cnlEb3dubG9hZEZpbGUoY29udGVudC5LZXksIHBhdGgucmVzb2x2ZShkZXN0aW5hdGlvbiwgY29udGVudC5LZXkpKS5jYXRjaChlcnIgPT4gewogICAgICAgIGxvZ2dlci5nZXQoJ2Rvd25sb2FkJykuZXJyb3IoYERvd25sb2FkICR7Y29udGVudC5LZXl9IC0+ICR7ZGVzdGluYXRpb259IEZhaWxlZGApCiAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGVycikKICAgICAgfSkKICAgIH0sIHsgY29uY3VycmVuY3k6IGxpbWl0IH0pLmNhdGNoKGVyciA9PiB7CiAgICAgIHJldHVybiByZWplY3QoZXJyKQogICAgfSkKICB9</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAoKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAoKQo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobW9tZW50KCcyMDE5LTA3LTIzIDIyOjAxOjAwJykuc3VidHJhY3QoMCwgJ21pbnV0ZXMnKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobW9tZW50KCcyMDE5LTA3LTIzIDIyOjAxOjAwJykubWludXRlcygwKSkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobW9tZW50KCcyMDE5LTA3LTIzIDIyOjAxOjAwJykuc3VidHJhY3QoMCwgJ21pbnV0ZXMnKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgbW9tZW50ID0gcmVxdWlyZSgnbW9tZW50JykK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobW9tZW50KCcyMDE5LTA3LTIzIDIyOjAxOjAwJykubWludXRlcygwKSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Y29uc3QgbW9tZW50ID0gcmVxdWlyZSgnbW9tZW50JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAib3MiOiBbCiAgICAid2luMzIiCiAgXSwK</text>
+        <text encoding="base64">Y29uc3QgbW9tZW50ID0gcmVxdWlyZSgnbW9tZW50JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJtb21lbnQiOiAiXjIuMjQuMCIsCg==</text>
+        <text encoding="base64">ICAib3MiOiBbCiAgICAid2luMzIiCiAgXSwK</text>
       </register>
       <register name=":" type="4">
         <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search>download</last-search>
+      <last-search encoding="base64">XDxyZXNvbHZlXD4=</last-search>
       <last-offset />
-      <last-pattern>download</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNvbHZlXD4=</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
@@ -1428,7 +1429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>time</entry>
         <entry>create</entry>
         <entry encoding="base64">XDxyYW5nZVw+</entry>
         <entry encoding="base64">XDxqd3RWYWxpZGF0b3JcPg==</entry>
@@ -1448,6 +1448,7 @@
         <entry>tin</entry>
         <entry encoding="base64">XDxjb3NcPg==</entry>
         <entry>download</entry>
+        <entry encoding="base64">XDxyZXNvbHZlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
