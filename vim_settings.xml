@@ -505,9 +505,9 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/config.yaml" timestamp="1563949392233">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/config.yaml" timestamp="1563949698613">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="33" column="81" />
+        <mark key="[" line="33" column="14" />
         <mark key="]" line="33" column="80" />
         <mark key="." line="33" column="80" />
         <mark key="^" line="33" column="80" />
@@ -1384,7 +1384,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8080</text>
+        <text>http://duobei:4508ad09b6e1174d147438fbcbefb3eb@211.159.236.53:18081</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
