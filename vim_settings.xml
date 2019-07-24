@@ -658,11 +658,11 @@
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="5" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/utils/cos.js" timestamp="1563939120453">
-        <mark key="[" line="55" column="1" />
-        <mark key="]" line="57" column="22" />
-        <mark key="." line="57" column="22" />
-        <mark key="^" line="57" column="22" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/utils/cos.js" timestamp="1563939247694">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="53" column="18" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/index.js" timestamp="1559628980700">
         <mark key="'" line="6" column="11" />
@@ -1360,8 +1360,8 @@
       <jump line="15" column="17" filename="/media/zyf/data/Programming/project/duobei/qcloud_cli/src/download.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KGVyciwgZGF0YSkgPT4gewogICAgaWYgKGVycikgewogICAgICBsb2dnZXIuZ2V0KCdkb3dubG9hZCcpLmVycm9yKGVycik7CiAgICAgIHJldHVybiByZWplY3QoZXJyKTsKICAgIH0KICAgIGlmIChkYXRhLklzVHJ1bmNhdGVkID09PSAndHJ1ZScpIHsKICAgICAgLy8gVE9ETzogaGFuZGxlIHRydW5jYXRlZCAoS2V5cyBjb3VudCBncmVhdCB0aGFuIDEwMDApCiAgICAgIHJldHVybiByZWplY3QoJ05vdCBpbXBsZW1lbnQnKTsKICAgIH0KICAgIGlmIChfLmlzRW1wdHkoZGF0YS5Db250ZW50cykpIHsKICAgICAgcmV0dXJuIHJlamVjdChgJHtyZW1vdGVfYmFzZX0gbm90IGV4aXN0IG9yIGlzIGVtcHR5YCk7CiAgICB9CiAgICByZXR1cm4gUHJvbWlzZS5tYXAoZGF0YS5Db250ZW50cywgKGNvbnRlbnQpID0+IHsKICAgICAgbG9nZ2VyLmdldCgnZG93bmxvYWQnKS5pbmZvKGBTdGFydCBEb3dubG9hZCAke2NvbnRlbnQuS2V5fSAtPiAke2Rlc3RpbmF0aW9ufWApOwogICAgICByZXR1cm4gcmV0cnlEb3dubG9hZEZpbGUoY29udGVudC5LZXksIHBhdGgucmVzb2x2ZShkZXN0aW5hdGlvbiwgY29udGVudC5LZXkpKS5jYXRjaChlcnIgPT4gewogICAgICAgIGxvZ2dlci5nZXQoJ2Rvd25sb2FkJykuZXJyb3IoYERvd25sb2FkICR7Y29udGVudC5LZXl9IC0+ICR7ZGVzdGluYXRpb259IEZhaWxlZGApCiAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGVycikKICAgICAgfSkKICAgIH0sIHsgY29uY3VycmVuY3k6IGxpbWl0IH0pLmNhdGNoKGVyciA9PiB7CiAgICAgIHJldHVybiByZWplY3QoZXJyKQogICAgfSkKICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1370,7 +1370,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>remote_base</text>
+        <text>process.env.SECRET_KEY</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1381,38 +1381,38 @@
       <register name="0" type="4">
         <text>filename</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KGVyciwgZGF0YSkgPT4gewogICAgaWYgKGVycikgewogICAgICBsb2dnZXIuZ2V0KCdkb3dubG9hZCcpLmVycm9yKGVycik7CiAgICAgIHJldHVybiByZWplY3QoZXJyKTsKICAgIH0KICAgIGlmIChkYXRhLklzVHJ1bmNhdGVkID09PSAndHJ1ZScpIHsKICAgICAgLy8gVE9ETzogaGFuZGxlIHRydW5jYXRlZCAoS2V5cyBjb3VudCBncmVhdCB0aGFuIDEwMDApCiAgICAgIHJldHVybiByZWplY3QoJ05vdCBpbXBsZW1lbnQnKTsKICAgIH0KICAgIGlmIChfLmlzRW1wdHkoZGF0YS5Db250ZW50cykpIHsKICAgICAgcmV0dXJuIHJlamVjdChgJHtyZW1vdGVfYmFzZX0gbm90IGV4aXN0IG9yIGlzIGVtcHR5YCk7CiAgICB9CiAgICByZXR1cm4gUHJvbWlzZS5tYXAoZGF0YS5Db250ZW50cywgKGNvbnRlbnQpID0+IHsKICAgICAgbG9nZ2VyLmdldCgnZG93bmxvYWQnKS5pbmZvKGBTdGFydCBEb3dubG9hZCAke2NvbnRlbnQuS2V5fSAtPiAke2Rlc3RpbmF0aW9ufWApOwogICAgICByZXR1cm4gcmV0cnlEb3dubG9hZEZpbGUoY29udGVudC5LZXksIHBhdGgucmVzb2x2ZShkZXN0aW5hdGlvbiwgY29udGVudC5LZXkpKS5jYXRjaChlcnIgPT4gewogICAgICAgIGxvZ2dlci5nZXQoJ2Rvd25sb2FkJykuZXJyb3IoYERvd25sb2FkICR7Y29udGVudC5LZXl9IC0+ICR7ZGVzdGluYXRpb259IEZhaWxlZGApCiAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGVycikKICAgICAgfSkKICAgIH0sIHsgY29uY3VycmVuY3k6IGxpbWl0IH0pLmNhdGNoKGVyciA9PiB7CiAgICAgIHJldHVybiByZWplY3QoZXJyKQogICAgfSkKICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAoKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">KGVyciwgZGF0YSkgPT4gewogICAgaWYgKGVycikgewogICAgICBsb2dnZXIuZ2V0KCdkb3dubG9hZCcpLmVycm9yKGVycik7CiAgICAgIHJldHVybiByZWplY3QoZXJyKTsKICAgIH0KICAgIGlmIChkYXRhLklzVHJ1bmNhdGVkID09PSAndHJ1ZScpIHsKICAgICAgLy8gVE9ETzogaGFuZGxlIHRydW5jYXRlZCAoS2V5cyBjb3VudCBncmVhdCB0aGFuIDEwMDApCiAgICAgIHJldHVybiByZWplY3QoJ05vdCBpbXBsZW1lbnQnKTsKICAgIH0KICAgIGlmIChfLmlzRW1wdHkoZGF0YS5Db250ZW50cykpIHsKICAgICAgcmV0dXJuIHJlamVjdChgJHtyZW1vdGVfYmFzZX0gbm90IGV4aXN0IG9yIGlzIGVtcHR5YCk7CiAgICB9CiAgICByZXR1cm4gUHJvbWlzZS5tYXAoZGF0YS5Db250ZW50cywgKGNvbnRlbnQpID0+IHsKICAgICAgbG9nZ2VyLmdldCgnZG93bmxvYWQnKS5pbmZvKGBTdGFydCBEb3dubG9hZCAke2NvbnRlbnQuS2V5fSAtPiAke2Rlc3RpbmF0aW9ufWApOwogICAgICByZXR1cm4gcmV0cnlEb3dubG9hZEZpbGUoY29udGVudC5LZXksIHBhdGgucmVzb2x2ZShkZXN0aW5hdGlvbiwgY29udGVudC5LZXkpKS5jYXRjaChlcnIgPT4gewogICAgICAgIGxvZ2dlci5nZXQoJ2Rvd25sb2FkJykuZXJyb3IoYERvd25sb2FkICR7Y29udGVudC5LZXl9IC0+ICR7ZGVzdGluYXRpb259IEZhaWxlZGApCiAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGVycikKICAgICAgfSkKICAgIH0sIHsgY29uY3VycmVuY3k6IGxpbWl0IH0pLmNhdGNoKGVyciA9PiB7CiAgICAgIHJldHVybiByZWplY3QoZXJyKQogICAgfSkKICB9</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobW9tZW50KCcyMDE5LTA3LTIzIDIyOjAxOjAwJykuc3VidHJhY3QoMCwgJ21pbnV0ZXMnKSkK</text>
+        <text encoding="base64">ICAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobW9tZW50KCcyMDE5LTA3LTIzIDIyOjAxOjAwJykubWludXRlcygwKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgbW9tZW50ID0gcmVxdWlyZSgnbW9tZW50JykK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobW9tZW50KCcyMDE5LTA3LTIzIDIyOjAxOjAwJykuc3VidHJhY3QoMCwgJ21pbnV0ZXMnKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgbW9tZW50ID0gcmVxdWlyZSgnbW9tZW50JykK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobW9tZW50KCcyMDE5LTA3LTIzIDIyOjAxOjAwJykubWludXRlcygwKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAib3MiOiBbCiAgICAid2luMzIiCiAgXSwK</text>
+        <text encoding="base64">Y29uc3QgbW9tZW50ID0gcmVxdWlyZSgnbW9tZW50JykK</text>
       </register>
       <register name=":" type="4">
         <text>action FindInPath</text>
