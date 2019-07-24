@@ -404,11 +404,8 @@
         <mark key="^" line="9" column="18" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/index.js" timestamp="1563948777496">
-        <mark key="'" line="47" column="5" />
+        <mark key="'" line="46" column="5" />
         <mark key="[" line="3" column="3" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
-        <mark key="^" line="4" column="33" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/jz87a454473f2d4d8a87e01f6547405000/2019-07-22/18/events.json.0.0.0.0.0_1563789600000_1563793199999.json" timestamp="1563942718671">
         <mark key="'" line="1" column="2" />
@@ -755,11 +752,11 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" timestamp="1563948797946">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-hls-monitor/prepareEnterRoom.js" timestamp="1563957972440">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="77" column="1" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="91" column="18" />
+        <mark key="]" line="91" column="18" />
+        <mark key="." line="91" column="18" />
         <mark key="^" line="77" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-monitor/node_modules/engine.io-client/lib/socket.js" timestamp="1561966011552">
@@ -1384,7 +1381,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://duobei:4508ad09b6e1174d147438fbcbefb3eb@211.159.236.53:18081</text>
+        <text>endTime</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -1393,7 +1390,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text>endTime</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1404,7 +1401,13 @@
       <register name="0" type="4">
         <text>filename</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb25zdCB7IHJvb21JZCwgZW5kVGltZSB9ID0gYXdhaXQgY3JlYXRlUm9vbS5jYWxsKHNlcnZpY2VFbnYsIHVuZGVmaW5lZCwgbmV3IERhdGUoKSwgNSwgaXNWaWRlbywgUk9PTV9UWVBFWycxVk4nXSkK</text>
+      </register>
+      <register name="q" type="2">
+        <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>{
     &quot;message&quot;: {
       &quot;type&quot;: &quot;clientOnline&quot;,
@@ -1550,35 +1553,29 @@
     &quot;ts&quot;: 1563791950899
   }</text>
       </register>
-      <register name="q" type="2">
-        <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">KGVyciwgZGF0YSkgPT4gewogICAgaWYgKGVycikgewogICAgICBsb2dnZXIuZ2V0KCdkb3dubG9hZCcpLmVycm9yKGVycik7CiAgICAgIHJldHVybiByZWplY3QoZXJyKTsKICAgIH0KICAgIGlmIChkYXRhLklzVHJ1bmNhdGVkID09PSAndHJ1ZScpIHsKICAgICAgLy8gVE9ETzogaGFuZGxlIHRydW5jYXRlZCAoS2V5cyBjb3VudCBncmVhdCB0aGFuIDEwMDApCiAgICAgIHJldHVybiByZWplY3QoJ05vdCBpbXBsZW1lbnQnKTsKICAgIH0KICAgIGlmIChfLmlzRW1wdHkoZGF0YS5Db250ZW50cykpIHsKICAgICAgcmV0dXJuIHJlamVjdChgJHtyZW1vdGVfYmFzZX0gbm90IGV4aXN0IG9yIGlzIGVtcHR5YCk7CiAgICB9CiAgICByZXR1cm4gUHJvbWlzZS5tYXAoZGF0YS5Db250ZW50cywgKGNvbnRlbnQpID0+IHsKICAgICAgbG9nZ2VyLmdldCgnZG93bmxvYWQnKS5pbmZvKGBTdGFydCBEb3dubG9hZCAke2NvbnRlbnQuS2V5fSAtPiAke2Rlc3RpbmF0aW9ufWApOwogICAgICByZXR1cm4gcmV0cnlEb3dubG9hZEZpbGUoY29udGVudC5LZXksIHBhdGgucmVzb2x2ZShkZXN0aW5hdGlvbiwgY29udGVudC5LZXkpKS5jYXRjaChlcnIgPT4gewogICAgICAgIGxvZ2dlci5nZXQoJ2Rvd25sb2FkJykuZXJyb3IoYERvd25sb2FkICR7Y29udGVudC5LZXl9IC0+ICR7ZGVzdGluYXRpb259IEZhaWxlZGApCiAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGVycikKICAgICAgfSkKICAgIH0sIHsgY29uY3VycmVuY3k6IGxpbWl0IH0pLmNhdGNoKGVyciA9PiB7CiAgICAgIHJldHVybiByZWplY3QoZXJyKQogICAgfSkKICB9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAoKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobW9tZW50KCcyMDE5LTA3LTIzIDIyOjAxOjAwJykuc3VidHJhY3QoMCwgJ21pbnV0ZXMnKSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobW9tZW50KCcyMDE5LTA3LTIzIDIyOjAxOjAwJykubWludXRlcygwKSkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobW9tZW50KCcyMDE5LTA3LTIzIDIyOjAxOjAwJykuc3VidHJhY3QoMCwgJ21pbnV0ZXMnKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1591,7 +1588,7 @@
       <last-replace>:</last-replace>
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
