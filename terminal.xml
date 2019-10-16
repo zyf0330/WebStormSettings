@@ -1,8 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <envs>
-      <env key="TILIX_ID" value="" />
-    </envs>
     <option name="myCopyOnSelection" value="false" />
     <option name="myOverrideIdeShortcuts" value="false" />
     <option name="myPasteOnMiddleMouseButton" value="false" />
