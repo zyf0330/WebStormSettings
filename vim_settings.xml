@@ -77,10 +77,10 @@
       <shortcut-conflict owner="vim">
         <text>alt pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl alt pressed RIGHT</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl alt pressed LEFT</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -100,7 +100,6 @@
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
     </notifications>
   </component>
 </application>
