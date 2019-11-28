@@ -95,6 +95,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed SLASH</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor />
     <notifications>
