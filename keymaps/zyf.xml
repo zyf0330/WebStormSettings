@@ -30,6 +30,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicateLines" />
   <action id="EditorPasteFromX11">
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="shift insert" />
