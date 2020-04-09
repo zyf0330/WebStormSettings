@@ -15,4 +15,11 @@
     <entry key="nodejs.core.library.use.typings" value="false" />
     <entry key="js.debugger.webconsole" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
