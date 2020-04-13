@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxQYXJzZVJlc3VsdFR5cGVcPg==</entry>
         <entry encoding="base64">XDxwYXJzZVw+</entry>
         <entry>app</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>setclientrole</entry>
         <entry>clientset</entry>
         <entry>initst</entry>
+        <entry>channelId</entry>
       </history-search>
       <history-cmd>
         <entry>%s//node-apps/g</entry>
@@ -218,11 +218,12 @@
       <file name="$USER_HOME$/project/duobei/node-rtmp-message-server/test.js" timestamp="1586489082052">
         <mark key="'" line="82" column="17" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" timestamp="1586745362946">
-        <mark key="[" line="46" column="16" />
-        <mark key="]" line="46" column="36" />
-        <mark key="^" line="43" column="21" />
-        <mark key="." line="46" column="16" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" timestamp="1586761259274">
+        <mark key="'" line="45" column="39" />
+        <mark key="[" line="49" column="19" />
+        <mark key="]" line="49" column="19" />
+        <mark key="^" line="49" column="19" />
+        <mark key="." line="49" column="18" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" timestamp="1586502911813">
         <mark key="'" line="124" column="11" />
@@ -272,8 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="10" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/ProxyProtocolParser.ts" />
-      <jump line="50" column="0" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/ProxyProtocolParser.ts" />
       <jump line="46" column="0" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/ProxyProtocolParser.ts" />
       <jump line="0" column="205" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/ProxyProtocolParser.js" />
       <jump line="13" column="0" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/ProxyProtocolParser.js" />
@@ -372,12 +371,14 @@
       <jump line="283" column="52" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/1" />
       <jump line="1" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/1" />
+      <jump line="43" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" />
+      <jump line="45" column="39" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>setChannelAttributes</text>
+        <text>command</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1323,13 +1324,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>setChannelAttributes</text>
+        <text>command</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>initst</text>
+        <text>channelId</text>
       </register>
       <register name="0" type="4">
         <text>InitStreamerList</text>
@@ -1447,9 +1448,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>initst</last-search>
+      <last-search>channelId</last-search>
       <last-offset />
-      <last-pattern>initst</last-pattern>
+      <last-pattern>channelId</last-pattern>
       <last-replace>utils</last-replace>
       <last-substitute>exports</last-substitute>
       <last-dir>1</last-dir>
