@@ -27,9 +27,6 @@
         <entry>message</entry>
       </history-search>
       <history-cmd>
-        <entry>%s//node-apps/g</entry>
-        <entry>%s/-1v1//g</entry>
-        <entry>235</entry>
         <entry>185</entry>
         <entry>s/\n//</entry>
         <entry>s/\n/ /</entry>
@@ -47,6 +44,9 @@
         <entry>tabprevious</entry>
         <entry>tabnext</entry>
         <entry>noh</entry>
+        <entry encoding="base64">PFBsdWc+KGVhc3ltb3Rpb24tbGluZWFueXdoZXJlKQ==</entry>
+        <entry encoding="base64">PFBsdWc+</entry>
+        <entry>plug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -201,13 +201,6 @@
         <mark key="^" line="397" column="5" />
         <mark key="." line="116" column="44" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/app.js" timestamp="1586416734196">
-        <mark key="'" line="170" column="6" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="^" line="175" column="16" />
-        <mark key="." line="173" column="0" />
-      </file>
       <file name="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/ProxyProtocolParser.js" timestamp="1586485628793">
         <mark key="'" line="6" column="23" />
         <mark key="[" line="31" column="0" />
@@ -265,6 +258,13 @@
       <file name="structured-stack" timestamp="1586420008935">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" timestamp="1586767378918">
+        <mark key="'" line="62" column="6" />
+        <mark key="[" line="61" column="13" />
+        <mark key="]" line="61" column="13" />
+        <mark key="^" line="61" column="13" />
+        <mark key="." line="61" column="12" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" timestamp="1586504296169">
         <mark key="'" line="283" column="52" />
         <mark key="[" line="58" column="31" />
@@ -280,18 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="24" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/Socket.ts" />
-      <jump line="12" column="20" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/Socket.ts" />
-      <jump line="15" column="2" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/Socket.ts" />
-      <jump line="17" column="2" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/Socket.ts" />
-      <jump line="112" column="11" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/Socket.ts" />
-      <jump line="14" column="2" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/Socket.ts" />
-      <jump line="25" column="9" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/Socket.ts" />
-      <jump line="11" column="9" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" />
-      <jump line="29" column="47" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" />
-      <jump line="37" column="53" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" />
-      <jump line="40" column="11" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" />
-      <jump line="124" column="2" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" />
       <jump line="17" column="17" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" />
       <jump line="42" column="11" filename="$USER_HOME$/project/duobei/node-rtmp-message-server/src/utils/BufferQueue.ts" />
@@ -380,6 +368,18 @@
       <jump line="20" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/protos/channel.proto" />
       <jump line="10" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/protos/channel.proto" />
       <jump line="18" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/protos/channel.proto" />
+      <jump line="12" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/protos/channel.proto" />
+      <jump line="69" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
+      <jump line="71" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
+      <jump line="79" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
+      <jump line="73" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
+      <jump line="66" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
+      <jump line="70" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
+      <jump line="74" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
+      <jump line="68" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
+      <jump line="65" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
+      <jump line="61" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
+      <jump line="62" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
