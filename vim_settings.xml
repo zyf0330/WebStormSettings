@@ -20,11 +20,11 @@
         <entry>without</entry>
         <entry encoding="base64">XDxyZXFcPg==</entry>
         <entry>listen</entry>
-        <entry>grpc</entry>
         <entry>grpccser</entry>
         <entry>ser er</entry>
         <entry encoding="base64">XDxncnBjXD4=</entry>
         <entry>grpcser</entry>
+        <entry>grpc</entry>
       </history-search>
       <history-cmd>
         <entry>s/\n//</entry>
@@ -44,9 +44,9 @@
         <entry>tabprevious</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>tabnext</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry>action FindInPath</entry>
-        <entry>tabnext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,10 +161,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" timestamp="1586946764835">
-        <mark key="'" line="8" column="37" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="62" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" timestamp="1587369843339">
+        <mark key="'" line="14" column="19" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="135" column="16" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/grpcClient.js" timestamp="1587369175731">
         <mark key="[" line="17" column="0" />
@@ -178,7 +180,7 @@
         <mark key="^" line="170" column="20" />
         <mark key="." line="170" column="19" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" timestamp="1587369576609">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" timestamp="1587369608260">
         <mark key="'" line="23" column="4" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="49" column="48" />
@@ -209,10 +211,10 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587369252166">
+      <file name="/Dummy.txt" timestamp="1587369872584">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="6" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="7" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/grpcClients.js" timestamp="1587368866017">
@@ -260,10 +262,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="36" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" timestamp="1587368926913">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Connector.js" timestamp="1587369823417">
         <mark key="'" line="204" column="10" />
-        <mark key="[" line="49" column="37" />
-        <mark key="]" line="49" column="38" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="49" column="47" />
         <mark key="." line="49" column="38" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1587369518688">
@@ -279,11 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/service/user.js" />
-      <jump line="66" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
-      <jump line="140" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
-      <jump line="94" column="35" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
-      <jump line="5" column="40" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
       <jump line="46" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/service/channel.js" />
       <jump line="54" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/service/channel.js" />
       <jump line="22" column="57" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/service/user.js" />
@@ -379,12 +376,17 @@
       <jump line="3" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="34" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" />
       <jump line="23" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" />
+      <jump line="134" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
+      <jump line="156" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
+      <jump line="2" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
+      <jump line="14" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgLy8ga2VlcGFsaXZlCiAgICAgICdncnBjLmh0dHAyLm1pbl9waW5nX2ludGVydmFsX3dpdGhvdXRfZGF0YV9tcyc6IDUgKiA2MDAwMCwgLy8gZ3JwYyBkZWZhdWx0CiAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEsCiAgICAgIC8vIGNvbm5lY3Rpb24gc3Vydml2YWwKICAgICAgJ2dycGMubWF4X2Nvbm5lY3Rpb25faWRsZV9tcyc6IDMwICogNjAwMDAsCiAgICAgICdncnBjLm1heF9jb25uZWN0aW9uX2FnZV9tcyc6IDIgKiA2MCAqIDYwMDAwLA==</text>
+      <register name="&quot;" type="2">
+        <text>chore(protos): 优化加载异常时的错误信息</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1336,40 +1338,40 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>grpcser</text>
+        <text>grpc</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgLy8ga2VlcGFsaXZlCiAgICAgICdncnBjLmh0dHAyLm1pbl9waW5nX2ludGVydmFsX3dpdGhvdXRfZGF0YV9tcyc6IDEgKiA2MDAwMCwgLy8gZ3JwYyBkZWZhdWx0CiAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEsCiAgICAgIC8vIGNvbm5lY3Rpb24gc3Vydml2YWwKICAgICAgJ2dycGMubWF4X2Nvbm5lY3Rpb25faWRsZV9tcyc6IDEwICogNjAwMDAs</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgLy8ga2VlcGFsaXZlCiAgICAgICdncnBjLmh0dHAyLm1pbl9waW5nX2ludGVydmFsX3dpdGhvdXRfZGF0YV9tcyc6IDUgKiA2MDAwMCwgLy8gZ3JwYyBkZWZhdWx0CiAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEsCiAgICAgIC8vIGNvbm5lY3Rpb24gc3Vydml2YWwKICAgICAgJ2dycGMubWF4X2Nvbm5lY3Rpb25faWRsZV9tcyc6IDMwICogNjAwMDAsCiAgICAgICdncnBjLm1heF9jb25uZWN0aW9uX2FnZV9tcyc6IDIgKiA2MCAqIDYwMDAwLA==</text>
+      <register name="1" type="2">
+        <text>chore(protos): 优化加载异常时的错误信息</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAvLyByZWNvbm5lY3QKICAgICAgICAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwKICAgICAgICAnZ3JwYy5taW5fcmVjb25uZWN0X2JhY2tvZmZfbXMnOiAxMDAwLAogICAgICAgICdncnBjLm1heF9yZWNvbm5lY3RfYmFja29mZl9tcyc6IDEwMDAwLAogICAgICAgIC8vIGtlZXBhbGl2ZQogICAgICAgICdncnBjLmh0dHAyLm1pbl90aW1lX2JldHdlZW5fcGluZ3NfbXMnOiA1ICogNjAwMDAsIC8vIGdycGMgZGVmYXVsdAogICAgICAgICdncnBjLmh0dHAyLm1heF9waW5nc193aXRob3V0X2RhdGEnOiAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV90aW1lX21zJzogMTAgKiA2MDAwMCwKICAgICAgICAnZ3JwYy5rZWVwYWxpdmVfdGltZW91dF9tcyc6IDEwMDAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEs</text>
+        <text encoding="base64">ICAvLyBrZWVwYWxpdmUKICAnZ3JwYy5odHRwMi5taW5fcGluZ19pbnRlcnZhbF93aXRob3V0X2RhdGFfbXMnOiA1ICogNjAwMDAsIC8vIGdycGMgZGVmYXVsdAogICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEsCiAgLy8gY29ubmVjdGlvbiBzdXJ2aXZhbAogICdncnBjLm1heF9jb25uZWN0aW9uX2lkbGVfbXMnOiAzMCAqIDYwMDAwLAogICdncnBjLm1heF9jb25uZWN0aW9uX2FnZV9tcyc6IDIgKiA2MCAqIDYwMDAwLA==</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgLy8ga2VlcGFsaXZlCiAgICAgICdncnBjLmh0dHAyLm1pbl9waW5nX2ludGVydmFsX3dpdGhvdXRfZGF0YV9tcyc6IDUgKiA2MDAwMCwgLy8gZ3JwYyBkZWZhdWx0CiAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEsCiAgICAgIC8vIGNvbm5lY3Rpb24gc3Vydml2YWwKICAgICAgJ2dycGMubWF4X2Nvbm5lY3Rpb25faWRsZV9tcyc6IDMwICogNjAwMDAsCiAgICAgICdncnBjLm1heF9jb25uZWN0aW9uX2FnZV9tcyc6IDIgKiA2MCAqIDYwMDAwLA==</text>
+      <register name="3" type="2">
+        <text>chore: 优化加载 proto 的异常处理信息</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAvLyByZWNvbm5lY3QKICAgICAgICAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwKICAgICAgICAnZ3JwYy5taW5fcmVjb25uZWN0X2JhY2tvZmZfbXMnOiAxMDAwLAogICAgICAgICdncnBjLm1heF9yZWNvbm5lY3RfYmFja29mZl9tcyc6IDEwMDAwLAogICAgICAgIC8vIGtlZXBhbGl2ZQogICAgICAgICdncnBjLmh0dHAyLm1pbl90aW1lX2JldHdlZW5fcGluZ3NfbXMnOiA1ICogNjAwMDAsIC8vIGdycGMgZGVmYXVsdAogICAgICAgICdncnBjLmh0dHAyLm1heF9waW5nc193aXRob3V0X2RhdGEnOiAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV90aW1lX21zJzogMTAgKiA2MDAwMCwKICAgICAgICAnZ3JwYy5rZWVwYWxpdmVfdGltZW91dF9tcyc6IDEwMDAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEs</text>
+        <text encoding="base64">ICAgICAgLy8ga2VlcGFsaXZlCiAgICAgICdncnBjLmh0dHAyLm1pbl9waW5nX2ludGVydmFsX3dpdGhvdXRfZGF0YV9tcyc6IDUgKiA2MDAwMCwgLy8gZ3JwYyBkZWZhdWx0CiAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEsCiAgICAgIC8vIGNvbm5lY3Rpb24gc3Vydml2YWwKICAgICAgJ2dycGMubWF4X2Nvbm5lY3Rpb25faWRsZV9tcyc6IDMwICogNjAwMDAsCiAgICAgICdncnBjLm1heF9jb25uZWN0aW9uX2FnZV9tcyc6IDIgKiA2MCAqIDYwMDAwLA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ2dycGMubWF4X2Nvbm5lY3Rpb25fYWdlX21zJzogMiAqIDYwICogNjAwMDAsCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAvLyByZWNvbm5lY3QKICAgICAgICAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwKICAgICAgICAnZ3JwYy5taW5fcmVjb25uZWN0X2JhY2tvZmZfbXMnOiAxMDAwLAogICAgICAgICdncnBjLm1heF9yZWNvbm5lY3RfYmFja29mZl9tcyc6IDEwMDAwLAogICAgICAgIC8vIGtlZXBhbGl2ZQogICAgICAgICdncnBjLmh0dHAyLm1pbl90aW1lX2JldHdlZW5fcGluZ3NfbXMnOiA1ICogNjAwMDAsIC8vIGdycGMgZGVmYXVsdAogICAgICAgICdncnBjLmh0dHAyLm1heF9waW5nc193aXRob3V0X2RhdGEnOiAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV90aW1lX21zJzogMTAgKiA2MDAwMCwKICAgICAgICAnZ3JwYy5rZWVwYWxpdmVfdGltZW91dF9tcyc6IDEwMDAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEs</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAvLyByZWNvbm5lY3QKICAgICAgICAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwKICAgICAgICAnZ3JwYy5taW5fcmVjb25uZWN0X2JhY2tvZmZfbXMnOiAxMDAwLAogICAgICAgICdncnBjLm1heF9yZWNvbm5lY3RfYmFja29mZl9tcyc6IDEwMDAwLAogICAgICAgIC8vIGtlZXBhbGl2ZQogICAgICAgICdncnBjLmh0dHAyLm1pbl90aW1lX2JldHdlZW5fcGluZ3NfbXMnOiA1ICogNjAwMDAsIC8vIGdycGMgZGVmYXVsdAogICAgICAgICdncnBjLmh0dHAyLm1heF9waW5nc193aXRob3V0X2RhdGEnOiAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV90aW1lX21zJzogMTAgKiA2MDAwMCwKICAgICAgICAnZ3JwYy5rZWVwYWxpdmVfdGltZW91dF9tcyc6IDEwMDAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEs</text>
+        <text encoding="base64">ICAgICAgLy8ga2VlcGFsaXZlCiAgICAgICdncnBjLmh0dHAyLm1pbl9waW5nX2ludGVydmFsX3dpdGhvdXRfZGF0YV9tcyc6IDUgKiA2MDAwMCwgLy8gZ3JwYyBkZWZhdWx0CiAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEsCiAgICAgIC8vIGNvbm5lY3Rpb24gc3Vydml2YWwKICAgICAgJ2dycGMubWF4X2Nvbm5lY3Rpb25faWRsZV9tcyc6IDMwICogNjAwMDAsCiAgICAgICdncnBjLm1heF9jb25uZWN0aW9uX2FnZV9tcyc6IDIgKiA2MCAqIDYwMDAwLA==</text>
       </register>
-      <register name="7" type="2">
-        <text>chore(log): 调整 pretty 样式</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAvLyByZWNvbm5lY3QKICAgICAgICAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwKICAgICAgICAnZ3JwYy5taW5fcmVjb25uZWN0X2JhY2tvZmZfbXMnOiAxMDAwLAogICAgICAgICdncnBjLm1heF9yZWNvbm5lY3RfYmFja29mZl9tcyc6IDEwMDAwLAogICAgICAgIC8vIGtlZXBhbGl2ZQogICAgICAgICdncnBjLmh0dHAyLm1pbl90aW1lX2JldHdlZW5fcGluZ3NfbXMnOiA1ICogNjAwMDAsIC8vIGdycGMgZGVmYXVsdAogICAgICAgICdncnBjLmh0dHAyLm1heF9waW5nc193aXRob3V0X2RhdGEnOiAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV90aW1lX21zJzogMTAgKiA2MDAwMCwKICAgICAgICAnZ3JwYy5rZWVwYWxpdmVfdGltZW91dF9tcyc6IDEwMDAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEs</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1386,21 +1388,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuR1JQQ19BUkdfSFRUUDJfTUlOX1NFTlRfUElOR19JTlRFUlZBTF9XSVRIT1VUX0RBVEFfTVMgPSAxMDAwCg==</text>
+        <text encoding="base64">ICAgICAgJ2dycGMubWF4X2Nvbm5lY3Rpb25fYWdlX21zJzogMiAqIDYwICogNjAwMDAsCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuR1JQQ19BUkdfSFRUUDJfTUlOX1NFTlRfUElOR19JTlRFUlZBTF9XSVRIT1VUX0RBVEFfTVMgPSAxMDAwCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAvLyByZWNvbm5lY3QKICAgICAgICAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwKICAgICAgICAnZ3JwYy5taW5fcmVjb25uZWN0X2JhY2tvZmZfbXMnOiAxMDAwLAogICAgICAgICdncnBjLm1heF9yZWNvbm5lY3RfYmFja29mZl9tcyc6IDEwMDAwLAogICAgICAgIC8vIGtlZXBhbGl2ZQogICAgICAgICdncnBjLmh0dHAyLm1pbl90aW1lX2JldHdlZW5fcGluZ3NfbXMnOiA1ICogNjAwMDAsIC8vIGdycGMgZGVmYXVsdAogICAgICAgICdncnBjLmh0dHAyLm1heF9waW5nc193aXRob3V0X2RhdGEnOiAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV90aW1lX21zJzogMTAgKiA2MDAwMCwKICAgICAgICAnZ3JwYy5rZWVwYWxpdmVfdGltZW91dF9tcyc6IDEwMDAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEs</text>
       </register>
       <register name=":" type="4">
-        <text>tabnext</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>grpcser</last-search>
+      <last-search>grpc</last-search>
       <last-offset />
-      <last-pattern>grpcser</last-pattern>
+      <last-pattern>grpc</last-pattern>
       <last-replace>utils</last-replace>
       <last-substitute>exports</last-substitute>
       <last-dir>1</last-dir>
