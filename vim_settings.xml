@@ -220,10 +220,10 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/testGRPC/server.js" timestamp="1587372580343">
+      <file name="$USER_HOME$/Desktop/testGRPC/server.js" timestamp="1587373873433">
         <mark key="'" line="26" column="6" />
-        <mark key="[" line="16" column="59" />
-        <mark key="]" line="16" column="59" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="37" />
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="60" />
       </file>
@@ -233,7 +233,7 @@
         <mark key="]" line="40" column="47" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1587372641247">
+      <file name="/JavaScript Console" timestamp="1587374686301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -386,7 +386,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>keepalive_permit_without_calls</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1298,7 +1298,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="+" type="4">
-        <text>min_reconnect_backoff_ms</text>
+        <text>keepalive_permit_without_calls</text>
       </register>
       <register name="l" type="4">
         <keys>
