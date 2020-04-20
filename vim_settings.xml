@@ -161,12 +161,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1587369872584">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="7" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" timestamp="1587369843339">
         <mark key="'" line="14" column="19" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="22" column="14" />
         <mark key="^" line="135" column="16" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/grpcClients.js" timestamp="1587368866017">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="26" column="48" />
+        <mark key="." line="24" column="36" />
+        <mark key="^" line="24" column="37" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/grpcClient.js" timestamp="1587369175731">
         <mark key="[" line="17" column="0" />
@@ -180,60 +192,26 @@
         <mark key="^" line="170" column="20" />
         <mark key="." line="170" column="19" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/package.json" timestamp="1587353811039">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="13" />
+        <mark key="." line="34" column="13" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/service/ServiceWrap.js" timestamp="1587369608260">
         <mark key="'" line="23" column="4" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="49" column="48" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/testGRPC/client.js" timestamp="1587372650656">
+        <mark key="'" line="49" column="15" />
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="42" column="7" />
+        <mark key="^" line="42" column="7" />
+        <mark key="." line="42" column="6" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/bom.js" timestamp="1586946600991">
         <mark key="'" line="445" column="16" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1587368302170">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-      </file>
-      <file name="/Connector.js" timestamp="1587369187659">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="49" column="47" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/grpcClient.js" timestamp="1587369527807">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="37" column="49" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/package.json" timestamp="1587368969537">
-        <mark key="'" line="29" column="5" />
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="29" column="18" />
-        <mark key="^" line="29" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587369872584">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="7" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/grpcClients.js" timestamp="1587368866017">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="26" column="48" />
-        <mark key="." line="24" column="36" />
-        <mark key="^" line="24" column="37" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/package.json" timestamp="1587353811039">
-        <mark key="[" line="34" column="13" />
-        <mark key="]" line="34" column="13" />
-        <mark key="." line="34" column="13" />
-      </file>
-      <file name="$USER_HOME$/Desktop/testGRPC/client.js" timestamp="1587368288059">
-        <mark key="'" line="49" column="15" />
-        <mark key="[" line="27" column="37" />
-        <mark key="]" line="27" column="38" />
-        <mark key="^" line="27" column="38" />
-        <mark key="." line="27" column="37" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/protos.js" timestamp="1586946649355">
         <mark key="'" line="27" column="13" />
@@ -242,18 +220,28 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/testGRPC/server.js" timestamp="1587367973585">
+      <file name="$USER_HOME$/Desktop/testGRPC/server.js" timestamp="1587372580343">
         <mark key="'" line="26" column="6" />
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="35" />
+        <mark key="[" line="16" column="59" />
+        <mark key="]" line="16" column="59" />
+        <mark key="." line="16" column="59" />
+        <mark key="^" line="16" column="60" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1587369552798">
         <mark key="'" line="34" column="7" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="40" column="47" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1587372641247">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
+      <file name="/Connector.js" timestamp="1587369187659">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="49" column="47" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/protos.js" timestamp="1586946736459">
         <mark key="'" line="31" column="6" />
@@ -268,10 +256,22 @@
         <mark key="]" line="49" column="47" />
         <mark key="." line="49" column="38" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/grpcClient.js" timestamp="1587369527807">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="37" column="49" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1587369518688">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="58" column="48" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/package.json" timestamp="1587368969537">
+        <mark key="'" line="29" column="5" />
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="29" column="19" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/package.json" timestamp="1587369153371">
         <mark key="[" line="29" column="16" />
@@ -385,8 +385,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>chore(protos): 优化加载异常时的错误信息</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1332,7 +1332,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3.4</text>
+        <text>0</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1406,7 +1406,7 @@
       <last-replace>utils</last-replace>
       <last-substitute>exports</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
