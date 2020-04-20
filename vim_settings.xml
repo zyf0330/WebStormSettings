@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">bG9hZCBhcHAg</entry>
         <entry>app schema</entry>
         <entry>self.files</entry>
         <entry encoding="base64">XDxmaWxlc1w+</entry>
@@ -25,6 +24,7 @@
         <entry>grpcser</entry>
         <entry>without</entry>
         <entry encoding="base64">XDxyZXFcPg==</entry>
+        <entry>listen</entry>
       </history-search>
       <history-cmd>
         <entry>s/\n//</entry>
@@ -198,7 +198,7 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/bom.js" timestamp="1586946600991">
         <mark key="'" line="445" column="16" />
       </file>
-      <file name="/JavaScript Console" timestamp="1587356376381">
+      <file name="/JavaScript Console" timestamp="1587368302170">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -228,12 +228,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/index.js" timestamp="1586945651997">
         <mark key="'" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/testGRPC/client.js" timestamp="1587357376034">
+      <file name="$USER_HOME$/Desktop/testGRPC/client.js" timestamp="1587368288059">
         <mark key="'" line="49" column="15" />
-        <mark key="[" line="42" column="3" />
-        <mark key="]" line="42" column="5" />
-        <mark key="^" line="42" column="5" />
-        <mark key="." line="42" column="4" />
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="37" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/protos.js" timestamp="1586946649355">
         <mark key="'" line="27" column="13" />
@@ -242,11 +242,12 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/testGRPC/server.js" timestamp="1587356224431">
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="20" column="33" />
-        <mark key="^" line="19" column="35" />
+      <file name="$USER_HOME$/Desktop/testGRPC/server.js" timestamp="1587367973585">
+        <mark key="'" line="26" column="6" />
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="34" />
+        <mark key="^" line="20" column="35" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/protos/tinder/index.js" timestamp="1586945880639">
         <mark key="'" line="100" column="23" />
@@ -270,7 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/service/user.js" />
       <jump line="21" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/error.js" />
       <jump line="5" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/service/user.js" />
       <jump line="24" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/service/user.js" />
@@ -370,12 +370,13 @@
       <jump line="41" column="2" filename="$USER_HOME$/Desktop/testGRPC/client.js" />
       <jump line="48" column="9" filename="$USER_HOME$/Desktop/testGRPC/client.js" />
       <jump line="49" column="15" filename="$USER_HOME$/Desktop/testGRPC/client.js" />
+      <jump line="26" column="6" filename="$USER_HOME$/Desktop/testGRPC/server.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>10</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1287,7 +1288,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="+" type="4">
-        <text>max_connection_age_ms</text>
+        <text>min_reconnect_backoff_ms</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1321,13 +1322,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>10</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXFcPg==</text>
+        <text>listen</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyByZWNvbm5lY3QKICAgICAgICAnZ3JwYy5pbml0aWFsX3JlY29ubmVjdF9iYWNrb2ZmX21zJzogMzAwMCwKICAgICAgICAnZ3JwYy5taW5fcmVjb25uZWN0X2JhY2tvZmZfbXMnOiAxMDAwLAogICAgICAgICdncnBjLm1heF9yZWNvbm5lY3RfYmFja29mZl9tcyc6IDEwMDAwLAogICAgICAgIC8vIGtlZXBhbGl2ZQogICAgICAgICdncnBjLmh0dHAyLm1pbl90aW1lX2JldHdlZW5fcGluZ3NfbXMnOiA1ICogNjAwMDAsIC8vIGdycGMgZGVmYXVsdAogICAgICAgICdncnBjLmh0dHAyLm1heF9waW5nc193aXRob3V0X2RhdGEnOiAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV90aW1lX21zJzogMTAgKiA2MDAwMCwKICAgICAgICAnZ3JwYy5rZWVwYWxpdmVfdGltZW91dF9tcyc6IDEwMDAwLAogICAgICAgICdncnBjLmtlZXBhbGl2ZV9wZXJtaXRfd2l0aG91dF9jYWxscyc6IDEsCg==</text>
@@ -1389,9 +1390,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXFcPg==</last-search>
+      <last-search>listen</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXFcPg==</last-pattern>
+      <last-pattern>listen</last-pattern>
       <last-replace>utils</last-replace>
       <last-substitute>exports</last-substitute>
       <last-dir>1</last-dir>
