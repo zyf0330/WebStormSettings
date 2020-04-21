@@ -203,12 +203,12 @@
         <mark key="]" line="49" column="48" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/testGRPC/client.js" timestamp="1587372650656">
-        <mark key="'" line="49" column="15" />
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="42" column="7" />
-        <mark key="^" line="42" column="7" />
-        <mark key="." line="42" column="6" />
+      <file name="$USER_HOME$/Desktop/testGRPC/client.js" timestamp="1587374860997">
+        <mark key="'" line="50" column="15" />
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="4" />
+        <mark key="^" line="42" column="24" />
+        <mark key="." line="43" column="4" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/flow/bom.js" timestamp="1586946600991">
         <mark key="'" line="445" column="16" />
@@ -220,10 +220,10 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/testGRPC/server.js" timestamp="1587373873433">
+      <file name="$USER_HOME$/Desktop/testGRPC/server.js" timestamp="1587374891994">
         <mark key="'" line="26" column="6" />
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="37" />
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="16" column="46" />
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="60" />
       </file>
@@ -233,7 +233,7 @@
         <mark key="]" line="40" column="47" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1587374686301">
+      <file name="/JavaScript Console" timestamp="1587374726641">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -386,7 +386,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>keepalive_permit_without_calls</text>
+        <text>grpc.http2.min_ping_interval_without_data_ms</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1298,7 +1298,7 @@
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
       <register name="+" type="4">
-        <text>keepalive_permit_without_calls</text>
+        <text>grpc.http2.min_ping_interval_without_data_ms</text>
       </register>
       <register name="l" type="4">
         <keys>
