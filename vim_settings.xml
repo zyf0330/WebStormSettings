@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>loadsync</entry>
         <entry encoding="base64">XDxlcnJvclw+</entry>
         <entry encoding="base64">XDxhbGxQcm90b2J1ZnNcPg==</entry>
         <entry>command</entry>
@@ -25,6 +24,7 @@
         <entry>proto</entry>
         <entry>appname</entry>
         <entry>中心代码库</entry>
+        <entry encoding="base64">XDxwcm9jZXNzUm9vbUlkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>s/\n//</entry>
@@ -161,6 +161,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1587440003886">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="7" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" timestamp="1587369843339">
         <mark key="'" line="14" column="19" />
         <mark key="[" line="15" column="0" />
@@ -192,45 +198,12 @@
         <mark key="]" line="49" column="48" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/center/_package.json" timestamp="1587439199018">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="29" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/edge/_package.json" timestamp="1587437326612">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="17" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1587374726641">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-      </file>
-      <file name="/Connector.js" timestamp="1587369187659">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="49" column="47" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/center/starter.js" timestamp="1587436861220">
-        <mark key="'" line="21" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/grpcClient.js" timestamp="1587369527807">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="37" column="49" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587439921523">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="7" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistRealtime.js" timestamp="1587454119493">
+        <mark key="'" line="80" column="10" />
+        <mark key="[" line="86" column="15" />
+        <mark key="]" line="87" column="25" />
+        <mark key="." line="87" column="24" />
+        <mark key="^" line="87" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/testGRPC/client.js" timestamp="1587374860997">
         <mark key="'" line="50" column="15" />
@@ -252,11 +225,40 @@
         <mark key="]" line="40" column="47" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/center/_package.json" timestamp="1587439199018">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="29" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/edge/_package.json" timestamp="1587437326612">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="17" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1587374726641">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/center/protos/index.proto" timestamp="1587439204694">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="26" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="25" />
+      </file>
+      <file name="/Connector.js" timestamp="1587369187659">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="49" column="47" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/center/starter.js" timestamp="1587436861220">
+        <mark key="'" line="21" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/center/src/_index.js" timestamp="1587436842244">
         <mark key="'" line="7" column="17" />
@@ -271,20 +273,18 @@
         <mark key="]" line="49" column="47" />
         <mark key="." line="49" column="38" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/grpcClient.js" timestamp="1587369527807">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="37" column="49" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1587369518688">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="58" column="48" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/package.json" timestamp="1587369153371">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="19" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="29" column="18" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="54" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/node_modules/protobufjs/src/root.js" />
       <jump line="69" column="62" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/node_modules/protobufjs/src/root.js" />
       <jump line="137" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/node_modules/protobufjs/src/root.js" />
       <jump line="139" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/node_modules/protobufjs/src/root.js" />
@@ -384,12 +384,13 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/edge/_index.js" />
       <jump line="27" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
       <jump line="82" column="40" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="80" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistRealtime.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>不要使用数字开头。</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1341,41 +1342,41 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>中心代码库</text>
+        <text encoding="base64">XDxwcm9jZXNzUm9vbUlkc1w+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PCU9IGNlbnRlclJlcG9OYW1lICU+</text>
       </register>
-      <register name="1" type="8">
-        <text>路径
-路径</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBwcm90b1BhdGjnmoTot6/lvoQoUHJvdG9QYXRoKe+8midwcm90b3MvdGluZGVyLyR7dGhpcy5hcHBOYW1lfSdgCg==</text>
+      <register name="2" type="8">
+        <text>路径
+路径</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjOgo=</text>
+        <text encoding="base64">ICBwcm90b1BhdGjnmoTot6/lvoQoUHJvdG9QYXRoKe+8midwcm90b3MvdGluZGVyLyR7dGhpcy5hcHBOYW1lfSdgCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjOgogICAgICAgICAgYOS4jeimgeS9v+eUqOaVsOWtl+W8gOWktOOAgumcgOimgeWwhiBwcm90b3Mg5o+Q5Lqk5YiwIGRieS1wcm90by1tb2RlbHMg55qEIFxgcHJvdG9zL3RpbmRlci8ke3RoaXMuYXBwbmFtZX1cYGAK</text>
+        <text encoding="base64">ICAgICAgICBkZXNjOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJ0aW5kZXItY2VudGVyIC1hIDwlPSBhcHBOYW1lICU+IHNyYy9pbmRleCIsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjOgogICAgICAgICAgYOS4jeimgeS9v+eUqOaVsOWtl+W8gOWktOOAgumcgOimgeWwhiBwcm90b3Mg5o+Q5Lqk5YiwIGRieS1wcm90by1tb2RlbHMg55qEIFxgcHJvdG9zL3RpbmRlci8ke3RoaXMuYXBwbmFtZX1cYGAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJkb2NrZXIgYnVpbGQgLXQgZG9ja2VyLWh1Yi5kdW9iZWl5dW4uY29tOjUwMDAvdGluZGVyLzwlPSBjZW50ZXJSZXBvTmFtZSAlPjpsYXRlc3QgLiIsCiAgICAicHVzaCI6ICJkb2NrZXIgcHVzaCBkb2NrZXItaHViLmR1b2JlaXl1bi5jb206NTAwMC90aW5kZXIvPCU9IGNlbnRlclJlcG9OYW1lICU+OmxhdGVzdCIK</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJ0aW5kZXItY2VudGVyIC1hIDwlPSBhcHBOYW1lICU+IHNyYy9pbmRleCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJkb2NrZXIgYnVpbGQgLXQgZG9ja2VyLWh1Yi5kdW9iZWl5dW4uY29tOjUwMDAvdGluZGVyLzwlPSBjZW50ZXJSZXBvTmFtZSAlPjpsYXRlc3QgLiIsCiAgICAicHVzaCI6ICJkb2NrZXIgcHVzaCBkb2NrZXItaHViLmR1b2JlaXl1bi5jb206NTAwMC90aW5kZXIvPCU9IGNlbnRlclJlcG9OYW1lICU+OmxhdGVzdCIKICB9LAogICJlbmdpbmVzIjogewogICAgIm5vZGUiOiAiPj0xMC4wLjAiCg==</text>
+        <text encoding="base64">ICAgICJidWlsZCI6ICJkb2NrZXIgYnVpbGQgLXQgZG9ja2VyLWh1Yi5kdW9iZWl5dW4uY29tOjUwMDAvdGluZGVyLzwlPSBjZW50ZXJSZXBvTmFtZSAlPjpsYXRlc3QgLiIsCiAgICAicHVzaCI6ICJkb2NrZXIgcHVzaCBkb2NrZXItaHViLmR1b2JlaXl1bi5jb206NTAwMC90aW5kZXIvPCU9IGNlbnRlclJlcG9OYW1lICU+OmxhdGVzdCIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1392,10 +1393,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text>fix: gitmodules 文件名错误</text>
+        <text encoding="base64">ICAgICJidWlsZCI6ICJkb2NrZXIgYnVpbGQgLXQgZG9ja2VyLWh1Yi5kdW9iZWl5dW4uY29tOjUwMDAvdGluZGVyLzwlPSBjZW50ZXJSZXBvTmFtZSAlPjpsYXRlc3QgLiIsCiAgICAicHVzaCI6ICJkb2NrZXIgcHVzaCBkb2NrZXItaHViLmR1b2JlaXl1bi5jb206NTAwMC90aW5kZXIvPCU9IGNlbnRlclJlcG9OYW1lICU+OmxhdGVzdCIKICB9LAogICJlbmdpbmVzIjogewogICAgIm5vZGUiOiAiPj0xMC4wLjAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>fix: gitmodules 文件名错误</text>
       </register>
       <register name=":" type="4">
         <text>action FindInPath</text>
@@ -1404,9 +1405,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>中心代码库</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzUm9vbUlkc1w+</last-search>
       <last-offset />
-      <last-pattern>中心代码库</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzUm9vbUlkc1w+</last-pattern>
       <last-replace>utils</last-replace>
       <last-substitute>exports</last-substitute>
       <last-dir>1</last-dir>
