@@ -161,10 +161,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587527923381">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1587551036829">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="1" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" timestamp="1587369843339">
@@ -217,12 +217,6 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Connector.js" timestamp="1587369552798">
-        <mark key="'" line="34" column="7" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="40" column="47" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/center/_package.json" timestamp="1587439199018">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="31" />
@@ -238,7 +232,7 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="/JavaScript Console" timestamp="1587550775150">
+      <file name="/JavaScript Console" timestamp="1587979586139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -387,8 +381,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgY29zLnVwbG9hZEFwcGVuZGFibGUodXBsb2FkUGF0aCwgdXBsb2FkU3RyKS5jYXRjaChhc3luYyAoKSA9PiB7CiAgICAgICAgICAgICAgYXdhaXQgUHJvbWlzZS5kZWxheSgyMDAwKQogICAgICAgICAgICAgIGF3YWl0IGNvcy51cGxvYWRBcHBlbmRhYmxlKHVwbG9hZFBhdGgsIHVwbG9hZFN0cikKICAgICAgICAgICAgfSkK</text>
+      <register name="&quot;" type="4">
+        <text>第一次任务从当前时间开始，避免积攒的数据处理不过来</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1334,7 +1328,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>第一次任务从当前时间开始，避免积攒的数据处理不过来</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1408,7 +1402,7 @@
       <last-replace>utils</last-replace>
       <last-substitute>exports</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">

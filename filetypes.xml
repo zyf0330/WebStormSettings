@@ -14,7 +14,6 @@
       <mapping pattern="list1" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="save" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
@@ -27,6 +26,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="yml_pro1" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="save" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping pattern="connectorSioNginxConfig" type="YAML" />
