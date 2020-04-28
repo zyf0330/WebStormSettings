@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>this.emit</entry>
         <entry>cameraoff</entry>
         <entry>disconnect</entry>
         <entry>this.clients</entry>
@@ -25,6 +24,7 @@
         <entry>comm</entry>
         <entry>name</entry>
         <entry>logger.log</entry>
+        <entry>new room</entry>
       </history-search>
       <history-cmd>
         <entry>s/\n//</entry>
@@ -178,8 +178,8 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/package.json" timestamp="1587528023282">
         <mark key="'" line="38" column="15" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/app.js" timestamp="1588041129968">
-        <mark key="'" line="154" column="17" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/app.js" timestamp="1588047877588">
+        <mark key="'" line="160" column="25" />
         <mark key="[" line="109" column="22" />
         <mark key="]" line="109" column="22" />
         <mark key="^" line="109" column="22" />
@@ -218,12 +218,12 @@
         <mark key="." line="17" column="6" />
         <mark key="^" line="17" column="7" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" timestamp="1588045587439">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" timestamp="1588048148010">
         <mark key="'" line="83" column="45" />
-        <mark key="[" line="83" column="49" />
-        <mark key="]" line="83" column="49" />
-        <mark key="." line="83" column="49" />
-        <mark key="^" line="83" column="46" />
+        <mark key="[" line="82" column="44" />
+        <mark key="]" line="83" column="22" />
+        <mark key="." line="83" column="21" />
+        <mark key="^" line="83" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1588045768614">
         <mark key="[" line="0" column="0" />
@@ -275,7 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="440" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="494" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="501" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="529" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
@@ -375,6 +374,7 @@
       <jump line="262" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="72" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="61" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="160" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1332,7 +1332,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>logger.log</text>
+        <text>new room</text>
       </register>
       <register name="0" type="4">
         <text>name</text>
@@ -1394,13 +1394,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>logger.log</last-search>
+      <last-search>new room</last-search>
       <last-offset />
-      <last-pattern>logger.log</last-pattern>
+      <last-pattern>new room</last-pattern>
       <last-replace>utils</last-replace>
       <last-substitute>exports</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
