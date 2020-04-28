@@ -5,19 +5,10 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>chat</entry>
-        <entry>this.id</entry>
-        <entry>\.id</entry>
-        <entry>version</entry>
-        <entry>micreq</entry>
-        <entry>cameraonair</entry>
-        <entry>pub</entry>
-        <entry encoding="base64">XDxwdWJcPg==</entry>
         <entry>this.emit</entry>
         <entry>cameraoff</entry>
         <entry>disconnect</entry>
         <entry>this.clients</entry>
-        <entry>logger.log</entry>
         <entry>broadcast</entry>
         <entry>new client</entry>
         <entry encoding="base64">XDxyb29tSWRcPg==</entry>
@@ -25,6 +16,15 @@
         <entry>\.room</entry>
         <entry>command</entry>
         <entry>onbroad</entry>
+        <entry>init</entry>
+        <entry>clientbroad</entry>
+        <entry>clientcamera</entry>
+        <entry>this.send</entry>
+        <entry>clientbr</entry>
+        <entry>send</entry>
+        <entry>comm</entry>
+        <entry>name</entry>
+        <entry>logger.log</entry>
       </history-search>
       <history-cmd>
         <entry>s/\n//</entry>
@@ -44,9 +44,9 @@
         <entry>q</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
-        <entry>tabprevious</entry>
         <entry>action FindInPath</entry>
         <entry>tabnext</entry>
+        <entry>tabprevious</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,10 +161,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Sub.js" timestamp="1588041056643">
-        <mark key="'" line="22" column="9" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="44" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Sub.js" timestamp="1588045371460">
+        <mark key="'" line="27" column="42" />
+        <mark key="[" line="27" column="55" />
+        <mark key="]" line="27" column="55" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="55" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" timestamp="1587439995134">
         <mark key="'" line="83" column="40" />
@@ -172,12 +174,6 @@
         <mark key="]" line="54" column="72" />
         <mark key="." line="54" column="71" />
         <mark key="^" line="54" column="72" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/edge/_index.js" timestamp="1587437291300">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/package.json" timestamp="1587528023282">
         <mark key="'" line="38" column="15" />
@@ -188,6 +184,15 @@
         <mark key="]" line="109" column="22" />
         <mark key="^" line="109" column="22" />
         <mark key="." line="109" column="21" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/util/logger.js" timestamp="1588045777237">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="/Pub.js" timestamp="1588045581785">
+        <mark key="[" line="83" column="49" />
+        <mark key="]" line="83" column="49" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/center/_package.json" timestamp="1587439199018">
         <mark key="[" line="1" column="11" />
@@ -201,18 +206,11 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="/JavaScript Console" timestamp="1587983114010">
+      <file name="/JavaScript Console" timestamp="1588045667272">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/center/starter.js" timestamp="1587436861220">
-        <mark key="'" line="21" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/test.js" timestamp="1587455371093">
         <mark key="[" line="16" column="36" />
@@ -220,29 +218,29 @@
         <mark key="." line="17" column="6" />
         <mark key="^" line="17" column="7" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" timestamp="1588041070335">
-        <mark key="'" line="47" column="17" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="44" />
-        <mark key="." line="84" column="5" />
-        <mark key="^" line="84" column="6" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" timestamp="1588045587439">
+        <mark key="'" line="83" column="45" />
+        <mark key="[" line="83" column="49" />
+        <mark key="]" line="83" column="49" />
+        <mark key="." line="83" column="49" />
+        <mark key="^" line="83" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588040670439">
+      <file name="/Dummy.txt" timestamp="1588045768614">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="29" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/util/eventJson.js" timestamp="1587980694187">
         <mark key="[" line="45" column="26" />
         <mark key="]" line="45" column="37" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" timestamp="1588041551347">
-        <mark key="'" line="175" column="17" />
-        <mark key="[" line="175" column="29" />
-        <mark key="]" line="175" column="36" />
-        <mark key="^" line="175" column="36" />
-        <mark key="." line="175" column="35" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" timestamp="1588045506930">
+        <mark key="'" line="72" column="4" />
+        <mark key="[" line="154" column="62" />
+        <mark key="]" line="154" column="65" />
+        <mark key="^" line="154" column="65" />
+        <mark key="." line="154" column="64" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/src/job/recordPersistRealtime.js" timestamp="1587550868919">
         <mark key="'" line="6" column="0" />
@@ -251,10 +249,12 @@
         <mark key="." line="89" column="21" />
         <mark key="^" line="89" column="22" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" timestamp="1587981700511">
-        <mark key="'" line="432" column="8" />
-        <mark key="[" line="433" column="6" />
-        <mark key="]" line="433" column="17" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" timestamp="1588045529327">
+        <mark key="'" line="61" column="12" />
+        <mark key="[" line="61" column="36" />
+        <mark key="]" line="61" column="42" />
+        <mark key="." line="61" column="41" />
+        <mark key="^" line="61" column="42" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-recorder/config/default.yaml" timestamp="1587455399799">
         <mark key="'" line="10" column="22" />
@@ -275,40 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="193" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="107" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="277" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="36" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="17" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="18" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="45" column="43" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="51" column="31" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="76" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="211" column="71" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="530" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="109" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/app.js" />
-      <jump line="183" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Sub.js" />
-      <jump line="233" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Sub.js" />
-      <jump line="19" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Sub.js" />
-      <jump line="20" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Sub.js" />
-      <jump line="22" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Sub.js" />
-      <jump line="92" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="192" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="390" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="495" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="216" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="302" column="37" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="343" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="354" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="210" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="305" column="49" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="320" column="47" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="333" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="534" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="513" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="499" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="440" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="494" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="501" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
@@ -349,12 +315,8 @@
       <jump line="59" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="61" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="222" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="28" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="72" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="82" column="62" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="84" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="93" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="182" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="190" column="41" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="213" column="49" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
@@ -371,16 +333,54 @@
       <jump line="399" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="24" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="189" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="154" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="174" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="175" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="19" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/util/logger.js" />
+      <jump line="176" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="82" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
+      <jump line="435" column="32" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="399" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="403" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="400" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="167" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="100" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="104" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="108" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="112" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="116" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="120" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="124" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="128" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="134" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="142" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="146" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="147" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="162" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="404" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="153" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="60" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="307" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
+      <jump line="83" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
+      <jump line="60" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Sub.js" />
+      <jump line="53" column="38" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Sub.js" />
+      <jump line="54" column="75" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Sub.js" />
+      <jump line="77" column="66" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Sub.js" />
+      <jump line="27" column="42" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Sub.js" />
+      <jump line="171" column="31" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="179" column="69" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="84" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="93" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="154" column="64" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="262" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="72" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
+      <jump line="61" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>type</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIChhcmdzLmxlbmd0aCA9PSAxKSB7CiAgICB9IGVsc2UgewogICAgICBsb2dnZXIuaW5mbyh7IHdpZCwgc2NvcGUsIHR5cGUgfSwgJycsIC4uLmFyZ3MpCiAgICB9Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1326,46 +1326,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>, arg: JSON.stringify(args[0])</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>onbroad</text>
+        <text>logger.log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICh0eXBlICE9ICdicm9hZGNhc3QnKSB7CiAgICAgIGxvZ2dlci5sb2codGhpcy51aWQsIHsgcm9vbUlkOiB0aGlzLnJvb21JZCwgc29ja2V0SWQ6IHRoaXMuaW9Tb2NrZXQuaWQsIHR5cGUsIG1zZyB9KQogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh0eXBlICE9ICdicm9hZGNhc3QnKSB7CiAgICAgIGxvZ2dlci5sb2codGhpcy51aWQsIHsgcm9vbUlkOiB0aGlzLnJvb21JZCwgc29ja2V0SWQ6IHRoaXMuaW9Tb2NrZXQuaWQsIHR5cGUsIG1zZyB9KQogICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmIChhcmdzLmxlbmd0aCA9PSAxKSB7CiAgICB9IGVsc2UgewogICAgICBsb2dnZXIuaW5mbyh7IHdpZCwgc2NvcGUsIHR5cGUgfSwgJycsIC4uLmFyZ3MpCiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oeyB3aWQsIHNjb3BlLCB0eXBlIH0sICcnLCAuLi5hcmdzKQo=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgY29zLnVwbG9hZEFwcGVuZGFibGUodXBsb2FkUGF0aCwgdXBsb2FkU3RyKS5jYXRjaChhc3luYyAoKSA9PiB7CiAgICAgICAgICAgICAgYXdhaXQgUHJvbWlzZS5kZWxheSgyMDAwKQogICAgICAgICAgICAgIGF3YWl0IGNvcy51cGxvYWRBcHBlbmRhYmxlKHVwbG9hZFBhdGgsIHVwbG9hZFN0cikKICAgICAgICAgICAgfSkK</text>
+      <register name="3" type="4">
+        <text>functionName</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgUHJvbWlzZSA9IHJlcXVpcmUoJ2JsdWViaXJkJykK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmICh0eXBlICE9ICdicm9hZGNhc3QnKSB7CiAgICAgIGxvZ2dlci5sb2codGhpcy51aWQsIHsgcm9vbUlkOiB0aGlzLnJvb21JZCwgc29ja2V0SWQ6IHRoaXMuaW9Tb2NrZXQuaWQsIHR5cGUsIG1zZyB9KQogICAgfQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">cmV0cnkoKCkgPT4gewogIGNvbnNvbGUubG9nKERhdGUubm93KCkpCiAgdGhyb3cgMAogIHJldHVybiAndHJ1ZScKfSwgMSwyMDAwKS50aGVuKChyKSA9PiB7CiAgY29uc29sZS5sb2coJ3Jlc3VsdCcsIHIpCn0pLmNhdGNoKGUgPT4gewogIGNvbnNvbGUuZXJyb3IoJ2Vycm9yJywgZSkKfSkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgY29zLnVwbG9hZEFwcGVuZGFibGUodXBsb2FkUGF0aCwgdXBsb2FkU3RyKS5jYXRjaChhc3luYyAoKSA9PiB7CiAgICAgICAgICAgICAgYXdhaXQgUHJvbWlzZS5kZWxheSgyMDAwKQogICAgICAgICAgICAgIGF3YWl0IGNvcy51cGxvYWRBcHBlbmRhYmxlKHVwbG9hZFBhdGgsIHVwbG9hZFN0cikKICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1382,25 +1382,25 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgcmVzdWx0LCBlcnJvcgo=</text>
+        <text encoding="base64">Y29uc3QgUHJvbWlzZSA9IHJlcXVpcmUoJ2JsdWViaXJkJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoZXJyb3IgIT0gbnVsbCkgewogICAgdGhyb3cgZXJyb3IKICB9CiAgcmV0dXJuIHJlc3VsdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>tabnext</text>
+        <text>tabprevious</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onbroad</last-search>
+      <last-search>logger.log</last-search>
       <last-offset />
-      <last-pattern>onbroad</last-pattern>
+      <last-pattern>logger.log</last-pattern>
       <last-replace>utils</last-replace>
       <last-substitute>exports</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
