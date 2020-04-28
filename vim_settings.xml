@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onbroad</entry>
-        <entry>init</entry>
-        <entry>clientbroad</entry>
         <entry>clientcamera</entry>
         <entry>this.send</entry>
         <entry>clientbr</entry>
@@ -20,11 +17,14 @@
         <entry>roomid</entry>
         <entry>protocolid</entry>
         <entry>this.id</entry>
-        <entry>micreq</entry>
         <entry encoding="base64">cHViXD4=</entry>
         <entry>command</entry>
         <entry encoding="base64">cmVxXD4=</entry>
         <entry>com</entry>
+        <entry>miconair</entry>
+        <entry>clientonline</entry>
+        <entry>micreq</entry>
+        <entry>camerareq</entry>
       </history-search>
       <history-cmd>
         <entry>s/\n//</entry>
@@ -45,8 +45,8 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry>action FindInPath</entry>
-        <entry>tabnext</entry>
         <entry>tabprevious</entry>
+        <entry>tabnext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -218,14 +218,14 @@
         <mark key="." line="17" column="6" />
         <mark key="^" line="17" column="7" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" timestamp="1588055187365">
-        <mark key="'" line="14" column="17" />
-        <mark key="[" line="82" column="44" />
-        <mark key="]" line="83" column="22" />
-        <mark key="." line="83" column="21" />
-        <mark key="^" line="83" column="22" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" timestamp="1588056892027">
+        <mark key="'" line="253" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="253" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588045768614">
+      <file name="/Dummy.txt" timestamp="1588056874458">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -275,12 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/app.js" />
-      <jump line="21" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="27" column="30" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="46" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="47" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="57" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="59" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="61" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="222" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
@@ -375,12 +369,18 @@
       <jump line="176" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="498" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="505" column="31" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="77" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
+      <jump line="13" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
+      <jump line="19" column="36" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
+      <jump line="267" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
+      <jump line="134" column="3" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
+      <jump line="254" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETyDmmK/lkKbkuLIgcm9vbQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1326,46 +1326,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>command</text>
+        <text>uid</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>com</text>
+        <text>camerareq</text>
       </register>
-      <register name="0" type="4">
-        <text>name</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlYnVnQ2hhb3NSb29tKHBhcnRpY2lwYW50LnVpZCwgcm9vbUlkKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETyDmmK/lkKbkuLIgcm9vbQo=</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh0eXBlICE9ICdicm9hZGNhc3QnKSB7CiAgICAgIGxvZ2dlci5sb2codGhpcy5yb29tSWQsIGBjb21tYW5kOiAke3R5cGV9YCwgeyB1aWQ6IHRoaXMudWlkLCBzb2NrZXRJZDogdGhpcy5pb1NvY2tldC5pZCwgbXNnIH0pCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgbS5nZXQocm9vbUlkKQo=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChjb21tYW5kICE9ICdicm9hZGNhc3QnKSB7CiAgICAgIGxvZ2dlci5sb2codGhpcy5yb29tSWQsIGBjb21tYW5kOiAke2NvbW1hbmR9YCwgeyB1aWQ6IHRoaXMudWlkLCBzb2NrZXRJZDogdGhpcy5pb1NvY2tldC5pZCwgbXNnIH0pCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0eXBlICE9ICdicm9hZGNhc3QnKSB7CiAgICAgIGxvZ2dlci5sb2codGhpcy5yb29tSWQsIGBjb21tYW5kOiAke3R5cGV9YCwgeyB1aWQ6IHRoaXMudWlkLCBzb2NrZXRJZDogdGhpcy5pb1NvY2tldC5pZCwgbXNnIH0pCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChjb21tYW5kICE9ICdicm9hZGNhc3QnKSB7CiAgICAgIGxvZ2dlci5sb2codGhpcy5yb29tSWQsIGBjb21tYW5kOiAke2NvbW1hbmR9YCwgeyB1aWQ6IHRoaXMudWlkLCBzb2NrZXRJZDogdGhpcy5pb1NvY2tldC5pZCwgbXNnIH0pCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIGlmIChjb21tYW5kICE9ICdicm9hZGNhc3QnKSB7CiAgICAgIGxvZ2dlci5sb2codGhpcy5yb29tSWQsIGBjb21tYW5kOiAke2NvbW1hbmR9YCwgeyB1aWQ6IHRoaXMudWlkLCBzb2NrZXRJZDogdGhpcy5pb1NvY2tldC5pZCwgbXNnIH0pCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGNvbW1hbmQgIT0gJ2Jyb2FkY2FzdCcpIHsKICAgICAgICBsb2dnZXIubG9nKHRoaXMucm9vbUlkLCBgY29tbWFuZDogJHtjb21tYW5kfWAsIHsgdWlkOiB0aGlzLnVpZCwgc29ja2V0SWQ6IHRoaXMuaW9Tb2NrZXQuaWQsIG1zZyB9KQogICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1382,21 +1382,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChhcmdzLmxlbmd0aCA9PSAxKSB7CiAgICB9IGVsc2UgewogICAgICBsb2dnZXIuaW5mbyh7IHdpZCwgc2NvcGUsIHR5cGUgfSwgJycsIC4uLmFyZ3MpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChjb21tYW5kICE9ICdicm9hZGNhc3QnKSB7CiAgICAgIGxvZ2dlci5sb2codGhpcy5yb29tSWQsIGBjb21tYW5kOiAke2NvbW1hbmR9YCwgeyB1aWQ6IHRoaXMudWlkLCBzb2NrZXRJZDogdGhpcy5pb1NvY2tldC5pZCwgbXNnIH0pCiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oeyB3aWQsIHNjb3BlLCB0eXBlIH0sICcnLCAuLi5hcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGNvbW1hbmQgIT0gJ2Jyb2FkY2FzdCcpIHsKICAgICAgICBsb2dnZXIubG9nKHRoaXMucm9vbUlkLCBgY29tbWFuZDogJHtjb21tYW5kfWAsIHsgdWlkOiB0aGlzLnVpZCwgc29ja2V0SWQ6IHRoaXMuaW9Tb2NrZXQuaWQsIG1zZyB9KQogICAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>tabprevious</text>
+        <text>tabnext</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>com</last-search>
+      <last-search>camerareq</last-search>
       <last-offset />
-      <last-pattern>com</last-pattern>
+      <last-pattern>camerareq</last-pattern>
       <last-replace>utils</last-replace>
       <last-substitute>exports</last-substitute>
       <last-dir>1</last-dir>
