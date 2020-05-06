@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile-streamSync" type="Dockerfile" />
       <mapping pattern="www" type="JavaScript" />
       <mapping pattern="etcdConfig" type="PLAIN_TEXT" />
       <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
