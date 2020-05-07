@@ -5,19 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGF0XD4=</entry>
-        <entry>presen</entry>
-        <entry encoding="base64">XDxQcmVzZW50YXRpb25EcmF3TGluZVw+</entry>
-        <entry encoding="base64">XDxicm9hZGNhc3Rlclw+</entry>
-        <entry>join</entry>
-        <entry>drawline</entry>
-        <entry>this.rooms</entry>
-        <entry>this.broad</entry>
-        <entry>this.broadcaster</entry>
-        <entry>this.bro</entry>
-        <entry>logger</entry>
-        <entry>broadca</entry>
-        <entry>from</entry>
         <entry>&quot;, &quot;</entry>
         <entry>sentry</entry>
         <entry>raven</entry>
@@ -25,6 +12,19 @@
         <entry>clear</entry>
         <entry>resource</entry>
         <entry>disconnected</entry>
+        <entry>channelatt</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry encoding="base64">XDxjdHhcPg==</entry>
+        <entry>off</entry>
+        <entry encoding="base64">XDxjYW52YXNDZW50ZXJQb2ludE9mZnNldFw+</entry>
+        <entry>current</entry>
+        <entry encoding="base64">XDxsaW5lSWRcPg==</entry>
+        <entry encoding="base64">XDxpc0pvaW5lZEFwcHNcPg==</entry>
+        <entry>sendevent</entry>
+        <entry encoding="base64">XDxzZW5kRXZlbnRcPg==</entry>
+        <entry>userid</entry>
+        <entry>ctx</entry>
+        <entry>color</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz50YWJwcmV2aW91cw==</entry>
@@ -43,10 +43,10 @@
         <entry>reg</entry>
         <entry>s/&quot;, &quot;/ /</entry>
         <entry>s/&quot;, &quot;/ /g</entry>
-        <entry>tabprevious</entry>
-        <entry>tabnext</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry>action FindInPath</entry>
+        <entry>tabprevious</entry>
+        <entry>tabnext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,33 +161,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588822763885">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/fragment.js" timestamp="1588819903456">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/node_modules/socket.io/lib/namespace.js" timestamp="1588734649915">
-        <mark key="'" line="148" column="38" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" timestamp="1588731889305">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/package.json" timestamp="1588820735827">
-        <mark key="'" line="33" column="13" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/test2.js" timestamp="1588732903105">
-        <mark key="'" line="317" column="11" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="319" column="2" />
-        <mark key="." line="317" column="0" />
-        <mark key="^" line="236" column="19" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" timestamp="1588822149519">
         <mark key="'" line="45" column="0" />
@@ -201,10 +176,66 @@
         <mark key="^" line="12" column="6" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Pub.js" timestamp="1588735506754">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="62" />
-        <mark key="." line="82" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/confd-stream-sync/conf.d/cdnList.toml" timestamp="1588752362550">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="74" />
+        <mark key="]" line="12" column="89" />
+        <mark key="^" line="12" column="89" />
+        <mark key="." line="12" column="88" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/config/development.json" timestamp="1588819860639">
+        <mark key="'" line="4" column="24" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1588838234720">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/Dockerfile-streamSync" timestamp="1588752112565">
+        <mark key="'" line="50" column="50" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="49" column="60" />
+      </file>
+      <file name="$USER_HOME$/project/other/whiteboard-demo/test.js" timestamp="1588838113214">
+        <mark key="'" line="63" column="4" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="87" column="15" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588835027453">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/other/whiteboard-demo/index.html" timestamp="1588838531778">
+        <mark key="'" line="45" column="21" />
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="34" />
+        <mark key="^" line="35" column="34" />
+        <mark key="." line="35" column="33" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/package.json" timestamp="1588820735827">
+        <mark key="'" line="33" column="13" />
+      </file>
+      <file name="$USER_HOME$/project/other/whiteboard-demo/sample/index.less" timestamp="1588836891182">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/other/whiteboard-demo/main.js" timestamp="1588838515817">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="27" />
+      </file>
+      <file name="/" timestamp="1588838239270">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1588822918698">
         <mark key="'" line="31" column="6" />
@@ -220,49 +251,22 @@
         <mark key="^" line="178" column="23" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/confd-stream-sync/conf.d/cdnList.toml" timestamp="1588752362550">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="74" />
-        <mark key="]" line="12" column="89" />
-        <mark key="^" line="12" column="89" />
-        <mark key="." line="12" column="88" />
+      <file name="$USER_HOME$/project/other/whiteboard-demo/sample/index.html" timestamp="1588836652366">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="16" column="8" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/config/development.json" timestamp="1588819860639">
-        <mark key="'" line="4" column="24" />
+      <file name="$USER_HOME$/project/other/whiteboard-demo/home.html" timestamp="1588835376616">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1588822657359">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/etcdConfig" timestamp="1588731507719">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="22" />
-        <mark key="^" line="5" column="23" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/config.js" timestamp="1588731590315">
-        <mark key="'" line="10" column="30" />
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="35" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/Dockerfile-streamSync" timestamp="1588752112565">
-        <mark key="'" line="50" column="50" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="49" column="60" />
-      </file>
-      <file name="/Apps.js" timestamp="1588728286713">
-        <mark key="[" line="61" column="25" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" timestamp="1588732846407">
-        <mark key="'" line="201" column="6" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="319" column="2" />
-        <mark key="." line="318" column="15" />
-        <mark key="^" line="236" column="19" />
+      <file name="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" timestamp="1588839027049">
+        <mark key="'" line="48" column="14" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="77" />
+        <mark key="^" line="131" column="1" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/amqpClient.js" timestamp="1588822115470">
         <mark key="[" line="168" column="0" />
@@ -271,62 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/analyze.js" />
-      <jump line="28" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="72" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="82" column="58" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="84" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="93" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="24" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="218" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="271" column="49" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="277" column="50" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="283" column="48" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="289" column="49" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="356" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="364" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="372" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="380" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="388" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="451" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="143" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="84" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="10" column="30" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/config.js" />
-      <jump line="52" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="4" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="59" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test2.js" />
-      <jump line="87" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="7" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test2.js" />
-      <jump line="168" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test2.js" />
-      <jump line="169" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test2.js" />
-      <jump line="404" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="78" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="51" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="125" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="126" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="131" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="132" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="234" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="234" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test2.js" />
-      <jump line="315" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="31" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="260" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="136" column="38" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="236" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="239" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="246" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="247" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="248" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="177" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="178" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="181" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="182" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="184" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="193" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="201" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="224" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test2.js" />
       <jump line="317" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test2.js" />
       <jump line="313" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="52" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
@@ -371,12 +319,68 @@
       <jump line="45" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" />
       <jump line="29" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" />
       <jump line="31" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" />
+      <jump line="31" column="36" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="44" column="78" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="79" column="10" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="84" column="17" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="11" column="21" filename="$USER_HOME$/project/other/whiteboard-demo/index.html" />
+      <jump line="54" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="26" column="2" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="28" column="2" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="87" column="60" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="114" column="62" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="133" column="6" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.less" />
+      <jump line="85" column="34" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="13" column="6" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="119" column="21" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="56" column="1" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="138" column="1" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="122" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="45" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="96" column="4" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="100" column="4" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="102" column="53" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="117" column="26" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="94" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="81" column="1" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="61" column="1" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="27" column="27" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="130" column="2" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="32" column="27" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="29" column="9" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="135" column="13" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="63" column="4" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="18" column="8" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="101" column="43" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="235" column="28" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="49" column="15" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="52" column="2" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="76" column="11" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="77" column="11" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="87" column="11" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="88" column="11" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="103" column="9" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="107" column="15" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="108" column="15" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="110" column="15" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="111" column="15" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="118" column="30" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="17" column="6" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="48" column="14" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgUmF2ZW4uY2FwdHVyZU1lc3NhZ2UoKDEyMykpCn0sIDEwMCkK</text>
+      <register name="&quot;" type="4">
+        <text>-t</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1322,46 +1326,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new Error</text>
+        <text>-t</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>disconnected</text>
+        <text>color</text>
       </register>
       <register name="0" type="4">
-        <text>isProd</text>
+        <text>isDrawing</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgUmF2ZW4uY2FwdHVyZU1lc3NhZ2UoKDEyMykpCn0sIDEwMCkK</text>
+        <text encoding="base64">Y29uc3QgdXNlcklkIAo=</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBSYXZlbi5jYXB0dXJlTWVzc2FnZSgoMTIzKSkK</text>
+        <text encoding="base64">ICAgIHNlbmRFdmVudCgnbW91c2V1cCcsIHBvaW50KQo=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnPT09PT09PT09PT09PT09JykK</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRMaW5lLnB1c2gocG9pbnQpCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT0nKQo=</text>
+        <text encoding="base64">ICAgIHNlbmRFdmVudCgnbW91c2Vtb3ZlJywgcG9pbnQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text>chore: grpc optimize</text>
+        <text encoding="base64">ICAgIGRyYXdMaW5lLmRyYXcocG9pbnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigxMjMpCg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRMaW5lLnB1c2gocG9pbnQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0aHJvdyBuZXcgRXJyb3IoMTIzKQo=</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnbW91c2Vtb3ZlIGV2ZW50ICcsIGUpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1378,21 +1382,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0aHJvdyBuZXcgRXJyb3IoMTIzKQo=</text>
+        <text encoding="base64">ICAgIHNlbmRFdmVudCgnbW91c2Vkb3duJywgcG9pbnRPZmZzZXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigxMjMpCg==</text>
+        <text encoding="base64">ICAgIGRyYXdMaW5lLnN0YXJ0KHBvaW50T2Zmc2V0KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>tabnext</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>disconnected</last-search>
+      <last-search>color</last-search>
       <last-offset />
-      <last-pattern>disconnected</last-pattern>
+      <last-pattern>color</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>&quot;, &quot;</last-substitute>
       <last-dir>1</last-dir>
