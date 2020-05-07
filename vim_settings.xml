@@ -5,19 +5,12 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdG9wRHJhd1w+</entry>
-        <entry>mousedown</entry>
-        <entry>point</entry>
-        <entry encoding="base64">XDxjbGVhckxvY2FsVXNlckF0dHJpYnV0ZXNcPg==</entry>
-        <entry>clearchan</entry>
-        <entry>mousemo</entry>
         <entry>notify</entry>
         <entry>broadcast</entry>
         <entry>sendcha</entry>
         <entry>getch</entry>
         <entry encoding="base64">XDxzdGFydHNXaXRoXD4=</entry>
         <entry>clean</entry>
-        <entry>clear</entry>
         <entry>sendc</entry>
         <entry>draw</entry>
         <entry>drawline</entry>
@@ -25,6 +18,13 @@
         <entry>getchan</entry>
         <entry encoding="base64">XDxnZXRDaGFubmVsQXR0cmlidXRlc1w+</entry>
         <entry>onlogin</entry>
+        <entry>channel</entry>
+        <entry>initline</entry>
+        <entry encoding="base64">XDxDaGFubmVsQXR0cmlidXRlc1VwZGF0ZWRcPg==</entry>
+        <entry>drawli</entry>
+        <entry>random</entry>
+        <entry>clear</entry>
+        <entry encoding="base64">XDxjbGVhckNhbnZhc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz50YWJwcmV2aW91cw==</entry>
@@ -186,7 +186,7 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/config/development.json" timestamp="1588819860639">
         <mark key="'" line="4" column="24" />
       </file>
-      <file name="/JavaScript Console" timestamp="1588842708073">
+      <file name="/JavaScript Console" timestamp="1588847000998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -212,12 +212,12 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/other/whiteboard-demo/index.html" timestamp="1588838531778">
-        <mark key="'" line="45" column="21" />
-        <mark key="[" line="35" column="33" />
-        <mark key="]" line="35" column="34" />
-        <mark key="^" line="35" column="34" />
-        <mark key="." line="35" column="33" />
+      <file name="$USER_HOME$/project/other/whiteboard-demo/index.html" timestamp="1588847664400">
+        <mark key="'" line="46" column="21" />
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="37" column="56" />
+        <mark key="^" line="37" column="56" />
+        <mark key="." line="37" column="55" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/package.json" timestamp="1588820735827">
         <mark key="'" line="33" column="13" />
@@ -227,16 +227,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/project/other/whiteboard-demo/main.js" timestamp="1588842752405">
-        <mark key="p" line="168" column="13" />
-        <mark key="'" line="116" column="15" />
-        <mark key="[" line="61" column="81" />
-        <mark key="]" line="61" column="91" />
-        <mark key="." line="61" column="81" />
-        <mark key="^" line="61" column="57" />
-      </file>
-      <file name="/" timestamp="1588842711149">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/project/other/whiteboard-demo/main.js" timestamp="1588847666417">
+        <mark key="p" line="173" column="13" />
+        <mark key="'" line="33" column="9" />
+        <mark key="[" line="142" column="24" />
+        <mark key="]" line="142" column="25" />
+        <mark key="." line="142" column="25" />
+        <mark key="^" line="34" column="84" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1588822918698">
         <mark key="'" line="31" column="6" />
@@ -262,10 +259,10 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" timestamp="1588839610598">
-        <mark key="'" line="19" column="23" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="77" />
+      <file name="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" timestamp="1588847019540">
+        <mark key="'" line="86" column="24" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="38" />
         <mark key="^" line="131" column="1" />
         <mark key="." line="131" column="0" />
       </file>
@@ -276,24 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="1" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
-      <jump line="61" column="1" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
-      <jump line="27" column="27" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
-      <jump line="130" column="2" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
-      <jump line="10" column="4" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
-      <jump line="32" column="27" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
-      <jump line="29" column="9" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
-      <jump line="135" column="13" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
-      <jump line="63" column="4" filename="$USER_HOME$/project/other/whiteboard-demo/test.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="18" column="8" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="101" column="43" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="235" column="28" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
-      <jump line="49" column="15" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
-      <jump line="52" column="2" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
-      <jump line="76" column="11" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
-      <jump line="77" column="11" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
       <jump line="87" column="11" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
       <jump line="88" column="11" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
       <jump line="103" column="9" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
@@ -308,13 +287,10 @@
       <jump line="19" column="23" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
       <jump line="140" column="8" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="79" column="4" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="37" column="13" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="159" column="59" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="163" column="27" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="96" column="2" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="15" column="2" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="112" column="59" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="98" column="4" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="111" column="9" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="134" column="13" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="136" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
@@ -322,22 +298,18 @@
       <jump line="74" column="10" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="73" column="10" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="103" column="2" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="104" column="79" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="123" column="18" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="124" column="18" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="127" column="18" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="128" column="18" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="69" column="10" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="83" column="10" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="84" column="14" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="188" column="68" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="192" column="30" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="138" column="13" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="94" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="75" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="90" column="20" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="208" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="70" column="4" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="93" column="1" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="57" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
@@ -362,9 +334,7 @@
       <jump line="186" column="16" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="49" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="119" column="9" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="121" column="6" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="201" column="24" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="65" column="9" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="67" column="13" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="182" column="16" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="76" column="6" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
@@ -372,16 +342,43 @@
       <jump line="139" column="36" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="152" column="2" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="203" column="16" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="59" column="9" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="61" column="13" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="116" column="15" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="37" column="6" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="39" column="20" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="41" column="24" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="42" column="6" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="51" column="15" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="53" column="19" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="54" column="6" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="63" column="12" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="65" column="38" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="69" column="13" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="72" column="6" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="121" column="25" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="184" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="86" column="24" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
+      <jump line="15" column="18" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="98" column="20" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="226" column="28" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="244" column="30" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="34" column="11" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="35" column="6" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="199" column="11" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="208" column="8" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="71" column="26" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="104" column="7" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="135" column="15" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="185" column="16" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="33" column="9" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>attributres</text>
+        <text>true</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1327,46 +1324,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>attributres</text>
+        <text>true</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>onlogin</text>
+        <text encoding="base64">XDxjbGVhckNhbnZhc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>attributes</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY3R4LmNsZWFyUmVjdCgwLCAwLCA1MDAsIDUwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhdHRyaWJ1dHJlcwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhdHRyaWJ1dHJlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWxldGVDaGFubmVsQXR0cmlidXRlc0J5S2V5cyhgbGluZXM6JHt1c2VySWR9OiR7bGluZUlkfWApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1383,10 +1380,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhZGRPclVwZGF0ZUNoYW5uZWxBdHRyaWJ1dGVzKHsgW2BsaW5lczoke3VzZXJJZH06JHtsaW5lSWR9YF06IEpTT04uc3RyaW5naWZ5KHBvaW50cykgfSkK</text>
+        <text encoding="base64">ICBkZWxldGVDaGFubmVsQXR0cmlidXRlc0J5S2V5cyhgbGluZXM6JHt1c2VySWR9OiR7bGluZUlkfWApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICBhZGRPclVwZGF0ZUNoYW5uZWxBdHRyaWJ1dGVzKHsgW2BsaW5lczoke3VzZXJJZH06JHtsaW5lSWR9YF06IEpTT04uc3RyaW5naWZ5KHBvaW50cykgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>tabnext</text>
@@ -1395,9 +1392,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onlogin</last-search>
+      <last-search encoding="base64">XDxjbGVhckNhbnZhc1w+</last-search>
       <last-offset />
-      <last-pattern>onlogin</last-pattern>
+      <last-pattern encoding="base64">XDxjbGVhckNhbnZhc1w+</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>onlogin</last-substitute>
       <last-dir>1</last-dir>
