@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>notify</entry>
-        <entry>broadcast</entry>
-        <entry>sendcha</entry>
         <entry>getch</entry>
         <entry encoding="base64">XDxzdGFydHNXaXRoXD4=</entry>
         <entry>clean</entry>
@@ -25,6 +22,9 @@
         <entry>random</entry>
         <entry>clear</entry>
         <entry encoding="base64">XDxjbGVhckNhbnZhc1w+</entry>
+        <entry>clientonline</entry>
+        <entry>clientoff</entry>
+        <entry>offline</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz50YWJwcmV2aW91cw==</entry>
@@ -161,8 +161,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1588819903456">
-        <mark key="[" line="0" column="0" />
+      <file name="/Room.js" timestamp="1588914543033">
+        <mark key="'" line="25" column="40" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="37" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/etcd.js" timestamp="1588822149519">
         <mark key="'" line="45" column="0" />
@@ -170,34 +172,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/streamSync.json" timestamp="1588752736096">
-        <mark key="[" line="23" column="7" />
-        <mark key="]" line="23" column="19" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/confd-stream-sync/conf.d/cdnList.toml" timestamp="1588752362550">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="74" />
-        <mark key="]" line="12" column="89" />
-        <mark key="^" line="12" column="89" />
-        <mark key="." line="12" column="88" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/config/development.json" timestamp="1588819860639">
-        <mark key="'" line="4" column="24" />
-      </file>
       <file name="/JavaScript Console" timestamp="1588847000998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/Dockerfile-streamSync" timestamp="1588752112565">
-        <mark key="'" line="50" column="50" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="49" column="60" />
       </file>
       <file name="$USER_HOME$/project/other/whiteboard-demo/test.js" timestamp="1588838113214">
         <mark key="'" line="63" column="4" />
@@ -206,11 +185,11 @@
         <mark key="^" line="87" column="15" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588835027453">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1588914408899">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/project/other/whiteboard-demo/index.html" timestamp="1588847664400">
         <mark key="'" line="46" column="21" />
@@ -234,6 +213,13 @@
         <mark key="]" line="142" column="25" />
         <mark key="." line="142" column="25" />
         <mark key="^" line="34" column="84" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" timestamp="1588914565655">
+        <mark key="'" line="166" column="15" />
+        <mark key="[" line="178" column="31" />
+        <mark key="]" line="178" column="39" />
+        <mark key="." line="178" column="38" />
+        <mark key="^" line="178" column="39" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-pusher/src/sentryClient.js" timestamp="1588822918698">
         <mark key="'" line="31" column="6" />
@@ -273,10 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="11" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
-      <jump line="88" column="11" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
-      <jump line="103" column="9" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
-      <jump line="107" column="15" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
       <jump line="108" column="15" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
       <jump line="110" column="15" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
       <jump line="111" column="15" filename="$USER_HOME$/project/other/whiteboard-demo/sample/index.ts" />
@@ -373,12 +355,16 @@
       <jump line="185" column="16" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="33" column="9" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
+      <jump line="37" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="82" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="166" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="25" column="40" filename="/Room.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIOeJueWumuinkuiJsuWFqOmAmuefpe+8jOiHquW3seeahOWPquWPkee7meiHquW3sQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1324,46 +1310,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>房间广播消息域错误</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGVhckNhbnZhc1w+</text>
+        <text>offline</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY3R4LmNsZWFyUmVjdCgwLCAwLCA1MDAsIDUwMCkK</text>
+        <text encoding="base64">ICAgIC8vIDF2MSDmiJYgMXZOIOeJueWumuinkuiJsuWFqOmAmuefpe+8jDF2TiDoh6rlt7HnmoTlj6rlj5Hnu5noh6rlt7EK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC8vIOeJueWumuinkuiJsuWFqOmAmuefpe+8jOiHquW3seeahOWPquWPkee7meiHquW3sQo=</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgaWYgKHJvbGUgPT0gUk9MRS5URUFDSEVSIHx8IHJvbGUgPT0gUk9MRS5QQUFTX1NUUkVBTUVSKSB7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhdHRyaWJ1dHJlcwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBhdHRyaWJ1dHJlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1380,10 +1366,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWxldGVDaGFubmVsQXR0cmlidXRlc0J5S2V5cyhgbGluZXM6JHt1c2VySWR9OiR7bGluZUlkfWApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhZGRPclVwZGF0ZUNoYW5uZWxBdHRyaWJ1dGVzKHsgW2BsaW5lczoke3VzZXJJZH06JHtsaW5lSWR9YF06IEpTT04uc3RyaW5naWZ5KHBvaW50cykgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>tabnext</text>
@@ -1392,9 +1378,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjbGVhckNhbnZhc1w+</last-search>
+      <last-search>offline</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGVhckNhbnZhc1w+</last-pattern>
+      <last-pattern>offline</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>onlogin</last-substitute>
       <last-dir>1</last-dir>
