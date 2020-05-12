@@ -119,6 +119,7 @@
   <inspection_tool class="ES6BindWithArrowFunction" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ES6CheckImport" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ES6ClassMemberInitializationOrder" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ES6ConvertLetToConst" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="ES6ConvertModuleExportToExport" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="ES6ConvertRequireIntoImport" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="ES6ConvertToForOf" enabled="true" level="INFORMATION" enabled_by_default="true" />
@@ -127,6 +128,7 @@
   <inspection_tool class="ES6MissingAwait" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ES6ModulesDependencies" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ES6PossiblyAsyncFunction" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="ES6PreferShortImport" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ES6RedundantAwait" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ES6RedundantNestingInTemplateLiteral" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ES6ShorthandObjectProperty" enabled="true" level="INFORMATION" enabled_by_default="true" />
@@ -188,6 +190,7 @@
   <inspection_tool class="GherkinMisplacedBackground" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="GherkinScenarioToScenarioOutline" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="GjsLint" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="GrazieInspection" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="HamlNestedTagContent" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="HardwiredNamespacePrefix" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="HbEmptyBlock" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -286,6 +289,8 @@
   <inspection_tool class="JSNonASCIINames" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSNonStrictModeUsed" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSObjectNullOrUndefined" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSObsoletePrivateAccessSyntax" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="JSOctalInteger" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="JSPotentiallyInvalidConstructorUsage" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myConsiderUppercaseFunctionsToBeConstructors" value="true" />
   </inspection_tool>
@@ -333,6 +338,7 @@
   <inspection_tool class="JsonStandardCompliance" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="KarmaConfigFile" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LabeledStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="LanguageDetectionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LessResolvedByNameOnly" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="LessUnresolvedMixin" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LessUnresolvedVariable" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -359,6 +365,7 @@
   <inspection_tool class="NestingDepthJS" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_limit" value="5" />
   </inspection_tool>
+  <inspection_tool class="NodeCoreCodingAssistance" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NodeJsCodingAssistanceForCoreModules" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NodeModulesDependencies" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="NonAsciiCharacters" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -446,6 +453,7 @@
   <inspection_tool class="TypeScriptCheckImport" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="TypeScriptConfig" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TypeScriptDuplicateUnionOrIntersectionType" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="TypeScriptExplicitMemberType" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="TypeScriptFieldCanBeMadeReadonly" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="TypeScriptLibrary" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="TypeScriptMissingAugmentationImport" enabled="true" level="INFORMATION" enabled_by_default="true" />
