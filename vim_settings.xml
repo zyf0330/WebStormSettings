@@ -192,7 +192,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1589271128310">
+      <file name="/JavaScript Console" timestamp="1589271137791">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -201,9 +201,9 @@
       <file name="/User.js" timestamp="1589179765429">
         <mark key="'" line="31" column="9" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" timestamp="1589271032847">
-        <mark key="[" line="63" column="12" />
-        <mark key="]" line="63" column="28" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" timestamp="1589272413903">
+        <mark key="[" line="62" column="12" />
+        <mark key="]" line="62" column="32" />
         <mark key="." line="63" column="12" />
         <mark key="^" line="62" column="35" />
       </file>
@@ -220,11 +220,11 @@
         <mark key="^" line="20" column="51" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589260235118">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1589272168917">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" timestamp="1589271096543">
         <mark key="'" line="60" column="18" />
@@ -376,8 +376,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9uKCdDaGFubmVsQXR0cmlidXRlc1VwZGF0ZWQnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>GetChannelMemberCount</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1323,7 +1323,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>channelIds:</text>
+        <text>查询和订阅用户在线状态</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1331,24 +1331,23 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDaGFubmVsTWVtYmVyQ291bnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29tbWFuZCgnZ2V0Q2hhbm5lbE1lbWJlcnMnLCB7IGNoYW5uZWxJZCB9LCAoKSA9PiB7IH0pCg==</text>
+      <register name="0" type="4">
+        <text>GetChannelMemberCount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9uKCdDaGFubmVsQXR0cmlidXRlc1VwZGF0ZWQnKQo=</text>
+        <text>查询</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBvID0gJzEnLnJlcGVhdCgzMikuc3BsaXQoJycpLnJlZHVjZSgobywgdiwgaSkgPT4gewogICAgb1tpXSA9IGkgKyAnJwogICAgcmV0dXJuIG8KICB9LCB7fSkK</text>
+        <text encoding="base64">ICAgIG9uKCdDaGFubmVsQXR0cmlidXRlc1VwZGF0ZWQnKQo=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
-      <register name="3" type="4">
-        <text>)
-    //</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdCBvID0gJzEnLnJlcGVhdCgzMikuc3BsaXQoJycpLnJlZHVjZSgobywgdiwgaSkgPT4gewogICAgb1tpXSA9IGkgKyAnJwogICAgcmV0dXJuIG8KICB9LCB7fSkK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
@@ -1357,14 +1356,15 @@
         <text>)
     //</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>)
+    //</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29tbWFuZCgnZ2V0Q2hhbm5lbE1lbWJlckNvdW50JywgeyBjaGFubmVsSWRzOiBbJzEnXSB9LCAoKSA9PiB7IH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQoJ2dldENoYW5uZWxNZW1iZXJDb3VudCcsIHsgY2hhbm5lbElkczogWycxJ10gfSwgKCkgPT4geyB9KQo=</text>
+        <text encoding="base64">ICAgICAgY29tbWFuZCgnZ2V0Q2hhbm5lbE1lbWJlckNvdW50JywgeyBjaGFubmVsSWRzOiBbJzEnXSB9LCAoKSA9PiB7IH0pCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1381,7 +1381,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQoJ2dldENoYW5uZWxNZW1iZXJDb3VudCcsIHsgY2hhbm5lbElkczogWycxJ10gfSwgKCkgPT4geyB9KQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
