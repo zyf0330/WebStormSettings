@@ -13,7 +13,6 @@
         <entry encoding="base64">XDxjbGVhckNhbnZhc1w+</entry>
         <entry>clientonline</entry>
         <entry>clientoff</entry>
-        <entry>offline</entry>
         <entry encoding="base64">XDxRdWVyeVBlZXJzT25saW5lU3RhdHVzUmVxdWVzdFw+</entry>
         <entry encoding="base64">XDx1c2VyU2Vzc2lvbkhhc2hcPg==</entry>
         <entry>PeersOnlineStatusChanged</entry>
@@ -25,6 +24,7 @@
         <entry>connect</entry>
         <entry>queryusesr</entry>
         <entry encoding="base64">XDxxdWVyeUJlU3Vic2NyaWJlZFVzZXJzV2l0aE9wdGlvblw+</entry>
+        <entry>offline</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz50YWJwcmV2aW91cw==</entry>
@@ -43,10 +43,10 @@
         <entry>s/&quot;, &quot;/ /</entry>
         <entry>s/&quot;, &quot;/ /g</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
-        <entry>action FindInPath</entry>
         <entry>tabprevious</entry>
         <entry>q</entry>
         <entry>tabnext</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -191,7 +191,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1589182792668">
+      <file name="/JavaScript Console" timestamp="1589192646162">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -206,21 +206,28 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589183202129">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" timestamp="1589251028030">
+        <mark key="'" line="76" column="2" />
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="50" />
+        <mark key="^" line="20" column="51" />
+        <mark key="." line="20" column="50" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589192644391">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" timestamp="1589183710741">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" timestamp="1589184186175">
         <mark key="'" line="75" column="61" />
-        <mark key="[" line="38" column="18" />
-        <mark key="]" line="38" column="45" />
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="37" column="42" />
         <mark key="^" line="37" column="56" />
         <mark key="." line="37" column="56" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" timestamp="1588914565655">
-        <mark key="'" line="166" column="15" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" timestamp="1589250708606">
+        <mark key="'" line="193" column="25" />
         <mark key="[" line="178" column="31" />
         <mark key="]" line="178" column="39" />
         <mark key="." line="178" column="38" />
@@ -246,10 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="33" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="118" column="51" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="171" column="12" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
-      <jump line="62" column="11" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="186" column="16" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="49" column="0" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
       <jump line="119" column="9" filename="$USER_HOME$/project/other/whiteboard-demo/main.js" />
@@ -346,12 +349,16 @@
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
       <jump line="56" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
       <jump line="84" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
+      <jump line="161" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="181" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="193" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="76" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>unsubscribePeersOnlineStatus</text>
+        <text>=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1297,16 +1304,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>=</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWVyeUJlU3Vic2NyaWJlZFVzZXJzV2l0aE9wdGlvblw+</text>
+        <text>offline</text>
       </register>
       <register name="0" type="4">
-        <text>unsubscribePeersOnlineStatus</text>
+        <text>queryPeersBySubscriptionOption</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1359,15 +1366,15 @@
         <text encoding="base64">ICAgICAgdHJ5IHsK</text>
       </register>
       <register name=":" type="4">
-        <text>tabnext</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxxdWVyeUJlU3Vic2NyaWJlZFVzZXJzV2l0aE9wdGlvblw+</last-search>
+      <last-search>offline</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWVyeUJlU3Vic2NyaWJlZFVzZXJzV2l0aE9wdGlvblw+</last-pattern>
+      <last-pattern>offline</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>onlogin</last-substitute>
       <last-dir>1</last-dir>
