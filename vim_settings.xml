@@ -213,7 +213,7 @@
         <mark key="^" line="20" column="51" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589251842018">
+      <file name="/Dummy.txt" timestamp="1589252398240">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="16" />
@@ -357,8 +357,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>denyChatList</text>
+      <register name="&quot;" type="2">
+        <text>fix: 1v1 场景下没有广播 clientOffline</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1316,19 +1316,19 @@
         <text>denyMicList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAga2sK</text>
+        <text>fix: 1v1 场景下没有广播 clientOffline</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAga2sK</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
@@ -1343,7 +1343,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>chore: 连接和断开时的异常日志现在会打印</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1360,10 +1360,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgQnJvYWRjYXN0ZXIgPSByZXF1aXJlKCcuLi91dGlscy9Ccm9hZGNhc3RlcicpCg==</text>
+        <text>chore: 连接和断开时的异常日志现在会打印</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgIHRocm93IG5ldyBBcHBFcnJvcignRGlzY29ubmVjdEZhaWwnKQogICAgICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgQnJvYWRjYXN0ZXIgPSByZXF1aXJlKCcuLi91dGlscy9Ccm9hZGNhc3RlcicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindInPath</text>
