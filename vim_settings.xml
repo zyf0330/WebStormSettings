@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>auth</entry>
         <entry>cameraonair</entry>
         <entry encoding="base64">XDxzdHJlYW1zXD4=</entry>
         <entry>mic</entry>
@@ -23,8 +22,9 @@
         <entry>miconair</entry>
         <entry>stream</entry>
         <entry encoding="base64">XDxtaWNPbkFpclw+</entry>
-        <entry>micoff</entry>
         <entry>cameraoff</entry>
+        <entry encoding="base64">XDxtaWNTdHJlYW1zXD4=</entry>
+        <entry>micoff</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz50YWJuZXh0</entry>
@@ -227,12 +227,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" timestamp="1589443052883">
-        <mark key="'" line="364" column="0" />
-        <mark key="[" line="400" column="34" />
-        <mark key="]" line="401" column="4" />
-        <mark key="." line="401" column="3" />
-        <mark key="^" line="401" column="4" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" timestamp="1589444261683">
+        <mark key="'" line="358" column="11" />
+        <mark key="[" line="412" column="24" />
+        <mark key="]" line="412" column="37" />
+        <mark key="." line="412" column="36" />
+        <mark key="^" line="412" column="37" />
       </file>
       <file name="/JavaScript Console" timestamp="1589442789975">
         <mark key="[" line="0" column="0" />
@@ -272,12 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="68" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="135" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="138" column="51" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="258" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="259" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="265" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="47" column="27" filename="/Room.js" />
       <jump line="50" column="22" filename="/Room.js" />
       <jump line="142" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Apps.js" />
@@ -359,25 +353,31 @@
       <jump line="162" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
       <jump line="221" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
       <jump line="106" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="66" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="352" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="128" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
       <jump line="158" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
       <jump line="159" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="358" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="216" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
       <jump line="413" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="220" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
       <jump line="44" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="364" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="342" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="42" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="360" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="353" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="41" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="417" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="358" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RyZWFtcy5sZW5ndGggPT0gMCkgewogICAgICAgICAgZGVsZXRlIHRoaXMubWljU3RyZWFtc1t1c2VySWRdCiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>micStreams</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1323,13 +1323,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.cameraStreams[userId]</text>
+        <text>micStreams</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>cameraoff</text>
+        <text>micoff</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc3RyZWFtcy5sZW5ndGggPT0gMCkgewogICAgICAgICAgZGVsZXRlIHRoaXMubWljU3RyZWFtc1t1c2VySWRdCiAgICAgICAgfQo=</text>
@@ -1399,9 +1399,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>cameraoff</last-search>
+      <last-search>micoff</last-search>
       <last-offset />
-      <last-pattern>cameraoff</last-pattern>
+      <last-pattern>micoff</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>onlogin</last-substitute>
       <last-dir>1</last-dir>
