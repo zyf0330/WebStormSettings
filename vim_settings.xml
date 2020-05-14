@@ -5,14 +5,9 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>json.st</entry>
-        <entry>onmessage</entry>
-        <entry encoding="base64">IiA=</entry>
         <entry>auth</entry>
-        <entry>miconair</entry>
         <entry>cameraonair</entry>
         <entry encoding="base64">XDxzdHJlYW1zXD4=</entry>
-        <entry>cameraoff</entry>
         <entry>mic</entry>
         <entry>this</entry>
         <entry>hasst</entry>
@@ -23,8 +18,13 @@
         <entry>roomid</entry>
         <entry>connection</entry>
         <entry>clientmicoff</entry>
-        <entry>micoff</entry>
         <entry encoding="base64">XDxtaWNPZmZcPg==</entry>
+        <entry>this.mics</entry>
+        <entry>miconair</entry>
+        <entry>stream</entry>
+        <entry encoding="base64">XDxtaWNPbkFpclw+</entry>
+        <entry>micoff</entry>
+        <entry>cameraoff</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz50YWJuZXh0</entry>
@@ -167,8 +167,20 @@
         <mark key="]" line="98" column="29" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1589442488242">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Room.js" timestamp="1589427430720">
         <mark key="'" line="50" column="22" />
+      </file>
+      <file name="/fragment.js" timestamp="1589442608920">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/utils/const.js" timestamp="1589354360731">
         <mark key="'" line="36" column="38" />
@@ -176,6 +188,12 @@
         <mark key="]" line="37" column="7" />
         <mark key="^" line="37" column="7" />
         <mark key="." line="37" column="6" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" timestamp="1589428141657">
+        <mark key="'" line="71" column="2" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" timestamp="1589352772106">
         <mark key="'" line="41" column="4" />
@@ -197,12 +215,26 @@
         <mark key="]" line="85" column="28" />
         <mark key="." line="85" column="28" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" timestamp="1589354078706">
+        <mark key="'" line="49" column="40" />
+        <mark key="[" line="119" column="22" />
+        <mark key="]" line="119" column="23" />
+        <mark key="^" line="121" column="31" />
+        <mark key="." line="119" column="23" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/error.js" timestamp="1589354510900">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1589435819718">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" timestamp="1589443052883">
+        <mark key="'" line="364" column="0" />
+        <mark key="[" line="400" column="34" />
+        <mark key="]" line="401" column="4" />
+        <mark key="." line="401" column="3" />
+        <mark key="^" line="401" column="4" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1589442789975">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -212,46 +244,17 @@
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="38" />
       </file>
-      <file name="/test.js" timestamp="1589433880041">
-        <mark key="'" line="4" column="15" />
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="47" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589435754836">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="44" />
-        <mark key="." line="0" column="23" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" timestamp="1589428141657">
-        <mark key="'" line="71" column="2" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" timestamp="1589354078706">
-        <mark key="'" line="49" column="40" />
-        <mark key="[" line="119" column="22" />
-        <mark key="]" line="119" column="23" />
-        <mark key="^" line="121" column="31" />
-        <mark key="." line="119" column="23" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/protos/user.proto" timestamp="1589352443983">
-        <mark key="'" line="113" column="27" />
-        <mark key="[" line="81" column="8" />
-        <mark key="]" line="81" column="28" />
-        <mark key="^" line="81" column="11" />
-        <mark key="." line="81" column="10" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" timestamp="1589435790538">
-        <mark key="'" line="289" column="4" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" timestamp="1589354165434">
         <mark key="'" line="48" column="4" />
         <mark key="[" line="229" column="22" />
         <mark key="]" line="229" column="25" />
         <mark key="." line="229" column="24" />
         <mark key="^" line="229" column="25" />
+      </file>
+      <file name="/test.js" timestamp="1589433880041">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="47" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Apps.js" timestamp="1589428441535">
         <mark key="'" line="30" column="22" />
@@ -260,27 +263,15 @@
         <mark key="^" line="40" column="20" />
         <mark key="." line="40" column="19" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" timestamp="1589435827562">
-        <mark key="'" line="221" column="16" />
-        <mark key="[" line="161" column="7" />
-        <mark key="]" line="161" column="7" />
-        <mark key="." line="161" column="6" />
-        <mark key="^" line="161" column="7" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" timestamp="1589442555476">
+        <mark key="'" line="220" column="6" />
+        <mark key="[" line="159" column="62" />
+        <mark key="]" line="159" column="80" />
+        <mark key="^" line="162" column="78" />
+        <mark key="." line="159" column="62" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/user.proto" />
-      <jump line="48" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
-      <jump line="36" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/utils/const.js" />
-      <jump line="333" column="33" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="103" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/app.js" />
-      <jump line="12" column="27" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="338" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="397" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="82" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="156" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="22" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="68" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
       <jump line="130" column="68" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="135" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="138" column="51" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
@@ -327,7 +318,6 @@
       <jump line="39" column="44" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="40" column="42" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="129" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="45" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="134" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="131" column="30" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
@@ -343,7 +333,6 @@
       <jump line="170" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="179" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="118" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
       <jump line="7" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
       <jump line="54" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
       <jump line="56" column="35" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
@@ -369,12 +358,26 @@
       <jump line="161" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
       <jump line="162" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
       <jump line="221" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
+      <jump line="106" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="66" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="352" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="128" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
+      <jump line="158" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
+      <jump line="159" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
+      <jump line="358" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="216" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
+      <jump line="413" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="220" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/test.js" />
+      <jump line="44" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
+      <jump line="364" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>const</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoc3RyZWFtcy5sZW5ndGggPT0gMCkgewogICAgICAgICAgZGVsZXRlIHRoaXMubWljU3RyZWFtc1t1c2VySWRdCiAgICAgICAgfQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1320,129 +1323,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>this.cameraStreams[userId]</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaWNPZmZcPg==</text>
+        <text>cameraoff</text>
       </register>
-      <register name="0" type="4">
-        <text>MTIzNzI4MzA2OTA4Nzc4NDk2McOgMTIzNzI4MzA3MTg4NTM4NTczMMOgMTIxMjU1NQ</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoc3RyZWFtcy5sZW5ndGggPT0gMCkgewogICAgICAgICAgZGVsZXRlIHRoaXMubWljU3RyZWFtc1t1c2VySWRdCiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-      'roomId': 'MTIzNzI4MzA2OTA4Nzc4NDk2McOgMTIzNzI4MzA3MTg4NTM4NTczMMOgMTIxMjU1NQ',
-      'apiUid': '394922',
-      'nickname': '394922',
-      'accessToken': '8d498c23913c960e3f8ea59751b63b14',
-      'role': 2,
-      'uid': '06e91ef6a6524d40b91509c3546e3e9c',
-      'clientType': 'NEBULA_1V1',
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdWlkID0gYXV0aEluZm8udW5pcXVlVXNlcklkCmNvbnN0IGFwaVVpZCA9IGF1dGhJbmZvLmFwaVVpZApjb25zdCByb29tSWQgPSAnTVRJek56STRNekEyT1RBNE56YzRORGsyTWNPZ01USXpOekk0TXpBM01UZzROVE00TlRjek1NT2dNVEl4TWpVMU5RJwo=</text>
+        <text>fix: mic 和 camera 初始化和 off 时候没有正确处理 streams</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-      roomId,
-      role: +authInfo.userRole,
-      uid: uid,
-      apiUid,
-      nickname: nickname,
-      accessToken: accessToken,
-      clientInfo: 'clientInfo===',
-      clientType: 'NEBULA_1V1',
-      imageUrl: '',
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-      roomId,
-      role: +authInfo.userRole,
-      uid: uid,
-      apiUid,
-      nickname: nickname,
-      accessToken: accessToken,
-      clientInfo: 'clientInfo===',
-      clientType: 'NEBULA_1V1',
-      imageUrl: '',
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>fix: 捕获异常退出时的日志没有被打印</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc3RyZWFtcyA9IHRoaXMubWljU3RyZWFtc1t1c2VySWRdCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-  'courseType': 1,
-  'success': true,
-  'vod': false,
-  'courseInfo': {
-    'courseTitle': '5rWL6K+Venlm',
-    'courseEndTime': 1588748760000,
-    'playStartTime': 0,
-    'courseType': 1,
-    'playEndTime': 0,
-    'courseStatus': 1,
-    'convertStatus': 0,
-    'courseStartTime': 1588730760000,
-    'roomVideo': true,
-    'roomId': 'jz6047dd5c5a2f42e58f731f206d664d17',
-    'merchantName': '6LW15LqR5bOw',
-  },
-  'authInfo': {
-    'courseEndTime': 1588748760000,
-    'courseType': 1,
-    'testServers': ['106.55.69.60:601', '212.64.46.91:601', '47.91.57.208:601', '111.231.210.172:601', '49.51.177.137:601', '49.51.78.159:601', '119.28.184.189:601', '103.15.99.134:601', '162.62.97.214:601', '129.226.152.50:601', '23.236.126.127:601', '123.6.27.17:601', '175.6.51.95:601', '150.109.195.234:601', '211.159.145.228:601'],
-    'chatAvaliable': true,
-    'line': 1,
-    'courseStartTime': 1588730760000,
-    'webrtcType': 0,
-    'roomId': 'jz6047dd5c5a2f42e58f731f206d664d17',
-    'tid': '1588731616466',
-    'sid': 'e5be91bcda8beae720d536aa7c2a16b1',
-    'courseTitle': '5rWL6K+Venlm',
-    'teacherUniqueUserId': 'jz329d849d0c024cdcab695d14f5c456cc',
-    'playStartTime': 0,
-    'optimize': false,
-    'permissions': ['pptSmallVideo.*', 'pptSmallVideo.*', 'pc1v1LiveH5.*'],
-    'nickname': 'bmlja25hbWVfMjVkMDc4ODItN2NkMy00MDAwLWI2MWMtZTAwMTZjMTEyYjQy',
-    'from': 'http://api.duobeiyun.com/api/v3/room/enter',
-    'teacherImg': 'http://static2.duobeiyun.net/avatar/20130730/d45e18c0811e45dbb68228674d54d8b8.jpg',
-    'appsServers': ['qcloud-gz-apps-111-230-86-238.duobeiyun.net:9001', 'qcloud-cd-apps-140-143-83-94.duobeiyun.net:9001', 'qcloud-sh-apps-111-231-126-211.duobeiyun.net:9001', 'qcloud-bj-apps-62-234-198-171.duobeiyun.net:9001'],
-    'playEndTime': 0,
-    'audioVideoStreamMerge': false,
-    'avatar': 'http://static2.duobeiyun.net/avatar/20130730/d45e18c0811e45dbb68228674d54d8b8.jpg',
-    'accessToken': 'a91e89015933f395e2e9722091e54f09',
-    'userId': 'jz329d849d0c024cdcab695d14f5c456cc',
-    'uniqueUserId': 'jz329d849d0c024cdcab695d14f5c456cc',
-    'socketDomains': 'W10=',
-    'apiUid': '25d07882-7cd3-4000-b61c-e0016c112b42',
-    'currentTimestamp': 1588731616466,
-    'recordable': 'false',
-    'streamingServers': ['qcloud-bj-testvm-211-159-145-228.duobeiyun.net', 'qcloud-hk-testvm-119-28-184-189.duobeiyun.net', 'qcloud-sh-testvm-212-64-46-91.duobeiyun.net', 'qcloud-east-testvm-49-51-78-159.duobeiyun.net', 'qcloud-cd-testvm-111-231-210-172.duobeiyun.net', 'qcloud-west-testvm-49-51-177-137.duobeiyun.net', 'qcloud-gz-testvm-106-55-69-60.duobeiyun.net', 'qcloud-de-testvm-162-62-97-214.duobeiyun.net'],
-    'roomVideo': 'true',
-    'userRole': '1',
-    'endTimestamp': 1588748760000,
-    'exclusiveLine': '',
-    'studentImg': 'http://static2.duobeiyun.net/avatar/20130730/f80972762f1241b9aef71edad7a5b442.jpg',
-  },
-  'status': 2,
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIChzdHJlYW1OYW1lID09IG51bGwpIHsKICAgICAgZGVsZXRlIHRoaXMubWljU3RyZWFtc1t1c2VySWRdCiAgICB9IGVsc2UgewogICAgICBjb25zdCBzdHJlYW1zID0gdGhpcy5taWNTdHJlYW1zW3VzZXJJZF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAvLwogICAgICBtaWNPZmYoKQogICAgfSwgMTAwMCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1459,10 +1379,18 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICl7CiAgICAgICAgCiAgICAgIA==</text>
+        <text>{
+      'roomId': 'MTIzNzI4MzA2OTA4Nzc4NDk2McOgMTIzNzI4MzA3MTg4NTM4NTczMMOgMTIxMjU1NQ',
+      'apiUid': '394922',
+      'nickname': '394922',
+      'accessToken': '8d498c23913c960e3f8ea59751b63b14',
+      'role': 2,
+      'uid': '06e91ef6a6524d40b91509c3546e3e9c',
+      'clientType': 'NEBULA_1V1',
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYoKQo=</text>
+        <text encoding="base64">Y29uc3QgdWlkID0gYXV0aEluZm8udW5pcXVlVXNlcklkCmNvbnN0IGFwaVVpZCA9IGF1dGhJbmZvLmFwaVVpZApjb25zdCByb29tSWQgPSAnTVRJek56STRNekEyT1RBNE56YzRORGsyTWNPZ01USXpOekk0TXpBM01UZzROVE00TlRjek1NT2dNVEl4TWpVMU5RJwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
@@ -1471,9 +1399,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtaWNPZmZcPg==</last-search>
+      <last-search>cameraoff</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaWNPZmZcPg==</last-pattern>
+      <last-pattern>cameraoff</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>onlogin</last-substitute>
       <last-dir>1</last-dir>
