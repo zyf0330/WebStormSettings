@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>micaudi</entry>
         <entry encoding="base64">XDxNaWNBdWRpdFJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxSZXNwb25zZUhlYWRlclw+</entry>
         <entry>ReqInteraction</entry>
@@ -23,8 +22,9 @@
         <entry>micaudit</entry>
         <entry encoding="base64">XDxSb29tXD4=</entry>
         <entry encoding="base64">XDxSZXFJbnRlcmFjdGlvblJlcXVlc3RcPg==</entry>
-        <entry>stat</entry>
         <entry>type</entry>
+        <entry>stat</entry>
+        <entry>mu</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
@@ -198,12 +198,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/keys.js" timestamp="1589790838934">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/keys.js" timestamp="1589790968303">
         <mark key="'" line="88" column="44" />
-        <mark key="[" line="88" column="24" />
-        <mark key="]" line="88" column="25" />
-        <mark key="." line="88" column="24" />
-        <mark key="^" line="88" column="25" />
+        <mark key="[" line="90" column="13" />
+        <mark key="]" line="90" column="17" />
+        <mark key="." line="90" column="16" />
+        <mark key="^" line="90" column="17" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" timestamp="1589444280342">
         <mark key="'" line="358" column="11" />
@@ -264,21 +264,15 @@
         <mark key="." line="490" column="19" />
         <mark key="^" line="490" column="20" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" timestamp="1589790591989">
-        <mark key="'" line="43" column="13" />
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="14" column="20" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="20" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" timestamp="1589793360516">
+        <mark key="'" line="18" column="12" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="56" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="93" column="42" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="223" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="253" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="294" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="305" column="38" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="341" column="49" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="404" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
       <jump line="416" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
@@ -355,16 +349,12 @@
       <jump line="706" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="6" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="677" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="25" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
       <jump line="46" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
-      <jump line="38" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
       <jump line="445" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/index.proto" />
       <jump line="666" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/index.proto" />
       <jump line="483" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/index.proto" />
       <jump line="11" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
       <jump line="16" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
-      <jump line="17" column="53" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
-      <jump line="18" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
       <jump line="20" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
       <jump line="24" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
       <jump line="29" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
@@ -373,12 +363,22 @@
       <jump line="41" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/keys.js" />
       <jump line="88" column="44" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/keys.js" />
+      <jump line="25" column="50" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
+      <jump line="15" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
+      <jump line="26" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
+      <jump line="30" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
+      <jump line="32" column="45" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
+      <jump line="42" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
+      <jump line="17" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
+      <jump line="38" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
+      <jump line="89" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/keys.js" />
+      <jump line="18" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLmhzZXQoa2V5cy5pbnRlcmFjdGlvbkluZm9IYXNoKHRoaXMucm9vbUlkLCB0aGlzLnR5cGUpLCB1c2VySWQsIGluZm8pCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1324,19 +1324,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>interactionInqueueList</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>type</text>
+        <text>mu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBpbnRlcmFjdGlvbklucXVldWVMaXN0KCByb29tSWQgLHR5cGUsKSA9PiBgJHtwcmVmaXh9OiR7cm9vbUlkfTppbnRlcmFjdGlvbjoke3R5cGV9YCwK</text>
+      <register name="0" type="4">
+        <text>keys.interactionInqueueList(this.roomId, this.type), 0, userId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbnRlcmFjdGlvbklucXVldWVMaXN0KCByb29tSWQgLHR5cGUsKSA9PiBgJHtwcmVmaXh9OiR7cm9vbUlkfTppbnRlcmFjdGlvbjoke3R5cGV9Omxpc3RgLAogIGludGVyYWN0aW9uSW5xdWV1ZUhhc2goIHJvb21JZCAsdHlwZSwpID0+IGAke3ByZWZpeH06JHtyb29tSWR9OmludGVyYWN0aW9uOiR7dHlwZX06aGFzaGAsCg==</text>
+        <text encoding="base64">ICAgICAgLmhzZXQoa2V5cy5pbnRlcmFjdGlvbkluZm9IYXNoKHRoaXMucm9vbUlkLCB0aGlzLnR5cGUpLCB1c2VySWQsIGluZm8pCg==</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
@@ -1348,22 +1348,22 @@
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGludml0ZWQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGltZXN0YW1wLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHR5cGUgPSB0aGlzLnR5cGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdGltZXN0YW1wLCBpbnZpdGVkLCBqb2luZWQgfSA9IGF3YWl0IHRoaXMuZmV0Y2hDYW1lcmFJbnZpdGVMaXN0KCkK</text>
+        <text encoding="base64">ICBhc3luYyBicm9hZGNhc3RTdGF0KCkgewogICAgY29uc3QgdHlwZSA9IHRoaXMudHlwZQogICAgY29uc3QgeyBqb2luZWQsIGlucXVldWUgfSA9IGF3YWl0IHRoaXMuc3RhdCh0eXBlKQogICAgYXdhaXQgdGhpcy5jYXN0ZXIuYnJvYWRjYXN0KCdJbnRlcmFjdGlvblN0YXQnLCB7CiAgICAgIHR5cGUsIGpvaW5lZCwgaW5xdWV1ZSwKICAgIH0pCiAgfQoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhc3luYyBmZXRjaENhbWVyYUludml0ZUxpc3QoKSB7CiAgICBjb25zdCByZXN1bHQgPSBhd2FpdCByZWRpcy5tdWx0aSgpCiAgICAgIC5scmFuZ2Uoa2V5cy5jYW1lcmFJbnZpdGVJbnZpdGVkTGlzdCh0aGlzLnJvb21JZCksIDAsIC0xKQogICAgICAuenJhbmdlKGtleXMuY2FtZXJhSW52aXRlSm9pbmVkWlNldCh0aGlzLnJvb21JZCksIDAsIC0xLCAnV0lUSFNDT1JFUycpCiAgICAgIC5leGVjKCkKCiAgICBjb25zdCBpbnZpdGVkID0gcmVzdWx0WzBdWzFdLm1hcCgoanNvbiwgaSkgPT4gKHsganNvbiwgaWQ6IGkgKyAnJyB9KSkKICAgIGNvbnN0IGpvaW5lZCA9IHJlc3VsdFsxXVsxXS5yZWR1Y2UoKGpvaW5lZCwgbywgaSkgPT4gewogICAgICBjb25zdCBpbmRleCA9IE1hdGguZmxvb3IoaSAvIDIpCiAgICAgIGpvaW5lZFtpbmRleF0gPSBqb2luZWRbaW5kZXhdIHx8IHt9CiAgICAgIGlmIChpICUgMiA9PSAwKSB7CiAgICAgICAgam9pbmVkW2luZGV4XS5qc29uID0gbwogICAgICB9IGVsc2UgewogICAgICAgIGpvaW5lZFtpbmRleF0uaWQgPSBvICsgJycKICAgICAgfQogICAgICByZXR1cm4gam9pbmVkCiAgICB9LCBbXSkKCiAgICByZXR1cm4geyB0aW1lc3RhbXA6IERhdGUubm93KCksIGludml0ZWQsIGpvaW5lZCB9CiAgfQoKICBhc3luYyBjYW1lcmFJbnZpdGVKb2luKGpzb24pIHsKICAgIGNvbnN0IGtleSA9IGtleXMuY2FtZXJhSW52aXRlSm9pbmVkWlNldCh0aGlzLnJvb21JZCkKICAgIGNvbnN0IGlkID0gKygoRGF0ZS5ub3coKSArICcnKS5zbGljZSgtOSkpIC8vIOWJjeWvvDAKICAgIGF3YWl0IHJlZGlzLnBpcGVsaW5lKCkKICAgICAgLnphZGQoa2V5LCBpZCwganNvbikKICAgICAgLmV4cGlyZShrZXksIGNvbnN0cy5LRVlfRVhQSVJFKQogICAgICAuZXhlYygpCgogICAgYXdhaXQgdGhpcy5icm9hZGNhc3RDYW1lcmFJbnZpdGVTdGF0KCkKCiAgICByZXR1cm4gaWQgKyAnJwogIH0KCiAgYXN5bmMgY2FtZXJhSW52aXRlTGVhdmUoaWQpIHsKICAgIGNvbnN0IGtleSA9IGtleXMuY2FtZXJhSW52aXRlSm9pbmVkWlNldCh0aGlzLnJvb21JZCkKICAgIGF3YWl0IHJlZGlzLnpyZW1yYW5nZWJ5c2NvcmUoa2V5LCAraWQsICtpZCkKCiAgICBhd2FpdCB0aGlzLmJyb2FkY2FzdENhbWVyYUludml0ZVN0YXQoKQogIH0KCiAgYXN5bmMgY2FtZXJhSW52aXRlRGVjaWRlKGludml0ZXMgPSBbXSwgZGlzaW52aXRlcyA9IFtdLCByZWZ1c2VzID0gW10pIHsKICAgIGNvbnN0IG11bHRpID0gcmVkaXMubXVsdGkoKQogICAgY29uc3QgY2FtZXJhSW52aXRlSm9pbmVkWlNldEtleSA9IGtleXMuY2FtZXJhSW52aXRlSm9pbmVkWlNldCh0aGlzLnJvb21JZCkKICAgIGludml0ZXMuZm9yRWFjaCgoaWQpID0+IHsKICAgICAgbXVsdGkuenJhbmdlYnlzY29yZShjYW1lcmFJbnZpdGVKb2luZWRaU2V0S2V5LCAraWQsICtpZCkKICAgIH0pCiAgICBpbnZpdGVzLmNvbmNhdChyZWZ1c2VzKS5mb3JFYWNoKChpZCkgPT4gewogICAgICBtdWx0aS56cmVtcmFuZ2VieXNjb3JlKGNhbWVyYUludml0ZUpvaW5lZFpTZXRLZXksICtpZCwgK2lkKQogICAgfSkKICAgIGNvbnN0IGNhbWVyYUludml0ZUludml0ZWRMaXN0S2V5ID0ga2V5cy5jYW1lcmFJbnZpdGVJbnZpdGVkTGlzdCh0aGlzLnJvb21JZCkKICAgIGRpc2ludml0ZXMuZm9yRWFjaCgoaWQpID0+IHsKICAgICAgbXVsdGkubHNldChjYW1lcmFJbnZpdGVJbnZpdGVkTGlzdEtleSwgK2lkLCAnREVMRVRFREBAJykKICAgIH0pCiAgICBtdWx0aS5scmVtKGNhbWVyYUludml0ZUludml0ZWRMaXN0S2V5LCAwLCAnREVMRVRFREBAJykKICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IG11bHRpLmV4ZWMoKQoKICAgIGNvbnN0IGludml0ZXNKU09OcyA9IHJlc3VsdC5zbGljZSgwLCBpbnZpdGVzLmxlbmd0aCkubWFwKChbLCBbb11dKSA9PiBvKQogICAgYXdhaXQgcmVkaXMucGlwZWxpbmUoKQogICAgICAucnB1c2goY2FtZXJhSW52aXRlSW52aXRlZExpc3RLZXksIC4uLmludml0ZXNKU09OcykKICAgICAgLmV4cGlyZShjYW1lcmFJbnZpdGVJbnZpdGVkTGlzdEtleSwgY29uc3RzLktFWV9FWFBJUkUpCiAgICAgIC5leGVjKCkKCiAgICBhd2FpdCB0aGlzLmJyb2FkY2FzdENhbWVyYUludml0ZVN0YXQoKQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1380,10 +1380,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJvb20ucmVxSW50ZXJhY3Rpb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldyBSb29tCg==</text>
+        <text encoding="base64">ICAgIHRoaXMucmVkaXNLZXkgPQo=</text>
       </register>
       <register name=":" type="4">
         <text>tabprevious</text>
@@ -1392,9 +1392,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>type</last-search>
+      <last-search>mu</last-search>
       <last-offset />
-      <last-pattern>type</last-pattern>
+      <last-pattern>mu</last-pattern>
       <last-replace>QuitInteraction</last-replace>
       <last-substitute>AcceptInteraction</last-substitute>
       <last-dir>1</last-dir>
