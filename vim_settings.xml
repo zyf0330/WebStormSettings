@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcHBFcnJvclw+</entry>
-        <entry>throw new</entry>
         <entry>throw new Error</entry>
         <entry>throw ne</entry>
         <entry encoding="base64">XDxpbnRlcmFjdGlvblw+</entry>
@@ -25,10 +23,11 @@
         <entry>client.on</entry>
         <entry>token</entry>
         <entry>att</entry>
+        <entry>expi</entry>
+        <entry>invalidto</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
-        <entry>q</entry>
         <entry>%s/this.userid/this.uid/g</entry>
         <entry>s/ReqInteraction/AbortInteraction/</entry>
         <entry>s/ReqInteraction/AbortInteraction/g</entry>
@@ -45,8 +44,9 @@
         <entry encoding="base64">JzwsJz5zL3tcbi8vZw==</entry>
         <entry>noh</entry>
         <entry>w</entry>
-        <entry>tabprevious</entry>
+        <entry>q</entry>
         <entry>tabnext</entry>
+        <entry>tabprevious</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,20 +161,61 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589957559116">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="44" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Room.js" timestamp="1589525078097">
-        <mark key="'" line="155" column="13" />
-      </file>
       <file name="/fragment.js" timestamp="1589860250077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/user.proto" timestamp="1589957653692">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="88" column="8" />
+        <mark key="]" line="89" column="4" />
+        <mark key="^" line="89" column="4" />
+        <mark key="." line="89" column="3" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/error.js" timestamp="1589960136611">
+        <mark key="'" line="23" column="37" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="26" column="34" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/test.js" timestamp="1589862637883">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="146" column="17" />
+        <mark key="]" line="146" column="23" />
+        <mark key="." line="146" column="22" />
+        <mark key="^" line="146" column="23" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1589862642999">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/utils/redisKeys.js" timestamp="1589958054263">
+        <mark key="'" line="14" column="59" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" timestamp="1589960182900">
+        <mark key="'" line="51" column="27" />
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="43" column="4" />
+        <mark key="^" line="43" column="4" />
+        <mark key="." line="43" column="3" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/index.proto" timestamp="1589796155916">
+        <mark key="'" line="666" column="25" />
+        <mark key="[" line="666" column="8" />
+        <mark key="]" line="666" column="22" />
+        <mark key="." line="490" column="19" />
+        <mark key="^" line="490" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589957559116">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" timestamp="1589857107881">
         <mark key="'" line="4" column="26" />
@@ -186,19 +227,18 @@
         <mark key="." line="278" column="2" />
         <mark key="^" line="278" column="3" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/user.proto" timestamp="1589957653692">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="88" column="8" />
-        <mark key="]" line="89" column="4" />
-        <mark key="^" line="89" column="4" />
-        <mark key="." line="89" column="3" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/utils/errors.js" timestamp="1589795204674">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="37" />
         <mark key="]" line="15" column="47" />
         <mark key="^" line="15" column="47" />
         <mark key="." line="15" column="46" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/protos/user.proto" timestamp="1589959574889">
+        <mark key="'" line="65" column="21" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/protos/index.proto" timestamp="1589797760451">
         <mark key="'" line="648" column="12" />
@@ -214,22 +254,6 @@
         <mark key="]" line="123" column="82" />
         <mark key="." line="123" column="81" />
         <mark key="^" line="123" column="82" />
-      </file>
-      <file name="/Client.js" timestamp="1589525115944">
-        <mark key="'" line="63" column="4" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/test.js" timestamp="1589862637883">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="146" column="17" />
-        <mark key="]" line="146" column="23" />
-        <mark key="." line="146" column="22" />
-        <mark key="^" line="146" column="23" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1589862642999">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1589860647615">
         <mark key="'" line="739" column="11" />
@@ -248,16 +272,6 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" timestamp="1589957623074">
         <mark key="'" line="33" column="16" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/utils/redisKeys.js" timestamp="1589958054263">
-        <mark key="'" line="14" column="59" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/protos/index.proto" timestamp="1589796155916">
-        <mark key="'" line="666" column="25" />
-        <mark key="[" line="666" column="8" />
-        <mark key="]" line="666" column="22" />
-        <mark key="." line="490" column="19" />
-        <mark key="^" line="490" column="20" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" timestamp="1589797361933">
         <mark key="'" line="83" column="6" />
         <mark key="[" line="60" column="6" />
@@ -267,10 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="178" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="193" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
-      <jump line="209" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="227" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="246" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="259" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
@@ -367,12 +377,16 @@
       <jump line="8" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/user.proto" />
       <jump line="115" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/user.proto" />
       <jump line="14" column="59" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/utils/redisKeys.js" />
+      <jump line="65" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/protos/user.proto" />
+      <jump line="20" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/error.js" />
+      <jump line="22" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
+      <jump line="44" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>abort</text>
+        <text>!</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1318,99 +1332,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>abort</text>
+        <text>!</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>att</text>
+        <text>invalidto</text>
       </register>
       <register name="0" type="4">
         <text>'command res',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb21tYW5kKCdhYm9ydEludGVyYWN0aW9uJywgeyB0eXBlOiAndHlwZScsIHVzZXJJZDogdWlkIH0sICgpID0+IHsK</text>
+        <text encoding="base64">ICAgIGlmICh0eXBlb2YgdG9rZW4gIT0gJ3N0cmluZycpIHsKICAgICAgZXJyb3IubG9naW4uaW52YWxpZFRva2VuKCkKICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyb3IpCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">bWVzc2FnZSBUb2tlbkV4cGlyZWQgewoKfQoK</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-  'courseType': 2,
-  'success': true,
-  'vod': false,
-  'courseInfo': {
-    'courseTitle': '5rWL6K+Venlm',
-    'courseEndTime': 1586007720000,
-    'playStartTime': 0,
-    'courseType': 2,
-    'playEndTime': 0,
-    'courseStatus': 1,
-    'convertStatus': 0,
-    'courseStartTime': 1585989720000,
-    'roomVideo': true,
-    'roomId': 'jz16e6e039e8674f1c82b087656d57f65a',
-    'merchantName': '6K6y5bqn6YCa',
-  },
-  'authInfo': {
-    'courseEndTime': 1586007720000,
-    'courseType': 2,
-    'testServers': ['123.57.149.1:601'],
-    'skinJson': '{&quot;captionBackgroundColor&quot;:&quot;&quot;,&quot;captionContent&quot;:&quot;&quot;,&quot;captionFontColor&quot;:&quot;#ffffff&quot;,&quot;captionFontOpacity&quot;:1.0,&quot;captionFontSize&quot;:16,&quot;captionIntervalTime&quot;:600,&quot;captionSpeed&quot;:200,&quot;captionVerticalRange&quot;:[0,300]}',
-    'chatAvaliable': true,
-    'line': 1,
-    'courseStartTime': 1585989720000,
-    'webrtcType': 0,
-    'roomId': 'jz16e6e039e8674f1c82b087656d57f65a',
-    'tid': '1585989737908',
-    'sid': '5aea11cd93c42e7619d55ef6bd5adb21',
-    'courseTitle': '5rWL6K+Venlm',
-    'teacherUniqueUserId': 'jz8e95e86a61c2449cb5b7eeeee45e30c4',
-    'playStartTime': 0,
-    'optimize': false,
-    'permissions': ['videoCourse.*', 'newWeixinLive.*', 'mobile1Vn.*', 'weike.*', 'dynamicSlide.*', 'smallRoomV2.*', '5dRoom.*', '5dRoomV1.*', 'chatAudit.*', 'videoRatioChange.*', 'vipkid5d.*', 'pcH5Playback.*', 'waterMark.*', 'vodPlaybackSource.*', 'hdLive.*', 'obsShare.*', 'liveVideoRoom.*', 'pc1v1LiveH5.*', 'studentVideo.*', 'chooseNodeOptimize.*', 'pptSmallVideo', 'textAudit.*', 'pptSmallVideo.*', 'pc1v1LiveH5.*'],
-    'nickname': 'bmlja25hbWVfNjkzZjRlNzYtNjM2OS00YTNiLWI4ZmYtOTQwYTgyYjliYWRm',
-    'from': 'http://api.duobeiyun.com/api/v3/room/enter',
-    'teacherImg': 'http://static2.duobeiyun.com/avatar/20130730/d45e18c0811e45dbb68228674d54d8b8.jpg',
-    'appsServers': [],
-    'playEndTime': 0,
-    'audioVideoStreamMerge': false,
-    'avatar': 'http://static2.duobeiyun.com/avatar/20130730/f80972762f1241b9aef71edad7a5b442.jpg',
-    'accessToken': '982dcaf8eabd3beb84274738189fddf1',
-    'userId': 'jz867c3c923d564665988b0781e159197d',
-    'uniqueUserId': 'jz867c3c923d564665988b0781e159197d',
-    'socketDomains': 'W3siZG9tYWluIjoid3MxLmRldi5kdW9iZWl5dW4uY29tIiwic2NvcmUiOjF9XQ==',
-    'apiUid': '693f4e76-6369-4a3b-b8ff-940a82b9badf',
-    'currentTimestamp': 1585989737908,
-    'recordable': 'false',
-    'streamingServers': [],
-    'roomVideo': 'true',
-    'userRole': '2',
-    'endTimestamp': 1586007720000,
-    'exclusiveLine': '',
-    'studentImg': 'http://static2.duobeiyun.com/avatar/20130730/f80972762f1241b9aef71edad7a5b442.jpg',
-  },
-  'status': 2,
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text>feat(Interaction): 添加互动功能</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb21tYW5kKCdhYm9ydEludGVyYWN0aW9uJywgeyB0eXBlOiAndHlwZScsIHVzZXJJZDogdWlkIH0sICgpID0+IHsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1491,21 +1449,77 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>{
+  'courseType': 2,
+  'success': true,
+  'vod': false,
+  'courseInfo': {
+    'courseTitle': '5rWL6K+Venlm',
+    'courseEndTime': 1586007720000,
+    'playStartTime': 0,
+    'courseType': 2,
+    'playEndTime': 0,
+    'courseStatus': 1,
+    'convertStatus': 0,
+    'courseStartTime': 1585989720000,
+    'roomVideo': true,
+    'roomId': 'jz16e6e039e8674f1c82b087656d57f65a',
+    'merchantName': '6K6y5bqn6YCa',
+  },
+  'authInfo': {
+    'courseEndTime': 1586007720000,
+    'courseType': 2,
+    'testServers': ['123.57.149.1:601'],
+    'skinJson': '{&quot;captionBackgroundColor&quot;:&quot;&quot;,&quot;captionContent&quot;:&quot;&quot;,&quot;captionFontColor&quot;:&quot;#ffffff&quot;,&quot;captionFontOpacity&quot;:1.0,&quot;captionFontSize&quot;:16,&quot;captionIntervalTime&quot;:600,&quot;captionSpeed&quot;:200,&quot;captionVerticalRange&quot;:[0,300]}',
+    'chatAvaliable': true,
+    'line': 1,
+    'courseStartTime': 1585989720000,
+    'webrtcType': 0,
+    'roomId': 'jz16e6e039e8674f1c82b087656d57f65a',
+    'tid': '1585989737908',
+    'sid': '5aea11cd93c42e7619d55ef6bd5adb21',
+    'courseTitle': '5rWL6K+Venlm',
+    'teacherUniqueUserId': 'jz8e95e86a61c2449cb5b7eeeee45e30c4',
+    'playStartTime': 0,
+    'optimize': false,
+    'permissions': ['videoCourse.*', 'newWeixinLive.*', 'mobile1Vn.*', 'weike.*', 'dynamicSlide.*', 'smallRoomV2.*', '5dRoom.*', '5dRoomV1.*', 'chatAudit.*', 'videoRatioChange.*', 'vipkid5d.*', 'pcH5Playback.*', 'waterMark.*', 'vodPlaybackSource.*', 'hdLive.*', 'obsShare.*', 'liveVideoRoom.*', 'pc1v1LiveH5.*', 'studentVideo.*', 'chooseNodeOptimize.*', 'pptSmallVideo', 'textAudit.*', 'pptSmallVideo.*', 'pc1v1LiveH5.*'],
+    'nickname': 'bmlja25hbWVfNjkzZjRlNzYtNjM2OS00YTNiLWI4ZmYtOTQwYTgyYjliYWRm',
+    'from': 'http://api.duobeiyun.com/api/v3/room/enter',
+    'teacherImg': 'http://static2.duobeiyun.com/avatar/20130730/d45e18c0811e45dbb68228674d54d8b8.jpg',
+    'appsServers': [],
+    'playEndTime': 0,
+    'audioVideoStreamMerge': false,
+    'avatar': 'http://static2.duobeiyun.com/avatar/20130730/f80972762f1241b9aef71edad7a5b442.jpg',
+    'accessToken': '982dcaf8eabd3beb84274738189fddf1',
+    'userId': 'jz867c3c923d564665988b0781e159197d',
+    'uniqueUserId': 'jz867c3c923d564665988b0781e159197d',
+    'socketDomains': 'W3siZG9tYWluIjoid3MxLmRldi5kdW9iZWl5dW4uY29tIiwic2NvcmUiOjF9XQ==',
+    'apiUid': '693f4e76-6369-4a3b-b8ff-940a82b9badf',
+    'currentTimestamp': 1585989737908,
+    'recordable': 'false',
+    'streamingServers': [],
+    'roomVideo': 'true',
+    'userRole': '2',
+    'endTimestamp': 1586007720000,
+    'exclusiveLine': '',
+    'studentImg': 'http://static2.duobeiyun.com/avatar/20130730/f80972762f1241b9aef71edad7a5b442.jpg',
+  },
+  'status': 2,
+}</text>
       </register>
       <register name=":" type="4">
-        <text>tabnext</text>
+        <text>tabprevious</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>att</last-search>
+      <last-search>invalidto</last-search>
       <last-offset />
-      <last-pattern>att</last-pattern>
+      <last-pattern>invalidto</last-pattern>
       <last-replace />
       <last-substitute>{\n</last-substitute>
       <last-dir>1</last-dir>
