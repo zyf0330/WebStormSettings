@@ -40,13 +40,13 @@
         <entry encoding="base64">JzwsJz5zL1xuLy9n</entry>
         <entry encoding="base64">JzwsJz5zL3tcbi8vZw==</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>tabprevious</entry>
         <entry>q</entry>
         <entry>q!</entry>
         <entry>qa</entry>
         <entry>action FindInPath</entry>
         <entry>tabnext</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -240,7 +240,7 @@
         <mark key="." line="146" column="22" />
         <mark key="^" line="146" column="23" />
       </file>
-      <file name="/JavaScript Console" timestamp="1590047787041">
+      <file name="/JavaScript Console" timestamp="1590049481491">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -256,11 +256,11 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" timestamp="1589957623074">
         <mark key="'" line="33" column="16" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/service/user.js" timestamp="1590047815427">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="14" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="22" column="14" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/service/user.js" timestamp="1590049521355">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="12" />
+        <mark key="^" line="22" column="33" />
+        <mark key="." line="23" column="12" />
       </file>
       <file name="/test.js" timestamp="1589964286179">
         <mark key="[" line="13" column="12" />
@@ -384,7 +384,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>,req: '1'</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1330,7 +1330,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1339,7 +1339,7 @@
         <text>setloca</text>
       </register>
       <register name="0" type="4">
-        <text>attributes.</text>
+        <text>,req: '1'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
@@ -1462,7 +1462,7 @@
     })</text>
       </register>
       <register name=":" type="4">
-        <text>tabnext</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
