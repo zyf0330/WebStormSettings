@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRoVXJsXD4=</entry>
-        <entry>to</entry>
-        <entry>token</entry>
-        <entry>discon</entry>
-        <entry encoding="base64">XDx1c2VyU2Vzc2lvbkhhc2hLZXlcPg==</entry>
-        <entry encoding="base64">XDxzZXNzaW9uSGFzaEtleVw+</entry>
         <entry>return</entry>
         <entry>const result</entry>
         <entry>sendcha</entry>
@@ -21,10 +15,16 @@
         <entry>const</entry>
         <entry>expire</entry>
         <entry>setat</entry>
-        <entry encoding="base64">XDxub3RpZnlBdHRyVXBkYXRlZFw+</entry>
         <entry encoding="base64">XDxzZXRBdHRyTWV0YUluZm9cPg==</entry>
         <entry>setchan</entry>
         <entry>sendmess</entry>
+        <entry encoding="base64">XDxjaGFubmVsQXR0ck1ldGFJbmZvSGFzaFw+</entry>
+        <entry encoding="base64">XDxub3RpZnlBdHRyVXBkYXRlZFw+</entry>
+        <entry>expi</entry>
+        <entry>leave</entry>
+        <entry>nextti</entry>
+        <entry>join</entry>
+        <entry encoding="base64">XDxpZkV4cGlyZUF0dHJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/ReqInteraction/AbortInteraction/</entry>
@@ -44,9 +44,9 @@
         <entry>action FindInPath</entry>
         <entry>reg</entry>
         <entry>tabnext</entry>
-        <entry>tabprevious</entry>
         <entry>qa</entry>
         <entry>q</entry>
+        <entry>tabprevious</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -168,6 +168,9 @@
         <mark key="^" line="64" column="19" />
         <mark key="." line="64" column="18" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/utils/Broadcaster.js" timestamp="1590121916818">
+        <mark key="'" line="26" column="23" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/utils/const.js" timestamp="1590121295107">
         <mark key="'" line="36" column="43" />
         <mark key="[" line="8" column="29" />
@@ -189,7 +192,7 @@
         <mark key="^" line="26" column="34" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1590121696476">
+      <file name="/JavaScript Console" timestamp="1590131188846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -214,9 +217,6 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/utils/redisKeys.js" timestamp="1589958054263">
-        <mark key="'" line="14" column="59" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" timestamp="1590055726694">
         <mark key="'" line="27" column="8" />
         <mark key="[" line="27" column="0" />
@@ -224,7 +224,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="35" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590121865587">
+      <file name="/Dummy.txt" timestamp="1590131204884">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="10" />
@@ -258,12 +258,12 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" timestamp="1590121478185">
-        <mark key="'" line="192" column="21" />
-        <mark key="[" line="191" column="78" />
-        <mark key="]" line="191" column="78" />
-        <mark key="." line="191" column="78" />
-        <mark key="^" line="191" column="16" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" timestamp="1590131233686">
+        <mark key="'" line="108" column="8" />
+        <mark key="[" line="115" column="7" />
+        <mark key="]" line="115" column="11" />
+        <mark key="." line="115" column="10" />
+        <mark key="^" line="115" column="11" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" timestamp="1590119110701">
         <mark key="'" line="65" column="35" />
@@ -280,34 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
-      <jump line="48" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
-      <jump line="1" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
-      <jump line="99" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" />
-      <jump line="32" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
-      <jump line="110" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
-      <jump line="214" column="41" filename="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" />
-      <jump line="13" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" />
-      <jump line="102" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" />
-      <jump line="65" column="34" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="5" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="73" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="79" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="7" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="80" column="40" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="88" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="81" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="54" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
-      <jump line="82" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="86" column="60" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="83" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="69" column="64" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="77" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="66" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="49" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
-      <jump line="102" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
       <jump line="78" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
       <jump line="96" column="54" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" />
       <jump line="104" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" />
@@ -361,9 +333,7 @@
       <jump line="12" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
       <jump line="24" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
       <jump line="36" column="43" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/utils/const.js" />
-      <jump line="6" column="39" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
       <jump line="203" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
       <jump line="131" column="63" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
       <jump line="153" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
       <jump line="171" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
@@ -380,12 +350,42 @@
       <jump line="109" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" />
       <jump line="78" column="61" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" />
       <jump line="77" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" />
+      <jump line="234" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="69" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="26" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/utils/Broadcaster.js" />
+      <jump line="206" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="201" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="209" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="113" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="110" column="105" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="112" column="46" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="13" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/utils/redisKeys.js" />
+      <jump line="116" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="121" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="117" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="109" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="72" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="41" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="74" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="67" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="60" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="55" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="52" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="51" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="192" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="46" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="6" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="23" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="43" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="73" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
+      <jump line="108" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Channel.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>getuser</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1331,46 +1331,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>OrPersist</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>sendmess</text>
+        <text encoding="base64">XDxpZkV4cGlyZUF0dHJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>.expire(key,channelAttrExpireTime)</text>
+        <text>expireOrPersistAttr</text>
       </register>
       <register name="1" type="2">
-        <text>getuser</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MubmV4dFRpY2soYXN5bmMgKCkgPT4gewo=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpnZXR1c2Vy</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIOi/h+acn+mikemBk+WxnuaApwo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text>用户离线属性查询失败</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9wID0gaXNFeHBpcmUgPyAnZXhwaXJlJyA6ICdwZXJzaXN0JwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8g5qOA5p+l55So5oi35piv5ZCm5Zyo57q/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgrnlKjmiLfnprvnur/lsZ7mgKfmn6Xor6LlpLHotKU=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text />
+        <text encoding="base64">ICAgIHJlZGlzLnBpcGVsaW5lKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1448,21 +1448,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVXNlci5pbml0KHJvb21JZCwgc2Vzc2lvbklkKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgVXNlci5pbml0KCkK</text>
+        <text encoding="base64">dGhpcy4K</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>tabprevious</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>sendmess</last-search>
+      <last-search encoding="base64">XDxpZkV4cGlyZUF0dHJcPg==</last-search>
       <last-offset />
-      <last-pattern>sendmess</last-pattern>
+      <last-pattern encoding="base64">XDxpZkV4cGlyZUF0dHJcPg==</last-pattern>
       <last-replace />
       <last-substitute>{\n</last-substitute>
       <last-dir>1</last-dir>
