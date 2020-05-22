@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>setloca</entry>
         <entry encoding="base64">XDxjcnlwdG9cPg==</entry>
         <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
         <entry>res</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhdXRoVXJsXD4=</entry>
         <entry>to</entry>
         <entry>token</entry>
+        <entry>discon</entry>
       </history-search>
       <history-cmd>
         <entry>s/ReqInteraction/AbortInteraction/</entry>
@@ -161,18 +161,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590113023442">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="44" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/fragment.js" timestamp="1589860250077">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="5" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/util.js" timestamp="1590112912563">
         <mark key="'" line="72" column="19" />
         <mark key="[" line="76" column="32" />
@@ -180,31 +168,8 @@
         <mark key="." line="76" column="40" />
         <mark key="^" line="76" column="41" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1590030004575">
-        <mark key="[" line="53" column="37" />
-        <mark key="]" line="53" column="37" />
-        <mark key="." line="53" column="36" />
-        <mark key="^" line="53" column="37" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/user.proto" timestamp="1589957653692">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="88" column="8" />
-        <mark key="]" line="89" column="4" />
-        <mark key="^" line="89" column="4" />
-        <mark key="." line="89" column="3" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/protos/user.proto" timestamp="1589959574889">
-        <mark key="'" line="65" column="21" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" timestamp="1590113803541">
-        <mark key="'" line="14" column="22" />
-        <mark key="[" line="25" column="48" />
-        <mark key="]" line="25" column="51" />
-        <mark key="." line="25" column="50" />
-        <mark key="^" line="25" column="51" />
+        <mark key="'" line="115" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/error.js" timestamp="1589960302600">
         <mark key="'" line="23" column="37" />
@@ -212,15 +177,6 @@
         <mark key="]" line="26" column="33" />
         <mark key="^" line="26" column="34" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" timestamp="1590040267286">
-        <mark key="'" line="214" column="41" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/.gitignore" timestamp="1590112676122">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="13" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/test.js" timestamp="1589862637883">
         <mark key="'" line="84" column="0" />
@@ -235,21 +191,11 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1589860647615">
-        <mark key="'" line="739" column="11" />
-        <mark key="[" line="753" column="6" />
-        <mark key="]" line="753" column="12" />
-        <mark key="." line="753" column="11" />
-        <mark key="^" line="753" column="12" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/appConfig.json" timestamp="1590113038549">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="30" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="16" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" timestamp="1589957623074">
-        <mark key="'" line="33" column="16" />
       </file>
       <file name="/test.js" timestamp="1589964286179">
         <mark key="[" line="13" column="12" />
@@ -274,9 +220,58 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="35" column="34" />
       </file>
+      <file name="/Dummy.txt" timestamp="1590118648594">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/Connection.js" timestamp="1590030004575">
+        <mark key="[" line="53" column="37" />
+        <mark key="]" line="53" column="37" />
+        <mark key="." line="53" column="36" />
+        <mark key="^" line="53" column="37" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/protos/user.proto" timestamp="1589959574889">
+        <mark key="'" line="65" column="21" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" timestamp="1590113803541">
+        <mark key="'" line="14" column="22" />
+        <mark key="[" line="25" column="48" />
+        <mark key="]" line="25" column="51" />
+        <mark key="." line="25" column="50" />
+        <mark key="^" line="25" column="51" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/legacy-mobile-socketio-gateway/src/transform/fromServer.js" timestamp="1590040267286">
+        <mark key="'" line="214" column="41" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/.gitignore" timestamp="1590112676122">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="13" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1589860647615">
+        <mark key="'" line="739" column="11" />
+        <mark key="[" line="753" column="6" />
+        <mark key="]" line="753" column="12" />
+        <mark key="." line="753" column="11" />
+        <mark key="^" line="753" column="12" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" timestamp="1590118615247">
+        <mark key="'" line="34" column="23" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" timestamp="1590118710634">
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="21" column="6" />
+        <mark key="^" line="21" column="6" />
+        <mark key="." line="21" column="5" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="28" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="117" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="130" column="80" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
       <jump line="141" column="81" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Room.js" />
@@ -376,6 +371,7 @@
       <jump line="21" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" />
       <jump line="14" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" />
+      <jump line="34" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1333,7 +1329,7 @@
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>token</text>
+        <text>discon</text>
       </register>
       <register name="0" type="4">
         <text>dbyInternalTest</text>
@@ -1456,9 +1452,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>token</last-search>
+      <last-search>discon</last-search>
       <last-offset />
-      <last-pattern>token</last-pattern>
+      <last-pattern>discon</last-pattern>
       <last-replace />
       <last-substitute>{\n</last-substitute>
       <last-dir>1</last-dir>
