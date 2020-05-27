@@ -10,7 +10,6 @@
         <entry encoding="base64">XDxpZkV4cGlyZUF0dHJcPg==</entry>
         <entry encoding="base64">XDxTZW5kUmVzcG9uc2VcPg==</entry>
         <entry>return</entry>
-        <entry encoding="base64">XDxJbnZpdGF0aW9uXD4=</entry>
         <entry>this.</entry>
         <entry>cancel</entry>
         <entry>con</entry>
@@ -25,6 +24,7 @@
         <entry>broa</entry>
         <entry>broad</entry>
         <entry>invitation</entry>
+        <entry encoding="base64">XDxJbnZpdGF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/AcceptInteraction/QuitInteraction/g</entry>
@@ -198,7 +198,7 @@
         <mark key="." line="76" column="40" />
         <mark key="^" line="76" column="41" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/invitation.proto" timestamp="1590548435631">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/invitation.proto" timestamp="1590552079817">
         <mark key="[" line="27" column="18" />
         <mark key="]" line="27" column="20" />
         <mark key="." line="27" column="19" />
@@ -209,18 +209,18 @@
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="21" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" timestamp="1590548207224">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="108" column="9" />
-        <mark key="]" line="110" column="8" />
-        <mark key="." line="110" column="7" />
-        <mark key="^" line="110" column="8" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" timestamp="1590552502899">
+        <mark key="'" line="118" column="13" />
+        <mark key="[" line="118" column="13" />
+        <mark key="]" line="118" column="15" />
+        <mark key="." line="118" column="14" />
+        <mark key="^" line="118" column="15" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/service/channel.js" timestamp="1590479152658">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1590548183427">
+      <file name="/JavaScript Console" timestamp="1590552396161">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -229,12 +229,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/channel.proto" timestamp="1590477781226">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/protos/invitation.proto" timestamp="1590548343103">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/protos/invitation.proto" timestamp="1590552496608">
         <mark key="'" line="15" column="22" />
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="38" />
-        <mark key="." line="33" column="26" />
-        <mark key="^" line="27" column="28" />
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="10" />
+        <mark key="." line="27" column="9" />
+        <mark key="^" line="27" column="10" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/appConfig.json" timestamp="1590113038549">
         <mark key="[" line="2" column="16" />
@@ -270,24 +270,22 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" timestamp="1590548595173">
-        <mark key="'" line="285" column="0" />
-        <mark key="[" line="264" column="44" />
-        <mark key="]" line="264" column="52" />
-        <mark key="." line="264" column="51" />
-        <mark key="^" line="264" column="52" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" timestamp="1590552509598">
+        <mark key="'" line="4" column="37" />
+        <mark key="[" line="260" column="4" />
+        <mark key="]" line="260" column="6" />
+        <mark key="." line="260" column="5" />
+        <mark key="^" line="260" column="6" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" timestamp="1590547916156">
-        <mark key="'" line="78" column="15" />
-        <mark key="[" line="102" column="12" />
-        <mark key="]" line="102" column="25" />
-        <mark key="." line="106" column="15" />
-        <mark key="^" line="106" column="16" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" timestamp="1590552148678">
+        <mark key="'" line="103" column="31" />
+        <mark key="[" line="102" column="22" />
+        <mark key="]" line="102" column="24" />
+        <mark key="." line="102" column="23" />
+        <mark key="^" line="102" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
-      <jump line="175" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
       <jump line="182" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
       <jump line="190" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
       <jump line="195" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
@@ -309,8 +307,6 @@
       <jump line="254" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
       <jump line="45" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/invitation.proto" />
       <jump line="261" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
-      <jump line="4" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
-      <jump line="263" column="39" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
       <jump line="11" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Invitation.js" />
       <jump line="23" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Invitation.js" />
       <jump line="28" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/invitation.proto" />
@@ -370,7 +366,6 @@
       <jump line="27" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/protos/invitation.proto" />
       <jump line="15" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/protos/invitation.proto" />
       <jump line="264" column="25" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
       <jump line="6" column="67" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
       <jump line="94" column="48" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
       <jump line="98" column="52" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
@@ -386,12 +381,17 @@
       <jump line="76" column="76" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Invitation.js" />
       <jump line="8" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Invitation.js" />
       <jump line="82" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/Invitation.js" />
+      <jump line="263" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
+      <jump line="4" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
+      <jump line="103" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/Service.js" />
+      <jump line="118" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>InvitationOp</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1337,46 +1337,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'refuse'</text>
+        <text>Send</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>invitation</text>
+        <text encoding="base64">XDxJbnZpdGF0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>invitationErrorCode</text>
+        <text>InvitationOp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSAnQ2FuY2VsSW52aXRhdGlvbic6CiAgICAgIGNhc2UgJ0FjY2VwdEludml0YXRpb24nOgogICAgICBjYXNlICdSZWZ1c2VJbnZpdGF0aW9uJzoK</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3dpdGNoICgpIHsKCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">c3dpdGNoICgpIHsKCn0K</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgYSA6IDEK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgYSA6IDEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGF0aWMgb3BUeXBlID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAKfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzdGF0aWMgb3BUeXBlID0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1435,11 +1435,11 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAKfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENhbmNlbEludml0YXRpb246IGFzeW5jIChjYWxsKSA9PiB7CiAgICAgIGNvbnN0IHsgcmVxdWVzdDogeyBpbnZpdGF0aW9uIH0sIHNlc3Npb246IHsgcm9vbUlkIH0gfSA9IGNhbGwKICAgICAgY29uc3QgX2ludml0YXRpb24gPSBuZXcgSW52aXRhdGlvbihyb29tSWQsIGludml0YXRpb24pCiAgICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IF9pbnZpdGF0aW9uLmNhbmNlbCgpCiAgICAgIHJldHVybiB7IHJlc3VsdCB9CiAgICB9LAogICAgQWNjZXB0SW52aXRhdGlvbjogYXN5bmMgKGNhbGwpID0+IHsKICAgICAgY29uc3QgeyByZXF1ZXN0OiB7IGludml0YXRpb24gfSwgc2Vzc2lvbjogeyByb29tSWQgfSB9ID0gY2FsbAogICAgICBjb25zdCBfaW52aXRhdGlvbiA9IG5ldyBJbnZpdGF0aW9uKHJvb21JZCwgaW52aXRhdGlvbikKICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgX2ludml0YXRpb24uYWNjZXB0KCkKICAgICAgcmV0dXJuIHsgcmVzdWx0IH0KICAgIH0sCiAgICBSZWZ1c2VJbnZpdGF0aW9uOiBhc3luYyAoY2FsbCkgPT4gewogICAgICBjb25zdCB7IHJlcXVlc3Q6IHsgaW52aXRhdGlvbiB9LCBzZXNzaW9uOiB7IHJvb21JZCB9IH0gPSBjYWxsCiAgICAgIGNvbnN0IF9pbnZpdGF0aW9uID0gbmV3IEludml0YXRpb24ocm9vbUlkLCBpbnZpdGF0aW9uKQogICAgICBjb25zdCByZXN1bHQgPSBhd2FpdCBfaW52aXRhdGlvbi5yZWZ1c2UoKQogICAgICByZXR1cm4geyByZXN1bHQgfQogICAgfSwK</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>tabprevious</text>
@@ -1448,9 +1448,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>invitation</last-search>
+      <last-search encoding="base64">XDxJbnZpdGF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>invitation</last-pattern>
+      <last-pattern encoding="base64">XDxJbnZpdGF0aW9uXD4=</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
