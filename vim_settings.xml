@@ -232,7 +232,7 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591151260799">
+      <file name="/JavaScript Console" timestamp="1591151396739">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -252,12 +252,12 @@
         <mark key="^" line="63" column="18" />
         <mark key="." line="63" column="17" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/1.js" timestamp="1591151285376">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/1.js" timestamp="1591151409522">
         <mark key="'" line="3" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="55" />
-        <mark key="." line="4" column="44" />
-        <mark key="^" line="4" column="45" />
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="0" column="54" />
+        <mark key="^" line="0" column="55" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" timestamp="1590746738652">
         <mark key="'" line="33" column="23" />
@@ -393,14 +393,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>const roomAccessKey = 'a415cefaf2504f728b758e7b3bf010fa'
-const accessToken = 'f620a33b7461f4a713bc6a74e9e38957'
-const {calcAccessKey} = require('./util')
-const roomId = 'M8OgNcOgOTk5OQ'
-const uid = '2640753cde9d48a2b1b65ab2d7deb518'
-const token2 = calcAccessKey(uid, roomId, roomAccessKey)
-console.log(accessToken , token2, accessToken == token2)</text>
+      <register name="&quot;" type="4">
+        <text>M8OgNcOgOTk5OQ</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1311,14 +1305,8 @@ console.log(accessToken , token2, accessToken == token2)</text>
       <register name="f" type="4">
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
-      <register name="+" type="2">
-        <text>const roomAccessKey = 'a415cefaf2504f728b758e7b3bf010fa'
-const accessToken = 'f620a33b7461f4a713bc6a74e9e38957'
-const {calcAccessKey} = require('./util')
-const roomId = 'M8OgNcOgOTk5OQ'
-const uid = '2640753cde9d48a2b1b65ab2d7deb518'
-const token2 = calcAccessKey(uid, roomId, roomAccessKey)
-console.log(accessToken , token2, accessToken == token2)</text>
+      <register name="+" type="4">
+        <text>M8OgNcOgOTk5OQ</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1352,7 +1340,7 @@ console.log(accessToken , token2, accessToken == token2)</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cal</text>
+        <text>a415cefaf2504f728b758e7b3bf010fa</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
