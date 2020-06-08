@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>roomid</entry>
-        <entry>console</entry>
-        <entry>ratelimit</entry>
-        <entry encoding="base64">XDxpZGxlQ2FsbGJhY2tcPg==</entry>
-        <entry>addtokent</entry>
         <entry>current</entry>
         <entry encoding="base64">XDxjdXJyZW50VGltZW91dFw+</entry>
         <entry>rateli</entry>
@@ -21,10 +16,15 @@
         <entry>nmap</entry>
         <entry>esc</entry>
         <entry>leader</entry>
-        <entry>command</entry>
         <entry>name</entry>
-        <entry>config</entry>
         <entry>inte</entry>
+        <entry>onco</entry>
+        <entry>upp</entry>
+        <entry>oncom</entry>
+        <entry encoding="base64">XDxfdXBwZXJGaXJzdE5hbWVcPg==</entry>
+        <entry>ratelimit</entry>
+        <entry>config</entry>
+        <entry>command</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -39,7 +39,6 @@
         <entry>noh</entry>
         <entry encoding="base64">bm5vcmVtYXAgPEVzYz48RXNjPiA6PEMtdT5ub2hsc2VhcmNoPENSPiA=</entry>
         <entry>tabnext</entry>
-        <entry>action Back</entry>
         <entry>tabprevious</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL3JhdGVMaW1pdEFwcENvbmZpZy9jb25maWcvZw==</entry>
@@ -47,6 +46,7 @@
         <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -200,12 +200,12 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1591605968295">
-        <mark key="'" line="213" column="2" />
-        <mark key="[" line="221" column="31" />
-        <mark key="]" line="221" column="42" />
-        <mark key="." line="221" column="31" />
-        <mark key="^" line="221" column="31" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1591606756319">
+        <mark key="'" line="115" column="29" />
+        <mark key="[" line="129" column="14" />
+        <mark key="]" line="129" column="42" />
+        <mark key="^" line="129" column="42" />
+        <mark key="." line="129" column="41" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1591604060784">
         <mark key="'" line="73" column="5" />
@@ -242,13 +242,6 @@
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="55" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" timestamp="1591071183038">
-        <mark key="'" line="248" column="11" />
-        <mark key="[" line="257" column="24" />
-        <mark key="]" line="257" column="8" />
-        <mark key="." line="257" column="7" />
-        <mark key="^" line="257" column="8" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" timestamp="1591604400993">
         <mark key="'" line="186" column="8" />
         <mark key="[" line="202" column="3" />
@@ -259,26 +252,18 @@
       <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Apps.js" timestamp="1591174430404">
         <mark key="'" line="125" column="20" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" timestamp="1591607166494">
+        <mark key="'" line="225" column="4" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="7" />
+        <mark key="^" line="224" column="7" />
+        <mark key="." line="224" column="6" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/protos/tinder/apps/index.proto" timestamp="1591601698632">
         <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
-      <jump line="33" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
-      <jump line="252" column="22" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
-      <jump line="246" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
-      <jump line="248" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/index.js" />
-      <jump line="3" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/1.js" />
-      <jump line="14" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="125" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Apps.js" />
-      <jump line="220" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="33" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" />
-      <jump line="115" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/util/StructCheck.js" />
-      <jump line="3" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/util/StructCheck.js" />
-      <jump line="20" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/util/StructCheck.js" />
-      <jump line="126" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/util/StructCheck.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/util/StructCheck.js" />
       <jump line="53" column="26" filename="$USER_HOME$/project/duobei/dby-node-apps/test.js" />
       <jump line="22" column="19" filename="$USER_HOME$/project/duobei/dby-node-apps/test.js" />
       <jump line="4" column="0" filename="$USER_HOME$/project/duobei/dby-node-apps/test.js" />
@@ -302,7 +287,6 @@
       <jump line="83" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/RateLimiter.js" />
       <jump line="5" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/RateLimiter.js" />
       <jump line="20" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/RateLimiter.js" />
-      <jump line="115" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/protos/tinder/apps/index.proto" />
       <jump line="19" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
       <jump line="200" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
@@ -333,12 +317,9 @@
       <jump line="73" column="5" filename="$USER_HOME$/.ideavimrc" />
       <jump line="204" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="199" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="49" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="117" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="119" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="120" column="40" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="125" column="45" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="131" column="45" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="152" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="139" column="45" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
@@ -347,7 +328,6 @@
       <jump line="186" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/src/connector/Forwarder.js" />
       <jump line="206" column="52" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="112" column="54" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="111" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="151" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/ETCD.js" />
       <jump line="9" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/ETCD.js" />
       <jump line="10" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/ETCD.js" />
@@ -364,12 +344,32 @@
       <jump line="194" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="207" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="208" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="191" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="111" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="114" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="223" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="127" column="47" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="175" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="49" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="125" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="124" column="14" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="115" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
+      <jump line="17" column="43" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" />
+      <jump line="7" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" />
+      <jump line="4" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" />
+      <jump line="125" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" />
+      <jump line="122" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" />
+      <jump line="47" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" />
+      <jump line="62" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" />
+      <jump line="63" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" />
+      <jump line="225" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>commandName</text>
+        <text>done</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1315,16 +1315,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>commandName</text>
+        <text>done</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>inte</text>
+        <text>command</text>
       </register>
       <register name="0" type="4">
-        <text>appRateLimitConfig</text>
+        <text>rateLimitOptions</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1333,28 +1333,28 @@
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhcHBSYXRlTGltaXRDb25maWcgPSAgIGluaXQoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGdsb2JhbFJhdGVMaW1pdGVyID0gZ2V0UmF0ZUxpbWl0ZXIodGhpcy5pZCkK</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZnVuYyAoKSA9PiB7CiAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgbmFtZQo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBfY29uZmlnID0gYXBwUmF0ZUxpbWl0Q29uZmlnLmdldChjb25maWdLZXkpCiAgaWYgKF9jb25maWcgIT0gbnVsbCkgewogICAgdHJ5IHsKICAgICAgZm9yIChjb25zdCBbY29tbWFuZE5hbWUsIGNvbW1hbmRDb25maWddIG9mIE9iamVjdC5lbnRyaWVzKEpTT04ucGFyc2UoX2NvbmZpZykpKSB7CiAgICAgICAgYXBwUmF0ZUxpbWl0Q29uZmlnW2NvbW1hbmROYW1lXSA9IGNvbW1hbmRDb25maWcKICAgICAgfQogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgbG9nLmVycm9yKHsgZXJyb3IsIGFwcCwgY29uZmlnOiBfY29uZmlnIH0sICdpbml0QXBwUmF0ZUxpbWl0Q29uZmlnJykKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0ICA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5vZmZDaGFuZ2UoY29uZmlnS2V5LCBmdW5jKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IF9jb25maWdKU09OID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25maWcub25DaGFuZ2UoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IF9jb25maWdKU09OID0gY29uZmlnLmdldChjb25maWdLZXkpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1414,21 +1414,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uZmlnLm9uQ2hhbmdlKCkK</text>
+        <text encoding="base64">CiAgcmV0dXJuIF9jb25maWcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uZmlnLm9uQwo=</text>
+        <text encoding="base64">ICBjb25zdCBjb25maWdLZXkgPSBgcmF0ZUxpbWl0LmFwcC4ke2FwcH1gCiAgY29uZmlnLm9uQ2hhbmdlKGNvbmZpZ0tleSwgaW5pdCkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>inte</last-search>
+      <last-search>command</last-search>
       <last-offset />
-      <last-pattern>inte</last-pattern>
+      <last-pattern>command</last-pattern>
       <last-replace>config</last-replace>
       <last-substitute>rateLimitAppConfig</last-substitute>
       <last-dir>1</last-dir>
