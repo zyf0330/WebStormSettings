@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>authfai</entry>
         <entry encoding="base64">XDx1aWRcPg==</entry>
         <entry>return false</entry>
         <entry>roomid</entry>
@@ -25,6 +24,7 @@
         <entry>nohls</entry>
         <entry>nmap</entry>
         <entry>esc</entry>
+        <entry>leader</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3tcbi8vZw==</entry>
@@ -39,7 +39,6 @@
         <entry>jumps</entry>
         <entry>noh</entry>
         <entry encoding="base64">bm5vcmVtYXAgPEVzYz48RXNjPiA6PEMtdT5ub2hsc2VhcmNoPENSPiA=</entry>
-        <entry>nohlsearch</entry>
         <entry>tabnext</entry>
         <entry>action Back</entry>
         <entry>tabprevious</entry>
@@ -47,6 +46,7 @@
         <entry encoding="base64">JzwsJz5zL3JhdGVMaW1pdEFwcENvbmZpZy9jb25maWcvZw==</entry>
         <entry>nohls</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,7 +161,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591603876175">
+      <file name="/Dummy.txt" timestamp="1591603974534">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="28" />
@@ -191,8 +191,8 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1590745743893">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1591604116477">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Client.js" timestamp="1591175089401">
         <mark key="'" line="33" column="15" />
@@ -204,12 +204,12 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1591603718737">
-        <mark key="'" line="209" column="6" />
-        <mark key="[" line="211" column="3" />
-        <mark key="]" line="211" column="3" />
-        <mark key="." line="211" column="2" />
-        <mark key="^" line="211" column="3" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1591604269754">
+        <mark key="'" line="204" column="29" />
+        <mark key="[" line="208" column="20" />
+        <mark key="]" line="208" column="20" />
+        <mark key="." line="208" column="20" />
+        <mark key="^" line="208" column="37" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-edge/test.js" timestamp="1590747426676">
         <mark key="'" line="36" column="1" />
@@ -218,12 +218,12 @@
         <mark key="." line="66" column="2" />
         <mark key="^" line="151" column="14" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1591603911838">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="42" />
-        <mark key="^" line="79" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1591604060784">
+        <mark key="'" line="73" column="5" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="17" column="8" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-node-apps/1.js" timestamp="1591263691774">
         <mark key="[" line="6" column="14" />
@@ -280,14 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/user.proto" />
-      <jump line="269" column="52" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
-      <jump line="276" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
-      <jump line="268" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
-      <jump line="271" column="46" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
-      <jump line="274" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
-      <jump line="74" column="39" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
-      <jump line="70" column="58" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
       <jump line="71" column="23" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
       <jump line="72" column="62" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
       <jump line="275" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/models/User.js" />
@@ -380,12 +372,20 @@
       <jump line="76" column="0" filename="$USER_HOME$/.ideavimrc" />
       <jump line="48" column="26" filename="$USER_HOME$/.ideavimrc" />
       <jump line="50" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="78" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="13" column="7" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="17" column="7" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="74" column="33" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="68" column="5" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="71" column="5" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="73" column="5" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="204" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bm1hcCA8TGVhZGVyPjxMZWFkZXI+IDo8Qy11Pm5vaGxzZWFyY2g8Q1I+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1331,16 +1331,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Leader</text>
+        <text>+</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>esc</text>
+        <text>leader</text>
       </register>
       <register name="0" type="4">
-        <text>rateLimitAppConfig</text>
+        <text>commandConfig</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bm1hcCA8TGVhZGVyPjxMZWFkZXI+IDo8Qy11Pm5vaGxzZWFyY2g8Q1I+Cg==</text>
@@ -1436,19 +1436,19 @@
         <text encoding="base64">ICAgIGNvbnN0IHJhdGVMaW1pdEFwcENvbmZpZyA9IHt9CiAgICB0cnkgewogICAgICBjb25zdCBfcmF0ZUxpbWl0QXBwQ29uZmlnID0gY29uZmlnLmdldChgcmF0ZUxpbWl0LmFwcC4ke3RoaXMuYXBwfWApCiAgICAgIGlmIChfcmF0ZUxpbWl0QXBwQ29uZmlnICE9IG51bGwpIHsKICAgICAgICBmb3IgKGNvbnN0IFtjb21tYW5kTmFtZSwgdl0gb2YgT2JqZWN0LmVudHJpZXMoX3JhdGVMaW1pdEFwcENvbmZpZykpIHsKICAgICAgICAgIHJhdGVMaW1pdEFwcENvbmZpZ1tjb21tYW5kTmFtZV0gPSBKU09OLnBhcnNlKHYpCiAgICAgICAgfQogICAgICB9CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBsb2cuZXJyb3IoeyBlcnJvciwgIHJhdGVMaW1pdEFwcENvbmZpZyB9LCAnaW5pdEFwcFJhdGVMaW1pdGVyJykKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>esc</last-search>
+      <last-search>leader</last-search>
       <last-offset />
-      <last-pattern>esc</last-pattern>
+      <last-pattern>leader</last-pattern>
       <last-replace>config</last-replace>
       <last-substitute>rateLimitAppConfig</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
