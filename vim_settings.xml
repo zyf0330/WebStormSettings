@@ -27,9 +27,7 @@
         <entry>c-a</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindInPath</entry>
         <entry>reg</entry>
-        <entry>qa</entry>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
         <entry>action forward</entry>
         <entry>action Forward</entry>
@@ -45,8 +43,10 @@
         <entry>action Back</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>action FindInPath</entry>
         <entry>tabprevious</entry>
         <entry>tabnext</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -156,6 +156,12 @@
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed SEMICOLON</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl alt pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl alt pressed L</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -238,10 +244,18 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/edge.yaml" timestamp="1591687870402">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/index.js" timestamp="1591773171349">
+        <mark key="'" line="10" column="30" />
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="14" column="2" />
+        <mark key="." line="14" column="1" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/edge.yaml" timestamp="1591763239663">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="17" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" timestamp="1591686667991">
         <mark key="'" line="321" column="7" />
@@ -260,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" />
       <jump line="63" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" />
       <jump line="214" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="95" column="5" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Forwarder.spec.js" />
@@ -360,12 +373,13 @@
       <jump line="12" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Forwarder.spec.js" />
       <jump line="70" column="36" filename="$USER_HOME$/.ideavimrc" />
       <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="10" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Right</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhLmEuCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1311,7 +1325,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Right</text>
+        <text>{}</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1323,34 +1337,38 @@
         <text encoding="base64">bWFwIDxDLUEtUmlnaHQ+IDp0YWJuZXh0PENSPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXBwczoKICAgICAgICBwb3J0OiA0NTAwCiAgICAgICAgaG9zdDogMTI3LjAuMC4xCg==</text>
+        <text encoding="base64">ICBhLmEuCg==</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3J3YXJkZXIuc2Vzc2lvbi5pZGNJZCA9ICcnCg==</text>
+        <text encoding="base64">ICBhLmEgPSAxCiAgYS5iPTIK</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50Lm9uY2UoJ2xvZ2luU3VjY2VzcycsIGFzeW5jICgpID0+IHsKICAgICAgICBhd2FpdCBlbWl0KCkudGhlbihlbWl0KQogICAgICAgIGV4cGVjdChyZXNzKS50b0VxdWFsKFsnc3VjY2VzcycsICdzdWNjZXNzJywgJ3N1Y2Nlc3MnLCAnVG9vIE1hbnkgUmVxdWVzdHMnXSkKCiAgICAgICAgY2xpZW50LmRpc2Nvbm5lY3QoKQogICAgICAgIGRvbmUoKQogICAgICB9KQo=</text>
+      <register name="3" type="4">
+        <text>*
+ * 
+ * @param a
+ * @return {{a: number, b: number}}
+ */</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50LmRpc2Nvbm5lY3QoKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">KgogKiAKICogQHBhcmFtIHtPYmplY3Q8YT59IGEKICov</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgYXBwczoKICAgICAgICBwb3J0OiA0NTAwCiAgICAgICAgaG9zdDogMTI3LjAuMC4xCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzcyA9IFtdCiAgICAgIGNvbnN0IGVtaXQgPSAoKSA9PiB7CiAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiB7CiAgICAgICAgICBjbGllbnQuZW1pdCgnY29tbWFuZCcsICdUZXN0JywgJ2hlbGxvJywgKGUsIHJlcykgPT4gewogICAgICAgICAgICBpZiAoZSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgcmVzcy5wdXNoKGUpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgcmVzcy5wdXNoKHJlcykKICAgICAgICAgICAgfQogICAgICAgICAgICByZXNvbHZlKCkKICAgICAgICAgIH0pCiAgICAgICAgfSkKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3J3YXJkZXIuc2Vzc2lvbi5pZGNJZCA9ICcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50LmNvbm5lY3QoKQo=</text>
+        <text encoding="base64">ICAgICAgY2xpZW50Lm9uY2UoJ2xvZ2luU3VjY2VzcycsIGFzeW5jICgpID0+IHsKICAgICAgICBhd2FpdCBlbWl0KCkudGhlbihlbWl0KQogICAgICAgIGV4cGVjdChyZXNzKS50b0VxdWFsKFsnc3VjY2VzcycsICdzdWNjZXNzJywgJ3N1Y2Nlc3MnLCAnVG9vIE1hbnkgUmVxdWVzdHMnXSkKCiAgICAgICAgY2xpZW50LmRpc2Nvbm5lY3QoKQogICAgICAgIGRvbmUoKQogICAgICB9KQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1410,13 +1428,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50ID0gaW8oc2VydmVyQWRkciwgeyBxdWVyeTogeyByb29tSWQ6ICdyb29vbScsIGFwcCwgdG9rZW46ICd0dHRva2VuJyB9IH0pCg==</text>
+        <text encoding="base64">ICAgICAgY2xpZW50LmRpc2Nvbm5lY3QoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgeyBwYXRoOiAncmF0ZUxpbWl0LmludGVydmFsJywgdmFsdWU6IDEwMDAgfSwKICAgICAgeyBwYXRoOiAncmF0ZUxpbWl0Lm1heENvdW50cycsIHZhbHVlOiAxIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>tabnext</text>
+        <text>qa</text>
       </register>
     </registers>
   </component>
@@ -1428,7 +1446,7 @@
       <last-replace>config</last-replace>
       <last-substitute>rateLimitAppConfig</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
