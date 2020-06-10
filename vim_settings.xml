@@ -44,9 +44,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry>action Back</entry>
         <entry>q</entry>
-        <entry>tabnext</entry>
-        <entry>tabprevious</entry>
         <entry>wq</entry>
+        <entry>tabprevious</entry>
+        <entry>tabnext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1416,7 +1416,7 @@
         <text encoding="base64">ICAgICAgeyBwYXRoOiAncmF0ZUxpbWl0LmludGVydmFsJywgdmFsdWU6IDEwMDAgfSwKICAgICAgeyBwYXRoOiAncmF0ZUxpbWl0Lm1heENvdW50cycsIHZhbHVlOiAxIH0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>tabnext</text>
       </register>
     </registers>
   </component>
