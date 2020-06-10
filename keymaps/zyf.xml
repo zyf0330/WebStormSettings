@@ -50,9 +50,6 @@
     <keyboard-shortcut first-keystroke="ctrl multiply" />
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="ctrl f" />
-  </action>
   <action id="FindInPath" />
   <action id="GotoLine" />
   <action id="GuiDesigner.Duplicate">
@@ -93,9 +90,6 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
-  </action>
-  <action id="Replace">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="ReplaceInPath">
