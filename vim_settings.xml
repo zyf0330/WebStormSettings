@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>counter</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxUb2FzdFw+</entry>
         <entry>Toast.notice</entry>
@@ -19,12 +18,13 @@
         <entry>query</entry>
         <entry>appid</entry>
         <entry>messagefrom</entry>
-        <entry>send</entry>
         <entry>haspeerreceived</entry>
         <entry>peerid</entry>
         <entry>sendpee</entry>
         <entry encoding="base64">XDx1c2VySWRcPg==</entry>
         <entry>login</entry>
+        <entry>sendme</entry>
+        <entry>send</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
@@ -170,11 +170,11 @@
       <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/node_modules/agora-rtm-sdk/index.js" timestamp="1592207327701">
         <mark key="'" line="6" column="399" />
       </file>
-      <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/package.json" timestamp="1592206626327">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="103" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/package.json" timestamp="1592209304550">
+        <mark key="[" line="17" column="80" />
+        <mark key="]" line="17" column="93" />
+        <mark key="." line="17" column="92" />
+        <mark key="^" line="17" column="93" />
       </file>
       <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/rtm-client.js" timestamp="1592208006511">
         <mark key="'" line="72" column="0" />
@@ -222,12 +222,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" timestamp="1592208029747">
-        <mark key="'" line="23" column="29" />
-        <mark key="[" line="72" column="51" />
-        <mark key="]" line="72" column="52" />
-        <mark key="." line="72" column="51" />
-        <mark key="^" line="72" column="52" />
+      <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" timestamp="1592209247576">
+        <mark key="'" line="210" column="15" />
+        <mark key="[" line="217" column="15" />
+        <mark key="]" line="217" column="22" />
+        <mark key="." line="217" column="15" />
+        <mark key="^" line="210" column="22" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1592191110433">
         <mark key="'" line="31" column="6" />
@@ -273,14 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="10" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/index.js" />
-      <jump line="188" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="34" column="18" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="35" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="54" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="42" column="59" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="31" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="26" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="28" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
@@ -373,12 +365,20 @@
       <jump line="72" column="0" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/rtm-client.js" />
       <jump line="242" column="20" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
       <jump line="23" column="29" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
+      <jump line="69" column="24" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
+      <jump line="163" column="6" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
+      <jump line="182" column="8" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
+      <jump line="188" column="19" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
+      <jump line="206" column="8" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
+      <jump line="193" column="6" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
+      <jump line="184" column="14" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
+      <jump line="210" column="15" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>+ '_peer'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJidWlsZC1iZW5jaG1hcmsiOiAiY3Jvc3MtZW52IE5PREVfRU5WPXByb2R1Y3Rpb24gd2VicGFjay1kZXYtc2VydmVyIC0tY29uZmlnIC4vc2NyaXB0cy9iZW5jaG1hcmsuanMgLS1tb2RlIGRldmVsb3BtZW50IiwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1324,46 +1324,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>development</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>send</text>
       </register>
-      <register name="0" type="4">
-        <text>+ '_peer'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJidWlsZCI6ICJjcm9zcy1lbnYgTk9ERV9FTlY9cHJvZHVjdGlvbiB3ZWJwYWNrIC0tY29uZmlnIC4vc2NyaXB0cyAtLW1vZGUgcHJvZHVjdGlvbiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0OiAnYWNjb3VudDogJyArIHJ0bS5hY2NvdW50TmFtZSArICcgc2VuZCA6ICcgKyBwYXJhbXMucGVlck1lc3NhZ2UgKyAnIHBlZXJJZDogJyArIHBhcmFtcy5wZWVySWQgKyAnOjo6ZHVyYXRpb246ICcgKyBEYXRlLm5vdygpIC0gc3RhcnQsIAo=</text>
+        <text encoding="base64">ICAgICJidWlsZC1iZW5jaG1hcmsiOiAiY3Jvc3MtZW52IE5PREVfRU5WPXByb2R1Y3Rpb24gd2VicGFjay1kZXYtc2VydmVyIC0tY29uZmlnIC4vc2NyaXB0cy9iZW5jaG1hcmsuanMgLS1tb2RlIGRldmVsb3BtZW50IiwK</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0OiAnYWNjb3VudDogJyArIHJ0bS5hY2NvdW50TmFtZSArICcgc2VuZCA6ICcgKyBwYXJhbXMucGVlck1lc3NhZ2UgKyAnIHBlZXJJZDogJyArIHBhcmFtcy5wZWVySWQgKyAnOjo6ZHVyYXRpb246ICcgKyAoIERhdGUubm93KCkgLSBzdGFydCApLAo=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5wZWVySWQgPSB1c2VySWQK</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0OiAnYWNjb3VudDogJyArIHJ0bS5hY2NvdW50TmFtZSArICcgc2VuZCA6ICcgKyBwYXJhbXMucGVlck1lc3NhZ2UgKyAnIHBlZXJJZDogJyArIHBhcmFtcy5wZWVySWQgKyAnOjo6ZHVyYXRpb246ICcgKyBEYXRlLm5vdygpIC0gc3RhcnQsIAo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdXNlcklkID0gcGFyYW1zLmFjY291bnROYW1lCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgdXNlcklkOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBhcmFtcy5wZWVySWQgPSB1c2VySWQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdXNlcklkID0gcGFyYW1zLmFjY291bnROYW1lCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcnRtMgo=</text>
+        <text encoding="base64">ICBsZXQgdXNlcklkOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1423,10 +1423,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBydG0ub24oJ01lbWJlckpvaW5lZCcsICh7IGNoYW5uZWxOYW1lLCBhcmdzIH0pID0+IHsKICAgIGNvbnN0IG1lbWJlcklkID0gYXJnc1swXQogICAgY29uc29sZS5sb2coJ2NoYW5uZWwgJywgY2hhbm5lbE5hbWUsICcgbWVtYmVyOiAnLCBtZW1iZXJJZCwgJyBqb2luZWQnKQogICAgY29uc3QgdmlldyA9ICQoJzxkaXYvPicsIHsKICAgICAgdGV4dDogWydldmVudDogTWVtYmVySm9pbmVkICcsICcsIGNoYW5uZWw6ICcsIGNoYW5uZWxOYW1lLCAnLCBtZW1iZXJJZDogJywgbWVtYmVySWRdLmpvaW4oJycpCiAgICB9KQogICAgJCgnI2xvZycpLmFwcGVuZCh2aWV3KQogIH0pCgogIHJ0bS5vbignTWVtYmVyTGVmdCcsICh7IGNoYW5uZWxOYW1lLCBhcmdzIH0pID0+IHsKICAgIGNvbnN0IG1lbWJlcklkID0gYXJnc1swXQogICAgY29uc29sZS5sb2coJ2NoYW5uZWwgJywgY2hhbm5lbE5hbWUsICcgbWVtYmVyOiAnLCBtZW1iZXJJZCwgJyBqb2luZWQnKQogICAgY29uc3QgdmlldyA9ICQoJzxkaXYvPicsIHsKICAgICAgdGV4dDogWydldmVudDogTWVtYmVyTGVmdCAnLCAnLCBjaGFubmVsOiAnLCBjaGFubmVsTmFtZSwgJywgbWVtYmVySWQ6ICcsIG1lbWJlcklkXS5qb2luKCcnKQogICAgfSkKICAgICQoJyNsb2cnKS5hcHBlbmQodmlldykKICB9KQoKICBydG0ub24oJ0NoYW5uZWxNZXNzYWdlJywgKHsgY2hhbm5lbE5hbWUsIGFyZ3MgfSkgPT4gewogICAgY29uc3QgW21lc3NhZ2UsIG1lbWJlcklkXSA9IGFyZ3MKICAgIGNvbnNvbGUubG9nKCdjaGFubmVsICcsIGNoYW5uZWxOYW1lLCAnLCBtZXNzc2FnZTogJywgbWVzc2FnZS50ZXh0LCAnLCBtZW1iZXJJZDogJywgbWVtYmVySWQpCiAgICBjb25zdCB2aWV3ID0gJCgnPGRpdi8+JywgewogICAgICB0ZXh0OiBbJ2V2ZW50OiBDaGFubmVsTWVzc2FnZSAnLCAnY2hhbm5lbDogJywgY2hhbm5lbE5hbWUsICcsIG1lc3NhZ2U6ICcsIG1lc3NhZ2UudGV4dCwgJywgbWVtYmVySWQ6ICcsIG1lbWJlcklkXS5qb2luKCcnKQogICAgfSkKICAgICQoJyNsb2cnKS5hcHBlbmQodmlldykKICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJiZW5jaG1hcmsiOiAibnBtIHJ1biBidWlsZC1iZW5jaG1hcmsgJiYgbm9kZSAuL2Rpc3RfYmVuY2htYXJrIiwK</text>
+        <text encoding="base64">ICAgICAgcnRtMgo=</text>
       </register>
       <register name=":" type="4">
         <text>tabprevious</text>
@@ -1435,9 +1435,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>login</last-search>
+      <last-search>send</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>send</last-pattern>
       <last-replace>console.error</last-replace>
       <last-substitute>Toast.error</last-substitute>
       <last-dir>1</last-dir>
