@@ -215,12 +215,12 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/scripts/benchmark.js" timestamp="1592206682341">
-        <mark key="'" line="25" column="17" />
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="27" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="27" />
+      <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/scripts/benchmark.js" timestamp="1592210428697">
+        <mark key="'" line="23" column="19" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" timestamp="1592209247576">
         <mark key="'" line="210" column="15" />
@@ -273,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="26" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="28" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="38" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
@@ -373,12 +372,13 @@
       <jump line="193" column="6" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
       <jump line="184" column="14" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
       <jump line="210" column="15" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
+      <jump line="23" column="19" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/scripts/benchmark.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJidWlsZC1iZW5jaG1hcmsiOiAiY3Jvc3MtZW52IE5PREVfRU5WPXByb2R1Y3Rpb24gd2VicGFjay1kZXYtc2VydmVyIC0tY29uZmlnIC4vc2NyaXB0cy9iZW5jaG1hcmsuanMgLS1tb2RlIGRldmVsb3BtZW50IiwK</text>
+        <text encoding="base64">CmFzeW5jIGZ1bmN0aW9uIHNldEludGVydmFsKHJvb21JZCwgaW5mbyxhc3luYyAocm9vbUlkLCBpbmZvKSA9PiB7CiAgCn0pCmFzeW5jIGZ1bmN0aW9uIGNsZWFySW50ZXJ2YWwocm9vbUlkKQ==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1289,8 +1289,8 @@
       <register name="f" type="4">
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
-      <register name="+" type="4">
-        <text>NDA3w6AxNDDDoDk5OTk</text>
+      <register name="+" type="2">
+        <text>async function clearInterval(roomId)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1324,7 +1324,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>development</text>
+        <text>k</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1333,37 +1333,37 @@
         <text>send</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJjcm9zcy1lbnYgTk9ERV9FTlY9cHJvZHVjdGlvbiB3ZWJwYWNrIC0tY29uZmlnIC4vc2NyaXB0cyAtLW1vZGUgcHJvZHVjdGlvbiIsCg==</text>
+        <text>async function clearInterval(roomId)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJidWlsZC1iZW5jaG1hcmsiOiAiY3Jvc3MtZW52IE5PREVfRU5WPXByb2R1Y3Rpb24gd2VicGFjay1kZXYtc2VydmVyIC0tY29uZmlnIC4vc2NyaXB0cy9iZW5jaG1hcmsuanMgLS1tb2RlIGRldmVsb3BtZW50IiwK</text>
+        <text encoding="base64">CmFzeW5jIGZ1bmN0aW9uIHNldEludGVydmFsKHJvb21JZCwgaW5mbyxhc3luYyAocm9vbUlkLCBpbmZvKSA9PiB7CiAgCn0pCmFzeW5jIGZ1bmN0aW9uIGNsZWFySW50ZXJ2YWwocm9vbUlkKQ==</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0OiAnYWNjb3VudDogJyArIHJ0bS5hY2NvdW50TmFtZSArICcgc2VuZCA6ICcgKyBwYXJhbXMucGVlck1lc3NhZ2UgKyAnIHBlZXJJZDogJyArIHBhcmFtcy5wZWVySWQgKyAnOjo6ZHVyYXRpb246ICcgKyAoIERhdGUubm93KCkgLSBzdGFydCApLAo=</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gc2V0SW50ZXJ2YWwocm9vbUlkLCBpbmZvLGFzeW5jIChyb29tSWQsIGluZm8pID0+IHsKICAKfSk=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0OiAnYWNjb3VudDogJyArIHJ0bS5hY2NvdW50TmFtZSArICcgc2VuZCA6ICcgKyBwYXJhbXMucGVlck1lc3NhZ2UgKyAnIHBlZXJJZDogJyArIHBhcmFtcy5wZWVySWQgKyAnOjo6ZHVyYXRpb246ICcgKyBEYXRlLm5vdygpIC0gc3RhcnQsIAo=</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gc2V0SW50ZXJ2YWwocm9vbUlkLCBpbmZvLGFzeW5jIChyb29tSWQsIGluZm8pID0+IHsKICAKfSk=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJidWlsZC1iZW5jaG1hcmsiOiAiY3Jvc3MtZW52IE5PREVfRU5WPXByb2R1Y3Rpb24gd2VicGFjay1kZXYtc2VydmVyIC0tY29uZmlnIC4vc2NyaXB0cy9iZW5jaG1hcmsuanMgLS1tb2RlIGRldmVsb3BtZW50IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5wZWVySWQgPSB1c2VySWQK</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0OiAnYWNjb3VudDogJyArIHJ0bS5hY2NvdW50TmFtZSArICcgc2VuZCA6ICcgKyBwYXJhbXMucGVlck1lc3NhZ2UgKyAnIHBlZXJJZDogJyArIHBhcmFtcy5wZWVySWQgKyAnOjo6ZHVyYXRpb246ICcgKyAoIERhdGUubm93KCkgLSBzdGFydCApLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdXNlcklkID0gcGFyYW1zLmFjY291bnROYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0OiAnYWNjb3VudDogJyArIHJ0bS5hY2NvdW50TmFtZSArICcgc2VuZCA6ICcgKyBwYXJhbXMucGVlck1lc3NhZ2UgKyAnIHBlZXJJZDogJyArIHBhcmFtcy5wZWVySWQgKyAnOjo6ZHVyYXRpb246ICcgKyBEYXRlLm5vdygpIC0gc3RhcnQsIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgdXNlcklkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1423,10 +1423,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5wZWVySWQgPSB1c2VySWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcnRtMgo=</text>
+        <text encoding="base64">ICAgICAgdXNlcklkID0gcGFyYW1zLmFjY291bnROYW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>tabprevious</text>
