@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Toast.error</entry>
-        <entry>rtm</entry>
         <entry encoding="base64">XDxfbG9naW5lZFw+</entry>
         <entry encoding="base64">XDxwbHVnaW5zXD4=</entry>
         <entry>loda</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxpbml0V29ya2VyXD4=</entry>
         <entry encoding="base64">XDxpbml0UHJvY2Vzc29yXD4=</entry>
         <entry>count</entry>
+        <entry>hand</entry>
+        <entry encoding="base64">XDxxdWV1ZU5hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
@@ -173,9 +173,6 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/node_modules/agora-rtm-sdk/index.js" timestamp="1592207327701">
-        <mark key="'" line="6" column="399" />
-      </file>
       <file name="/a.dummy" timestamp="1592214076677">
         <mark key="[" line="0" column="0" />
       </file>
@@ -200,12 +197,12 @@
         <mark key="^" line="37" column="42" />
         <mark key="." line="37" column="41" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" timestamp="1592287703377">
-        <mark key="'" line="20" column="9" />
-        <mark key="[" line="56" column="24" />
-        <mark key="]" line="56" column="26" />
-        <mark key="^" line="56" column="26" />
-        <mark key="." line="56" column="25" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" timestamp="1592289879205">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="86" column="12" />
+        <mark key="]" line="86" column="19" />
+        <mark key="^" line="86" column="19" />
+        <mark key="." line="86" column="18" />
       </file>
       <file name="/JavaScript Console" timestamp="1592214068801">
         <mark key="[" line="0" column="0" />
@@ -247,6 +244,12 @@
         <mark key="." line="217" column="15" />
         <mark key="^" line="210" column="22" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" timestamp="1592289959843">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/index.html" timestamp="1592207762842">
         <mark key="'" line="54" column="47" />
         <mark key="[" line="65" column="77" />
@@ -272,16 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="279" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="118" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="36" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="94" column="107" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="116" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="173" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="227" column="38" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="225" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
       <jump line="206" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
       <jump line="217" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
       <jump line="195" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
@@ -367,17 +360,27 @@
       <jump line="23" column="19" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/scripts/benchmark.js" />
       <jump line="6" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" />
       <jump line="22" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
-      <jump line="36" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
       <jump line="20" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
       <jump line="21" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/jobs/creator.js" />
       <jump line="100" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/channel.proto" />
       <jump line="110" column="24" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/channel.proto" />
+      <jump line="60" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
+      <jump line="56" column="26" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
+      <jump line="64" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
+      <jump line="79" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
+      <jump line="36" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
+      <jump line="5" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
+      <jump line="87" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
+      <jump line="85" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
+      <jump line="80" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
+      <jump line="72" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
+      <jump line="54" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGpvYiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHF1ZXVlTmFtZSA9ICdkZWZhdWx0Jwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1323,46 +1326,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGpvYiA=</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>count</text>
+        <text encoding="base64">XDxxdWV1ZU5hbWVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>queueName</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAvKioKICAgKgogICAqIEBwYXJhbSB7c3RyaW5nfSByb29tSWQg5Li6IGpvYklkCiAgICogQHBhcmFtIHtPYmplY3R9IGluZm8KICAgKiBAcGFyYW0ge3NldEludGVydmFsSGFuZGxlcn0gaGFuZGxlcgogICAqIEBwYXJhbSB7bnVtYmVyfSBpbnRlcnZhbCDljZXkvY0gbXMKICAgKiBAcmV0dXJuIHtQcm9taXNlPHZvaWQ+fQogICAqLwogIGFzeW5jIHNldEludGVydmFsKHJvb21JZCwgaW5mbywgaGFuZGxlciwgaW50ZXJ2YWwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text>feat(user): 支持点对点离线消息</text>
+        <text encoding="base64">ICAgIGNvbnN0IHF1ZXVlTmFtZSA9ICdkZWZhdWx0Jwo=</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{ jobId: roomId,every: interval }</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbml0V29ya2VyOiAocXVldWVOYW1lLCB3b3JrZXIpID0+IHsKICAgIGNvbnN0IHF1ZXVlID0gaW5pdFF1ZXVlKHF1ZXVlTmFtZSkKICAgIHF1ZXVlLnByb2Nlc3Mod29ya2VyKQogIH0sCiAgLyoqCiAgICog5Yib5bu65LiA5Liq5Lu75YqhCiAgICogQHBhcmFtIHtTdHJpbmd9IHF1ZXVlTmFtZQogICAqIEBwYXJhbSB7T2JqZWN0fSBqb2JEYXRhCiAgICogQHBhcmFtIHtPYmplY3R9IGpvYk9wdGlvbnMKICAgKiBAcGFyYW0ge051bWJlcn0gam9iT3B0aW9ucy5kZWxheQogICAqIEBwYXJhbSB7U3RyaW5nfSBqb2JPcHRpb25zLmpvYklkCiAgICogQHBhcmFtIHtCb29sZWFufSBqb2JPcHRpb25zLnJlbW92ZU9uQ29tcGxldGUKICAgKiBAcGFyYW0ge0Jvb2xlYW59IGpvYk9wdGlvbnMucmVtb3ZlT25GYWlsCiAgICogQHJldHVybiB7UHJvbWlzZX0KICAgKi8KICBhc3luYyBjcmVhdGUocXVldWVOYW1lLCBqb2JEYXRhLCBqb2JPcHRpb25zKSB7CiAgICBjb25zdCBxdWV1ZSA9IGluaXRRdWV1ZShxdWV1ZU5hbWUpCiAgICBhd2FpdCBxdWV1ZS5hZGQoam9iRGF0YSwgam9iT3B0aW9ucyk7CiAgfSwKICBhc3luYyBnZXQocXVldWVOYW1lLCBqb2JJZCkgewogICAgY29uc3QgcXVldWUgPSBpbml0UXVldWUocXVldWVOYW1lKQogICAgcmV0dXJuIGF3YWl0IHF1ZXVlLmdldEpvYihqb2JJZCkKICB9LAogIGFzeW5jIHJlbW92ZShxdWV1ZU5hbWUsIGpvYklkKSB7CiAgICBjb25zdCBqb2IgPSBhd2FpdCB0aGlzLmdldChxdWV1ZU5hbWUsIGpvYklkKQogICAgaWYgKGpvYikgewogICAgICBhd2FpdCBqb2IucmVtb3ZlKCkKICAgIH0KICB9LAo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCByZWRpcyA9IFNESy5yZWRpc0NsaWVudAo=</text>
+        <text encoding="base64">ICogVGhpcyBjYWxsYmFjayB0eXBlIGlzIGNhbGxlZCBgcmVxdWVzdENhbGxiYWNrYCBhbmQgaXMgZGlzcGxheWVkIGFzIGEgZ2xvYmFsIHN5bWJvbC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmFzeW5jIGZ1bmN0aW9uIHNldEludGVydmFsKHJvb21JZCwgaW5mbyxhc3luYyAocm9vbUlkLCBpbmZvKSA9PiB7CiAgCn0pCmFzeW5jIGZ1bmN0aW9uIGNsZWFySW50ZXJ2YWwocm9vbUlkKQ==</text>
+        <text encoding="base64">ICBzZXRJbnRlcnZhbDogKCkgPT4gewoKCiAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gc2V0SW50ZXJ2YWwocm9vbUlkLCBpbmZvLGFzeW5jIChyb29tSWQsIGluZm8pID0+IHsKICAKfSk=</text>
+        <text encoding="base64">ICAgIGFzeW5jIGZ1bmN0aW9uIHNldEludGVydmFsKHJvb21JZCwgaW5mbywgaGFuZGxlciwgaW50ZXJ2YWwpIHsKCiAgICAgIGluaXRQcm9jZXNzb3IocXVldWVOYW1lLCBhc3luYyAoam9iKSA9PiB7CiAgICAgICAgY29uc3QgeyByb29tSWQsIGluZm8gfSA9IGF3YWl0IGpvYi5kYXRhCiAgICAgICAgYXdhaXQgaGFuZGxlcihyb29tSWQsIGluZm8pCiAgICAgIH0pCiAgICAgIHRoaXMuY3JlYXRlKHF1ZXVlTmFtZSwgeyByb29tSWQsIGluZm8gfSkKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1422,10 +1425,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gc2V0SW50ZXJ2YWwocm9vbUlkLCBpbmZvLGFzeW5jIChyb29tSWQsIGluZm8pID0+IHsKICAKfSk=</text>
+        <text encoding="base64">ICAgIGluaXRQcm9jZXNzb3IocXVldWVOYW1lLCBhc3luYyAoam9iKSA9PiB7CiAgICAgIGNvbnN0IHsgcm9vbUlkLCBpbmZvIH0gPSBhd2FpdCBqb2IuZGF0YQogICAgICBhd2FpdCBoYW5kbGVyKHJvb21JZCwgaW5mbykKICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJidWlsZC1iZW5jaG1hcmsiOiAiY3Jvc3MtZW52IE5PREVfRU5WPXByb2R1Y3Rpb24gd2VicGFjay1kZXYtc2VydmVyIC0tY29uZmlnIC4vc2NyaXB0cy9iZW5jaG1hcmsuanMgLS1tb2RlIGRldmVsb3BtZW50IiwK</text>
+        <text encoding="base64">aW5pdFByb2Nlc3NvcihxdWV1ZU5hbWUsIGFzeW5jIChqb2IpID0+IHsKICBjb25zdCB7IHJvb21JZCwgaW5mbyB9ID0gYXdhaXQgam9iLmRhdGEKICBhd2FpdCBoYW5kbGVyKHJvb21JZCwgaW5mbykKfSkKCmFzeW5jIGZ1bmN0aW9uIHNldEludGVydmFsKHJvb21JZCwgaW5mbywgaGFuZGxlciwgaW50ZXJ2YWwpIHsKICB0aGlzLmNyZWF0ZShxdWV1ZU5hbWUsIHsgcm9vbUlkLCBpbmZvIH0pCn0K</text>
       </register>
       <register name=":" type="4">
         <text>tabnext</text>
@@ -1434,9 +1437,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>count</last-search>
+      <last-search encoding="base64">XDxxdWV1ZU5hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>count</last-pattern>
+      <last-pattern encoding="base64">XDxxdWV1ZU5hbWVcPg==</last-pattern>
       <last-replace>console.error</last-replace>
       <last-substitute>Toast.error</last-substitute>
       <last-dir>1</last-dir>
