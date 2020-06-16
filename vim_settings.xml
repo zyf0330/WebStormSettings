@@ -204,7 +204,7 @@
         <mark key="^" line="86" column="19" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592214068801">
+      <file name="/JavaScript Console" timestamp="1592292492082">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -253,12 +253,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/channel.proto" timestamp="1592288639743">
         <mark key="'" line="110" column="24" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" timestamp="1592287157891">
-        <mark key="'" line="5" column="30" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" timestamp="1592291934866">
+        <mark key="'" line="2" column="33" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/starter.js" timestamp="1592287351799">
         <mark key="[" line="5" column="18" />
@@ -266,17 +266,13 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Storage.js" timestamp="1592291583313">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="21" />
-        <mark key="." line="19" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Storage.js" timestamp="1592292504315">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="217" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
-      <jump line="195" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
       <jump line="184" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
       <jump line="247" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
       <jump line="253" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" />
@@ -374,12 +370,15 @@
       <jump line="80" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
       <jump line="72" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
       <jump line="54" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
+      <jump line="2" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" />
+      <jump line="29" column="37" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Storage.js" />
+      <jump line="39" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Storage.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1325,7 +1324,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`${keyPrefix}${key}`</text>
+        <text>s</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1333,38 +1332,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxxdWV1ZU5hbWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAvKioKICAgKgogICAqIEBwYXJhbSB7c3RyaW5nfSByb29tSWQg5Li6IGpvYklkCiAgICogQHBhcmFtIHtPYmplY3R9IGluZm8KICAgKiBAcGFyYW0ge3NldEludGVydmFsSGFuZGxlcn0gaGFuZGxlcgogICAqIEBwYXJhbSB7bnVtYmVyfSBpbnRlcnZhbCDljZXkvY0gbXMKICAgKiBAcmV0dXJuIHtQcm9taXNlPHZvaWQ+fQogICAqLwogIGFzeW5jIHNldEludGVydmFsKHJvb21JZCwgaW5mbywgaGFuZGxlciwgaW50ZXJ2YWwpIHsK</text>
+      <register name="0" type="4">
+        <text>`${keyPrefix}${key}`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGtleSA9IGAke2tleVByZWZpeH0ke2tleX1gCg==</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAuZGVsKCkK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text>exports.</text>
+        <text encoding="base64">cy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHF1ZXVlTmFtZSA9ICdkZWZhdWx0Jwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>{ jobId: roomId,every: interval }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMubXVsdGlMZW5ndGhSZWR1Y3Rpb24gPSAyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIHRoaXMucmVzdWx0SW5kZXgucHVzaCh0aGlzLm11bHRpLmxlbmd0aCAtIHRoaXMubXVsdGlMZW5ndGhSZWR1Y3Rpb24pCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1424,10 +1423,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogVGhpcyBjYWxsYmFjayB0eXBlIGlzIGNhbGxlZCBgcmVxdWVzdENhbGxiYWNrYCBhbmQgaXMgZGlzcGxheWVkIGFzIGEgZ2xvYmFsIHN5bWJvbC4K</text>
+        <text encoding="base64">Y29uc3QgbGVuID0gcmVkaXMubXVsdGkoKS5sZW5ndGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">cmVkbGlzCg==</text>
       </register>
       <register name=":" type="4">
         <text>tabnext</text>
