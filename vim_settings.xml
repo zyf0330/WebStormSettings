@@ -44,9 +44,9 @@
         <entry>%s/Toast.notice/console.log/g</entry>
         <entry>%s/Toast.error/console.error/g</entry>
         <entry>q</entry>
-        <entry>tabnext</entry>
         <entry>43</entry>
         <entry>tabprevious</entry>
+        <entry>tabnext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -167,6 +167,55 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/const.js" timestamp="1592287292646">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/node_modules/agora-rtm-sdk/index.js" timestamp="1592207327701">
+        <mark key="'" line="6" column="399" />
+      </file>
+      <file name="/a.dummy" timestamp="1592214076677">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/package.json" timestamp="1592209304550">
+        <mark key="[" line="17" column="80" />
+        <mark key="]" line="17" column="93" />
+        <mark key="." line="17" column="92" />
+        <mark key="^" line="17" column="93" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/rtm-client.js" timestamp="1592208006511">
+        <mark key="'" line="72" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/redisWrapper.js" timestamp="1592287155967">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" timestamp="1592287558335">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="41" />
+        <mark key="^" line="38" column="6" />
+        <mark key="." line="19" column="41" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1592214068801">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-edge/protos/index.proto" timestamp="1592214066712">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="45" />
+        <mark key="^" line="12" column="45" />
+        <mark key="." line="12" column="44" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" timestamp="1592201567307">
+        <mark key="'" line="327" column="2" />
+      </file>
       <file name="/Dummy.txt" timestamp="1592201693044">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="20" />
@@ -187,12 +236,6 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="37" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/node_modules/agora-rtm-sdk/index.js" timestamp="1592207327701">
-        <mark key="'" line="6" column="399" />
-      </file>
-      <file name="/a.dummy" timestamp="1592214076677">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" timestamp="1592209247576">
         <mark key="'" line="210" column="15" />
         <mark key="[" line="217" column="15" />
@@ -200,46 +243,14 @@
         <mark key="." line="217" column="15" />
         <mark key="^" line="210" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/package.json" timestamp="1592209304550">
-        <mark key="[" line="17" column="80" />
-        <mark key="]" line="17" column="93" />
-        <mark key="." line="17" column="92" />
-        <mark key="^" line="17" column="93" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/rtm-client.js" timestamp="1592208006511">
-        <mark key="'" line="72" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" timestamp="1592191110433">
-        <mark key="'" line="31" column="6" />
-      </file>
       <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/test/index.js" timestamp="1592203508620">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1591759883747">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="9" />
-        <mark key="]" line="34" column="10" />
-        <mark key="." line="34" column="9" />
-        <mark key="^" line="34" column="10" />
-      </file>
       <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/index.js" timestamp="1592206706154">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="36" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Forwarder.spec.js" timestamp="1591687611962">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="12" column="46" />
-        <mark key="^" line="12" column="47" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1592214068801">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/scripts/plugins.js" timestamp="1592205595622">
         <mark key="[" line="1" column="0" />
@@ -252,32 +263,21 @@
         <mark key="^" line="65" column="90" />
         <mark key="." line="65" column="89" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/edge.yaml" timestamp="1592187898605">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="17" column="17" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" timestamp="1592287157891">
+        <mark key="'" line="5" column="30" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-edge/protos/index.proto" timestamp="1592214066712">
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="45" />
-        <mark key="^" line="12" column="45" />
-        <mark key="." line="12" column="44" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/__test__/Connector.spec.js" timestamp="1591686667991">
-        <mark key="'" line="321" column="7" />
-        <mark key="[" line="327" column="6" />
-        <mark key="]" line="327" column="6" />
-        <mark key="." line="327" column="6" />
-        <mark key="^" line="327" column="8" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-node-apps/service/Pub.js" timestamp="1592201567307">
-        <mark key="'" line="327" column="2" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/starter.js" timestamp="1592287351799">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
-      <jump line="28" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="38" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="32" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
       <jump line="43" column="7" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/connector/Socket.js" />
@@ -376,12 +376,14 @@
       <jump line="184" column="14" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
       <jump line="210" column="15" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
       <jump line="23" column="19" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/scripts/benchmark.js" />
+      <jump line="6" column="30" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" />
+      <jump line="22" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmFzeW5jIGZ1bmN0aW9uIHNldEludGVydmFsKHJvb21JZCwgaW5mbyxhc3luYyAocm9vbUlkLCBpbmZvKSA9PiB7CiAgCn0pCmFzeW5jIGZ1bmN0aW9uIGNsZWFySW50ZXJ2YWwocm9vbUlkKQ==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PT4=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1327,7 +1329,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">PT4=</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1335,38 +1337,38 @@
       <register name="/" type="4">
         <text>send</text>
       </register>
-      <register name="0" type="2">
-        <text>async function clearInterval(roomId)</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmFzeW5jIGZ1bmN0aW9uIHNldEludGVydmFsKHJvb21JZCwgaW5mbyxhc3luYyAocm9vbUlkLCBpbmZvKSA9PiB7CiAgCn0pCmFzeW5jIGZ1bmN0aW9uIGNsZWFySW50ZXJ2YWwocm9vbUlkKQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gc2V0SW50ZXJ2YWwocm9vbUlkLCBpbmZvLGFzeW5jIChyb29tSWQsIGluZm8pID0+IHsKICAKfSk=</text>
+        <text encoding="base64">ICBpbml0V29ya2VyOiAocXVldWVOYW1lLCB3b3JrZXIpID0+IHsKICAgIGNvbnN0IHF1ZXVlID0gaW5pdFF1ZXVlKHF1ZXVlTmFtZSkKICAgIHF1ZXVlLnByb2Nlc3Mod29ya2VyKQogIH0sCiAgLyoqCiAgICog5Yib5bu65LiA5Liq5Lu75YqhCiAgICogQHBhcmFtIHtTdHJpbmd9IHF1ZXVlTmFtZQogICAqIEBwYXJhbSB7T2JqZWN0fSBqb2JEYXRhCiAgICogQHBhcmFtIHtPYmplY3R9IGpvYk9wdGlvbnMKICAgKiBAcGFyYW0ge051bWJlcn0gam9iT3B0aW9ucy5kZWxheQogICAqIEBwYXJhbSB7U3RyaW5nfSBqb2JPcHRpb25zLmpvYklkCiAgICogQHBhcmFtIHtCb29sZWFufSBqb2JPcHRpb25zLnJlbW92ZU9uQ29tcGxldGUKICAgKiBAcGFyYW0ge0Jvb2xlYW59IGpvYk9wdGlvbnMucmVtb3ZlT25GYWlsCiAgICogQHJldHVybiB7UHJvbWlzZX0KICAgKi8KICBhc3luYyBjcmVhdGUocXVldWVOYW1lLCBqb2JEYXRhLCBqb2JPcHRpb25zKSB7CiAgICBjb25zdCBxdWV1ZSA9IGluaXRRdWV1ZShxdWV1ZU5hbWUpCiAgICBhd2FpdCBxdWV1ZS5hZGQoam9iRGF0YSwgam9iT3B0aW9ucyk7CiAgfSwKICBhc3luYyBnZXQocXVldWVOYW1lLCBqb2JJZCkgewogICAgY29uc3QgcXVldWUgPSBpbml0UXVldWUocXVldWVOYW1lKQogICAgcmV0dXJuIGF3YWl0IHF1ZXVlLmdldEpvYihqb2JJZCkKICB9LAogIGFzeW5jIHJlbW92ZShxdWV1ZU5hbWUsIGpvYklkKSB7CiAgICBjb25zdCBqb2IgPSBhd2FpdCB0aGlzLmdldChxdWV1ZU5hbWUsIGpvYklkKQogICAgaWYgKGpvYikgewogICAgICBhd2FpdCBqb2IucmVtb3ZlKCkKICAgIH0KICB9LAo=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gc2V0SW50ZXJ2YWwocm9vbUlkLCBpbmZvLGFzeW5jIChyb29tSWQsIGluZm8pID0+IHsKICAKfSk=</text>
+        <text encoding="base64">ICBjb25zdCByZWRpcyA9IFNESy5yZWRpc0NsaWVudAo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJidWlsZC1iZW5jaG1hcmsiOiAiY3Jvc3MtZW52IE5PREVfRU5WPXByb2R1Y3Rpb24gd2VicGFjay1kZXYtc2VydmVyIC0tY29uZmlnIC4vc2NyaXB0cy9iZW5jaG1hcmsuanMgLS1tb2RlIGRldmVsb3BtZW50IiwK</text>
+        <text encoding="base64">Y29uc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0OiAnYWNjb3VudDogJyArIHJ0bS5hY2NvdW50TmFtZSArICcgc2VuZCA6ICcgKyBwYXJhbXMucGVlck1lc3NhZ2UgKyAnIHBlZXJJZDogJyArIHBhcmFtcy5wZWVySWQgKyAnOjo6ZHVyYXRpb246ICcgKyAoIERhdGUubm93KCkgLSBzdGFydCApLAo=</text>
+        <text encoding="base64">CmFzeW5jIGZ1bmN0aW9uIHNldEludGVydmFsKHJvb21JZCwgaW5mbyxhc3luYyAocm9vbUlkLCBpbmZvKSA9PiB7CiAgCn0pCmFzeW5jIGZ1bmN0aW9uIGNsZWFySW50ZXJ2YWwocm9vbUlkKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0OiAnYWNjb3VudDogJyArIHJ0bS5hY2NvdW50TmFtZSArICcgc2VuZCA6ICcgKyBwYXJhbXMucGVlck1lc3NhZ2UgKyAnIHBlZXJJZDogJyArIHBhcmFtcy5wZWVySWQgKyAnOjo6ZHVyYXRpb246ICcgKyBEYXRlLm5vdygpIC0gc3RhcnQsIAo=</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gc2V0SW50ZXJ2YWwocm9vbUlkLCBpbmZvLGFzeW5jIChyb29tSWQsIGluZm8pID0+IHsKICAKfSk=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gc2V0SW50ZXJ2YWwocm9vbUlkLCBpbmZvLGFzeW5jIChyb29tSWQsIGluZm8pID0+IHsKICAKfSk=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1426,13 +1428,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5wZWVySWQgPSB1c2VySWQK</text>
+        <text encoding="base64">ICAgICJidWlsZC1iZW5jaG1hcmsiOiAiY3Jvc3MtZW52IE5PREVfRU5WPXByb2R1Y3Rpb24gd2VicGFjay1kZXYtc2VydmVyIC0tY29uZmlnIC4vc2NyaXB0cy9iZW5jaG1hcmsuanMgLS1tb2RlIGRldmVsb3BtZW50IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdXNlcklkID0gcGFyYW1zLmFjY291bnROYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0OiAnYWNjb3VudDogJyArIHJ0bS5hY2NvdW50TmFtZSArICcgc2VuZCA6ICcgKyBwYXJhbXMucGVlck1lc3NhZ2UgKyAnIHBlZXJJZDogJyArIHBhcmFtcy5wZWVySWQgKyAnOjo6ZHVyYXRpb246ICcgKyAoIERhdGUubm93KCkgLSBzdGFydCApLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>tabprevious</text>
+        <text>tabnext</text>
       </register>
     </registers>
   </component>
