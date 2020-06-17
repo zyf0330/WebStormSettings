@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0UHJvY2Vzc29yXD4=</entry>
-        <entry>count</entry>
-        <entry>hand</entry>
-        <entry encoding="base64">XDxxdWV1ZU5hbWVcPg==</entry>
         <entry>push</entry>
         <entry>command</entry>
         <entry encoding="base64">XDxyZXFcPg==</entry>
@@ -25,6 +21,10 @@
         <entry>commandha</entry>
         <entry>cp</entry>
         <entry>protos</entry>
+        <entry>edge</entry>
+        <entry encoding="base64">XDx3cml0aW5nXD4=</entry>
+        <entry encoding="base64">XDxjcEZpbGVcPg==</entry>
+        <entry encoding="base64">XDxfY3BGaWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
@@ -35,9 +35,7 @@
         <entry encoding="base64">JzwsJz5zL3JhdGVMaW1pdEFwcENvbmZpZy9jb25maWcvZw==</entry>
         <entry>nohls</entry>
         <entry>nohlsearch</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry>wq</entry>
-        <entry>action FindInPath</entry>
         <entry>qa</entry>
         <entry>action Back</entry>
         <entry>%s/Toast.notice/console.log/g</entry>
@@ -47,6 +45,8 @@
         <entry>tabprevious</entry>
         <entry>tabnext</entry>
         <entry>w</entry>
+        <entry>action FindInPath</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -174,24 +174,18 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="108" column="57" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/const.js" timestamp="1592287292646">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="17" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" timestamp="1592366107734">
+        <mark key="'" line="88" column="9" />
+        <mark key="[" line="62" column="6" />
+        <mark key="]" line="62" column="6" />
+        <mark key="^" line="62" column="6" />
+        <mark key="." line="62" column="5" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" timestamp="1592363091378">
-        <mark key="'" line="49" column="21" />
-        <mark key="[" line="54" column="17" />
-        <mark key="]" line="54" column="19" />
-        <mark key="." line="54" column="18" />
-        <mark key="^" line="54" column="19" />
+      <file name="internal/async_hooks.js" timestamp="1592365457316">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/jobs/notifyChannelMemberCount.js" timestamp="1592288249734">
-        <mark key="[" line="37" column="34" />
-        <mark key="]" line="37" column="42" />
-        <mark key="^" line="37" column="42" />
-        <mark key="." line="37" column="41" />
+      <file name="timers.js" timestamp="1592365452598">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/jobCreator.js" timestamp="1592289879205">
         <mark key="'" line="54" column="0" />
@@ -200,11 +194,17 @@
         <mark key="^" line="86" column="19" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592294441948">
+      <file name="/JavaScript Console" timestamp="1592366253871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
+      </file>
+      <file name="internal/modules/cjs/loader.js" timestamp="1592365474202">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="internal/inspector_async_hook.js" timestamp="1592365456741">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-edge/protos/index.proto" timestamp="1592362588356">
         <mark key="[" line="3" column="0" />
@@ -212,19 +212,18 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592362722371">
+      <file name="internal/timers.js" timestamp="1592365568445">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592366271731">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/src/jobs/creator.js" timestamp="1592288234035">
-        <mark key="'" line="21" column="2" />
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="21" column="37" />
+      <file name="internal/bootstrap/node.js" timestamp="1592365475117">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" timestamp="1592289959843">
         <mark key="[" line="4" column="25" />
@@ -232,8 +231,8 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-tavern-center/protos/channel.proto" timestamp="1592288639743">
-        <mark key="'" line="110" column="24" />
+      <file name="/" timestamp="1592365409058">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" timestamp="1592362565870">
         <mark key="[" line="12" column="0" />
@@ -241,23 +240,18 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/edge/_Service.js" timestamp="1592362769369">
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="34" column="31" />
-        <mark key="^" line="34" column="31" />
-        <mark key="." line="34" column="30" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/edge/_Service.js" timestamp="1592363294000">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="32" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="38" column="32" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/center/src/_index.js" timestamp="1592362660494">
         <mark key="[" line="10" column="45" />
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="22" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/starter.js" timestamp="1592287351799">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="24" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Storage.js" timestamp="1592297949801">
         <mark key="'" line="12" column="4" />
@@ -274,29 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="30" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/index.html" />
-      <jump line="45" column="32" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/index.html" />
-      <jump line="54" column="47" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/index.html" />
-      <jump line="33" column="0" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="154" column="6" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="173" column="8" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="175" column="48" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="179" column="19" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="6" column="399" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/node_modules/agora-rtm-sdk/index.js" />
-      <jump line="14" column="9" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="74" column="27" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/rtm-client.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/rtm-client.js" />
-      <jump line="61" column="21" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="205" column="20" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="44" column="6" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="63" column="6" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="62" column="0" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="209" column="150" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="240" column="3" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="218" column="21" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/rtm-client.js" />
       <jump line="242" column="20" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
       <jump line="23" column="29" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
       <jump line="69" column="24" filename="$USER_HOME$/Desktop/Agora_RTM_SDK_for_Web/samples/Agora-RTM-Tutorial-Web/src/benchmark.js" />
@@ -374,12 +345,36 @@
       <jump line="15" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
       <jump line="54" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
       <jump line="49" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="37" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/edge/_Service.js" />
+      <jump line="2" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/edge/_Service.js" />
+      <jump line="27" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="44" column="59" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="53" column="17" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="99" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="81" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="104" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="61" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="102" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="105" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="77" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="83" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="90" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="91" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="106" column="1" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="62" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="68" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="84" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="85" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="87" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
+      <jump line="88" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="8">
+        <text>cpFile
+cpFile</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1325,46 +1320,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cpFile</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>protos</text>
+        <text encoding="base64">XDxfY3BGaWxlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bWVzc2FnZSBSZXFSZXF1ZXN0IHsKICBzdHJpbmcgZGF0YSA9IDE7Cn0KCm1lc3NhZ2UgUmVxUmVzcG9uc2UgewogIHN0cmluZyByZXMgPSAxOwp9CgpzZXJ2aWNlIE1haW5TZXJ2aWNlIHsKICBycGMgUmVxIChSZXFSZXF1ZXN0KSByZXR1cm5zIChSZXFSZXNwb25zZSl7fQp9Cg==</text>
+      <register name="0" type="4">
+        <text>cpTemplateFiles</text>
       </register>
-      <register name="1" type="2">
-        <text>chore: 适应最新的项目结构，去除 docker 和 proto submodule。添加 protos</text>
+      <register name="1" type="8">
+        <text>cpFile
+cpFile</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcmVxdWVzdDogeyBjaGFubmVsSWQgfSwgc2Vzc2lvbjogeyByb29tSWQsIHNlc3Npb25JZCB9IH0gPSBjYWxsCg==</text>
+      <register name="2" type="8">
+        <text>cpFile
+cpFile</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdG9rZW4sIHNlc3Npb246IHsgc2Vzc2lvbklkLCByb29tSWQgfSB9ID0gY2FsbC5yZXF1ZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSAoYXBwKSA9PiB7CiAgYXBwLmNvbW1hbmQoJ0Nvbm5lY3QnLCBhc3luYyAoY2FsbCkgPT4gewo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudGVtcGxhdGVQYXRoKCcuL3NoYXJlJyksIHRoaXMuZWRnZVJlcG9OYW1lKTsKICAgIGNvbnNvbGUubG9nKHRoaXMudGVtcGxhdGVQYXRoKCcuL2VkZ2UnKSwgdGhpcy5lZGdlUmVwb05hbWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text>chore: grpc optimize</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvbXB0aW5nKCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IF9zZXNzaW9uID0gCg==</text>
+      <register name="6" type="8">
+        <text>this.cpFile
+this.cpFile</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IF9zZXNzaW9uID0gCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1424,21 +1422,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhbGwucmVxdWVzdC5zZXNzaW9uID0gCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jcEZpbGUodGhpcy50ZW1wbGF0ZVBhdGgoJy4vY2VudGVyJyksIHRoaXMuZGVzdGluYXRpb25QYXRoKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhbGwucmVxdWVzdC5zZXNzaW9uID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>protos</last-search>
+      <last-search encoding="base64">XDxfY3BGaWxlXD4=</last-search>
       <last-offset />
-      <last-pattern>protos</last-pattern>
+      <last-pattern encoding="base64">XDxfY3BGaWxlXD4=</last-pattern>
       <last-replace>console.error</last-replace>
       <last-substitute>Toast.error</last-substitute>
       <last-dir>1</last-dir>
