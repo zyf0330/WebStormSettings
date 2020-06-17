@@ -43,10 +43,10 @@
         <entry>w</entry>
         <entry>action FindInPath</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
-        <entry>q</entry>
         <entry>action Back</entry>
-        <entry>tabprevious</entry>
+        <entry>q</entry>
         <entry>tabnext</entry>
+        <entry>tabprevious</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -167,12 +167,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Broadcaster.js" timestamp="1592375995918">
-        <mark key="'" line="6" column="13" />
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="28" />
-        <mark key="^" line="18" column="26" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Broadcaster.js" timestamp="1592378548313">
+        <mark key="'" line="18" column="45" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="11" />
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1592365456741">
         <mark key="[" line="0" column="0" />
@@ -236,12 +236,12 @@
       <file name="internal/modules/cjs/loader.js" timestamp="1592365474202">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/UserSessionManager.js" timestamp="1592377477481">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/UserSessionManager.js" timestamp="1592378445975">
         <mark key="'" line="14" column="28" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="30" column="10" />
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="36" column="13" />
+        <mark key="." line="36" column="12" />
+        <mark key="^" line="36" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1592366347534">
         <mark key="'" line="0" column="2" />
@@ -336,7 +336,6 @@
       <jump line="87" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
       <jump line="88" column="9" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
       <jump line="15" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Broadcaster.js" />
-      <jump line="18" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Broadcaster.js" />
       <jump line="16" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="174" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="170" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/broadcast/index.js" />
@@ -373,12 +372,13 @@
       <jump line="14" column="28" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/UserSessionManager.js" />
       <jump line="27" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" />
       <jump line="17" column="41" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" />
+      <jump line="18" column="45" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Broadcaster.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.exec()</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1324,7 +1324,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UserSess</text>
+        <text>[]</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1333,7 +1333,7 @@
         <text>module.ex</text>
       </register>
       <register name="0" type="4">
-        <text>UserSessionManager</text>
+        <text>sessionId</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1429,7 +1429,7 @@
         <text encoding="base64">Y29uc3QgcmVkaXMK</text>
       </register>
       <register name=":" type="4">
-        <text>tabnext</text>
+        <text>tabprevious</text>
       </register>
     </registers>
   </component>
