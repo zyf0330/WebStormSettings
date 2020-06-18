@@ -167,17 +167,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Broadcaster.js" timestamp="1592378548313">
-        <mark key="'" line="18" column="45" />
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="17" />
-        <mark key="." line="18" column="8" />
-        <mark key="^" line="18" column="11" />
-      </file>
-      <file name="internal/inspector_async_hook.js" timestamp="1592365456741">
+      <file name="/Dummy.txt" timestamp="1592366347534">
+        <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="internal/timers.js" timestamp="1592365568445">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" timestamp="1592366107734">
+        <mark key="'" line="88" column="9" />
+        <mark key="[" line="62" column="6" />
+        <mark key="]" line="62" column="6" />
+        <mark key="^" line="62" column="6" />
+        <mark key="." line="62" column="5" />
+      </file>
+      <file name="internal/bootstrap/node.js" timestamp="1592365475117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/StorageOperator.js" timestamp="1592377000202">
@@ -186,30 +190,6 @@
         <mark key="]" line="99" column="23" />
         <mark key="." line="99" column="22" />
         <mark key="^" line="99" column="23" />
-      </file>
-      <file name="/" timestamp="1592365409058">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/edge/_Service.js" timestamp="1592363294000">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="38" column="31" />
-        <mark key="]" line="38" column="32" />
-        <mark key="^" line="38" column="32" />
-        <mark key="." line="38" column="32" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Storage.js" timestamp="1592376279695">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="117" column="17" />
-        <mark key="]" line="117" column="31" />
-        <mark key="." line="117" column="31" />
-        <mark key="^" line="117" column="32" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" timestamp="1592366107734">
-        <mark key="'" line="88" column="9" />
-        <mark key="[" line="62" column="6" />
-        <mark key="]" line="62" column="6" />
-        <mark key="^" line="62" column="6" />
-        <mark key="." line="62" column="5" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/broadcast/index.js" timestamp="1592375361822">
         <mark key="'" line="26" column="19" />
@@ -224,8 +204,18 @@
       <file name="internal/async_hooks.js" timestamp="1592365457316">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/" timestamp="1592365409058">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="timers.js" timestamp="1592365452598">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Broadcaster.js" timestamp="1592378548313">
+        <mark key="'" line="18" column="45" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="11" />
       </file>
       <file name="/JavaScript Console" timestamp="1592366253871">
         <mark key="[" line="0" column="0" />
@@ -236,21 +226,7 @@
       <file name="internal/modules/cjs/loader.js" timestamp="1592365474202">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/UserSessionManager.js" timestamp="1592378445975">
-        <mark key="'" line="14" column="28" />
-        <mark key="[" line="35" column="10" />
-        <mark key="]" line="36" column="13" />
-        <mark key="." line="36" column="12" />
-        <mark key="^" line="36" column="13" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592366347534">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="internal/bootstrap/node.js" timestamp="1592365475117">
+      <file name="internal/inspector_async_hook.js" timestamp="1592365456741">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" timestamp="1592375202847">
@@ -258,18 +234,42 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="65" column="19" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" timestamp="1592377717110">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/edge/_Service.js" timestamp="1592363294000">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="32" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="38" column="32" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" timestamp="1592450230483">
         <mark key="'" line="17" column="41" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="29" column="22" />
-        <mark key="." line="30" column="0" />
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="33" />
+      </file>
+      <file name="internal/timers.js" timestamp="1592365568445">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/center/src/_index.js" timestamp="1592362660494">
         <mark key="[" line="10" column="45" />
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="22" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Storage.js" timestamp="1592376279695">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="117" column="17" />
+        <mark key="]" line="117" column="31" />
+        <mark key="." line="117" column="31" />
+        <mark key="^" line="117" column="32" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/UserSessionManager.js" timestamp="1592378445975">
+        <mark key="'" line="14" column="28" />
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="36" column="13" />
+        <mark key="." line="36" column="12" />
+        <mark key="^" line="36" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -1441,7 +1441,7 @@
       <last-replace>console.error</last-replace>
       <last-substitute>Toast.error</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
