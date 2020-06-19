@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>se</entry>
-        <entry>_session</entry>
-        <entry>commandha</entry>
-        <entry>cp</entry>
-        <entry>protos</entry>
         <entry>edge</entry>
         <entry encoding="base64">XDx3cml0aW5nXD4=</entry>
         <entry encoding="base64">XDxjcEZpbGVcPg==</entry>
@@ -25,6 +20,11 @@
         <entry>tab</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxjbGFzc1w+</entry>
+        <entry encoding="base64">XDxTZXNzaW9uXD4=</entry>
+        <entry encoding="base64">XDxDb21tYW5kQ2FsbFw+</entry>
+        <entry>commandca</entry>
+        <entry>apperror</entry>
+        <entry encoding="base64">XDxBcHBFcnJvclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0vOi9n</entry>
@@ -39,14 +39,14 @@
         <entry>%s/Toast.error/console.error/g</entry>
         <entry>43</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
-        <entry>action Back</entry>
         <entry>action Forward</entry>
         <entry>wq</entry>
         <entry>action FindInPath</entry>
         <entry>q</entry>
-        <entry>tabnext</entry>
         <entry>w</entry>
+        <entry>tabnext</entry>
         <entry>tabprevious</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -220,12 +220,12 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/index.d.ts" timestamp="1592553984728">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/index.d.ts" timestamp="1592554711261">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="219" column="19" />
+        <mark key="]" line="0" column="1" />
         <mark key="^" line="128" column="4" />
-        <mark key="." line="128" column="3" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="internal/bootstrap/node.js" timestamp="1592365475117">
         <mark key="[" line="0" column="0" />
@@ -243,12 +243,6 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/protos.js" timestamp="1592553095746">
-        <mark key="[" line="50" column="13" />
-        <mark key="]" line="50" column="13" />
-        <mark key="^" line="50" column="13" />
-        <mark key="." line="50" column="12" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/protos/tinder/index.js" timestamp="1592553305838">
         <mark key="'" line="120" column="6" />
       </file>
@@ -256,19 +250,17 @@
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="12" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" timestamp="1592554109767">
-        <mark key="'" line="148" column="2" />
-        <mark key="[" line="118" column="4" />
-        <mark key="]" line="118" column="4" />
-        <mark key="." line="118" column="4" />
-        <mark key="^" line="118" column="60" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" timestamp="1592556501500">
+        <mark key="'" line="119" column="8" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" timestamp="1592554086622">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" timestamp="1592555854617">
         <mark key="'" line="19" column="23" />
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="25" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="19" column="24" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Storage.js" timestamp="1592376279695">
         <mark key="'" line="115" column="0" />
@@ -279,15 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
-      <jump line="108" column="47" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
-      <jump line="106" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
-      <jump line="67" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
-      <jump line="136" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/application.js" />
-      <jump line="6" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" />
-      <jump line="5" column="40" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" />
-      <jump line="15" column="33" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
-      <jump line="54" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
       <jump line="49" column="21" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" />
       <jump line="37" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/edge/_Service.js" />
       <jump line="2" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/templates/edge/_Service.js" />
@@ -370,7 +353,6 @@
       <jump line="129" column="3" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/index.d.ts" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/index.d.ts" />
       <jump line="18" column="45" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Broadcaster.js" />
-      <jump line="119" column="20" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
       <jump line="213" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
       <jump line="1" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" />
       <jump line="23" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" />
@@ -379,12 +361,22 @@
       <jump line="150" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
       <jump line="118" column="59" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
       <jump line="148" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
+      <jump line="44" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
+      <jump line="53" column="45" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
+      <jump line="55" column="85" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
+      <jump line="68" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
+      <jump line="85" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
+      <jump line="81" column="4" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
+      <jump line="89" column="76" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
+      <jump line="69" column="13" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
+      <jump line="41" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
+      <jump line="119" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBuZXcgSUVycgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1330,48 +1322,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>class</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGFzc1w+</text>
+        <text encoding="base64">XDxBcHBFcnJvclw+</text>
       </register>
       <register name="0" type="4">
-        <text>AppError</text>
+        <text>CommandResponse</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-      super();
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBuZXcgSUVycgo=</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vIFR5cGUgZGVmaW5pdGlvbnMgZm9yIHRpbmRlci1jZW50ZXItc2RrCi8vIFByb2plY3Q6IHRpbmRlci1jZW50ZXItc2RrCi8vIERlZmluaXRpb25zIGJ5OiBXYW5nU2l5dWFuCi8vLyA8cmVmZXJlbmNlIHR5cGVzPSJub2RlIiAvPgovLy8gPHJlZmVyZW5jZSB0eXBlcz0iaW9yZWRpcyIgLz4KLy8vIDxyZWZlcmVuY2UgdHlwZXM9InJhdmVuIiAvPgovLy8gPHJlZmVyZW5jZSB0eXBlcz0iY29udmljdCIgLz4KLy8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vdHlwaW5ncy9ncnBjLmQudHMiIC8+Ci8vLyA8cmVmZXJlbmNlIHBhdGg9Ii4uL3R5cGluZ3MvcHJvdG9idWZqcy5kLnRzIiAvPgoKaW1wb3J0ICogYXMgZ3JwYyBmcm9tICdncnBjJzsKaW1wb3J0ICogYXMgY29udmljdCBmcm9tICdjb252aWN0JzsKaW1wb3J0ICogYXMgcmVkaXMgZnJvbSAnaW9yZWRpcyc7CmltcG9ydCAqIGFzIHJhdmVuIGZyb20gJ3JhdmVuJzsKaW1wb3J0ICogYXMgcHJvdG9idWZqcyBmcm9tICdwcm90b2J1ZmpzJzsKCi8vIGltcG9ydCB7IE1lc3NhZ2UsIFNlcnZpY2UsIFByb3RvQnVpbGRlciB9IGZyb20gJ3Byb3RvYnVmanMnOwppbXBvcnQgKiBhcyBwaW5vIGZyb20gJ3Bpbm8nOwoKZGVjbGFyZSBuYW1lc3BhY2UgVGluZGVyU0RLIHsKICAvKioKICAgKiDliJ3lp4vljJblupTnlKjnmoTlj4LmlbAKICAgKi8KICBpbnRlcmZhY2UgQXBwSW5pdE9wdGlvbiB7CiAgICAvKioKICAgICAqIOerr+WPowogICAgICovCiAgICBwb3J0PzogbnVtYmVyOwogICAgaG9zdD86IHN0cmluZzsKICAgIC8qKgogICAgICogUHJvdG9idWbnmoTnm67lvZXjgIIKICAgICAqIOS4gOiIrOaYr2BnaXQgc3VibW9kdWxlYOeahOebruagh+ebruW9lQogICAgICovCiAgICBwcm90b1BhdGg/OiBzdHJpbmc7CiAgfQoKICB0eXBlIFN5c3RlbVNlc3Npb24gPSB7CiAgICBpZGNJZDogc3RyaW5nOwogICAgY29ubmVjdG9ySWQ6IHN0cmluZzsKICAgIHNlc3Npb25JZDogc3RyaW5nOwogICAgcm9vbUlkOiBzdHJpbmc7CiAgICBhcHA6IHN0cmluZzsKICB9CgogIGNsYXNzIFNlc3Npb24gewogICAgY29uc3RydWN0b3Ioc3lzdGVtU2Vzc2lvbjogU3lzdGVtU2Vzc2lvbik7CgogICAgaWRjSWQ6IHN0cmluZzsKICAgIGNvbm5lY3RvcklkOiBzdHJpbmc7CiAgICBzZXNzaW9uSWQ6IHN0cmluZzsKICAgIHJvb21JZDogc3RyaW5nOwogICAgYXBwOiBzdHJpbmc7CgogICAgcHVibGljIHN0YXRpYyBnZXRCeVJvb20ocm9vbUlkOiBzdHJpbmcpOiBTZXNzaW9uW107CgogICAgcHVibGljIHN0YXRpYyBnZXRCeUlkcyhyb29tSWQ6IHN0cmluZywgc2Vzc2lvbklkczogc3RyaW5nIHwgc3RyaW5nW10pOiBTZXNzaW9uIHwgU2Vzc2lvbltdOwoKICAgIGtpY2tPZmYoKTogUHJvbWlzZTx2b2lkPjsKICB9CgogIGludGVyZmFjZSBCcm9hZGNhc3RNZXNzYWdlIGV4dGVuZHMgcHJvdG9idWZqcy5NZXNzYWdlPGFueT4gewogICAgYXBwOiBzdHJpbmc7CiAgICBtZXNzYWdlVHlwZTogc3RyaW5nOwogICAgY29udGVudDogVWludDhBcnJheTsKICAgIHJvb21JZD86IHN0cmluZzsKICAgIGlkY0lkPzogc3RyaW5nOwogIH0KCiAgaW50ZXJmYWNlIENvbW1hbmRDYWxsIGV4dGVuZHMgZ3JwYy5TZXJ2ZXJVbmFyeUNhbGwgewogICAgc2Vzc2lvbjogU2Vzc2lvbjsKICB9CgogIGludGVyZmFjZSBUaW5kZXJQcm90byB7CiAgICBncnBjOiB7CiAgICAgIFtrZXk6IHN0cmluZ106IGdycGMuR3JwY09iamVjdAogICAgfSwKICAgIHByb3RvOiBwcm90b2J1ZmpzLk5hbWVzcGFjZSwKICAgIHByb3RvOiB7CiAgICAgIFtrZXk6IHN0cmluZ106IHByb3RvYnVmanMuTmFtZXNwYWNlCiAgICB9LAogICAgc2VydmljZTogewogICAgICBba2V5OiBzdHJpbmddOiBwcm90b2J1ZmpzLlNlcnZpY2UKICAgIH0KICB9CgogIHR5cGUgZXJyb3JNYWtlID0gKHJlYXNvbj86IHN0cmluZykgPT4gZ3JwYy5TZXJ2aWNlRXJyb3I7CgogIHR5cGUgQ29tbWFuZEhhbmRsZXIgPSAoY2FsbDogQ29tbWFuZENhbGwsIGNhbGxiYWNrOiBncnBjLnNlbmRVbmFyeURhdGEpID0+IHZvaWQ7CgogIGludGVyZmFjZSBBcHBsaWNhdGlvbiB7CiAgICBydW4oaG9zdD86IHN0cmluZywgcG9ydD86IG51bWJlciwgY2VydD86IGdycGMuU2VydmVyQ3JlZGVudGlhbHMpOiBQcm9taXNlPGFueT47CgogICAgY2xvc2UoZm9yY2U/OiBib29sZWFuLCBjYWxsYmFjaz86ICgpID0+IHZvaWQpOiB2b2lkCgogICAgY2xvc2UoY2FsbGJhY2s/OiAoKSA9PiB2b2lkKTogdm9pZAoKICAgIGNvbW1hbmQobWV0aG9kOiBzdHJpbmcsIGhhbmRsZXI6IENvbW1hbmRIYW5kbGVyKTogdm9pZAoKICAgIGNvbW1hbmRzKG1ldGhvZEhhbmRsZXJNYXA6IHtba2V5OiBzdHJpbmddOiBncnBjLmhhbmRsZUNhbGx9KQoKICAgIHVzZSgpOiB2b2lkCiAgfQoKICBpbnRlcmZhY2UgSUJyb2FkY2FzdCB7CiAgICB0b1Jvb20ocm9vbUlkOiBzdHJpbmcsIG1lc3NhZ2U6IEJyb2FkY2FzdE1lc3NhZ2UpOiBQcm9taXNlPGFueT47CgogICAgdG9TZXNzaW9uKHNlc3Npb25zOiBTZXNzaW9uLCBtZXNzYWdlOiBCcm9hZGNhc3RNZXNzYWdlKTogUHJvbWlzZTxhbnk+OwoKICAgIHRvU2Vzc2lvbihzZXNzaW9uczogQXJyYXk8U2Vzc2lvbj4sIG1lc3NhZ2U6IEJyb2FkY2FzdE1lc3NhZ2UpOiBQcm9taXNlPGFueT47CgogICAgdG9TZXNzaW9uSWQocm9vbUlkOiBzdHJpbmcsIHNlc3Npb25JZHM6IHN0cmluZywgbWVzc2FnZTogQnJvYWRjYXN0TWVzc2FnZSk6IFByb21pc2U8YW55PjsKCiAgICB0b1Nlc3Npb25JZChyb29tSWQ6IHN0cmluZywgc2Vzc2lvbklkczogQXJyYXk8c3RyaW5nPiwgbWVzc2FnZTogQnJvYWRjYXN0TWVzc2FnZSk6IFByb21pc2U8YW55PjsKCiAgICB0b1Jvb21BZ2dyZWdhdGUocm9vbUlkOiBzdHJpbmcsIG1lc3NhZ2U6IEJyb2FkY2FzdE1lc3NhZ2UpOiBQcm9taXNlPGFueT47CgogICAgc3RvcCgpOiBib29sZWFuCiAgfQoKICBpbnRlcmZhY2UgSUVycm9ycyB7CiAgICBOT1RfRk9VTkQ6IGVycm9yTWFrZTsKICAgIFVOSU1QTEVNRU5URUQ6IGVycm9yTWFrZTsKICAgIElOVkFMSURfQVJHVU1FTlQ6IGVycm9yTWFrZTsKICB9CgogIGludGVyZmFjZSBJUmVjb3JkZXIgewogICAgcmVjb3JkKHJvb21JZDogc3RyaW5nLCBtZXNzYWdlOiBPYmplY3QgfCBTdHJpbmcsIHRpbWVzdGFtcDogTnVtYmVyIHwgRGF0ZSkKICB9CgogIGludGVyZmFjZSBJUHJvdG8gewogICAgaW5pdChwYXRoOiBzdHJpbmcpOiB2b2lkOwoKICAgIHByb3RvYnVmczogVGluZGVyUHJvdG8KICB9CgogIGludGVyZmFjZSBJQ29uZmlndXJhdGlvbiBleHRlbmRzIGNvbnZpY3QuQ29uZmlnIHsKICAgIGVtaXR0ZXI6IE5vZGVKUy5FdmVudEVtaXR0ZXI7CgogICAgbG9hZFNjaGVtYShvYmpPclBhdGg/OiBvYmplY3QgfCBzdHJpbmcpOiB2b2lkOwoKICAgIGxvYWRGaWxlKGZpbGVQYXRoPzogc3RyaW5nKTogdm9pZAogIH0KCiAgY2xhc3MgTW9ja0NsaWVudCB7CiAgICBjb25zdHJ1Y3RvcihzZXJ2aWNlOiBzdHJpbmcsIHBvcnQ/OiBudW1iZXIsIGhvc3Q/OiBzdHJpbmcpCgogICAgc2V0U2Vzc3Npb25DcmVhdGVGdW5jKGZ1bmM6ICgpID0+IG9iamVjdCkKCiAgICBba2V5OiBzdHJpbmddOiAocmVxdWVzdDogZ3JwYy5DYWxsLCBjYWxsYmFjazogZ3JwYy5yZXF1ZXN0Q2FsbGJhY2spID0+IHZvaWQKICB9CgogIGludGVyZmFjZSBJTW9jayB7CiAgICBNb2NrQ2xpZW50OiBNb2NrQ2xpZW50CiAgfQoKICBpbnRlcmZhY2UgSUFtcXBPcHRpb24gewogICAgZXhOYW1lOiBzdHJpbmcsCiAgICBleFR5cGU/OiBzdHJpbmcsCiAgICBleGNoYW5nZU9wdGlvbnM/OiBvYmplY3QsCiAgfQoKICBpbnRlcmZhY2UgSUNvbnN1bWVyT3B0aW9uIHsKICAgIGV4TmFtZTogc3RyaW5nLAogICAgcXVldWVOYW1lOiBzdHJpbmcsCiAgICByb3V0aW5nS2V5czogc3RyaW5nIHwgc3RyaW5nW10sCiAgICBwcmVmZXRjaENvdW50PzogMSwKICAgIGV4VHlwZT86IHN0cmluZywKICAgIGV4Y2hhbmdlT3B0aW9zbj86IG9iamVjdCwKICB9CgogIGNsYXNzIEFtcXBQcm9kdWNlciB7CiAgICBwdWJsaWMgY29uc3RydWN0b3Iob3B0aW9uczogSUFtcXBPcHRpb24pCgogICAgcHVibGljIGFzeW5jIHNlbmQoa2V5OiBzdHJpbmcsIG1lc3NhZ2U6IEJ1ZmZlcikKCiAgICBwdWJsaWMgYXN5bmMgY2xvc2UoKQogIH0KCiAgY2xhc3MgQW1xcENvbnN1bWVyIHsKICAgIHB1YmxpYyBjb25zdHJ1Y3RvcihvcHRpb25zOiBJQ29uc3VtZXJPcHRpb24pOwoKICAgIHB1YmxpYyBhc3luYyBnZXRDaGFubmVsKCk7CgogICAgcHVibGljIGFzeW5jIHN0YXJ0KCkKCiAgICBwdWJsaWMgYXN5bmMgY2xvc2UoKQoKICAgIHB1YmxpYyBhc3luYyBoYW5kbGUoaGFuZGxlcjogKG1zZykgPT4gdm9pZCkKICB9CgogIGV4cG9ydCBjb25zdCBhbXFwOiB7CiAgICBQcm9kdWNlcjogQW1xcFByb2R1Y2VyLAogICAgQ29uc3VtZXI6IEFtcXBDb25zdW1lcgogIH07CgogIGV4cG9ydCBjb25zdCBicm9hZGNhc3Q6IElCcm9hZGNhc3Q7CiAgZXhwb3J0IGNvbnN0IGVycm9yczogSUVycm9yczsKICBleHBvcnQgY29uc3QgcmVjb3JkZXI6IElSZWNvcmRlcjsKICBleHBvcnQgY29uc3Qgc2VudHJ5OiByYXZlbi5DbGllbnQ7CiAgZXhwb3J0IGNvbnN0IHJlZGlzQ2xpZW50OiByZWRpcy5SZWRpczsKCiAgZXhwb3J0IGZ1bmN0aW9uIGdldExvZ2dlcihuYW1lOiBzdHJpbmcpOiBwaW5vLkxvZ2dlcgoKICBleHBvcnQgZnVuY3Rpb24gQXBwKGFwcE5hbWU6IHN0cmluZywgb3B0aW9ucz86IEFwcEluaXRPcHRpb24pOiBBcHBsaWNhdGlvbgoKICBleHBvcnQgY29uc3QgcHJvdG86IElQcm90bzsKCiAgZXhwb3J0IGNvbnN0IGNvbmZpZzogSUNvbmZpZ3VyYXRpb247CgogIGV4cG9ydCBjb25zdCBtb2NrOiBJTW9jawp9CgpleHBvcnQgPSBUaW5kZXJTREs7Cgo=</text>
+        <text encoding="base64">ICBuZXcgQXBwRXJyb3IoKQo=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RvOiB7CiAgICAgIFtrZXk6IHN0cmluZ106IHByb3RvYnVmanMuTmFtZXNwYWNlCiAgICB9LAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHsKICAgIFtrZXk6IHN0cmluZ106IGFueQogIH0=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bm5vcmVtYXAgPExlYWRlcj5oIDp0YWJwcmV2aW91czxDUj4Kbm5vcmVtYXAgPExlYWRlcj5sIDp0YWJuZXh0PENSPgo=</text>
+        <text encoding="base64">ICAgIGNhbGwuc2Vzc2lvbi5rCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3IEFwcEVycm9yKCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJJbmZvID0geyB1aWQsIHJvb21JZCB9Cg==</text>
+      <register name="6" type="4">
+        <text>{
+      super();
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vIFR5cGUgZGVmaW5pdGlvbnMgZm9yIHRpbmRlci1jZW50ZXItc2RrCi8vIFByb2plY3Q6IHRpbmRlci1jZW50ZXItc2RrCi8vIERlZmluaXRpb25zIGJ5OiBXYW5nU2l5dWFuCi8vLyA8cmVmZXJlbmNlIHR5cGVzPSJub2RlIiAvPgovLy8gPHJlZmVyZW5jZSB0eXBlcz0iaW9yZWRpcyIgLz4KLy8vIDxyZWZlcmVuY2UgdHlwZXM9InJhdmVuIiAvPgovLy8gPHJlZmVyZW5jZSB0eXBlcz0iY29udmljdCIgLz4KLy8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vdHlwaW5ncy9ncnBjLmQudHMiIC8+Ci8vLyA8cmVmZXJlbmNlIHBhdGg9Ii4uL3R5cGluZ3MvcHJvdG9idWZqcy5kLnRzIiAvPgoKaW1wb3J0ICogYXMgZ3JwYyBmcm9tICdncnBjJzsKaW1wb3J0ICogYXMgY29udmljdCBmcm9tICdjb252aWN0JzsKaW1wb3J0ICogYXMgcmVkaXMgZnJvbSAnaW9yZWRpcyc7CmltcG9ydCAqIGFzIHJhdmVuIGZyb20gJ3JhdmVuJzsKaW1wb3J0ICogYXMgcHJvdG9idWZqcyBmcm9tICdwcm90b2J1ZmpzJzsKCi8vIGltcG9ydCB7IE1lc3NhZ2UsIFNlcnZpY2UsIFByb3RvQnVpbGRlciB9IGZyb20gJ3Byb3RvYnVmanMnOwppbXBvcnQgKiBhcyBwaW5vIGZyb20gJ3Bpbm8nOwoKZGVjbGFyZSBuYW1lc3BhY2UgVGluZGVyU0RLIHsKICAvKioKICAgKiDliJ3lp4vljJblupTnlKjnmoTlj4LmlbAKICAgKi8KICBpbnRlcmZhY2UgQXBwSW5pdE9wdGlvbiB7CiAgICAvKioKICAgICAqIOerr+WPowogICAgICovCiAgICBwb3J0PzogbnVtYmVyOwogICAgaG9zdD86IHN0cmluZzsKICAgIC8qKgogICAgICogUHJvdG9idWbnmoTnm67lvZXjgIIKICAgICAqIOS4gOiIrOaYr2BnaXQgc3VibW9kdWxlYOeahOebruagh+ebruW9lQogICAgICovCiAgICBwcm90b1BhdGg/OiBzdHJpbmc7CiAgfQoKICB0eXBlIFN5c3RlbVNlc3Npb24gPSB7CiAgICBpZGNJZDogc3RyaW5nOwogICAgY29ubmVjdG9ySWQ6IHN0cmluZzsKICAgIHNlc3Npb25JZDogc3RyaW5nOwogICAgcm9vbUlkOiBzdHJpbmc7CiAgICBhcHA6IHN0cmluZzsKICB9CgogIGNsYXNzIFNlc3Npb24gewogICAgY29uc3RydWN0b3Ioc3lzdGVtU2Vzc2lvbjogU3lzdGVtU2Vzc2lvbik7CgogICAgaWRjSWQ6IHN0cmluZzsKICAgIGNvbm5lY3RvcklkOiBzdHJpbmc7CiAgICBzZXNzaW9uSWQ6IHN0cmluZzsKICAgIHJvb21JZDogc3RyaW5nOwogICAgYXBwOiBzdHJpbmc7CgogICAgcHVibGljIHN0YXRpYyBnZXRCeVJvb20ocm9vbUlkOiBzdHJpbmcpOiBTZXNzaW9uW107CgogICAgcHVibGljIHN0YXRpYyBnZXRCeUlkcyhyb29tSWQ6IHN0cmluZywgc2Vzc2lvbklkczogc3RyaW5nIHwgc3RyaW5nW10pOiBTZXNzaW9uIHwgU2Vzc2lvbltdOwoKICAgIGtpY2tPZmYoKTogUHJvbWlzZTx2b2lkPjsKICB9CgogIGludGVyZmFjZSBCcm9hZGNhc3RNZXNzYWdlIGV4dGVuZHMgcHJvdG9idWZqcy5NZXNzYWdlPGFueT4gewogICAgYXBwOiBzdHJpbmc7CiAgICBtZXNzYWdlVHlwZTogc3RyaW5nOwogICAgY29udGVudDogVWludDhBcnJheTsKICAgIHJvb21JZD86IHN0cmluZzsKICAgIGlkY0lkPzogc3RyaW5nOwogIH0KCiAgaW50ZXJmYWNlIENvbW1hbmRDYWxsIGV4dGVuZHMgZ3JwYy5TZXJ2ZXJVbmFyeUNhbGwgewogICAgc2Vzc2lvbjogU2Vzc2lvbjsKICB9CgogIGludGVyZmFjZSBUaW5kZXJQcm90byB7CiAgICBncnBjOiB7CiAgICAgIFtrZXk6IHN0cmluZ106IGdycGMuR3JwY09iamVjdAogICAgfSwKICAgIHByb3RvOiBwcm90b2J1ZmpzLk5hbWVzcGFjZSwKICAgIHByb3RvOiB7CiAgICAgIFtrZXk6IHN0cmluZ106IHByb3RvYnVmanMuTmFtZXNwYWNlCiAgICB9LAogICAgc2VydmljZTogewogICAgICBba2V5OiBzdHJpbmddOiBwcm90b2J1ZmpzLlNlcnZpY2UKICAgIH0KICB9CgogIHR5cGUgZXJyb3JNYWtlID0gKHJlYXNvbj86IHN0cmluZykgPT4gZ3JwYy5TZXJ2aWNlRXJyb3I7CgogIHR5cGUgQ29tbWFuZEhhbmRsZXIgPSAoY2FsbDogQ29tbWFuZENhbGwsIGNhbGxiYWNrOiBncnBjLnNlbmRVbmFyeURhdGEpID0+IHZvaWQ7CgogIGludGVyZmFjZSBBcHBsaWNhdGlvbiB7CiAgICBydW4oaG9zdD86IHN0cmluZywgcG9ydD86IG51bWJlciwgY2VydD86IGdycGMuU2VydmVyQ3JlZGVudGlhbHMpOiBQcm9taXNlPGFueT47CgogICAgY2xvc2UoZm9yY2U/OiBib29sZWFuLCBjYWxsYmFjaz86ICgpID0+IHZvaWQpOiB2b2lkCgogICAgY2xvc2UoY2FsbGJhY2s/OiAoKSA9PiB2b2lkKTogdm9pZAoKICAgIGNvbW1hbmQobWV0aG9kOiBzdHJpbmcsIGhhbmRsZXI6IENvbW1hbmRIYW5kbGVyKTogdm9pZAoKICAgIGNvbW1hbmRzKG1ldGhvZEhhbmRsZXJNYXA6IHtba2V5OiBzdHJpbmddOiBncnBjLmhhbmRsZUNhbGx9KQoKICAgIHVzZSgpOiB2b2lkCiAgfQoKICBpbnRlcmZhY2UgSUJyb2FkY2FzdCB7CiAgICB0b1Jvb20ocm9vbUlkOiBzdHJpbmcsIG1lc3NhZ2U6IEJyb2FkY2FzdE1lc3NhZ2UpOiBQcm9taXNlPGFueT47CgogICAgdG9TZXNzaW9uKHNlc3Npb25zOiBTZXNzaW9uLCBtZXNzYWdlOiBCcm9hZGNhc3RNZXNzYWdlKTogUHJvbWlzZTxhbnk+OwoKICAgIHRvU2Vzc2lvbihzZXNzaW9uczogQXJyYXk8U2Vzc2lvbj4sIG1lc3NhZ2U6IEJyb2FkY2FzdE1lc3NhZ2UpOiBQcm9taXNlPGFueT47CgogICAgdG9TZXNzaW9uSWQocm9vbUlkOiBzdHJpbmcsIHNlc3Npb25JZHM6IHN0cmluZywgbWVzc2FnZTogQnJvYWRjYXN0TWVzc2FnZSk6IFByb21pc2U8YW55PjsKCiAgICB0b1Nlc3Npb25JZChyb29tSWQ6IHN0cmluZywgc2Vzc2lvbklkczogQXJyYXk8c3RyaW5nPiwgbWVzc2FnZTogQnJvYWRjYXN0TWVzc2FnZSk6IFByb21pc2U8YW55PjsKCiAgICB0b1Jvb21BZ2dyZWdhdGUocm9vbUlkOiBzdHJpbmcsIG1lc3NhZ2U6IEJyb2FkY2FzdE1lc3NhZ2UpOiBQcm9taXNlPGFueT47CgogICAgc3RvcCgpOiBib29sZWFuCiAgfQoKICBpbnRlcmZhY2UgSUVycm9ycyB7CiAgICBOT1RfRk9VTkQ6IGVycm9yTWFrZTsKICAgIFVOSU1QTEVNRU5URUQ6IGVycm9yTWFrZTsKICAgIElOVkFMSURfQVJHVU1FTlQ6IGVycm9yTWFrZTsKICB9CgogIGludGVyZmFjZSBJUmVjb3JkZXIgewogICAgcmVjb3JkKHJvb21JZDogc3RyaW5nLCBtZXNzYWdlOiBPYmplY3QgfCBTdHJpbmcsIHRpbWVzdGFtcDogTnVtYmVyIHwgRGF0ZSkKICB9CgogIGludGVyZmFjZSBJUHJvdG8gewogICAgaW5pdChwYXRoOiBzdHJpbmcpOiB2b2lkOwoKICAgIHByb3RvYnVmczogVGluZGVyUHJvdG8KICB9CgogIGludGVyZmFjZSBJQ29uZmlndXJhdGlvbiBleHRlbmRzIGNvbnZpY3QuQ29uZmlnIHsKICAgIGVtaXR0ZXI6IE5vZGVKUy5FdmVudEVtaXR0ZXI7CgogICAgbG9hZFNjaGVtYShvYmpPclBhdGg/OiBvYmplY3QgfCBzdHJpbmcpOiB2b2lkOwoKICAgIGxvYWRGaWxlKGZpbGVQYXRoPzogc3RyaW5nKTogdm9pZAogIH0KCiAgY2xhc3MgTW9ja0NsaWVudCB7CiAgICBjb25zdHJ1Y3RvcihzZXJ2aWNlOiBzdHJpbmcsIHBvcnQ/OiBudW1iZXIsIGhvc3Q/OiBzdHJpbmcpCgogICAgc2V0U2Vzc3Npb25DcmVhdGVGdW5jKGZ1bmM6ICgpID0+IG9iamVjdCkKCiAgICBba2V5OiBzdHJpbmddOiAocmVxdWVzdDogZ3JwYy5DYWxsLCBjYWxsYmFjazogZ3JwYy5yZXF1ZXN0Q2FsbGJhY2spID0+IHZvaWQKICB9CgogIGludGVyZmFjZSBJTW9jayB7CiAgICBNb2NrQ2xpZW50OiBNb2NrQ2xpZW50CiAgfQoKICBpbnRlcmZhY2UgSUFtcXBPcHRpb24gewogICAgZXhOYW1lOiBzdHJpbmcsCiAgICBleFR5cGU/OiBzdHJpbmcsCiAgICBleGNoYW5nZU9wdGlvbnM/OiBvYmplY3QsCiAgfQoKICBpbnRlcmZhY2UgSUNvbnN1bWVyT3B0aW9uIHsKICAgIGV4TmFtZTogc3RyaW5nLAogICAgcXVldWVOYW1lOiBzdHJpbmcsCiAgICByb3V0aW5nS2V5czogc3RyaW5nIHwgc3RyaW5nW10sCiAgICBwcmVmZXRjaENvdW50PzogMSwKICAgIGV4VHlwZT86IHN0cmluZywKICAgIGV4Y2hhbmdlT3B0aW9zbj86IG9iamVjdCwKICB9CgogIGNsYXNzIEFtcXBQcm9kdWNlciB7CiAgICBwdWJsaWMgY29uc3RydWN0b3Iob3B0aW9uczogSUFtcXBPcHRpb24pCgogICAgcHVibGljIGFzeW5jIHNlbmQoa2V5OiBzdHJpbmcsIG1lc3NhZ2U6IEJ1ZmZlcikKCiAgICBwdWJsaWMgYXN5bmMgY2xvc2UoKQogIH0KCiAgY2xhc3MgQW1xcENvbnN1bWVyIHsKICAgIHB1YmxpYyBjb25zdHJ1Y3RvcihvcHRpb25zOiBJQ29uc3VtZXJPcHRpb24pOwoKICAgIHB1YmxpYyBhc3luYyBnZXRDaGFubmVsKCk7CgogICAgcHVibGljIGFzeW5jIHN0YXJ0KCkKCiAgICBwdWJsaWMgYXN5bmMgY2xvc2UoKQoKICAgIHB1YmxpYyBhc3luYyBoYW5kbGUoaGFuZGxlcjogKG1zZykgPT4gdm9pZCkKICB9CgogIGV4cG9ydCBjb25zdCBhbXFwOiB7CiAgICBQcm9kdWNlcjogQW1xcFByb2R1Y2VyLAogICAgQ29uc3VtZXI6IEFtcXBDb25zdW1lcgogIH07CgogIGV4cG9ydCBjb25zdCBicm9hZGNhc3Q6IElCcm9hZGNhc3Q7CiAgZXhwb3J0IGNvbnN0IGVycm9yczogSUVycm9yczsKICBleHBvcnQgY29uc3QgcmVjb3JkZXI6IElSZWNvcmRlcjsKICBleHBvcnQgY29uc3Qgc2VudHJ5OiByYXZlbi5DbGllbnQ7CiAgZXhwb3J0IGNvbnN0IHJlZGlzQ2xpZW50OiByZWRpcy5SZWRpczsKCiAgZXhwb3J0IGZ1bmN0aW9uIGdldExvZ2dlcihuYW1lOiBzdHJpbmcpOiBwaW5vLkxvZ2dlcgoKICBleHBvcnQgZnVuY3Rpb24gQXBwKGFwcE5hbWU6IHN0cmluZywgb3B0aW9ucz86IEFwcEluaXRPcHRpb24pOiBBcHBsaWNhdGlvbgoKICBleHBvcnQgY29uc3QgcHJvdG86IElQcm90bzsKCiAgZXhwb3J0IGNvbnN0IGNvbmZpZzogSUNvbmZpZ3VyYXRpb247CgogIGV4cG9ydCBjb25zdCBtb2NrOiBJTW9jawp9CgpleHBvcnQgPSBUaW5kZXJTREs7Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1431,21 +1423,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBzbyA9IG5ldyBTdG9yYWdlT3BlcmF0b3IoKQoKICAgIGNvbnN0IFtbdWlkXV0gPSBhd2FpdCBzby5tYXBHZXQocmVkaXNLZXlzLnNlc3Npb25Vc2VySGFzaChyb29tSWQpLCBbc2Vzc2lvbklkXSkuZXhlYygpCg==</text>
+        <text encoding="base64">ICAgIHByb3RvOiB7CiAgICAgIFtrZXk6IHN0cmluZ106IHByb3RvYnVmanMuTmFtZXNwYWNlCiAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNvID0gbmV3IFN0b3JhZ2VPcGVyYXRvcigpCiAgICBhd2FpdCBzby5tYXBEZWwocmVkaXNLZXlzLnNlc3Npb25Vc2VySGFzaChyb29tSWQpLCBbc2Vzc2lvbklkXSkKICAgICAgLm1hcERlbChyZWRpc0tleXMudXNlclNlc3Npb25IYXNoKHJvb21JZCksIFt1aWRdKQogICAgICAuZXhlYygpCg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPExlYWRlcj5oIDp0YWJwcmV2aW91czxDUj4Kbm5vcmVtYXAgPExlYWRlcj5sIDp0YWJuZXh0PENSPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>tabprevious</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjbGFzc1w+</last-search>
+      <last-search encoding="base64">XDxBcHBFcnJvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGFzc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxBcHBFcnJvclw+</last-pattern>
       <last-replace>console.error</last-replace>
       <last-substitute>Toast.error</last-substitute>
       <last-dir>1</last-dir>
