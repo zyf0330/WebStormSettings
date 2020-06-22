@@ -69,7 +69,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -141,7 +141,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed L</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -167,39 +167,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/broadcast/index.js" timestamp="1592375361822">
-        <mark key="'" line="26" column="19" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/redisKeys.js" timestamp="1592376661877">
-        <mark key="'" line="6" column="2" />
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="43" />
-        <mark key="." line="7" column="42" />
-        <mark key="^" line="7" column="43" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Broadcaster.js" timestamp="1592553990412">
-        <mark key="'" line="18" column="45" />
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="17" />
-        <mark key="." line="18" column="8" />
-        <mark key="^" line="18" column="11" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1592366253871">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592793156323">
-        <mark key="'" line="150" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/UserSessionManager.js" timestamp="1592378445975">
-        <mark key="'" line="14" column="28" />
-        <mark key="[" line="35" column="10" />
-        <mark key="]" line="36" column="13" />
-        <mark key="." line="36" column="12" />
-        <mark key="^" line="36" column="13" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592793134567">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
@@ -231,6 +198,16 @@
         <mark key="." line="99" column="22" />
         <mark key="^" line="99" column="23" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/broadcast/index.js" timestamp="1592375361822">
+        <mark key="'" line="26" column="19" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/redisKeys.js" timestamp="1592376661877">
+        <mark key="'" line="6" column="2" />
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="42" />
+        <mark key="^" line="7" column="43" />
+      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1592553192549">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="47" column="0" />
@@ -243,12 +220,25 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/protos/tinder/index.js" timestamp="1592553305838">
         <mark key="'" line="120" column="6" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Broadcaster.js" timestamp="1592553990412">
+        <mark key="'" line="18" column="45" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="11" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/errors.js" timestamp="1592552966591">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="12" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms.ts" timestamp="1592792917480">
         <mark key="'" line="12" column="2" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1592366253871">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" timestamp="1592792894429">
         <mark key="'" line="136" column="11" />
@@ -266,12 +256,22 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="43" column="16" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592793156323">
+        <mark key="'" line="150" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Storage.js" timestamp="1592376279695">
         <mark key="'" line="115" column="0" />
         <mark key="[" line="117" column="17" />
         <mark key="]" line="117" column="31" />
         <mark key="." line="117" column="31" />
         <mark key="^" line="117" column="32" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/UserSessionManager.js" timestamp="1592378445975">
+        <mark key="'" line="14" column="28" />
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="36" column="13" />
+        <mark key="." line="36" column="12" />
+        <mark key="^" line="36" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -1443,7 +1443,7 @@
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
