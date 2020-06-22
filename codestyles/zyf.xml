@@ -20,7 +20,7 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
-    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
@@ -31,6 +31,9 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <yaml>
     <option name="INDENT_SEQUENCE_VALUE" value="false" />
   </yaml>
