@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onmem</entry>
-        <entry>connectionst</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uU3RhdGVcPg==</entry>
         <entry>this.connectionstate =</entry>
         <entry encoding="base64">dGhpcy5jb25uZWN0aW9uc3RhdGUgPSA=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxsb2dpblw+</entry>
         <entry encoding="base64">XDxoYW5kbGVDbGlja0pvaW5CXD4=</entry>
         <entry>source</entry>
+        <entry>script</entry>
+        <entry>todo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Toast.notice/console.log/g</entry>
@@ -35,18 +35,18 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLz0vOi8=</entry>
         <entry encoding="base64">JzwsJz5zLzsvLC8=</entry>
-        <entry>action Forward</entry>
         <entry>.action FindInPath</entry>
         <entry>action FindInPath</entry>
         <entry>tabprevious</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>action Back</entry>
         <entry encoding="base64">LiwuKzJ0YWJwcmV2aW91cyA=</entry>
         <entry>nohlsearch</entry>
-        <entry>tabnext</entry>
         <entry encoding="base64">dGFicHJldmlvdXMg</entry>
         <entry>q</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
+        <entry>tabnext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -184,12 +184,11 @@
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Broadcaster.js" timestamp="1592553990412">
-        <mark key="'" line="18" column="45" />
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="17" />
-        <mark key="." line="18" column="8" />
-        <mark key="^" line="18" column="11" />
+      <file name="/JavaScript Console" timestamp="1592809876743">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/webpack.config.base.js" timestamp="1592809739637">
+        <mark key="'" line="222" column="23" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592793156323">
         <mark key="'" line="150" column="0" />
@@ -201,8 +200,8 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592809166617">
-        <mark key="'" line="95" column="23" />
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592810662537">
+        <mark key="'" line="48" column="23" />
         <mark key="[" line="200" column="0" />
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
@@ -214,15 +213,8 @@
         <mark key="." line="101" column="0" />
         <mark key="^" line="101" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/index.d.ts" timestamp="1592558584378">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="127" column="0" />
-        <mark key="^" line="102" column="12" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/errors.js" timestamp="1592556793166">
-        <mark key="'" line="20" column="0" />
+      <file name="webpack-internal:///./sample/index.ts" timestamp="1592810321601">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1592795336658">
         <mark key="'" line="6" column="15" />
@@ -231,8 +223,8 @@
         <mark key="." line="32" column="25" />
         <mark key="^" line="32" column="26" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/protos.js" timestamp="1592558274160">
-        <mark key="'" line="49" column="43" />
+      <file name="webpack:///(webpack)-dev-server/client" timestamp="1592810300168">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" timestamp="1592808631162">
         <mark key="'" line="108" column="2" />
@@ -251,13 +243,6 @@
         <mark key="^" line="278" column="8" />
         <mark key="." line="267" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/index.d.ts" timestamp="1592558270076">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="218" column="19" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="176" column="10" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" timestamp="1592791873134">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -271,7 +256,7 @@
         <mark key="^" line="75" column="17" />
         <mark key="." line="75" column="16" />
       </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/webpack.config.sample.js" timestamp="1592809688651">
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/webpack.config.sample.js" timestamp="1592810857037">
         <mark key="[" line="25" column="12" />
         <mark key="]" line="25" column="17" />
         <mark key="^" line="25" column="17" />
@@ -279,12 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="33" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
-      <jump line="170" column="84" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="231" column="8" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="236" column="16" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="210" column="6" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="209" column="8" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="244" column="13" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="251" column="47" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="250" column="6" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
@@ -341,7 +320,6 @@
       <jump line="97" column="10" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="282" column="13" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="204" column="13" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="212" column="8" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="213" column="11" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="215" column="6" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="218" column="11" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
@@ -379,12 +357,19 @@
       <jump line="58" column="16" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
       <jump line="66" column="15" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
       <jump line="108" column="2" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
+      <jump line="131" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/webpack.config.base.js" />
+      <jump line="134" column="52" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/webpack.config.base.js" />
+      <jump line="218" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/webpack.config.base.js" />
+      <jump line="222" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/webpack.config.base.js" />
+      <jump line="212" column="7" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="42" column="17" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="48" column="23" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlvLm9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1330,13 +1315,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>true</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>source</text>
+        <text>todo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRva2VuOiBgZGJ5SW50ZXJuYWxUZXN0YCwKICAgIHRpbWVzdGFtcDogRGF0ZS5ub3coKSwK</text>
@@ -1439,15 +1424,15 @@
         <text encoding="base64">ICB0b2tlbj86IHN0cmluZywK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>tabnext</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>source</last-search>
+      <last-search>todo</last-search>
       <last-offset />
-      <last-pattern>source</last-pattern>
+      <last-pattern>todo</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
