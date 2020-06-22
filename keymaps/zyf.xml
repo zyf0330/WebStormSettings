@@ -50,6 +50,7 @@
     <keyboard-shortcut first-keystroke="ctrl multiply" />
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
+  <action id="FindInPath" />
   <action id="GotoLine" />
   <action id="GuiDesigner.Duplicate">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
@@ -72,8 +73,20 @@
     <keyboard-shortcut first-keystroke="alt n" />
     <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt q" />
@@ -108,6 +121,7 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>

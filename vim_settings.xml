@@ -37,7 +37,6 @@
         <entry>43</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry>wq</entry>
-        <entry>action FindInPath</entry>
         <entry>q</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLz0vOi8=</entry>
@@ -47,6 +46,7 @@
         <entry>tabnext</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -167,13 +167,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-app-generator/generators/app/index.js" timestamp="1592366107734">
-        <mark key="'" line="88" column="9" />
-        <mark key="[" line="62" column="6" />
-        <mark key="]" line="62" column="6" />
-        <mark key="^" line="62" column="6" />
-        <mark key="." line="62" column="5" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/broadcast/index.js" timestamp="1592375361822">
         <mark key="'" line="26" column="19" />
       </file>
@@ -213,6 +206,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592793359714">
+        <mark key="'" line="12" column="31" />
+        <mark key="[" line="512" column="7" />
+        <mark key="]" line="512" column="7" />
+        <mark key="^" line="512" column="7" />
+        <mark key="." line="512" column="6" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/src/index.d.ts" timestamp="1592558584378">
         <mark key="'" line="95" column="0" />
@@ -275,7 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="12" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="25" column="16" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/broadcast/index.js" />
       <jump line="26" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/tinder-center-sdk/src/broadcast/index.js" />
@@ -375,6 +374,7 @@
       <jump line="12" column="2" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms.ts" />
       <jump line="1" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="150" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="12" column="31" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -1431,7 +1431,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
   </component>
