@@ -27,7 +27,6 @@
         <entry>tab</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3JhdGVMaW1pdEFwcENvbmZpZy9jb25maWcvZw==</entry>
         <entry>nohls</entry>
         <entry>qa</entry>
         <entry>%s/Toast.notice/console.log/g</entry>
@@ -45,8 +44,9 @@
         <entry>action Back</entry>
         <entry>.action FindInPath</entry>
         <entry>action PreviousTab</entry>
-        <entry>action FindInPath</entry>
         <entry>tabnext</entry>
+        <entry>action NextTab</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -218,8 +218,12 @@
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-center-sdk/protos/tinder/index.js" timestamp="1592553305838">
         <mark key="'" line="120" column="6" />
       </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1592793953802">
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1592795080176">
         <mark key="'" line="26" column="7" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="1" />
+        <mark key="^" line="26" column="1" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/Broadcaster.js" timestamp="1592553990412">
         <mark key="'" line="18" column="45" />
@@ -1429,7 +1433,7 @@
         <text encoding="base64">ICB0eXBlIGVycm9yTWFrZSA9IChyZWFzb24/OiBzdHJpbmcpID0+IGdycGMuU2VydmljZUVycm9yOwoK</text>
       </register>
       <register name=":" type="4">
-        <text>tabnext</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
   </component>
@@ -1441,7 +1445,7 @@
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
