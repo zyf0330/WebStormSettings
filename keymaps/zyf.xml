@@ -35,6 +35,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="EditorDuplicateLines" />
   <action id="EditorPasteFromX11">
     <mouse-shortcut keystroke="button2" />
@@ -42,6 +46,10 @@
   </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
@@ -51,12 +59,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
   <action id="FindInPath" />
+  <action id="FindNext" />
   <action id="GotoLine" />
   <action id="GuiDesigner.Duplicate">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
+  <action id="IncrementalSearch" />
   <action id="MethodHierarchy" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
