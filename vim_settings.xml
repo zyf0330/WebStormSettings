@@ -43,10 +43,10 @@
         <entry>tabprevious</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>tabnext</entry>
-        <entry>action FindInPath</entry>
         <entry>.action FindInPath</entry>
         <entry>action PreviousTab</entry>
+        <entry>action FindInPath</entry>
+        <entry>tabnext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1429,7 +1429,7 @@
         <text encoding="base64">ICB0eXBlIGVycm9yTWFrZSA9IChyZWFzb24/OiBzdHJpbmcpID0+IGdycGMuU2VydmljZUVycm9yOwoK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>tabnext</text>
       </register>
     </registers>
   </component>
