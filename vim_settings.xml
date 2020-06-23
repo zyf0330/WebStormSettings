@@ -173,12 +173,12 @@
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/jest.config.js" timestamp="1592903412594">
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/jest.config.js" timestamp="1592904501446">
         <mark key="'" line="3" column="51" />
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="26" />
-        <mark key="^" line="3" column="26" />
-        <mark key="." line="3" column="25" />
+        <mark key="[" line="4" column="58" />
+        <mark key="]" line="4" column="59" />
+        <mark key="^" line="4" column="59" />
+        <mark key="." line="4" column="58" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1592901820202">
         <mark key="'" line="0" column="23" />
@@ -222,10 +222,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/index.ts" timestamp="1592896812030">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-      </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/package.json" timestamp="1592901068836">
         <mark key="'" line="13" column="3" />
         <mark key="[" line="12" column="145" />
@@ -244,7 +240,7 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592903506421">
+      <file name="/JavaScript Console" timestamp="1592904528736">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/package.json" timestamp="1592902943725">
@@ -259,8 +255,14 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592903145612">
-        <mark key="[" line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1592904534360">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/setup.ts" timestamp="1592904349583">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/node_modules/@types/socket.io-client/index.d.ts" timestamp="1592902524024">
         <mark key="'" line="67" column="18" />
@@ -276,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="47" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="200" column="6" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="224" column="25" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="226" column="6" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
@@ -376,12 +377,13 @@
       <jump line="4" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/setup.js" />
       <jump line="0" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/setup.js" />
       <jump line="8" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/setup.js" />
+      <jump line="0" column="10" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/setup.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1327,7 +1329,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1339,34 +1341,34 @@
         <text encoding="base64">aW1wb3J0IFNvY2tldElPIGZyb20gJ3NvY2tldC5pby1jbGllbnQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">amVzdC5zZXRUaW1lb3V0KDEwMDAwKQpiZWZvcmVFYWNoKCgpID0+IHsKCn0pCg==</text>
+        <text encoding="base64">ICBpZwo=</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">amVzdC5zZXRUaW1lb3V0KDEwMDAwKQpiZWZvcmVFYWNoKCgpID0+IHsKCn0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text>type</text>
+        <text encoding="base64">aW1wb3J0IHtFdmVudEVtaXR0ZXJ9IGZyb20gJ2V2ZW50cycK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvamVzdCI6ICJeMjYuMC4wIiwK</text>
+        <text encoding="base64">aW1wb3J0IGplc3QgZnJvbSAnamVzdCcK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgogIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">amVzdC5zZXRUaW1lb3V0KDEwMDAwKQpiZWZvcmVFYWNoKCgpID0+IHsKCn0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3NvY2tldC5pby1jbGllbnQnCg==</text>
+        <text encoding="base64">amVzdC5zZXRUaW1lb3V0KDEwMDAwKQpiZWZvcmVFYWNoKCgpID0+IHsKCn0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aQo=</text>
+        <text>type</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1426,10 +1428,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFNvY2tldElPQ2xpZW50U3RhdGljIGZyb20gJ3NvY2tldC5pby1jbGllbnQnCg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvamVzdCI6ICJeMjYuMC4wIiwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBTZW5kTWVzc2FnZU9wdGlvbnMsCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgogIA==</text>
       </register>
       <register name=":" type="4">
         <text>38</text>
