@@ -202,11 +202,11 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592883048569">
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592885035257">
         <mark key="'" line="167" column="15" />
-        <mark key="[" line="220" column="24" />
-        <mark key="]" line="220" column="44" />
-        <mark key="." line="220" column="24" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
         <mark key="^" line="309" column="46" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/GmsErrorCode.ts" timestamp="1592882521800">
@@ -361,8 +361,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>disconnect</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ291dCgpIC8vIFRPRE8gcmVtb3ZlCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1320,13 +1320,13 @@
         <text>logoutBeforeLoggedIn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGlvLmRpc2Nvbm5lY3QoKQogICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIHRoaXMubG9nb3V0KCkgLy8gVE9ETyByZW1vdmUKICAgIH0sIDEwMCkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ291dCgpIC8vIFRPRE8gcmVtb3ZlCg==</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGlvLmRpc2Nvbm5lY3QoKQogICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIHRoaXMubG9nb3V0KCkgLy8gVE9ETyByZW1vdmUKICAgIH0sIDEwMCkK</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
@@ -1338,16 +1338,16 @@
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlvID0gdGhpcy5nZXRJb0luc3RhbmNlKHtmb3JjZU5ldzogbnVsbH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1407,10 +1407,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0SW9JbnN0YW5jZSh7Zm9yY2VOZXc6IG51bGx9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGlvID0gdGhpcy5nZXRJb0luc3RhbmNlKHtmb3JjZU5ldzogbnVsbH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0SW9JbnN0YW5jZSh7fSkK</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2V0SW9JbnN0YW5jZSh7Zm9yY2VOZXc6IG51bGx9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
