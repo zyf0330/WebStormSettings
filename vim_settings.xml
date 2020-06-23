@@ -253,10 +253,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/package.json" timestamp="1592896774911">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="18" />
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/package.json" timestamp="1592898471561">
+        <mark key="[" line="13" column="125" />
+        <mark key="]" line="13" column="125" />
+        <mark key="." line="13" column="125" />
         <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" timestamp="1592886141273">
@@ -372,7 +372,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>: ``</text>
+        <text>,</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1318,7 +1318,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>: ``</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1330,38 +1330,38 @@
         <text encoding="base64">ICB1c2VySWQ6ICd1c2VySWQxJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdXNlcklkID0gCg==</text>
+        <text encoding="base64">ICAgICJidWlsZDp0ZXN0Om5ldCI6ICJjcm9zcy1lbnYgTk9ERV9FTlY9cHJvZHVjdGlvbiBBUElfRU5WPWFwaV9uZXQgLi9ub2RlX21vZHVsZXMvLmJpbi93ZWJwYWNrIC0tY29uZmlnIHdlYnBhY2suY29uZmlnLnRlc3QuanMiCg==</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc3QgdXNlcklkID0gCg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>viw&quot;0p</text>
+      </register>
+      <register name="3" type="4">
         <text>{
   userId: `user-${userId}`,
     token: `dbyInternalTest`,
   timestamp: Date.now(),
 }</text>
       </register>
-      <register name="r" type="4">
-        <text>viw&quot;0p</text>
-      </register>
-      <register name="3" type="2">
-        <text>import default from '../index'</text>
-      </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJidWlsZDpyZWxlYXNlOmRldiI6ICJjcm9zcy1lbnYgTk9ERV9FTlY9cHJvZHVjdGlvbiBBUElfRU5WPWFwaV9kZXYgLi9ub2RlX21vZHVsZXMvLmJpbi93ZWJwYWNrIC0tY29uZmlnIHdlYnBhY2suY29uZmlnLnJlbGVhc2UuanMiLAo=</text>
+        <text>import default from '../index'</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpYnJhcnk6ICdEQllQYWFTV2ViUlRDU0RLJywKICAgIGxpYnJhcnlUYXJnZXQ6ICdjb21tb25qczInLAo=</text>
+        <text encoding="base64">ICAgICJidWlsZDpyZWxlYXNlOmRldiI6ICJjcm9zcy1lbnYgTk9ERV9FTlY9cHJvZHVjdGlvbiBBUElfRU5WPWFwaV9kZXYgLi9ub2RlX21vZHVsZXMvLmJpbi93ZWJwYWNrIC0tY29uZmlnIHdlYnBhY2suY29uZmlnLnJlbGVhc2UuanMiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text>uild: 开启 source map 生成</text>
+        <text encoding="base64">ICAgIGxpYnJhcnk6ICdEQllQYWFTV2ViUlRDU0RLJywKICAgIGxpYnJhcnlUYXJnZXQ6ICdjb21tb25qczInLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmlzTG9nZ2VkSW4gPT09IHRydWUpIHsgLy8gVE9ETyDljrvpmaTmo4Dmn6UKICAgICAgcmVqZWN0KG5ldyBHbXNCYXNlRXJyb3IoJ2NsaWVudCBhbHJlYWR5IGxvZ2dlZCBpbiEnLCBMb2dpbkVycm9yLkxPR0lOX0VSUl9BTFJFQURZX0xPR0lOKSkKICAgICAgcmV0dXJuCiAgICB9Cg==</text>
+        <text>uild: 开启 source map 生成</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1421,10 +1421,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVhc29uCg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmlzTG9nZ2VkSW4gPT09IHRydWUpIHsgLy8gVE9ETyDljrvpmaTmo4Dmn6UKICAgICAgcmVqZWN0KG5ldyBHbXNCYXNlRXJyb3IoJ2NsaWVudCBhbHJlYWR5IGxvZ2dlZCBpbiEnLCBMb2dpbkVycm9yLkxPR0lOX0VSUl9BTFJFQURZX0xPR0lOKSkKICAgICAgcmV0dXJuCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9nb3V0KCkK</text>
+        <text encoding="base64">ICAgICAgcmVhc29uCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">dGFicHJldmlvdXMg</text>
