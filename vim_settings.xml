@@ -5,12 +5,7 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRJb0luc3RhbmNlXD4=</entry>
-        <entry>settimeout</entry>
-        <entry>socketwr</entry>
-        <entry encoding="base64">XDxEaXNjb25uZWN0UmVhc29uXD4=</entry>
         <entry encoding="base64">XDxyZXNvbHZlXD4=</entry>
-        <entry>login</entry>
         <entry encoding="base64">XDxpbnRlcm5hbFw+</entry>
         <entry>reconnecting</entry>
         <entry encoding="base64">XDxpc1JlY29ubmVjdGluZ1w+</entry>
@@ -25,9 +20,13 @@
         <entry>logout</entry>
         <entry encoding="base64">XDxsb2dvdXRcPg==</entry>
         <entry>io.disconn</entry>
+        <entry>connectionstate</entry>
+        <entry>clean</entry>
+        <entry encoding="base64">XDxDbGVhbldlYnBhY2tQbHVnaW5cPg==</entry>
+        <entry>appid</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Toast.error/console.error/g</entry>
         <entry>43</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry>wq</entry>
@@ -41,12 +40,13 @@
         <entry>action PreviousTab</entry>
         <entry encoding="base64">LiwuKzJ0YWJwcmV2aW91cyA=</entry>
         <entry>nohlsearch</entry>
-        <entry>action Back</entry>
         <entry>action Forward</entry>
-        <entry>tabnext</entry>
         <entry>reg</entry>
-        <entry encoding="base64">dGFicHJldmlvdXMg</entry>
+        <entry>110</entry>
         <entry>q</entry>
+        <entry>action Back</entry>
+        <entry>tabnext</entry>
+        <entry encoding="base64">dGFicHJldmlvdXMg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -167,6 +167,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/webpack.config.test.js" timestamp="1592896616317">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="19" />
+      </file>
       <file name="/fragment.js" timestamp="1592880319415">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -179,12 +185,6 @@
       <file name="/socket.ts" timestamp="1592886181888">
         <mark key="'" line="63" column="2" />
       </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/tsconfig.json" timestamp="1592812174042">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="22" />
-      </file>
       <file name="/JavaScript Console" timestamp="1592882222547">
         <mark key="[" line="0" column="0" />
       </file>
@@ -194,19 +194,32 @@
         <mark key="^" line="128" column="11" />
         <mark key="." line="128" column="10" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/webpack.config.base.js" timestamp="1592812149106">
-        <mark key="'" line="119" column="3" />
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/webpack.config.release.js" timestamp="1592896339000">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="15" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/webpack.config.base.js" timestamp="1592896661356">
+        <mark key="'" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test/index.ts" timestamp="1592897089100">
+        <mark key="'" line="6" column="25" />
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="79" />
+        <mark key="." line="4" column="78" />
+        <mark key="^" line="4" column="79" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/.eslintrc.js" timestamp="1592818458826" />
-      <file name="/Dummy.txt" timestamp="1592886093440">
+      <file name="/Dummy.txt" timestamp="1592897041318">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592886618711">
-        <mark key="'" line="307" column="4" />
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592896060273">
+        <mark key="'" line="165" column="10" />
         <mark key="[" line="189" column="21" />
         <mark key="]" line="189" column="30" />
         <mark key="." line="189" column="29" />
@@ -219,18 +232,15 @@
         <mark key="." line="87" column="12" />
         <mark key="^" line="87" column="13" />
       </file>
-      <file name="webpack-internal:///./sample/index.ts" timestamp="1592810321601">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" timestamp="1592896948856">
+        <mark key="'" line="58" column="2" />
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="62" column="3" />
+        <mark key="^" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
-      <file name="webpack:///(webpack)-dev-server/client" timestamp="1592810300168">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" timestamp="1592808631162">
-        <mark key="'" line="108" column="2" />
-        <mark key="[" line="97" column="21" />
-        <mark key="]" line="97" column="26" />
-        <mark key="^" line="97" column="26" />
-        <mark key="." line="97" column="25" />
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms.ts" timestamp="1592896905868">
+        <mark key="'" line="34" column="12" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" timestamp="1592886486672">
         <mark key="'" line="136" column="11" />
@@ -239,40 +249,24 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/index.ts" timestamp="1592896812030">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/package.json" timestamp="1592896774911">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="19" />
+      </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" timestamp="1592886141273">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="^" line="9" column="14" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="webpack:////media/zyf/data/Programming/project/duobei/dby-h5-clients/node_modules/component-emitter/index.js" timestamp="1592815752550">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/webpack.config.sample.js" timestamp="1592812240639">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="33" />
-        <mark key="^" line="13" column="33" />
-        <mark key="." line="13" column="32" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="21" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="209" column="99" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="279" column="11" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="208" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="257" column="14" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="243" column="83" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="270" column="10" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="80" column="30" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/GmsErrorCode.ts" />
-      <jump line="228" column="24" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="238" column="62" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="249" column="30" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="252" column="14" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="288" column="6" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="31" column="5" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="99" column="14" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="114" column="10" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="336" column="8" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
@@ -316,7 +310,6 @@
       <jump line="308" column="4" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="310" column="7" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="59" column="2" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="187" column="49" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="192" column="49" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="193" column="9" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="213" column="8" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
@@ -327,7 +320,6 @@
       <jump line="290" column="9" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="294" column="17" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="301" column="86" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="165" column="2" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="218" column="87" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="278" column="88" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="63" column="2" filename="/socket.ts" />
@@ -338,7 +330,6 @@
       <jump line="136" column="11" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
       <jump line="4" column="7" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="176" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="184" column="55" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="190" column="53" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="247" column="30" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
@@ -359,12 +350,29 @@
       <jump line="217" column="46" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="189" column="29" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="307" column="4" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="187" column="31" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="74" column="9" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="165" column="10" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="126" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/webpack.config.base.js" />
+      <jump line="2" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/webpack.config.base.js" />
+      <jump line="11" column="7" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms.ts" />
+      <jump line="120" column="17" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
+      <jump line="31" column="39" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
+      <jump line="0" column="9" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test/index.ts" />
+      <jump line="34" column="12" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms.ts" />
+      <jump line="3" column="24" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test/index.ts" />
+      <jump line="37" column="34" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
+      <jump line="58" column="2" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test/index.ts" />
+      <jump line="5" column="25" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmlzTG9nZ2VkSW4gPT09IHRydWUpIHsgLy8gVE9ETyDljrvpmaTmo4Dmn6UKICAgICAgcmVqZWN0KG5ldyBHbXNCYXNlRXJyb3IoJ2NsaWVudCBhbHJlYWR5IGxvZ2dlZCBpbiEnLCBMb2dpbkVycm9yLkxPR0lOX0VSUl9BTFJFQURZX0xPR0lOKSkKICAgICAgcmV0dXJuCiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>: ``</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1310,46 +1318,50 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>: ``</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>io.disconn</text>
+        <text>login</text>
       </register>
-      <register name="0" type="4">
-        <text>logoutBeforeLoggedIn</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB1c2VySWQ6ICd1c2VySWQxJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmlzTG9nZ2VkSW4gPT09IHRydWUpIHsgLy8gVE9ETyDljrvpmaTmo4Dmn6UKICAgICAgcmVqZWN0KG5ldyBHbXNCYXNlRXJyb3IoJ2NsaWVudCBhbHJlYWR5IGxvZ2dlZCBpbiEnLCBMb2dpbkVycm9yLkxPR0lOX0VSUl9BTFJFQURZX0xPR0lOKSkKICAgICAgcmV0dXJuCiAgICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgdXNlcklkID0gCg==</text>
       </register>
       <register name="q" type="4">
         <text>leave</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVhc29uCg==</text>
+      <register name="2" type="4">
+        <text>{
+  userId: `user-${userId}`,
+    token: `dbyInternalTest`,
+  timestamp: Date.now(),
+}</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9nb3V0KCkK</text>
+        <text>import default from '../index'</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBpby5kaXNjb25uZWN0KCkgLy8g5Lya5YGc5q2i6YeN6L+eCg==</text>
+        <text encoding="base64">ICAgICJidWlsZDpyZWxlYXNlOmRldiI6ICJjcm9zcy1lbnYgTk9ERV9FTlY9cHJvZHVjdGlvbiBBUElfRU5WPWFwaV9kZXYgLi9ub2RlX21vZHVsZXMvLmJpbi93ZWJwYWNrIC0tY29uZmlnIHdlYnBhY2suY29uZmlnLnJlbGVhc2UuanMiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpYnJhcnk6ICdEQllQYWFTV2ViUlRDU0RLJywKICAgIGxpYnJhcnlUYXJnZXQ6ICdjb21tb25qczInLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlvLmRpc2Nvbm5lY3QoKSAvLyDkvJrlgZzmraLph43ov54KCg==</text>
+        <text>uild: 开启 source map 生成</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmlzUmVjb25uZWN0aW5nKSB7CiAgICAgIC8vIOatpOaXtuiwg+eUqCBkaXNjb25uZWN0IOS4jeS8muinpuWPkSBkaXNjb25uZWN0IOS6i+S7tgogICAgICB0aGlzLmlzUmVjb25uZWN0aW5nID0gZmFsc2UKICAgICAgdGhpcy5jb25uZWN0aW9uU3RhdGVDaGFuZ2UoQ29ubmVjdGlvblN0YXRlLkRJU0NPTk5FQ1RFRCwgQ29ubmVjdGlvbkNoYW5nZVJlYXNvbi5MT0dPVVQpCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmlzTG9nZ2VkSW4gPT09IHRydWUpIHsgLy8gVE9ETyDljrvpmaTmo4Dmn6UKICAgICAgcmVqZWN0KG5ldyBHbXNCYXNlRXJyb3IoJ2NsaWVudCBhbHJlYWR5IGxvZ2dlZCBpbiEnLCBMb2dpbkVycm9yLkxPR0lOX0VSUl9BTFJFQURZX0xPR0lOKSkKICAgICAgcmV0dXJuCiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1409,21 +1421,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ291dAo=</text>
+        <text encoding="base64">ICAgICAgcmVhc29uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ291dCgpIC8vIFRPRE8gcmVtb3ZlCg==</text>
+        <text encoding="base64">ICAgIHRoaXMubG9nb3V0KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text encoding="base64">dGFicHJldmlvdXMg</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>io.disconn</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>io.disconn</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
