@@ -5,12 +5,10 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ca</entry>
         <entry>24 *</entry>
         <entry>disconnectrea</entry>
         <entry>login</entry>
         <entry>getioin</entry>
-        <entry encoding="base64">XDxFeHBpcmVkVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxDT05ORUNURURcPg==</entry>
         <entry>login_err_un</entry>
         <entry>reconn</entry>
@@ -25,6 +23,8 @@
         <entry>logoutbefore</entry>
         <entry encoding="base64">XDxsb2dvdXRCZWZvcmVMb2dnZWRJblw+</entry>
         <entry>remove</entry>
+        <entry encoding="base64">XDxFeHBpcmVkVG9rZW5cPg==</entry>
+        <entry encoding="base64">XDxSRUNPTk5FQ1RJTkdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -42,11 +42,11 @@
         <entry>38</entry>
         <entry encoding="base64">JzwsJz5zLz0gJy89ICdsb2dpbkZhaWw6IC8=</entry>
         <entry>nohlsearch</entry>
-        <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry encoding="base64">dGFicHJldmlvdXMg</entry>
         <entry>tabnext</entry>
         <entry>q</entry>
+        <entry>action Forward</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -167,12 +167,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" timestamp="1592998103606">
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" timestamp="1592998894139">
         <mark key="'" line="37" column="20" />
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="1" />
+        <mark key="[" line="148" column="18" />
+        <mark key="]" line="148" column="18" />
+        <mark key="." line="148" column="17" />
+        <mark key="^" line="148" column="18" />
       </file>
       <file name="/fragment.js" timestamp="1592984139727">
         <mark key="[" line="0" column="0" />
@@ -198,24 +198,24 @@
         <mark key="^" line="16" column="78" />
         <mark key="." line="16" column="77" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592998179436">
+      <file name="/JavaScript Console" timestamp="1592998229819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592983835304">
         <mark key="'" line="292" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592997991784">
+      <file name="/Dummy.txt" timestamp="1592999740914">
         <mark key="'" line="0" column="9" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592998108312">
-        <mark key="'" line="255" column="26" />
-        <mark key="[" line="266" column="59" />
-        <mark key="]" line="266" column="86" />
-        <mark key="." line="266" column="59" />
-        <mark key="^" line="266" column="59" />
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592999838096">
+        <mark key="'" line="136" column="57" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
+        <mark key="^" line="172" column="23" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/GmsErrorCode.ts" timestamp="1592987340242">
         <mark key="'" line="80" column="2" />
@@ -230,15 +230,18 @@
         <mark key="[" line="557" column="8" />
         <mark key="]" line="557" column="25" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" timestamp="1592994202142">
-        <mark key="'" line="132" column="13" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" timestamp="1592998828734">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms.ts" timestamp="1592977791063">
-        <mark key="'" line="46" column="2" />
-        <mark key="[" line="39" column="47" />
-        <mark key="]" line="39" column="102" />
-        <mark key="." line="37" column="56" />
-        <mark key="^" line="37" column="66" />
+        <mark key="'" line="44" column="2" />
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="102" />
+        <mark key="." line="35" column="56" />
+        <mark key="^" line="35" column="66" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" timestamp="1592980662304">
         <mark key="'" line="274" column="17" />
@@ -270,15 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="49" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="133" column="15" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="134" column="21" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="247" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="248" column="41" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="12" column="36" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/index.ts" />
-      <jump line="14" column="6" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/sdk.ts" />
-      <jump line="33" column="33" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/sdk.ts" />
-      <jump line="11" column="54" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
       <jump line="17" column="4" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
       <jump line="11" column="60" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
       <jump line="21" column="83" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
@@ -315,7 +309,6 @@
       <jump line="214" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="151" column="49" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="287" column="32" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="168" column="12" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="153" column="49" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="185" column="49" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="208" column="49" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
@@ -370,12 +363,22 @@
       <jump line="26" column="2" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
       <jump line="37" column="20" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
       <jump line="255" column="26" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="142" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="158" column="32" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="294" column="32" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="171" column="71" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="169" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="293" column="32" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="159" column="56" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="168" column="46" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="321" column="50" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="136" column="57" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>logoutBeforeLoggedInHandler</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB9LCAxMDAwKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1321,46 +1324,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>removeListener</text>
+        <text>BANNED_BY_SERVER</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text encoding="base64">XDxSRUNPTk5FQ1RJTkdcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>logoutBeforeLoggedInHandler</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmhhbmRsZUNvbm5lY3Rpb25TdGF0ZUNoYW5nZShDb25uZWN0aW9uU3RhdGUuUkVDT05ORUNUSU5HLCBDb25uZWN0aW9uQ2hhbmdlUmVhc29uLklOVEVSUlVQVEVEKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICByZWplY3QobmV3IEdtc0Jhc2VFcnJvcignbG9naW4gYWJvcnQgYnkgbG9nb3V0JywgTG9naW5FcnJvci5MT0dJTl9FUlJfQUJPUlRFRF9CWV9MT0dPVVQpKQogICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB9LCAxMDAwKQo=</text>
       </register>
       <register name="q" type="4">
         <text>this.connectionState != ConnectionState.CONNECTED</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaW8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsK</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KHJlYXNvbjogc3RyaW5nKSA9PiB7CiAgICAgIGxvZ2dlci5pbmZvKCdkaXNjb25uZWN0IG9uY2UnLCB7IHJlYXNvbiB9KTsKCiAgICAgIGxldCBsb2dpbkVycm9yQ29kZTogTG9naW5FcnJvciA9IExvZ2luRXJyb3IuTE9HSU5fRVJSX1VOS05PV04KICAgICAgaWYgKHJlYXNvbiA9PSAnaW8gY2xpZW50IGRpc2Nvbm5lY3QnKSB7CiAgICAgICAgbG9naW5FcnJvckNvZGUgPSBMb2dpbkVycm9yLkxPR0lOX0VSUl9BQk9SVEVEX0JZX0xPR09VVAogICAgICB9IGVsc2UgaWYgKHJlYXNvbiA9PSAnaW8gc2VydmVyIGRpc2Nvbm5lY3QnKSB7CiAgICAgICAgc3dpdGNoIChkaXNjb25uZWN0UmVhc29uKSB7CiAgICAgICAgICBjYXNlICBEaXNjb25uZWN0UmVhc29uLkludmFsaWRBcHBJZDoKICAgICAgICAgICAgbG9naW5FcnJvckNvZGUgPSBMb2dpbkVycm9yLkxPR0lOX0VSUl9JTlZBTElEX0FQUF9JRAogICAgICAgICAgICBicmVhawogICAgICAgICAgY2FzZSBEaXNjb25uZWN0UmVhc29uLkludmFsaWRBcmd1bWVudDoKICAgICAgICAgICAgbG9naW5FcnJvckNvZGUgPSBMb2dpbkVycm9yLkxPR0lOX0VSUl9JTlZBTElEX0FSR1VNRU5UCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICBjYXNlIERpc2Nvbm5lY3RSZWFzb24uSW52YWxpZFRva2VuOgogICAgICAgICAgICBsb2dpbkVycm9yQ29kZSA9IExvZ2luRXJyb3IuTE9HSU5fRVJSX0lOVkFMSURfVE9LRU4KICAgICAgICAgICAgYnJlYWsKICAgICAgICAgIGNhc2UgRGlzY29ubmVjdFJlYXNvbi5FeHBpcmVkVG9rZW46CiAgICAgICAgICAgIGxvZ2luRXJyb3JDb2RlID0gTG9naW5FcnJvci5MT0dJTl9FUlJfVE9LRU5fRVhQSVJFRAogICAgICAgICAgICBicmVhawogICAgICAgICAgY2FzZSBEaXNjb25uZWN0UmVhc29uLkF1dGhGYWlsOgogICAgICAgICAgICBsb2dpbkVycm9yQ29kZSA9IExvZ2luRXJyb3IuTE9HSU5fRVJSX05PVF9BVVRIT1JJWkVECiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgfQogICAgICB9CiAgICAgIHJlamVjdChuZXcgR21zQmFzZUVycm9yKCdsb2dpbiBlcnJvcicsIGxvZ2luRXJyb3JDb2RlKSkKICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5oYW5kbGVDb25uZWN0aW9uU3RhdGVDaGFuZ2UoQ29ubmVjdGlvblN0YXRlLlJFQ09OTkVDVElORywgQ29ubmVjdGlvbkNoYW5nZVJlYXNvbi5JTlRFUlJVUFRFRCkK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW8K</text>
+        <text encoding="base64">ICBhZnRlcmRkCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIGZhaWwgaWYgbG9nb3V0IGJlZm9yZSBsb2dpbicsIGFzeW5jICgpID0+IHsKICB9KQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICByZWplY3QobmV3IEdtc0Jhc2VFcnJvcignbG9naW4gYWJvcnQgYnkgbG9nb3V0JywgTG9naW5FcnJvci5MT0dJTl9FUlJfQUJPUlRFRF9CWV9MT0dPVVQpKQogICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGdtcy5sb2dvdXQoKS50aGVuKCgpID0+IHsgdGhyb3cgJ3Nob3VsZCB0aHJvdycgfSkKICAgICAgLmNhdGNoKCh7IGNvZGUgfSkgPT4gZXhwZWN0KGNvZGUpLnRvQmUoTG9nb3V0RXJyb3IuTE9HT1VUX0VSUl9VU0VSX05PVF9MT0dHRURfSU4pKQo=</text>
+        <text encoding="base64">ICAgICAgaW8K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkICcsIGFzeW5jICgpID0+IHsgZ21zLnNvY2tldC5ob3N0cyA9IFsnaHR0cDovL2JhaWR1LmNvbTozNzU2J10KICAgIC8vIFRPRE8KICB9KTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">KHJlYXNvbjogc3RyaW5nKSA9PiB7CiAgICAgIGxvZ2dlci5pbmZvKCdkaXNjb25uZWN0IG9uY2UnLCB7IHJlYXNvbiB9KTsKCiAgICAgIGxldCBsb2dpbkVycm9yQ29kZTogTG9naW5FcnJvciA9IExvZ2luRXJyb3IuTE9HSU5fRVJSX1VOS05PV04KICAgICAgaWYgKHJlYXNvbiA9PSAnaW8gY2xpZW50IGRpc2Nvbm5lY3QnKSB7CiAgICAgICAgbG9naW5FcnJvckNvZGUgPSBMb2dpbkVycm9yLkxPR0lOX0VSUl9BQk9SVEVEX0JZX0xPR09VVAogICAgICB9IGVsc2UgaWYgKHJlYXNvbiA9PSAnaW8gc2VydmVyIGRpc2Nvbm5lY3QnKSB7CiAgICAgICAgc3dpdGNoIChkaXNjb25uZWN0UmVhc29uKSB7CiAgICAgICAgICBjYXNlICBEaXNjb25uZWN0UmVhc29uLkludmFsaWRBcHBJZDoKICAgICAgICAgICAgbG9naW5FcnJvckNvZGUgPSBMb2dpbkVycm9yLkxPR0lOX0VSUl9JTlZBTElEX0FQUF9JRAogICAgICAgICAgICBicmVhawogICAgICAgICAgY2FzZSBEaXNjb25uZWN0UmVhc29uLkludmFsaWRBcmd1bWVudDoKICAgICAgICAgICAgbG9naW5FcnJvckNvZGUgPSBMb2dpbkVycm9yLkxPR0lOX0VSUl9JTlZBTElEX0FSR1VNRU5UCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICBjYXNlIERpc2Nvbm5lY3RSZWFzb24uSW52YWxpZFRva2VuOgogICAgICAgICAgICBsb2dpbkVycm9yQ29kZSA9IExvZ2luRXJyb3IuTE9HSU5fRVJSX0lOVkFMSURfVE9LRU4KICAgICAgICAgICAgYnJlYWsKICAgICAgICAgIGNhc2UgRGlzY29ubmVjdFJlYXNvbi5FeHBpcmVkVG9rZW46CiAgICAgICAgICAgIGxvZ2luRXJyb3JDb2RlID0gTG9naW5FcnJvci5MT0dJTl9FUlJfVE9LRU5fRVhQSVJFRAogICAgICAgICAgICBicmVhawogICAgICAgICAgY2FzZSBEaXNjb25uZWN0UmVhc29uLkF1dGhGYWlsOgogICAgICAgICAgICBsb2dpbkVycm9yQ29kZSA9IExvZ2luRXJyb3IuTE9HSU5fRVJSX05PVF9BVVRIT1JJWkVECiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgfQogICAgICB9CiAgICAgIHJlamVjdChuZXcgR21zQmFzZUVycm9yKCdsb2dpbiBlcnJvcicsIGxvZ2luRXJyb3JDb2RlKSkKICAgIH0=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1420,21 +1423,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlcnZlciA9IGlvU2VydmVyKCkK</text>
+        <text encoding="base64">ICAgICAgaW8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkIGZhaWwgaWYgbG9nb3V0IGJlZm9yZSBsb2dpbicsIGFzeW5jICgpID0+IHsKICB9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>remove</last-search>
+      <last-search encoding="base64">XDxSRUNPTk5FQ1RJTkdcPg==</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern encoding="base64">XDxSRUNPTk5FQ1RJTkdcPg==</last-pattern>
       <last-replace encoding="base64">PSAnbG9naW5GYWlsOiA=</last-replace>
       <last-substitute>= '</last-substitute>
       <last-dir>1</last-dir>
