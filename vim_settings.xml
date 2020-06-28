@@ -210,12 +210,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592999838096">
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1593000708141">
         <mark key="'" line="136" column="57" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="172" column="23" />
+        <mark key="[" line="164" column="19" />
+        <mark key="]" line="168" column="17" />
+        <mark key="." line="168" column="16" />
+        <mark key="^" line="168" column="17" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/GmsErrorCode.ts" timestamp="1592987340242">
         <mark key="'" line="80" column="2" />
@@ -237,11 +237,11 @@
         <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms.ts" timestamp="1592977791063">
-        <mark key="'" line="44" column="2" />
-        <mark key="[" line="37" column="47" />
-        <mark key="]" line="37" column="102" />
-        <mark key="." line="35" column="56" />
-        <mark key="^" line="35" column="66" />
+        <mark key="'" line="46" column="2" />
+        <mark key="[" line="39" column="47" />
+        <mark key="]" line="39" column="102" />
+        <mark key="." line="37" column="56" />
+        <mark key="^" line="37" column="66" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" timestamp="1592980662304">
         <mark key="'" line="274" column="17" />
@@ -377,8 +377,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LCAxMDAwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1324,7 +1324,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>BANNED_BY_SERVER</text>
+        <text>{</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1332,8 +1332,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxSRUNPTk5FQ1RJTkdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmhhbmRsZUNvbm5lY3Rpb25TdGF0ZUNoYW5nZShDb25uZWN0aW9uU3RhdGUuUkVDT05ORUNUSU5HLCBDb25uZWN0aW9uQ2hhbmdlUmVhc29uLklOVEVSUlVQVEVEKQo=</text>
+      <register name="0" type="4">
+        <text>INTERRUPTED</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB9LCAxMDAwKQo=</text>
