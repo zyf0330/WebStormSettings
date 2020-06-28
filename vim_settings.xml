@@ -192,12 +192,10 @@
         <mark key="^" line="31" column="34" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" timestamp="1593315644300">
-        <mark key="'" line="46" column="25" />
-        <mark key="[" line="63" column="32" />
-        <mark key="]" line="63" column="33" />
-        <mark key="." line="63" column="32" />
-        <mark key="^" line="63" column="33" />
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" timestamp="1593317329381">
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="5" />
+        <mark key="^" line="13" column="6" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" timestamp="1593314382295">
         <mark key="'" line="15" column="44" />
@@ -215,7 +213,7 @@
         <mark key="^" line="16" column="78" />
         <mark key="." line="16" column="77" />
       </file>
-      <file name="/JavaScript Console" timestamp="1593315629298">
+      <file name="/JavaScript Console" timestamp="1593316216206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592983835304">
@@ -276,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
       <jump line="53" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
       <jump line="10" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/util.ts" />
       <jump line="4" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/util.ts" />
@@ -366,7 +363,6 @@
       <jump line="6" column="11" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
       <jump line="8" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
       <jump line="26" column="18" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
-      <jump line="18" column="39" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
       <jump line="24" column="56" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
       <jump line="19" column="91" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
       <jump line="21" column="8" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
@@ -376,12 +372,14 @@
       <jump line="17" column="4" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
       <jump line="43" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
       <jump line="44" column="25" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
+      <jump line="28" column="4" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
+      <jump line="18" column="8" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID09PT09PT09PT0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGVpZCA9IGFzeW5jX2hvb2tzLmV4ZWN1dGlvbkFzeW5jSWQoKTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1327,7 +1325,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09PT09PT09PT0=</text>
+        <text>TCPWRAP</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1335,40 +1333,38 @@
       <register name="/" type="4">
         <text>tinde</text>
       </register>
-      <register name="0" type="4">
-        <text>'tinderdev-sio-bj.duobeiyun.com'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmKFsnVENQV1JBUCddLmluY2x1ZGVzKHR5cGUpKXsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVpZCA9IGFzeW5jX2hvb2tzLmV4ZWN1dGlvbkFzeW5jSWQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text>this.connectionState != ConnectionState.CONNECTED</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0SW50ZXJ2YWwoKCkgPT4gewogIGNsaWVudC5lbWl0KCdwaW5nJykKfSk=</text>
+        <text encoding="base64">ICAgIC8vIGlmICh0eXBlID09ICdHRVRBRERSSU5GT1JFUVdSQVAnKSB7CiAgICAvLyAgIHJlc291cmNlLmhvc3RuYW1lID09ICd0aW5kZXJkZXYtc2lvLWJqLmR1b2JlaXl1bi5jb20nCiAgICAvLyAgIGNvbnN0IF9vbmNvbXBsZXRlID0gcmVzb3VyY2Uub25jb21wbGV0ZQogICAgLy8gICByZXNvdXJjZS5vbmNvbXBsZXRlID0gZnVuY3Rpb24gKC4uLmFyZ3MpICB7CiAgICAvLyAgICAgX29uY29tcGxldGUuY2FsbChyZXNvdXJjZSwgbmV3IEVycm9yKCdteWVycm9yJyksICkKICAgIC8vICAgfQogICAgLy8gfQo=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KCkgPSB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0eXBlID09ICdUQ1BDT05ORUNUV1JBUCcpIHsKICAgICAgcmVzb3VyY2UuYWRkcmVzcwogICAgICByZXNvdXJjZS5wb3J0ID09IDIwMDgwCiAgICAgIHJlc291cmNlLm9uY29tcGxldGUKICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY2xpZW50ID0gaW8oJ2h0dHA6Ly90aW5kZXJkZXYtc2lvLWJqLmR1b2JlaXl1bi5jb206MjAwODAnLCB7CiAgdHJhbnNwb3J0czogWyd3ZWJzb2NrZXQnXQp9KQo=</text>
+        <text encoding="base64">ICAgIGlmKFsnVGltZW91dCddLmluY2x1ZGVzKHR5cGUpKXsKICAgICAgZGVidWdnZXIKCiAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>() = {
-  
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc28K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgX2NhbGxiYWNrID0gcmVzb3VyY2UuY2FsbGJhY2sKICAgICAgcmVzb3VyY2UuY2FsbGJhY2sgPSBmdW5jdGlvbiAoLi4uYXJncykgewogICAgICAgIF9jYWxsYmFjay5jYWxsKHJlc291cmNlLCAuLi5hcmdzKQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1428,10 +1424,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5hcmdzCg==</text>
+        <text encoding="base64">c2V0SW50ZXJ2YWwoKCkgPT4gewogIGNsaWVudC5lbWl0KCdwaW5nJykKfSk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICghWydUaW1lb3V0JywgJ1RpY2tPYmplY3QnXS5pbmNsdWRlcyh0eXBlKSkgewogICAgICBmcy53cml0ZVN5bmMoCiAgICAgICAgMSwKICAgICAgICBgJHt0eXBlfSgke2FzeW5jSWR9KTpgICsKICAgICAgICBgIHRyaWdnZXI6ICR7dHJpZ2dlckFzeW5jSWR9IGV4ZWN1dGlvbjogJHtlaWR9XG5gKTsKICAgIH0K</text>
+        <text encoding="base64">KCkgPSB7Cgp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
