@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>tinde</entry>
-        <entry>todo</entry>
-        <entry>recon</entry>
-        <entry encoding="base64">XDxMT0dJTl9FUlJfVU5LTk9XTlw+</entry>
-        <entry>skiip</entry>
         <entry>skip</entry>
         <entry>timeout</entry>
         <entry encoding="base64">XDx0b2tlblw+</entry>
@@ -25,9 +20,13 @@
         <entry encoding="base64">XDxlbmRMYXRlc3RTb2NrZXRcPg==</entry>
         <entry>c-f</entry>
         <entry>f</entry>
+        <entry>todo</entry>
+        <entry>this.emit</entry>
+        <entry>this.on</entry>
+        <entry encoding="base64">XDxHbXNFdmVudHNcPg==</entry>
+        <entry>});</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLz0vOi8=</entry>
         <entry encoding="base64">JzwsJz5zLzsvLC8=</entry>
@@ -44,9 +43,10 @@
         <entry>q</entry>
         <entry>action Forward</entry>
         <entry>tabnext</entry>
-        <entry>action Back</entry>
         <entry encoding="base64">dGFicHJldmlvdXMg</entry>
         <entry>nohlsearch</entry>
+        <entry>action Back</entry>
+        <entry>%s/});/})/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -174,7 +174,7 @@
         <mark key="." line="152" column="30" />
         <mark key="^" line="152" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593328551377">
+      <file name="/Dummy.txt" timestamp="1593330950435">
         <mark key="'" line="0" column="9" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -190,7 +190,7 @@
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/GmsErrorCode.ts" timestamp="1592987340242">
         <mark key="'" line="80" column="2" />
       </file>
-      <file name="/fragment.js" timestamp="1593327441375">
+      <file name="/fragment.js" timestamp="1593330853913">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
@@ -229,22 +229,15 @@
         <mark key="[" line="557" column="8" />
         <mark key="]" line="557" column="25" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" timestamp="1593329338542">
-        <mark key="'" line="157" column="4" />
-        <mark key="[" line="159" column="5" />
-        <mark key="]" line="159" column="5" />
-        <mark key="." line="159" column="4" />
-        <mark key="^" line="159" column="5" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" timestamp="1593331490812">
+        <mark key="'" line="1" column="15" />
+        <mark key="[" line="171" column="24" />
+        <mark key="]" line="172" column="12" />
+        <mark key="." line="172" column="11" />
+        <mark key="^" line="172" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1593329010186">
+      <file name="/JavaScript Console" timestamp="1593331014033">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" timestamp="1592980662304">
-        <mark key="'" line="274" column="17" />
-        <mark key="[" line="274" column="13" />
-        <mark key="]" line="274" column="13" />
-        <mark key="^" line="274" column="3" />
-        <mark key="." line="274" column="13" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/util.ts" timestamp="1593328843252">
         <mark key="'" line="19" column="67" />
@@ -253,12 +246,12 @@
         <mark key="." line="44" column="21" />
         <mark key="^" line="44" column="22" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1593328180587">
-        <mark key="'" line="319" column="15" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="317" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1593330918877">
+        <mark key="'" line="253" column="7" />
+        <mark key="[" line="228" column="63" />
+        <mark key="]" line="228" column="63" />
         <mark key="^" line="0" column="36" />
-        <mark key="." line="317" column="0" />
+        <mark key="." line="228" column="63" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/util.ts" timestamp="1593318981559">
         <mark key="'" line="34" column="37" />
@@ -277,19 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="158" column="32" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="294" column="32" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="171" column="71" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="169" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="293" column="32" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="159" column="56" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="168" column="46" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="321" column="50" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="136" column="57" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="6" column="11" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
-      <jump line="26" column="18" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
       <jump line="24" column="56" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
       <jump line="19" column="91" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
       <jump line="21" column="8" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
@@ -377,13 +357,25 @@
       <jump line="47" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/util.ts" />
       <jump line="19" column="67" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/util.ts" />
       <jump line="157" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="314" column="93" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="167" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="226" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="255" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="84" column="52" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
+      <jump line="55" column="52" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
+      <jump line="168" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="170" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="186" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="27" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="188" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="1" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text>let
-let</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IGdtcy5sb2dvdXQoKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1329,20 +1321,19 @@ let</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>20000</text>
+        <text>INTERRUPTED</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>f</text>
+        <text>});</text>
       </register>
-      <register name="0" type="4">
-        <text>gms.connectionState</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGdtcy5vbmNlKEdtc0NsaWVudEV2ZW50cy5Db25uZWN0aW9uU3RhdGVDaGFuZ2VkLCBhc3luYyAoc3RhdGUsIHJlYXNvbikgPT4gewogICAgICBleHBlY3Qoc3RhdGUpLnRvQmUoQ29ubmVjdGlvblN0YXRlLkNPTk5FQ1RJTkcpCiAgICAgIGV4cGVjdChyZWFzb24pLnRvQmUoQ29ubmVjdGlvbkNoYW5nZVJlYXNvbi5JTlRFUlJVUFRFRCkKCiAgICAgIGF3YWl0IGdtcy5sb2dvdXQoKQogICAgICBkb25lKCkKICAgIH0pCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>let
-let</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IGdtcy5sb2dvdXQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>this.connectionState != ConnectionState.CONNECTED</text>
@@ -1354,22 +1345,22 @@ let</text>
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQK</text>
+        <text encoding="base64">ICAgICAgZG9uZSgpCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgZ21zLmxvZ291dCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV4ZWN1dGlvbkFzeW5jSWQgPSBhc3luY19ob29rcy5leGVjdXRpb25Bc3luY0lkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBleGVjdXRpb25Bc3luY0lkIOi/m+ihjOi/nuaOpeWJjeiOt+WPlueahCBleGVjdXRpb25Bc3luY0lkCg==</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgZ21zLmxvZ291dCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlc3Ryb3koYXN5bmNJZCkgewogICAgICBzb2NrZXQgPSBudWxsCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgZG9uZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1429,25 +1420,25 @@ let</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc29ja2V0cy5kZWxldGUoYXN5bmNJZCkK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHByb21pc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNvY2tldHMuc2V0KHRyaWdnZXJBc3luY0lkLCByZXNvdXJjZS5vd25lcikK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByb21pc2UgPSAgZ21zLmxvZ2luKHsgdXNlcklkLCB0b2tlbiwgdGltZXN0YW1wIH0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>%s/});/})/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>f</last-search>
+      <last-search>});</last-search>
       <last-offset />
-      <last-pattern>f</last-pattern>
-      <last-replace encoding="base64">PSAnbG9naW5GYWlsOiA=</last-replace>
-      <last-substitute>= '</last-substitute>
+      <last-pattern>});</last-pattern>
+      <last-replace>})</last-replace>
+      <last-substitute>});</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
