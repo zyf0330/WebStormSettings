@@ -189,12 +189,12 @@
         <mark key="^" line="31" column="34" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" timestamp="1593311960520">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" timestamp="1593313186724">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="26" column="12" />
+        <mark key="^" line="18" column="25" />
       </file>
       <file name="internal/process/promises.js" timestamp="1592979760333">
         <mark key="[" line="0" column="0" />
@@ -205,7 +205,7 @@
         <mark key="^" line="16" column="78" />
         <mark key="." line="16" column="77" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592998229819">
+      <file name="/JavaScript Console" timestamp="1593313174637">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1592983835304">
@@ -273,13 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="83" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="23" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="25" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="281" column="37" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="33" column="15" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="0" column="9" filename="/Dummy.txt" />
-      <jump line="274" column="17" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
       <jump line="45" column="3" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
       <jump line="47" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
       <jump line="50" column="122" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
@@ -373,12 +366,19 @@
       <jump line="136" column="57" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="6" column="11" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
       <jump line="8" column="0" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
+      <jump line="43" column="1" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
+      <jump line="26" column="18" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
+      <jump line="18" column="39" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
+      <jump line="17" column="24" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
+      <jump line="24" column="56" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
+      <jump line="19" column="91" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
+      <jump line="21" column="8" filename="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgY2xpZW50PSBpbygnaHR0cDovL3RpbmRlcmRldi1zaW8tYmouZHVvYmVpeXVuLmNvbToyMDA4MCcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>CONNECT</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1324,7 +1324,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>util</text>
+        <text>CONNECT</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1333,37 +1333,37 @@
         <text encoding="base64">XDxSRUNPTk5FQ1RJTkdcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>INTERRUPTED</text>
+        <text>'TCPCONNECTWRAP'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgY2xpZW50PSBpbygnaHR0cDovL3RpbmRlcmRldi1zaW8tYmouZHVvYmVpeXVuLmNvbToyMDA4MCcpCg==</text>
+        <text encoding="base64">ICAgICAgdAo=</text>
       </register>
       <register name="q" type="4">
         <text>this.connectionState != ConnectionState.CONNECTED</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qge3ByaW50fSA9IHJlcXVpcmUoJ3V0aWwnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LCAxMDAwKQo=</text>
+        <text encoding="base64">ICAgIGZzLndyaXRlU3luYygKICAgICAgMSwKICAgICAgYCR7dHlwZX0oJHthc3luY0lkfSk6YCArCiAgICAgIGAgdHJpZ2dlcjogJHt0cmlnZ2VyQXN5bmNJZH0gZXhlY3V0aW9uOiAke2VpZH0gcmVzb3VyY2U6ICR7SlNPTi5zdHJpbmdpZnkocmVzb3VyY2UpfVxuYCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsK</text>
+        <text encoding="base64">YXN5bmNfaG9va3MuY3JlYXRlSG9vayh7CiAgaW5pdChhc3luY0lkLCB0eXBlLCB0cmlnZ2VyQXN5bmNJZCkgewogICAgY29uc3QgZWlkID0gYXN5bmNfaG9va3MuZXhlY3V0aW9uQXN5bmNJZCgpOwogICAgZnMud3JpdGVTeW5jKAogICAgICAxLCBgJHt0eXBlfSgke2FzeW5jSWR9KTogdHJpZ2dlcjogJHt0cmlnZ2VyQXN5bmNJZH0gZXhlY3V0aW9uOiAke2VpZH1cbmApOwogIH0KfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5oYW5kbGVDb25uZWN0aW9uU3RhdGVDaGFuZ2UoQ29ubmVjdGlvblN0YXRlLlJFQ09OTkVDVElORywgQ29ubmVjdGlvbkNoYW5nZVJlYXNvbi5JTlRFUlJVUFRFRCkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGluZGVudFN0ciA9ICcgJy5yZXBlYXQoaW5kZW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhZnRlcmRkCg==</text>
+        <text encoding="base64">bGV0IGluZGVudCA9IDIK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICByZWplY3QobmV3IEdtc0Jhc2VFcnJvcignbG9naW4gYWJvcnQgYnkgbG9nb3V0JywgTG9naW5FcnJvci5MT0dJTl9FUlJfQUJPUlRFRF9CWV9MT0dPVVQpKQogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBiZWZvcmUoYXN5bmNJZCkgewogICAgY29uc3QgaW5kZW50U3RyID0gJyAnLnJlcGVhdChpbmRlbnQpOwogICAgZnMud3JpdGVGaWxlU3luYygnbG9nLm91dCcsCiAgICAgICAgICAgICAgICAgICAgIGAke2luZGVudFN0cn1iZWZvcmU6ICAke2FzeW5jSWR9XG5gLCB7IGZsYWc6ICdhJyB9KTsKICAgIGluZGVudCArPSAyOwogIH0sCiAgYWZ0ZXIoYXN5bmNJZCkgewogICAgaW5kZW50IC09IDI7CiAgICBjb25zdCBpbmRlbnRTdHIgPSAnICcucmVwZWF0KGluZGVudCk7CiAgICBmcy53cml0ZUZpbGVTeW5jKCdsb2cub3V0JywKICAgICAgICAgICAgICAgICAgICAgYCR7aW5kZW50U3RyfWFmdGVyOiAgJHthc3luY0lkfVxuYCwgeyBmbGFnOiAnYScgfSk7CiAgfSwKICBkZXN0cm95KGFzeW5jSWQpIHsKICAgIGNvbnN0IGluZGVudFN0ciA9ICcgJy5yZXBlYXQoaW5kZW50KTsKICAgIGZzLndyaXRlRmlsZVN5bmMoJ2xvZy5vdXQnLAogICAgICAgICAgICAgICAgICAgICBgJHtpbmRlbnRTdHJ9ZGVzdHJveTogICR7YXN5bmNJZH1cbmAsIHsgZmxhZzogJ2EnIH0pOwogIH0sCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1423,10 +1423,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaW8K</text>
+        <text encoding="base64">YXN5bmNfaG9va3MuZW5hYmxlKCkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">KHJlYXNvbjogc3RyaW5nKSA9PiB7CiAgICAgIGxvZ2dlci5pbmZvKCdkaXNjb25uZWN0IG9uY2UnLCB7IHJlYXNvbiB9KTsKCiAgICAgIGxldCBsb2dpbkVycm9yQ29kZTogTG9naW5FcnJvciA9IExvZ2luRXJyb3IuTE9HSU5fRVJSX1VOS05PV04KICAgICAgaWYgKHJlYXNvbiA9PSAnaW8gY2xpZW50IGRpc2Nvbm5lY3QnKSB7CiAgICAgICAgbG9naW5FcnJvckNvZGUgPSBMb2dpbkVycm9yLkxPR0lOX0VSUl9BQk9SVEVEX0JZX0xPR09VVAogICAgICB9IGVsc2UgaWYgKHJlYXNvbiA9PSAnaW8gc2VydmVyIGRpc2Nvbm5lY3QnKSB7CiAgICAgICAgc3dpdGNoIChkaXNjb25uZWN0UmVhc29uKSB7CiAgICAgICAgICBjYXNlICBEaXNjb25uZWN0UmVhc29uLkludmFsaWRBcHBJZDoKICAgICAgICAgICAgbG9naW5FcnJvckNvZGUgPSBMb2dpbkVycm9yLkxPR0lOX0VSUl9JTlZBTElEX0FQUF9JRAogICAgICAgICAgICBicmVhawogICAgICAgICAgY2FzZSBEaXNjb25uZWN0UmVhc29uLkludmFsaWRBcmd1bWVudDoKICAgICAgICAgICAgbG9naW5FcnJvckNvZGUgPSBMb2dpbkVycm9yLkxPR0lOX0VSUl9JTlZBTElEX0FSR1VNRU5UCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICBjYXNlIERpc2Nvbm5lY3RSZWFzb24uSW52YWxpZFRva2VuOgogICAgICAgICAgICBsb2dpbkVycm9yQ29kZSA9IExvZ2luRXJyb3IuTE9HSU5fRVJSX0lOVkFMSURfVE9LRU4KICAgICAgICAgICAgYnJlYWsKICAgICAgICAgIGNhc2UgRGlzY29ubmVjdFJlYXNvbi5FeHBpcmVkVG9rZW46CiAgICAgICAgICAgIGxvZ2luRXJyb3JDb2RlID0gTG9naW5FcnJvci5MT0dJTl9FUlJfVE9LRU5fRVhQSVJFRAogICAgICAgICAgICBicmVhawogICAgICAgICAgY2FzZSBEaXNjb25uZWN0UmVhc29uLkF1dGhGYWlsOgogICAgICAgICAgICBsb2dpbkVycm9yQ29kZSA9IExvZ2luRXJyb3IuTE9HSU5fRVJSX05PVF9BVVRIT1JJWkVECiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgfQogICAgICB9CiAgICAgIHJlamVjdChuZXcgR21zQmFzZUVycm9yKCdsb2dpbiBlcnJvcicsIGxvZ2luRXJyb3JDb2RlKSkKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">YXN5bmNfaG9va3MuZW5hYmxlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
