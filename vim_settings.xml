@@ -204,15 +204,15 @@
         <mark key="." line="308" column="29" />
         <mark key="^" line="308" column="30" />
       </file>
-      <file name="/JavaScript Console" timestamp="1593338424527">
+      <file name="/JavaScript Console" timestamp="1593341547930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1593338059438">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1593341437200">
         <mark key="'" line="273" column="11" />
-        <mark key="[" line="220" column="23" />
-        <mark key="]" line="220" column="26" />
-        <mark key="^" line="220" column="26" />
-        <mark key="." line="220" column="25" />
+        <mark key="[" line="345" column="0" />
+        <mark key="]" line="345" column="0" />
+        <mark key="^" line="344" column="24" />
+        <mark key="." line="345" column="0" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/util.ts" timestamp="1593318981559">
         <mark key="'" line="34" column="37" />
@@ -251,12 +251,12 @@
         <mark key="[" line="557" column="8" />
         <mark key="]" line="557" column="25" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" timestamp="1593339551042">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" timestamp="1593341580337">
         <mark key="'" line="11" column="38" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="171" column="15" />
-        <mark key="^" line="171" column="15" />
-        <mark key="." line="171" column="14" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
+        <mark key="^" line="175" column="12" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/util.ts" timestamp="1593328843252">
         <mark key="'" line="19" column="67" />
@@ -380,7 +380,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZG9uZSgpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1326,7 +1326,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>处理</text>
+        <text>const p =</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1335,39 +1335,37 @@
         <text>kick</text>
       </register>
       <register name="0" type="2">
-        <text>refactor: 
-- waitForEvent 只处理对外暴露事件
-- 去掉 login 和 logout 对于 socket.io 事件的重复处理逻辑，改为根据内部的连接状态事件做处理</text>
+        <text encoding="base64">ICAgIGdtcy5vbmNlKEdtc0NsaWVudEV2ZW50cy5Db25uZWN0aW9uU3RhdGVDaGFuZ2VkLCBhc3luYyAoc3RhdGUsIHJlYXNvbikgPT4gewogICAgICBleHBlY3Qoc3RhdGUpLnRvQmUoQ29ubmVjdGlvblN0YXRlLkNPTk5FQ1RFRCkKICAgICAgZXhwZWN0KHJlYXNvbikudG9CZShDb25uZWN0aW9uQ2hhbmdlUmVhc29uLkxPR0lOX1NVQ0NFU1MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZG9uZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text>this.connectionState != ConnectionState.CONNECTED</text>
       </register>
       <register name="2" type="2">
-        <text>gms client 对外通知连接状态变化</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIGF3YWl0IHAK</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBnbXMubG9nb3V0KCkK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoY29ubmVjdGlvblN0YXRlID09IENvbm5lY3Rpb25TdGF0ZS5SRUNPTk5FQ1RJTkcpIHsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbG9nb3V0UHJvbWlzZSA9IGdtcy5sb2dvdXQoKQogICAgICBsb2dvdXRQcm9taXNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIENPTk5FQ1RJTkcg5ZKMIFJFQ09OTkVDVElORyDnirbmgIHosIPnlKggZGlzY29ubmVjdCDkuI3kvJrop6blj5EgZGlzY29ubmVjdO+8jOaJgOS7peeUsei/memHjOe7n+S4gOinpuWPkQo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8g5q2k5pe26LCD55SoIGRpc2Nvbm5lY3Qg5LiN5Lya6Kem5Y+RIGRpc2Nvbm5lY3Qg5LqL5Lu277yM5L2G5Lya5YGc5q2iIGNvbm5lY3QK</text>
+        <text encoding="base64">ICAgIHNldEltbWVkaWF0ZSgoKSA9PiBkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8g5q2k5pe26LCD55SoIGRpc2Nvbm5lY3Qg5LiN5Lya6Kem5Y+RIGRpc2Nvbm5lY3Qg5LqL5Lu277yM5L2G5Lya5YGc5q2iIHJlY29ubmVjdAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1427,10 +1425,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIENPTk5FQ1RJTkcg5ZKMIFJFQ09OTkVDVElORyDnirbmgIHosIPnlKggZGlzY29ubmVjdCDkuI3kvJrop6blj5EgZGlzY29ubmVjdO+8jOaJgOS7peeUsei/memHjOe7n+S4gOinpuWPkQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbG9nb3V0UHJvbWlzZSA9IGdtcy5sb2dvdXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb25lKCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">dGFicHJldmlvdXMg</text>
