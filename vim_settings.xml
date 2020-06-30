@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>membercount</entry>
-        <entry encoding="base64">XDxDaGFubmVsTWVtYmVyQ291bnRzXD4=</entry>
         <entry>clientb</entry>
         <entry encoding="base64">XDx0ZXN0X2NoYW5uZWxfMVw+</entry>
         <entry>member jo</entry>
@@ -25,6 +23,8 @@
         <entry>onforevent</entry>
         <entry>messagere</entry>
         <entry encoding="base64">XDxvbkNoYW5uZWxNZXNzYWdlUmVjZWl2ZWRcPg==</entry>
+        <entry>\w*=</entry>
+        <entry>^\w* =</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzsvLC8=</entry>
@@ -43,10 +43,10 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">dGFicHJldmlvdXMg</entry>
-        <entry>tabnext</entry>
         <entry encoding="base64">JzwsJz5zLzovPS9n</entry>
         <entry>nohlsearch</entry>
         <entry>action Back</entry>
+        <entry>tabnext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -173,11 +173,17 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test.ts" timestamp="1593491265258">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="4" />
+      </file>
       <file name="/a.dummy" timestamp="1593403864746">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" timestamp="1593488376121">
-        <mark key="'" line="57" column="37" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" timestamp="1593491381159">
+        <mark key="'" line="90" column="38" />
         <mark key="[" line="85" column="16" />
         <mark key="]" line="85" column="50" />
         <mark key="." line="85" column="49" />
@@ -247,12 +253,12 @@
         <mark key="^" line="244" column="8" />
         <mark key="." line="132" column="75" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1593489506821">
-        <mark key="'" line="142" column="2" />
-        <mark key="[" line="131" column="38" />
-        <mark key="]" line="142" column="3" />
-        <mark key="." line="131" column="38" />
-        <mark key="^" line="131" column="39" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1593491424854">
+        <mark key="'" line="131" column="10" />
+        <mark key="[" line="46" column="101" />
+        <mark key="]" line="46" column="102" />
+        <mark key="." line="46" column="101" />
+        <mark key="^" line="46" column="102" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/util.ts" timestamp="1593398617698">
         <mark key="'" line="19" column="67" />
@@ -275,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="37" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="496" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="495" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="491" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
@@ -373,14 +378,15 @@
       <jump line="86" column="44" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="90" column="61" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="46" column="60" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="131" column="74" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="142" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="131" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="90" column="38" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+ewogICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgY29uc3QgeyBjaGFubmVsSWQsIHVzZXJJZCB9ID0gZnJvbSB8fCB7fQoKICAgIGlmIChjaGFubmVsSWQgIT09IHRoaXMuY2hhbm5lbElkKSB7CiAgICAgIHJldHVybgogICAgfQoKICAgIHRoaXMuZW1pdChHbXNDaGFubmVsRXZlbnRzLkNoYW5uZWxNZXNzYWdlLCBjb250ZW50LCB1c2VySWQsIHsKICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgIH0pCiAgfQ==</text>
+        <text>msss</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1326,70 +1332,70 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT4=</text>
+        <text>msss</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkNoYW5uZWxNZXNzYWdlUmVjZWl2ZWRcPg==</text>
+        <text>^\w* =</text>
       </register>
-      <register name="0" type="4">
-        <text>onChannelMessageReceived</text>
+      <register name="0" type="2">
+        <text encoding="base64">Yy5tZXRob2QuY2FsbCh1bmRlZmluZWQpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+ewogICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgY29uc3QgeyBjaGFubmVsSWQsIHVzZXJJZCB9ID0gZnJvbSB8fCB7fQoKICAgIGlmIChjaGFubmVsSWQgIT09IHRoaXMuY2hhbm5lbElkKSB7CiAgICAgIHJldHVybgogICAgfQoKICAgIHRoaXMuZW1pdChHbXNDaGFubmVsRXZlbnRzLkNoYW5uZWxNZXNzYWdlLCBjb250ZW50LCB1c2VySWQsIHsKICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgIH0pCiAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>this.connectionState != ConnectionState.CONNECTED</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+IHsKICAgICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgICBjb25zdCB7IGNoYW5uZWxJZCwgdXNlcklkIH0gPSBmcm9tIHx8IHt9CgogICAgICBpZiAoY2hhbm5lbElkICE9PSB0aGlzLmNoYW5uZWxJZCkgewogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5DaGFubmVsTWVzc2FnZSwgY29udGVudCwgdXNlcklkLCB7CiAgICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgICAgfSkKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+IHsKICAgICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgICBjb25zdCB7IGNoYW5uZWxJZCwgdXNlcklkIH0gPSBmcm9tIHx8IHt9CgogICAgICBpZiAoY2hhbm5lbElkICE9PSB0aGlzLmNoYW5uZWxJZCkgewogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5DaGFubmVsTWVzc2FnZSwgY29udGVudCwgdXNlcklkLCB7CiAgICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgICAgfSkKICAgIH0=</text>
+        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+ewogICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgY29uc3QgeyBjaGFubmVsSWQsIHVzZXJJZCB9ID0gZnJvbSB8fCB7fQoKICAgIGlmIChjaGFubmVsSWQgIT09IHRoaXMuY2hhbm5lbElkKSB7CiAgICAgIHJldHVybgogICAgfQoKICAgIHRoaXMuZW1pdChHbXNDaGFubmVsRXZlbnRzLkNoYW5uZWxNZXNzYWdlLCBjb250ZW50LCB1c2VySWQsIHsKICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgIH0pCiAgfQ==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBvblRva2VuRXhwaXJlZChjYjogKCkgPT4gdm9pZCk6IHZvaWQgewogICAgdGhpcy5vbkV2ZW50KCdUb2tlbkV4cGlyZWQnLCAoKSA9PiB7CiAgICAgIGNiKCkKICAgIH0pCiAgfQoK</text>
+      <register name="4" type="4">
+        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+IHsKICAgICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgICBjb25zdCB7IGNoYW5uZWxJZCwgdXNlcklkIH0gPSBmcm9tIHx8IHt9CgogICAgICBpZiAoY2hhbm5lbElkICE9PSB0aGlzLmNoYW5uZWxJZCkgewogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5DaGFubmVsTWVzc2FnZSwgY29udGVudCwgdXNlcklkLCB7CiAgICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgICAgfSkKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ1Rva2VuRXhwaXJlZCcpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+IHsKICAgICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgICBjb25zdCB7IGNoYW5uZWxJZCwgdXNlcklkIH0gPSBmcm9tIHx8IHt9CgogICAgICBpZiAoY2hhbm5lbElkICE9PSB0aGlzLmNoYW5uZWxJZCkgewogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5DaGFubmVsTWVzc2FnZSwgY29udGVudCwgdXNlcklkLCB7CiAgICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgICAgfSkKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvbkNoYW5uZWxNZW1iZXJDb3VudFVwZGF0ZWQgPSAoY2I6IChwYXJhbTogQ2hhbm5lbE1lbWJlckNvdW50cykgPT4gdm9pZCkgPT4gewogICAgdGhpcy5vbkV2ZW50KFRhdmVybkV2ZW50LkNoYW5uZWxNZW1iZXJDb3VudCwgY2IpCiAgfQoK</text>
+        <text encoding="base64">ICBvblRva2VuRXhwaXJlZChjYjogKCkgPT4gdm9pZCk6IHZvaWQgewogICAgdGhpcy5vbkV2ZW50KCdUb2tlbkV4cGlyZWQnLCAoKSA9PiB7CiAgICAgIGNiKCkKICAgIH0pCiAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvbk1lbWJlckxlZnQgPSAoY2I6IChwYXJhbTogeyBjaGFubmVsSWQ6IENoYW5uZWxJZCwgdXNlcklkOiBVc2VySWQgfSkgPT4gdm9pZCkgPT4gewogICAgdGhpcy5vbkV2ZW50KCdNZW1iZXJMZWZ0JywgY2IpCiAgfQoK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ1Rva2VuRXhwaXJlZCcpCg==</text>
       </register>
       <register name="w" type="4">
         <text>ojkpa:'jkpA,jk</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvbk1lbWJlckxlZnQgPSAoY2I6IChwYXJhbTogeyBjaGFubmVsSWQ6IENoYW5uZWxJZCwgdXNlcklkOiBVc2VySWQgfSkgPT4gdm9pZCkgPT4gewogICAgdGhpcy5vbkV2ZW50KCdNZW1iZXJMZWZ0JywgY2IpCiAgfQoK</text>
+        <text encoding="base64">ICBvbkNoYW5uZWxNZW1iZXJDb3VudFVwZGF0ZWQgPSAoY2I6IChwYXJhbTogQ2hhbm5lbE1lbWJlckNvdW50cykgPT4gdm9pZCkgPT4gewogICAgdGhpcy5vbkV2ZW50KFRhdmVybkV2ZW50LkNoYW5uZWxNZW1iZXJDb3VudCwgY2IpCiAgfQoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICBvbk1lbWJlckxlZnQgPSAoY2I6IChwYXJhbTogeyBjaGFubmVsSWQ6IENoYW5uZWxJZCwgdXNlcklkOiBVc2VySWQgfSkgPT4gdm9pZCkgPT4gewogICAgdGhpcy5vbkV2ZW50KCdNZW1iZXJMZWZ0JywgY2IpCiAgfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>tabnext</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvbkNoYW5uZWxNZXNzYWdlUmVjZWl2ZWRcPg==</last-search>
+      <last-search>^\w* =</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkNoYW5uZWxNZXNzYWdlUmVjZWl2ZWRcPg==</last-pattern>
+      <last-pattern>^\w* =</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
