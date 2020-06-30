@@ -211,7 +211,7 @@
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/GmsEvents.ts" timestamp="1593411725789">
         <mark key="'" line="10" column="55" />
       </file>
-      <file name="/JavaScript Console" timestamp="1593485498066">
+      <file name="/JavaScript Console" timestamp="1593509034604">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1593504453642">
@@ -228,10 +228,10 @@
         <mark key="." line="85" column="18" />
         <mark key="^" line="83" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593507758702">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1593508838191">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="14" />
       </file>
       <file name="/" timestamp="1593485504077">
@@ -374,8 +374,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>setInstance</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiMgQ29uZmxpY3RzOgojCXBhY2thZ2UuanNvbgojCXlhcm4ubG9jawo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1333,43 +1333,43 @@
         <text>addSocketEventListeners</text>
       </register>
       <register name="1" type="2">
-        <text>chore: fix typo</text>
+        <text encoding="base64">CiMgQ29uZmxpY3RzOgojCXBhY2thZ2UuanNvbgojCXlhcm4ubG9jawo=</text>
       </register>
       <register name="q" type="4">
         <text>this.connectionState != ConnectionState.CONNECTED</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text>chore: fix typo</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVqZWN0KG5ldyBHbXNCYXNlRXJyb3IoJ2NoYW5uZWwgYWxyZWFkeSBleGlzdHMhJywgQ3JlYXRlQ2hhbm5lbEVycm9yLkNSRUFURV9DSEFOTkVMX0VSUl9JTlZBTElEX0FSR1VNRU5UKSkK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVtb3ZlU29ja2V0RXZlbnRMaXN0ZW5lcnMoKQo=</text>
+        <text encoding="base64">ICAgICAgcmVqZWN0KG5ldyBHbXNCYXNlRXJyb3IoJ2NoYW5uZWwgYWxyZWFkeSBleGlzdHMhJywgQ3JlYXRlQ2hhbm5lbEVycm9yLkNSRUFURV9DSEFOTkVMX0VSUl9JTlZBTElEX0FSR1VNRU5UKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWRkU29ja2V0RXZlbnRMaXN0ZW5lcnMoKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucmVtb3ZlU29ja2V0RXZlbnRMaXN0ZW5lcnMoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlbW92ZVNvY2tldEV2ZW50TGlzdGVuZXJzID0gKCkgPT4gewogICAgY29uc3QgeyBzb2NrZXQgfSA9IHRoaXMKCiAgICAvLyBDaGFubmVsTWVzc2FnZQogICAgc29ja2V0Lm9mZkV2ZW50KFRhdmVybkV2ZW50LkNoYW5uZWxNZXNzYWdlUmVjZWl2ZWQsIHRoaXMub25DaGFubmVsTWVzc2FnZVJlY2VpdmVkKQogICAgLy8gQXR0cmlidXRlc1VwZGF0ZWQKICAgIHNvY2tldC5vZmZFdmVudChUYXZlcm5FdmVudC5DaGFubmVsQXR0cmlidXRlc1VwZGF0ZWQsIHRoaXMub25DaGFubmVsQXR0cmlidXRlc1VwZGF0ZWQpCiAgICAvLyBNZW1iZXJDb3VudFVwZGF0ZWQKICAgIHNvY2tldC5vZmZFdmVudChUYXZlcm5FdmVudC5DaGFubmVsTWVtYmVyQ291bnQsIHRoaXMub25DaGFubmVsTWVtYmVyQ291bnQpCiAgICAvLyBNZW1iZXJKb2luZWQKICAgIHNvY2tldC5vZmZFdmVudChUYXZlcm5FdmVudC5NZW1iZXJKb2luZWQsIHRoaXMub25NZW1iZXJKb2luZWQpCiAgICAvLyBNZW1iZXJMZWZ0CiAgICBzb2NrZXQub2ZmRXZlbnQoVGF2ZXJuRXZlbnQuTWVtYmVyTGVmdCwgdGhpcy5vbk1lbWJlckxlZnQpCiAgfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuYWRkU29ja2V0RXZlbnRMaXN0ZW5lcnMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlbW92ZVNvY2tldEV2ZW50TGlzdGVuZXJzID0gKCkgPT4gewo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlbW92ZVNvY2tldEV2ZW50TGlzdGVuZXJzID0gKCkgPT4gewogICAgY29uc3QgeyBzb2NrZXQgfSA9IHRoaXMKCiAgICAvLyBDaGFubmVsTWVzc2FnZQogICAgc29ja2V0Lm9mZkV2ZW50KFRhdmVybkV2ZW50LkNoYW5uZWxNZXNzYWdlUmVjZWl2ZWQsIHRoaXMub25DaGFubmVsTWVzc2FnZVJlY2VpdmVkKQogICAgLy8gQXR0cmlidXRlc1VwZGF0ZWQKICAgIHNvY2tldC5vZmZFdmVudChUYXZlcm5FdmVudC5DaGFubmVsQXR0cmlidXRlc1VwZGF0ZWQsIHRoaXMub25DaGFubmVsQXR0cmlidXRlc1VwZGF0ZWQpCiAgICAvLyBNZW1iZXJDb3VudFVwZGF0ZWQKICAgIHNvY2tldC5vZmZFdmVudChUYXZlcm5FdmVudC5DaGFubmVsTWVtYmVyQ291bnQsIHRoaXMub25DaGFubmVsTWVtYmVyQ291bnQpCiAgICAvLyBNZW1iZXJKb2luZWQKICAgIHNvY2tldC5vZmZFdmVudChUYXZlcm5FdmVudC5NZW1iZXJKb2luZWQsIHRoaXMub25NZW1iZXJKb2luZWQpCiAgICAvLyBNZW1iZXJMZWZ0CiAgICBzb2NrZXQub2ZmRXZlbnQoVGF2ZXJuRXZlbnQuTWVtYmVyTGVmdCwgdGhpcy5vbk1lbWJlckxlZnQpCiAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text>onMemberLeft</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmpvaW5lZENoYW5uZWxzLmRlbGV0ZShjaGFubmVsSWQpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlbW92ZVNvY2tldEV2ZW50TGlzdGVuZXJzID0gKCkgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBpZiAodGhpcy5qb2luZWRDaGFubmVscy5oYXMoY2hhbm5lbElkKSA9PT0gZmFsc2UpIHsKICAgICAgcmVqZWN0KG5ldyBHbXNCYXNlRXJyb3IoYG5vdCBqb2luZWQgY2hhbm5lbCAke2NoYW5uZWxJZH0hYCwgTGVhdmVDaGFubmVsRXJyb3IuTEVBVkVfQ0hBTk5FTF9FUlJfTk9UX0lOX0NIQU5ORUwpKQogICAgICByZXR1cm4KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmpvaW5lZENoYW5uZWxzLmRlbGV0ZShjaGFubmVsSWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>tabnext</text>
