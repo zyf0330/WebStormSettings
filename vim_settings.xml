@@ -183,10 +183,11 @@
       <file name="/a.dummy" timestamp="1593403864746">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" timestamp="1593426105263">
-        <mark key="[" line="624" column="25" />
-        <mark key="]" line="624" column="25" />
-        <mark key="." line="624" column="25" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" timestamp="1593427772914">
+        <mark key="'" line="57" column="37" />
+        <mark key="[" line="623" column="0" />
+        <mark key="]" line="623" column="0" />
+        <mark key="." line="623" column="0" />
       </file>
       <file name="$USER_HOME$/project/duobei/dby-h5-clients/packages/dby-gms-sdk/test-offline.js" timestamp="1593318341589">
         <mark key="'" line="9" column="0" />
@@ -226,7 +227,7 @@
         <mark key="^" line="34" column="38" />
         <mark key="." line="34" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593421688761">
+      <file name="/Dummy.txt" timestamp="1593427774876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -275,10 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="49" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="477" column="3" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
-      <jump line="87" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
-      <jump line="88" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="91" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="92" column="84" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="96" column="88" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
@@ -375,12 +372,16 @@
       <jump line="18" column="46" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" />
       <jump line="57" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="61" column="3" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
+      <jump line="85" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
+      <jump line="631" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
+      <jump line="621" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
+      <jump line="58" column="37" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>I</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmNvbnN0IGZ1bmMgPSAoR21zQ2xpZW50OiBJR21zQ2xpZW50KSA9PiB7CiAgbmV3IEdtc0NsaWVudCgpCn0KZXhwb3J0IGNvbnN0IEcgPSBHbXNDbGllbnQ=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1326,7 +1327,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>IGmsClient</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1338,37 +1339,34 @@
         <text>storageToolHolder</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBuZXcoKQo=</text>
+        <text encoding="base64">CmNvbnN0IGZ1bmMgPSAoR21zQ2xpZW50OiBJR21zQ2xpZW50KSA9PiB7CiAgbmV3IEdtc0NsaWVudCgpCn0KZXhwb3J0IGNvbnN0IEcgPSBHbXNDbGllbnQ=</text>
       </register>
       <register name="q" type="4">
         <text>this.connectionState != ConnectionState.CONNECTED</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmludGVyZmFjZSBJTXlDbGFzcyB7CiAgICBuZXcgKG5hbWU6IHN0cmluZyk6IE15Q2xhc3M7CiAgICBtZXRob2QoKTp2b2lkCn0K</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIElHbXNDbGllbnQgZXh0ZW5kcyBFdmVudEVtaXR0ZXIgewogIGNvbnN0cnVjdG9yKCkKfQo=</text>
+        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgSUdtc0NsaWVudCBleHRlbmRzIEV2ZW50RW1pdHRlcnsK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBuZXcoKXt9Cg==</text>
+        <text encoding="base64">YWIgIGNvbnN0cnVjdG9yKCkgewogICAgc3VwZXIoKQogIH0KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgYWJzdHJhY3QgY29uc3RydWN0b3IoKQo=</text>
+        <text encoding="base64">ICBuZXcoKTpJQwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-     super()
-   }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBuZXcoKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-  }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1428,10 +1426,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
+        <text encoding="base64">aW50ZXJmYWNlIElHbXNDbGllbnQgZXh0ZW5kcyBFdmVudEVtaXR0ZXIgewogIGNvbnN0cnVjdG9yKCkKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgY29uc3RydWN0b3IoKSB7CiAgICBzdXBlcigpCiAgfQo=</text>
+        <text encoding="base64">ICBuZXcoKXt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>tabnext</text>
