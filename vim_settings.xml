@@ -253,12 +253,12 @@
         <mark key="^" line="244" column="8" />
         <mark key="." line="132" column="75" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1593491424854">
-        <mark key="'" line="131" column="10" />
-        <mark key="[" line="46" column="101" />
-        <mark key="]" line="46" column="102" />
-        <mark key="." line="46" column="101" />
-        <mark key="^" line="46" column="102" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1593499081519">
+        <mark key="'" line="59" column="35" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="225" column="0" />
+        <mark key="^" line="235" column="11" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/util.ts" timestamp="1593398617698">
         <mark key="'" line="19" column="67" />
@@ -281,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="496" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="495" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="491" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="461" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
@@ -381,12 +380,13 @@
       <jump line="142" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="131" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="90" column="38" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
+      <jump line="59" column="35" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>msss</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgppbnRlcmZhY2UgQXsKICAgbmV3KCk6QlAKfQpjbGFzcyBCUCB7CiAgCn0KY2xhc3MgQiBleHRlbmRzIEJQIGltcGxlbWVudHMgQXsKICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCkKICB9Cn0K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1332,7 +1332,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>msss</text>
+        <text>extends</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1344,43 +1344,43 @@
         <text encoding="base64">Yy5tZXRob2QuY2FsbCh1bmRlZmluZWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CgppbnRlcmZhY2UgQXsKICAgbmV3KCk6QlAKfQpjbGFzcyBCUCB7CiAgCn0KY2xhc3MgQiBleHRlbmRzIEJQIGltcGxlbWVudHMgQXsKICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCkKICB9Cn0K</text>
       </register>
       <register name="q" type="4">
         <text>this.connectionState != ConnectionState.CONNECTED</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">bwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+ewogICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgY29uc3QgeyBjaGFubmVsSWQsIHVzZXJJZCB9ID0gZnJvbSB8fCB7fQoKICAgIGlmIChjaGFubmVsSWQgIT09IHRoaXMuY2hhbm5lbElkKSB7CiAgICAgIHJldHVybgogICAgfQoKICAgIHRoaXMuZW1pdChHbXNDaGFubmVsRXZlbnRzLkNoYW5uZWxNZXNzYWdlLCBjb250ZW50LCB1c2VySWQsIHsKICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgIH0pCiAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+IHsKICAgICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgICBjb25zdCB7IGNoYW5uZWxJZCwgdXNlcklkIH0gPSBmcm9tIHx8IHt9CgogICAgICBpZiAoY2hhbm5lbElkICE9PSB0aGlzLmNoYW5uZWxJZCkgewogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5DaGFubmVsTWVzc2FnZSwgY29udGVudCwgdXNlcklkLCB7CiAgICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgICAgfSkKICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBuZXcoKTpCewogICAgcmV0dXJuIG5ldyBCKCkKICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+IHsKICAgICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgICBjb25zdCB7IGNoYW5uZWxJZCwgdXNlcklkIH0gPSBmcm9tIHx8IHt9CgogICAgICBpZiAoY2hhbm5lbElkICE9PSB0aGlzLmNoYW5uZWxJZCkgewogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5DaGFubmVsTWVzc2FnZSwgY29udGVudCwgdXNlcklkLCB7CiAgICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgICAgfSkKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBuZXcoKTpCCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvblRva2VuRXhwaXJlZChjYjogKCkgPT4gdm9pZCk6IHZvaWQgewogICAgdGhpcy5vbkV2ZW50KCdUb2tlbkV4cGlyZWQnLCAoKSA9PiB7CiAgICAgIGNiKCkKICAgIH0pCiAgfQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ1Rva2VuRXhwaXJlZCcpCg==</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="w" type="4">
         <text>ojkpa:'jkpA,jk</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBvbkNoYW5uZWxNZW1iZXJDb3VudFVwZGF0ZWQgPSAoY2I6IChwYXJhbTogQ2hhbm5lbE1lbWJlckNvdW50cykgPT4gdm9pZCkgPT4gewogICAgdGhpcy5vbkV2ZW50KFRhdmVybkV2ZW50LkNoYW5uZWxNZW1iZXJDb3VudCwgY2IpCiAgfQoK</text>
+      <register name="8" type="4">
+        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+ewogICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgY29uc3QgeyBjaGFubmVsSWQsIHVzZXJJZCB9ID0gZnJvbSB8fCB7fQoKICAgIGlmIChjaGFubmVsSWQgIT09IHRoaXMuY2hhbm5lbElkKSB7CiAgICAgIHJldHVybgogICAgfQoKICAgIHRoaXMuZW1pdChHbXNDaGFubmVsRXZlbnRzLkNoYW5uZWxNZXNzYWdlLCBjb250ZW50LCB1c2VySWQsIHsKICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgIH0pCiAgfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBvbk1lbWJlckxlZnQgPSAoY2I6IChwYXJhbTogeyBjaGFubmVsSWQ6IENoYW5uZWxJZCwgdXNlcklkOiBVc2VySWQgfSkgPT4gdm9pZCkgPT4gewogICAgdGhpcy5vbkV2ZW50KCdNZW1iZXJMZWZ0JywgY2IpCiAgfQoK</text>
+      <register name="9" type="4">
+        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+IHsKICAgICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgICBjb25zdCB7IGNoYW5uZWxJZCwgdXNlcklkIH0gPSBmcm9tIHx8IHt9CgogICAgICBpZiAoY2hhbm5lbElkICE9PSB0aGlzLmNoYW5uZWxJZCkgewogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5DaGFubmVsTWVzc2FnZSwgY29udGVudCwgdXNlcklkLCB7CiAgICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgICAgfSkKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>tabnext</text>
