@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>clientb</entry>
-        <entry encoding="base64">XDx0ZXN0X2NoYW5uZWxfMVw+</entry>
-        <entry>member jo</entry>
-        <entry>membercou</entry>
-        <entry>join</entry>
-        <entry>this.on</entry>
-        <entry>public</entry>
         <entry encoding="base64">XDxvbkZvck1lc3NhZ2VcPg==</entry>
         <entry>channelattributesup</entry>
         <entry>:</entry>
@@ -25,16 +18,21 @@
         <entry encoding="base64">XDxvbkNoYW5uZWxNZXNzYWdlUmVjZWl2ZWRcPg==</entry>
         <entry>\w*=</entry>
         <entry>^\w* =</entry>
+        <entry>todo</entry>
+        <entry>channelattr</entry>
+        <entry encoding="base64">XDxvbkNoYW5uZWxBdHRyaWJ1dGVzVXBkYXRlZFw+</entry>
+        <entry encoding="base64">XDxvbkNoYW5uZWxNZW1iZXJDb3VudFw+</entry>
+        <entry>onE</entry>
+        <entry encoding="base64">XDxhZGRTb2NrZXRFdmVudExpc3RlbmVyc1w+</entry>
+        <entry>succeess</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzsvLC8=</entry>
         <entry>.action FindInPath</entry>
         <entry>action FindInPath</entry>
         <entry>tabprevious</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry encoding="base64">LiwuKzJ0YWJwcmV2aW91cyA=</entry>
-        <entry>reg</entry>
         <entry>110</entry>
         <entry>38</entry>
         <entry encoding="base64">JzwsJz5zLz0gJy89ICdsb2dpbkZhaWw6IC8=</entry>
@@ -42,10 +40,12 @@
         <entry>%s/});/})/g</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry encoding="base64">dGFicHJldmlvdXMg</entry>
         <entry encoding="base64">JzwsJz5zLzovPS9n</entry>
         <entry>nohlsearch</entry>
+        <entry>reg</entry>
+        <entry encoding="base64">JzwsJz5zL29uRS9vZmZFL2c=</entry>
         <entry>action Back</entry>
+        <entry encoding="base64">dGFicHJldmlvdXMg</entry>
         <entry>tabnext</entry>
       </history-cmd>
       <history-expr />
@@ -182,12 +182,12 @@
       <file name="/a.dummy" timestamp="1593403864746">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" timestamp="1593491381159">
-        <mark key="'" line="90" column="38" />
-        <mark key="[" line="85" column="16" />
-        <mark key="]" line="85" column="50" />
-        <mark key="." line="85" column="49" />
-        <mark key="^" line="85" column="50" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" timestamp="1593501304966">
+        <mark key="'" line="91" column="38" />
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="15" column="1" />
+        <mark key="^" line="15" column="2" />
       </file>
       <file name="/socket.ts" timestamp="1593416713960">
         <mark key="'" line="268" column="31" />
@@ -201,12 +201,12 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" timestamp="1593488303467">
-        <mark key="'" line="323" column="0" />
-        <mark key="[" line="324" column="0" />
-        <mark key="]" line="325" column="28" />
-        <mark key="." line="324" column="0" />
-        <mark key="^" line="330" column="30" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" timestamp="1593500795160">
+        <mark key="'" line="138" column="2" />
+        <mark key="[" line="165" column="10" />
+        <mark key="]" line="165" column="7" />
+        <mark key="." line="165" column="6" />
+        <mark key="^" line="165" column="7" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/GmsEvents.ts" timestamp="1593411725789">
         <mark key="'" line="10" column="55" />
@@ -228,8 +228,8 @@
         <mark key="." line="85" column="18" />
         <mark key="^" line="83" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593485972831">
-        <mark key="[" line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1593501292365">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="14" />
@@ -253,12 +253,12 @@
         <mark key="^" line="244" column="8" />
         <mark key="." line="132" column="75" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1593499081519">
-        <mark key="'" line="59" column="35" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="0" />
-        <mark key="." line="225" column="0" />
-        <mark key="^" line="235" column="11" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1593501243144">
+        <mark key="'" line="160" column="32" />
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="2" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/util.ts" timestamp="1593398617698">
         <mark key="'" line="19" column="67" />
@@ -281,44 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="495" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="491" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="461" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="194" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="69" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="2" column="34" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/GmsChannel.ts" />
-      <jump line="499" column="37" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="500" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="193" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="416" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="199" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="72" column="50" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="119" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="121" column="66" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="127" column="61" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="8" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="176" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="98" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="59" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
-      <jump line="126" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
-      <jump line="127" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
-      <jump line="2" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
-      <jump line="24" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
-      <jump line="28" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
-      <jump line="39" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
-      <jump line="65" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="68" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="70" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="197" column="41" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="464" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="16" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="465" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="57" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
-      <jump line="69" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
-      <jump line="73" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
-      <jump line="72" column="43" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
-      <jump line="34" column="43" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
       <jump line="38" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
       <jump line="81" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
       <jump line="37" column="59" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
@@ -335,7 +297,6 @@
       <jump line="170" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="220" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="252" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
-      <jump line="128" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
       <jump line="323" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
       <jump line="363" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="364" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
@@ -370,23 +331,62 @@
       <jump line="96" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="151" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="101" column="97" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="144" column="47" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="13" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="42" column="42" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="86" column="44" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="90" column="61" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="46" column="60" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="142" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="131" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="90" column="38" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="59" column="35" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="224" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="56" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="46" column="82" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="123" column="73" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="131" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="74" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="80" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="81" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="84" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="90" column="28" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="91" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="94" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="99" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="100" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="103" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="108" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="109" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="117" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="122" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="123" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="128" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="327" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="134" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="48" column="76" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="128" column="81" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="137" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="50" column="64" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="144" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="135" column="1" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="129" column="1" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="138" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="54" column="114" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="52" column="60" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="130" column="80" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="148" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="140" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="68" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="55" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="42" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="159" column="32" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="284" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
+      <jump line="138" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgppbnRlcmZhY2UgQXsKICAgbmV3KCk6QlAKfQpjbGFzcyBCUCB7CiAgCn0KY2xhc3MgQiBleHRlbmRzIEJQIGltcGxlbWVudHMgQXsKICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCkKICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1332,55 +1332,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>extends</text>
+        <text>onEvent</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>^\w* =</text>
+        <text>succeess</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Yy5tZXRob2QuY2FsbCh1bmRlZmluZWQpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIGNvbnN0IHsgc29ja2V0IH0gPSB0aGlzCgogICAgLy8gQ2hhbm5lbE1lc3NhZ2UKICAgIHNvY2tldC5vbkV2ZW50KFRhdmVybkV2ZW50LkNoYW5uZWxNZXNzYWdlUmVjZWl2ZWQsIHRoaXMub25DaGFubmVsTWVzc2FnZVJlY2VpdmVkKQogICAgLy8gQXR0cmlidXRlc1VwZGF0ZWQKICAgIHNvY2tldC5vbkV2ZW50KFRhdmVybkV2ZW50LkNoYW5uZWxBdHRyaWJ1dGVzVXBkYXRlZCwgdGhpcy5vbkNoYW5uZWxBdHRyaWJ1dGVzVXBkYXRlZCkKICAgIC8vIE1lbWJlckNvdW50VXBkYXRlZAogICAgc29ja2V0Lm9uRXZlbnQoVGF2ZXJuRXZlbnQuQ2hhbm5lbE1lbWJlckNvdW50LCB0aGlzLm9uQ2hhbm5lbE1lbWJlckNvdW50KQogICAgLy8gTWVtYmVySm9pbmVkCiAgICBzb2NrZXQub25FdmVudChUYXZlcm5FdmVudC5NZW1iZXJKb2luZWQsIHRoaXMub25NZW1iZXJKb2luZWQpCiAgICAvLyBNZW1iZXJMZWZ0CiAgICBzb2NrZXQub25FdmVudChUYXZlcm5FdmVudC5NZW1iZXJMZWZ0LCB0aGlzLm9uTWVtYmVyTGVmdCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgppbnRlcmZhY2UgQXsKICAgbmV3KCk6QlAKfQpjbGFzcyBCUCB7CiAgCn0KY2xhc3MgQiBleHRlbmRzIEJQIGltcGxlbWVudHMgQXsKICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCkKICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>this.connectionState != ConnectionState.CONNECTED</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgc29ja2V0IH0gPSB0aGlzCgogICAgLy8gQ2hhbm5lbE1lc3NhZ2UKICAgIHNvY2tldC5vZmZFdmVudChUYXZlcm5FdmVudC5DaGFubmVsTWVzc2FnZVJlY2VpdmVkLCB0aGlzLm9uQ2hhbm5lbE1lc3NhZ2VSZWNlaXZlZCkKICAgIC8vIEF0dHJpYnV0ZXNVcGRhdGVkCiAgICBzb2NrZXQub25FdmVudChUYXZlcm5FdmVudC5DaGFubmVsQXR0cmlidXRlc1VwZGF0ZWQsIChwYXJhbTogQ2hhbm5lbEF0dHJpYnV0ZXNVcGRhdGVkUGFyYW0pID0+IHsKICAgICAgY29uc3QgeyBjaGFubmVsSWQsIGF0dHJpYnV0ZXMsIG1ldGFJbmZvIH0gPSBwYXJhbSB8fCB7fQoKICAgICAgaWYgKGNoYW5uZWxJZCAhPT0gdGhpcy5jaGFubmVsSWQpIHsKICAgICAgICByZXR1cm4KICAgICAgfQoKICAgICAgdGhpcy5lbWl0KEdtc0NoYW5uZWxFdmVudHMuQXR0cmlidXRlc1VwZGF0ZWQsIGF0dHJpYnV0ZXMsIG1ldGFJbmZvKQogICAgfSkKICAgIC8vIE1lbWJlckNvdW50VXBkYXRlZAogICAgc29ja2V0Lm9uRXZlbnQoVGF2ZXJuRXZlbnQuQ2hhbm5lbE1lbWJlckNvdW50LCAoeyBjb3VudHMgfTogQ2hhbm5lbE1lbWJlckNvdW50cykgPT4gewogICAgICBpZiAodGhpcy5jaGFubmVsSWQgaW4gY291bnRzID09IGZhbHNlKSB7CiAgICAgICAgcmV0dXJuCiAgICAgIH0KICAgICAgY29uc3QgY291bnQgPSBjb3VudHNbdGhpcy5jaGFubmVsSWRdCiAgICAgIHRoaXMuZW1pdChHbXNDaGFubmVsRXZlbnRzLk1lbWJlckNvdW50VXBkYXRlZCwgY291bnQpCiAgICB9KQogICAgLy8gTWVtYmVySm9pbmVkCiAgICBzb2NrZXQub25FdmVudChUYXZlcm5FdmVudC5NZW1iZXJKb2luZWQsIChwYXJhbTogeyBjaGFubmVsSWQ6IENoYW5uZWxJZCwgdXNlcklkOiBVc2VySWQgfSkgPT4gewogICAgICBjb25zdCB7IGNoYW5uZWxJZCwgdXNlcklkIH0gPSBwYXJhbSB8fCB7fQoKICAgICAgaWYgKGNoYW5uZWxJZCAhPT0gdGhpcy5jaGFubmVsSWQpIHsKICAgICAgICByZXR1cm4KICAgICAgfQoKICAgICAgdGhpcy5lbWl0KEdtc0NoYW5uZWxFdmVudHMuTWVtYmVySm9pbmVkLCB1c2VySWQpCiAgICB9KQogICAgLy8gTWVtYmVyTGVmdAogICAgc29ja2V0Lm9uRXZlbnQoVGF2ZXJuRXZlbnQuTWVtYmVyTGVmdCwgKHBhcmFtOiB7IGNoYW5uZWxJZDogQ2hhbm5lbElkLCB1c2VySWQ6IFVzZXJJZCB9KSA9PiB7CiAgICAgIGNvbnN0IHsgY2hhbm5lbElkLCB1c2VySWQgfSA9IHBhcmFtIHx8IHt9CgogICAgICBpZiAoY2hhbm5lbElkICE9PSB0aGlzLmNoYW5uZWxJZCkgewogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5NZW1iZXJMZWZ0LCB1c2VySWQpCiAgICB9KQ==</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">KHBhcmFtOiB7IGNoYW5uZWxJZDogQ2hhbm5lbElkLCB1c2VySWQ6IFVzZXJJZCB9KSA9PiB7CiAgICAgIGNvbnN0IHsgY2hhbm5lbElkLCB1c2VySWQgfSA9IHBhcmFtIHx8IHt9CgogICAgICBpZiAoY2hhbm5lbElkICE9PSB0aGlzLmNoYW5uZWxJZCkgewogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5NZW1iZXJMZWZ0LCB1c2VySWQpCiAgICB9</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBuZXcoKTpCewogICAgcmV0dXJuIG5ldyBCKCkKICB9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">KHBhcmFtOiB7IGNoYW5uZWxJZDogQ2hhbm5lbElkLCB1c2VySWQ6IFVzZXJJZCB9KSA9PiB7CiAgICAgIGNvbnN0IHsgY2hhbm5lbElkLCB1c2VySWQgfSA9IHBhcmFtIHx8IHt9CgogICAgICBpZiAoY2hhbm5lbElkICE9PSB0aGlzLmNoYW5uZWxJZCkgewogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5NZW1iZXJKb2luZWQsIHVzZXJJZCkKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBuZXcoKTpCCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">KHsgY291bnRzIH06IENoYW5uZWxNZW1iZXJDb3VudHMpID0+IHsKICAgICAgaWYgKHRoaXMuY2hhbm5lbElkIGluIGNvdW50cyA9PSBmYWxzZSkgewogICAgICAgIHJldHVybgogICAgICB9CiAgICAgIGNvbnN0IGNvdW50ID0gY291bnRzW3RoaXMuY2hhbm5lbElkXQogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5NZW1iZXJDb3VudFVwZGF0ZWQsIGNvdW50KQogICAgfQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">KHBhcmFtOiBDaGFubmVsQXR0cmlidXRlc1VwZGF0ZWRQYXJhbSkgPT4gewogICAgICBjb25zdCB7IGNoYW5uZWxJZCwgYXR0cmlidXRlcywgbWV0YUluZm8gfSA9IHBhcmFtIHx8IHt9CgogICAgICBpZiAoY2hhbm5lbElkICE9PSB0aGlzLmNoYW5uZWxJZCkgewogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5BdHRyaWJ1dGVzVXBkYXRlZCwgYXR0cmlidXRlcywgbWV0YUluZm8pCiAgICB9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">bwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">KHBhcmFtOiBDaGFubmVsQXR0cmlidXRlc1VwZGF0ZWRQYXJhbSkgPT4gewogICAgICBjb25zdCB7IGNoYW5uZWxJZCwgYXR0cmlidXRlcywgbWV0YUluZm8gfSA9IHBhcmFtIHx8IHt9CgogICAgICBpZiAoY2hhbm5lbElkICE9PSB0aGlzLmNoYW5uZWxJZCkgewogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5BdHRyaWJ1dGVzVXBkYXRlZCwgYXR0cmlidXRlcywgbWV0YUluZm8pCiAgICB9</text>
       </register>
       <register name="w" type="4">
-        <text>ojkpa:'jkpA,jk</text>
+        <text>onMemberLeft</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+ewogICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgY29uc3QgeyBjaGFubmVsSWQsIHVzZXJJZCB9ID0gZnJvbSB8fCB7fQoKICAgIGlmIChjaGFubmVsSWQgIT09IHRoaXMuY2hhbm5lbElkKSB7CiAgICAgIHJldHVybgogICAgfQoKICAgIHRoaXMuZW1pdChHbXNDaGFubmVsRXZlbnRzLkNoYW5uZWxNZXNzYWdlLCBjb250ZW50LCB1c2VySWQsIHsKICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgIH0pCiAgfQ==</text>
+        <text>onChannelAttributesUpdated</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">KHBhcmFtOiBDaGFubmVsTWVzc2FnZVJlY2VpdmVkUGFyYW0pID0+IHsKICAgICAgY29uc3QgeyBmcm9tLCBjb250ZW50LCBzZXJ2ZXJSZWNlaXZlZFRzIH0gPSBwYXJhbSB8fCB7fQogICAgICBjb25zdCB7IGNoYW5uZWxJZCwgdXNlcklkIH0gPSBmcm9tIHx8IHt9CgogICAgICBpZiAoY2hhbm5lbElkICE9PSB0aGlzLmNoYW5uZWxJZCkgewogICAgICAgIHJldHVybgogICAgICB9CgogICAgICB0aGlzLmVtaXQoR21zQ2hhbm5lbEV2ZW50cy5DaGFubmVsTWVzc2FnZSwgY29udGVudCwgdXNlcklkLCB7CiAgICAgICAgc2VydmVyUmVjZWl2ZWRUcywKICAgICAgfSkKICAgIH0=</text>
+        <text>onChannelAttributesUpdated</text>
       </register>
       <register name=":" type="4">
         <text>tabnext</text>
@@ -1389,13 +1389,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>^\w* =</last-search>
+      <last-search>succeess</last-search>
       <last-offset />
-      <last-pattern>^\w* =</last-pattern>
-      <last-replace>=</last-replace>
-      <last-substitute>:</last-substitute>
+      <last-pattern>succeess</last-pattern>
+      <last-replace>offE</last-replace>
+      <last-substitute>onE</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
