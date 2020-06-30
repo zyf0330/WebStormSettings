@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkNoYW5uZWxBdHRyaWJ1dGVzVXBkYXRlZFw+</entry>
         <entry encoding="base64">XDxvbkNoYW5uZWxNZW1iZXJDb3VudFw+</entry>
         <entry>onE</entry>
         <entry>succeess</entry>
@@ -25,6 +24,7 @@
         <entry>channels</entry>
         <entry>join</entry>
         <entry encoding="base64">XDxpc0pvaW5lZFw+</entry>
+        <entry encoding="base64">XDxzdG9yYWdlVG9vbEZhY3RvcnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.action FindInPath</entry>
@@ -228,14 +228,11 @@
         <mark key="." line="85" column="18" />
         <mark key="^" line="83" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593507274702">
+      <file name="/Dummy.txt" timestamp="1593507758702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="14" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/GmsStatusCode.ts" timestamp="1593338638381">
-        <mark key="'" line="17" column="0" />
       </file>
       <file name="/" timestamp="1593485504077">
         <mark key="[" line="0" column="0" />
@@ -247,13 +244,6 @@
         <mark key="^" line="244" column="8" />
         <mark key="." line="132" column="75" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1593507332622">
-        <mark key="'" line="39" column="10" />
-        <mark key="[" line="110" column="6" />
-        <mark key="]" line="110" column="11" />
-        <mark key="." line="110" column="10" />
-        <mark key="^" line="110" column="11" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/util.ts" timestamp="1593398617698">
         <mark key="'" line="19" column="67" />
         <mark key="[" line="44" column="15" />
@@ -261,12 +251,12 @@
         <mark key="." line="44" column="17" />
         <mark key="^" line="44" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" timestamp="1593421498347">
-        <mark key="'" line="18" column="46" />
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="47" />
-        <mark key="^" line="18" column="47" />
-        <mark key="." line="18" column="46" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" timestamp="1593508042993">
+        <mark key="'" line="18" column="2" />
+        <mark key="[" line="2" column="76" />
+        <mark key="]" line="2" column="101" />
+        <mark key="^" line="2" column="101" />
+        <mark key="." line="2" column="100" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/utils/logger.ts" timestamp="1593415050276">
         <mark key="[" line="27" column="0" />
@@ -280,8 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="96" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="151" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="101" column="97" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="13" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
@@ -380,12 +368,14 @@
       <jump line="123" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="39" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="2" column="45" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" />
+      <jump line="18" column="2" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>chore: fix typo</text>
+      <register name="&quot;" type="4">
+        <text>setInstance</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1331,13 +1321,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>setInstance</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0pvaW5lZFw+</text>
+        <text encoding="base64">XDxzdG9yYWdlVG9vbEZhY3RvcnlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>addSocketEventListeners</text>
@@ -1388,9 +1378,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpc0pvaW5lZFw+</last-search>
+      <last-search encoding="base64">XDxzdG9yYWdlVG9vbEZhY3RvcnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0pvaW5lZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9yYWdlVG9vbEZhY3RvcnlcPg==</last-pattern>
       <last-replace>offE</last-replace>
       <last-substitute>onE</last-substitute>
       <last-dir>1</last-dir>
