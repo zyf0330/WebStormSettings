@@ -43,10 +43,10 @@
         <entry encoding="base64">JzwsJz5zL29uRS9vZmZFL2c=</entry>
         <entry>action Back</entry>
         <entry encoding="base64">dGFicHJldmlvdXMg</entry>
-        <entry>tabnext</entry>
         <entry>w</entry>
         <entry>6753</entry>
         <entry>50</entry>
+        <entry>tabnext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -224,17 +224,17 @@
         <mark key="^" line="223" column="32" />
         <mark key="." line="223" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593575596732">
+      <file name="/Dummy.txt" timestamp="1593575704106">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" timestamp="1593575671113">
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" timestamp="1593592812466">
         <mark key="'" line="87" column="10" />
-        <mark key="[" line="77" column="35" />
-        <mark key="]" line="78" column="4" />
-        <mark key="^" line="78" column="4" />
-        <mark key="." line="78" column="3" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="114" column="5" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/package.json" timestamp="1593514894913">
         <mark key="[" line="2" column="16" />
@@ -364,7 +364,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHJlbW92ZShxdWV1ZU5hbWUsIHJvb21JZCkK</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1322,7 +1322,7 @@ module.exports = { whiteboardLogger }</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>process</text>
+        <text>()</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1334,46 +1334,46 @@ module.exports = { whiteboardLogger }</text>
         <text encoding="base64">ICAgIGF3YWl0IHJlbW92ZShxdWV1ZU5hbWUsIHJvb21JZCkK</text>
       </register>
       <register name="1" type="2">
-        <text>feat: 支持白板打印日志</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="q" type="4">
         <text>this.connectionState != ConnectionState.CONNECTED</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHF1ZXVlID0gaW5pdFF1ZXVlKHF1ZXVlTmFtZSkKICAgIHF1ZXVlLmdldAo=</text>
+        <text encoding="base64">bW9kdWxlCg==</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text>feat: 支持白板打印日志</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text />
+        <text encoding="base64">ICAgIGNvbnN0IHF1ZXVlID0gaW5pdFF1ZXVlKHF1ZXVlTmFtZSkKICAgIHF1ZXVlLmdldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NrUmVuZXdUaW1lOiAzMCwK</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2V0VGltZW91dChhc3luYygpID0+IHsKICAgICAgY29uc3Qgam9iID0gYXdhaXQgZ2V0KHF1ZXVlTmFtZSwgcm9vbUlkKQogICAgICBjb25zdCBzdGF0ZSA9IGF3YWl0IGpvYi5nZXRTdGF0ZSgpCiAgICAgICAgYXdhaXQgcmVtb3ZlKHF1ZXVlTmFtZSwgcm9vbUlkKQogICAgICB9LCAzMDApCg==</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NrUmVuZXdUaW1lOiAzMCwK</text>
       </register>
       <register name="w" type="4">
         <text>onMemberLeft</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgICAgc2V0VGltZW91dChhc3luYygpID0+IHsKICAgICAgY29uc3Qgam9iID0gYXdhaXQgZ2V0KHF1ZXVlTmFtZSwgcm9vbUlkKQogICAgICBjb25zdCBzdGF0ZSA9IGF3YWl0IGpvYi5nZXRTdGF0ZSgpCiAgICAgICAgYXdhaXQgcmVtb3ZlKHF1ZXVlTmFtZSwgcm9vbUlkKQogICAgICB9LCAzMDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgam9iID0gYXdhaXQgZ2V0KHF1ZXVlTmFtZSwgcm9vbUlkKQogICAgICBjb25zdCBzdGF0ZSA9IGF3YWl0IGpvYi5nZXRTdGF0ZSgpCiAgICAgIGpvYi5yZW1vdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>50</text>
+        <text>tabnext</text>
       </register>
     </registers>
   </component>
