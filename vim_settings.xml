@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>removeso</entry>
-        <entry encoding="base64">XDxjaGFubmVsc1w+</entry>
-        <entry>onevent</entry>
-        <entry encoding="base64">XDx3YWl0Rm9yRXZlbnRcPg==</entry>
-        <entry encoding="base64">XDxpbnRlcm5hbFw+</entry>
-        <entry>createins</entry>
-        <entry>createc</entry>
         <entry>channels</entry>
         <entry>join</entry>
         <entry encoding="base64">XDxpc0pvaW5lZFw+</entry>
@@ -25,6 +18,13 @@
         <entry encoding="base64">XDxpbml0UXVldWVcPg==</entry>
         <entry>logger</entry>
         <entry>queuenam</entry>
+        <entry encoding="base64">XDxERUZBVUxUX0pPQl9OQU1FXD4=</entry>
+        <entry>create</entry>
+        <entry>add</entry>
+        <entry encoding="base64">YWRkXD4=</entry>
+        <entry encoding="base64">XDxnZXRSZXBlYXRLZXlcPg==</entry>
+        <entry encoding="base64">XDxyZW1vdmVSZXBlYXRhYmxlXD4=</entry>
+        <entry>clearinter</entry>
       </history-search>
       <history-cmd>
         <entry>action NextTab</entry>
@@ -173,11 +173,6 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-edge/test.js" timestamp="1593512651727">
-        <mark key="'" line="13" column="9" />
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="17" column="2" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" timestamp="1593504749919">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="150" column="0" />
@@ -192,10 +187,15 @@
         <mark key="." line="15" column="52" />
         <mark key="^" line="15" column="53" />
       </file>
-      <file name="/socket.ts" timestamp="1593504300006">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="171" column="76" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/bull/lib/queue.js" timestamp="1593593891947">
+        <mark key="'" line="342" column="36" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/bull/lib/repeatable.js" timestamp="1593594202218">
+        <mark key="'" line="101" column="27" />
+        <mark key="[" line="101" column="61" />
+        <mark key="]" line="101" column="9" />
+        <mark key="^" line="101" column="9" />
+        <mark key="." line="101" column="8" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-edge/Service.js" timestamp="1593571603756">
         <mark key="[" line="34" column="0" />
@@ -207,34 +207,31 @@
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="35" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" timestamp="1593501846220">
-        <mark key="'" line="151" column="2" />
-        <mark key="[" line="165" column="10" />
-        <mark key="]" line="165" column="7" />
-        <mark key="." line="165" column="6" />
-        <mark key="^" line="165" column="7" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1593593548173">
+      <file name="internal/inspector_async_hook.js" timestamp="1593593852873">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1593504453642">
-        <mark key="'" line="266" column="15" />
-        <mark key="[" line="223" column="21" />
-        <mark key="]" line="223" column="32" />
-        <mark key="^" line="223" column="32" />
-        <mark key="." line="223" column="31" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-edge/test.js" timestamp="1593512651727">
+        <mark key="'" line="13" column="9" />
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="17" column="2" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/bull/lib/job.js" timestamp="1593593800663">
+        <mark key="'" line="10" column="6" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1593594784084">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1593575704106">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" timestamp="1593593567713">
-        <mark key="'" line="101" column="6" />
-        <mark key="[" line="67" column="23" />
-        <mark key="]" line="67" column="26" />
-        <mark key="^" line="67" column="26" />
-        <mark key="." line="67" column="25" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" timestamp="1593594867493">
+        <mark key="'" line="111" column="29" />
+        <mark key="[" line="64" column="2" />
+        <mark key="]" line="64" column="8" />
+        <mark key="^" line="64" column="8" />
+        <mark key="." line="64" column="7" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/package.json" timestamp="1593514894913">
         <mark key="[" line="2" column="16" />
@@ -252,27 +249,8 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/GmsErrorCode.ts" timestamp="1593503854352">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="1" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="129" column="1" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="138" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="54" column="114" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="52" column="60" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="130" column="80" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="148" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="140" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="68" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="55" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="42" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="159" column="32" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="284" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
-      <jump line="138" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
       <jump line="589" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="151" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
       <jump line="30" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
@@ -359,12 +337,26 @@
       <jump line="114" column="10" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" />
       <jump line="99" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" />
       <jump line="101" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" />
+      <jump line="10" column="6" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/bull/lib/job.js" />
+      <jump line="27" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/bull/lib/queue.js" />
+      <jump line="49" column="32" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/bull/lib/queue.js" />
+      <jump line="167" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/bull/lib/queue.js" />
+      <jump line="342" column="36" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/bull/lib/queue.js" />
+      <jump line="68" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" />
+      <jump line="176" column="11" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/bull/lib/repeatable.js" />
+      <jump line="35" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/bull/lib/repeatable.js" />
+      <jump line="101" column="27" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/node_modules/bull/lib/repeatable.js" />
+      <jump line="59" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" />
+      <jump line="58" column="0" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" />
+      <jump line="122" column="19" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" />
+      <jump line="110" column="8" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" />
+      <jump line="111" column="29" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-whiteboard-center/src/timerUtils.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>efault</text>
+        <text>forEach</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1310,55 +1302,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>efault</text>
+        <text>forEach</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>queuenam</text>
+        <text>clearinter</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBxdWV1ZSA9IGluaXRRdWV1ZShxdWV1ZU5hbWUpCg==</text>
+      <register name="0" type="4">
+        <text>jobName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzZXRUaW1lb3V0KCgpID0+IHsKICAgIG1vZHVsZS5leHBvcnRzLmNsZWFySW50ZXJ2YWwocm9vbUlkLCAxMDAwKQogIH0sIDUwMCkK</text>
       </register>
       <register name="q" type="4">
         <text>this.connectionState != ConnectionState.CONNECTED</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbml0UXVldWUoKQo=</text>
+        <text encoding="base64">ICBjb25zdCBqb2JzID0gYXdhaXQgcXVldWUuZ2V0UmVwZWF0YWJsZUpvYnMoKQo=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICBqb2JzCg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9kdWxlCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text>feat: 支持白板打印日志</text>
+        <text encoding="base64">ICBpbml0UXVldWUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHF1ZXVlID0gaW5pdFF1ZXVlKHF1ZXVlTmFtZSkKICAgIHF1ZXVlLmdldAo=</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">bW9kdWxlCg==</text>
       </register>
       <register name="w" type="4">
         <text>onMemberLeft</text>
       </register>
       <register name="8" type="2">
-        <text />
+        <text>feat: 支持白板打印日志</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NrUmVuZXdUaW1lOiAzMCwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHF1ZXVlID0gaW5pdFF1ZXVlKHF1ZXVlTmFtZSkKICAgIHF1ZXVlLmdldAo=</text>
       </register>
       <register name=":" type="4">
         <text>tabnext</text>
@@ -1367,9 +1359,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>queuenam</last-search>
+      <last-search>clearinter</last-search>
       <last-offset />
-      <last-pattern>queuenam</last-pattern>
+      <last-pattern>clearinter</last-pattern>
       <last-replace>offE</last-replace>
       <last-substitute>onE</last-substitute>
       <last-dir>1</last-dir>
