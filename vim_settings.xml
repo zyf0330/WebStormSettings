@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxqb2luUHJvbWlzZVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVDaGFubmVsTWVzc2FnZVJlY2VpdmVkXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVDaGFubmVsQXR0cmlidXRlc1VwZGF0ZWRcPg==</entry>
         <entry encoding="base64">XDxjb3VudHNcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>attr</entry>
         <entry encoding="base64">XDxDaGFubmVsQXR0cmlidXRlUHJvcGVydGllc1w+</entry>
         <entry encoding="base64">XDxBdHRyaWJ1dGVzVXBkYXRlZFw+</entry>
+        <entry encoding="base64">XDxpc0pvaW5pbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action NextTab</entry>
@@ -44,9 +44,9 @@
         <entry>50</entry>
         <entry>q</entry>
         <entry>tabnext</entry>
-        <entry>action Back</entry>
         <entry>nohlsearch</entry>
         <entry encoding="base64">dGFicHJldmlvdXMg</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -214,13 +214,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" timestamp="1593671643552">
-        <mark key="'" line="774" column="52" />
-        <mark key="[" line="762" column="0" />
-        <mark key="]" line="762" column="0" />
-        <mark key="^" line="761" column="13" />
-        <mark key="." line="762" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" timestamp="1593672781360">
         <mark key="'" line="51" column="73" />
         <mark key="[" line="37" column="41" />
@@ -274,16 +267,20 @@
         <mark key="^" line="244" column="8" />
         <mark key="." line="132" column="75" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1593679360361">
-        <mark key="'" line="30" column="45" />
-        <mark key="[" line="68" column="7" />
-        <mark key="]" line="69" column="6" />
-        <mark key="." line="69" column="5" />
-        <mark key="^" line="69" column="6" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1593680216851">
+        <mark key="'" line="127" column="11" />
+        <mark key="[" line="152" column="10" />
+        <mark key="]" line="152" column="10" />
+        <mark key="^" line="152" column="25" />
+        <mark key="." line="152" column="10" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/GmsErrorCode.ts" timestamp="1593680249376">
+        <mark key="[" line="70" column="1" />
+        <mark key="]" line="70" column="1" />
+        <mark key="." line="70" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="15" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
       <jump line="735" column="31" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/index.js" />
       <jump line="60" column="38" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
       <jump line="77" column="39" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/models/Interaction.js" />
@@ -383,12 +380,13 @@
       <jump line="70" column="38" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="30" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="49" column="32" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/sample/index.ts" />
+      <jump line="128" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgdG9rZW5FeHBpcmVkRHVyYXRpb24gPSAyNCAqIDM2MDAgKiAxMDAwCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1334,43 +1332,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>login and logout</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBdHRyaWJ1dGVzVXBkYXRlZFw+</text>
+        <text encoding="base64">XDxpc0pvaW5pbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgYXBwSWQgPSAnMTgyNGEwYmZmNDdlNGY0N2JkY2U5NTZjNWU5MDI1YWQnCmNvbnN0IHRva2VuRXhwaXJlZER1cmF0aW9uID0gMjQgKiAzNjAwICogMTAwMAoKY29uc3QgZ21zID0gR01TLmNyZWF0ZUluc3RhbmNlKGFwcElkLCB7IGxvZ0ZpbHRlcjogTG9nRmlsdGVyVHlwZS5MT0dfRklMVEVSX0lORk8gfSkKZGVzY3JpYmUoJ2xvZ2luIGFuZCBsb2dvdXQnLCAoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWplY3QobmV3IEdtc0Jhc2VFcnJvcignYWxyZWFkeSBqb2luZWQhJywgSm9pbkNoYW5uZWxFcnJvci5KT0lOX0NIQU5ORUxfRVJSX0FMUkVBRFlfSk9JTkVEKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdG9rZW5FeHBpcmVkRHVyYXRpb24gPSAyNCAqIDM2MDAgKiAxMDAwCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="q" type="4">
         <text>this.connectionState != ConnectionState.CONNECTED</text>
       </register>
       <register name="2" type="2">
-        <text>feat(channel): 重连时自动加入。优化加入和离开方法</text>
+        <text encoding="base64">ICAgICAgICByZWplY3QoKQo=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyDpgJrnn6XlhoXlrrnkuI3lr7kK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLm1ldGFJbmZvCg==</text>
+        <text encoding="base64">ICAgICAgICByZWplY3QoZXJyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgX2F0dHJpYnV0ZXMK</text>
+        <text encoding="base64">ICAgICAgcmVzb2x2ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIG8K</text>
+        <text encoding="base64">ICAgIHJldHVybiAgbmV3IFByb21pc2U8dm9pZD4oYXN5bmMgKHJlc29sdmUsIHJlamVjdCkgPT4gewo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1379,21 +1377,21 @@
         <text>onMemberLeft</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyDpgJrnn6XlhoXlrrnkuI3lr7kK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmpvaW5pbmcgPSBuZXcgUHJvbWlzZTx2b2lkPihhc3luYyAocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text />
+        <text encoding="base64">ICAgIGlmICh0aGlzLmpvaW5pbmcpIHsKICAgICAgcmV0dXJuIHRoaXMuam9pbmluZwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">dGFicHJldmlvdXMg</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxBdHRyaWJ1dGVzVXBkYXRlZFw+</last-search>
+      <last-search encoding="base64">XDxpc0pvaW5pbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBdHRyaWJ1dGVzVXBkYXRlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpc0pvaW5pbmdcPg==</last-pattern>
       <last-replace>offE</last-replace>
       <last-substitute>onE</last-substitute>
       <last-dir>1</last-dir>
