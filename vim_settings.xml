@@ -5,16 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>should th</entry>
-        <entry>error</entry>
-        <entry>gmsba</entry>
-        <entry>objectcon</entry>
-        <entry>should throw</entry>
-        <entry>memberjo</entry>
-        <entry>reconnec</entry>
-        <entry encoding="base64">XDxoYXNKb2luZWRcPg==</entry>
-        <entry>try</entry>
-        <entry>catch</entry>
         <entry>channel2</entry>
         <entry>connection</entry>
         <entry>hasjoined</entry>
@@ -24,12 +14,19 @@
         <entry>init</entry>
         <entry>exceed</entry>
         <entry encoding="base64">XDxjaGFubmVsSWRcPg==</entry>
+        <entry>obj</entry>
+        <entry>nt</entry>
+        <entry>should throw</entry>
+        <entry>catch</entry>
+        <entry>then</entry>
+        <entry>tobe</entry>
+        <entry>exp</entry>
+        <entry>toth</entry>
+        <entry>login</entry>
+        <entry>torhwo</entry>
         <entry>tothrow</entry>
       </history-search>
       <history-cmd>
-        <entry>action PreviousTab</entry>
-        <entry encoding="base64">LiwuKzJ0YWJwcmV2aW91cyA=</entry>
-        <entry>110</entry>
         <entry>38</entry>
         <entry encoding="base64">JzwsJz5zLz0gJy89ICdsb2dpbkZhaWw6IC8=</entry>
         <entry>%s/});/})/g</entry>
@@ -45,8 +42,11 @@
         <entry encoding="base64">bm9yZW1hcCA8TGVhZGVyPjxMZWFkZXI+IDo8Qy11Pm5vaGxzZWFyY2g8Q1I+</entry>
         <entry>nohlsearch</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>tabnext</entry>
+        <entry>let @e = &quot;@q@w&quot;</entry>
+        <entry>@e</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -182,8 +182,8 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" timestamp="1593764638187">
-        <mark key="'" line="74" column="10" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" timestamp="1593770009058">
+        <mark key="'" line="130" column="45" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -213,7 +213,7 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1593768695041">
+      <file name="/JavaScript Console" timestamp="1593769907887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" timestamp="1593761755409">
@@ -230,7 +230,7 @@
         <mark key="." line="88" column="58" />
         <mark key="^" line="83" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593766853363">
+      <file name="/Dummy.txt" timestamp="1593769760134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="25" />
@@ -252,12 +252,12 @@
       <file name="/" timestamp="1593766159859">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" timestamp="1593684621066">
-        <mark key="'" line="32" column="122" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="102" column="49" />
-        <mark key="^" line="244" column="8" />
-        <mark key="." line="132" column="75" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" timestamp="1593770062508">
+        <mark key="'" line="105" column="15" />
+        <mark key="[" line="118" column="6" />
+        <mark key="]" line="118" column="3" />
+        <mark key="." line="118" column="2" />
+        <mark key="^" line="118" column="3" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1593761652083">
         <mark key="'" line="16" column="9" />
@@ -288,65 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="141" column="28" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="3" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="2" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="11" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="14" column="27" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="16" column="108" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="18" column="111" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="20" column="112" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="22" column="110" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="24" column="112" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="28" column="123" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="30" column="124" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="32" column="122" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
-      <jump line="35" column="27" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="41" column="60" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="46" column="62" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="121" column="30" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="143" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="133" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="31" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="41" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="90" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="91" column="37" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="98" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="112" column="101" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="113" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="114" column="63" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="115" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="120" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="144" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="76" column="54" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="86" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="87" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="80" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="60" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="81" column="5" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="82" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="72" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="75" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="73" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="84" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="85" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="4" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="130" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
-      <jump line="54" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="52" column="75" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="55" column="29" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="94" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="53" column="56" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="89" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="51" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="70" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="126" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="122" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
-      <jump line="110" column="5" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="90" column="47" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
-      <jump line="97" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
       <jump line="69" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
       <jump line="42" column="35" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
       <jump line="74" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
@@ -388,12 +329,71 @@
       <jump line="8" column="36" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/sdk.spec.ts" />
       <jump line="10" column="36" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/sdk.spec.ts" />
       <jump line="11" column="1" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/sdk.spec.ts" />
+      <jump line="7" column="42" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="18" column="39" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="20" column="40" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="22" column="52" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="25" column="3" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="28" column="42" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="30" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="32" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="33" column="44" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="34" column="50" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="37" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="44" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="41" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="45" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="49" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="51" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="55" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="60" column="12" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="69" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="68" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="64" column="48" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="65" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="71" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="76" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="77" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="82" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="67" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="93" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="106" column="1" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="147" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="24" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="40" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="43" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="46" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="48" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="50" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="53" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="57" column="43" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="56" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="59" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="63" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="70" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="130" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
+      <jump line="89" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="91" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="94" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="101" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="104" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="115" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="117" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="210" column="53" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="196" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="178" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="169" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="167" column="53" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="16" column="38" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="218" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="118" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
+      <jump line="105" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/connection.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh7YjogMixhOiB7YjogMX19KS50b01hdGNoT2JqZWN0KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHtiOiAxfSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KCkgPT4=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1301,6 +1301,93 @@
       <register name="c" type="4">
         <text>vi{&quot;0p</text>
       </register>
+      <register name="e" type="4">
+        <keys>
+          <key char="64" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="f" type="4">
         <text encoding="base64">KG1zZykgPT4gW10s</text>
       </register>
@@ -1339,7 +1426,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>GMS.createInstance(123)</text>
+        <text encoding="base64">KCkgPT4=</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1348,49 +1435,161 @@
         <text>tothrow</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">KCkgPT4gew==</text>
+        <text>.toThrow(expect.objectContaining</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh7YjogMixhOiB7YjogMX19KS50b01hdGNoT2JqZWN0KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHtiOiAxfSkpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PikgPT4gZ21zLmxvZ2luKG51bGwpKS50b1Rocm93KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHsgY29kZTogTG9naW5FcnJvci5MT0dJTl9FUlJfSU5WQUxJRF9BUkdVTUVOVCB9KSkKICB9KQogIGl0KCdzaG91bGQgY2hlY2sgaW52YWxpZCB1c2VySWQnLCBhc3luYyAoKSA9PiB7CiAgICAvLyBAdHMtaWdub3JlCiAgICBleHBlY3QoKCkgPT4gZ21zLmxvZ2luKHsgdXNlcklkOiAxMjMgfSkpLnRvVGhyb3coZXhwZWN0Lm9iamVjdENvbnRhaW5pbmcoeyBjb2RlOiBMb2dpbkVycm9yLkxPR0lOX0VSUl9JTlZBTElEX0FSR1VNRU5UIH0pKQogICAgLy8gQHRzLWlnbm9yZQogICAgZXhwZWN0KCgpID0+IGdtcy5sb2dpbih7IHVzZXJJZDogdHJ1ZSB9KSkudG9UaHJvdyhleHBlY3Qub2JqZWN0Q29udGFpbmluZyh7IGNvZGU6IExvZ2luRXJyb3IuTE9HSU5fRVJSX0lOVkFMSURfQVJHVU1FTlQgfSkpCiAgICAvLyBAdHMtaWdub3JlCiAgICBleHBlY3QoKCkgPT4gZ21zLmxvZ2luKHsgdXNlcklkOiB7fSB9KSkudG9UaHJvdyhleHBlY3Qub2JqZWN0Q29udGFpbmluZyh7IGNvZGU6IExvZ2luRXJyb3IuTE9HSU5fRVJSX0lOVkFMSURfQVJHVU1FTlQgfSkpCiAgICBleHBlY3QoKCkgPT4gZ21zLmxvZ2luKHsgdXNlcklkOiAnXDB4MTIzJyB9KSkudG9UaHJvdyhleHBlY3Qub2JqZWN0Q29udGFpbmluZyh7IGNvZGU6IExvZ2luRXJyb3IuTE9HSU5fRVJSX0lOVkFMSURfQVJHVU1FTlQgfSkpCiAgICBleHBlY3QoKCkgPT4gZ21zLmxvZ2luKHsgdXNlcklkOiAnMScucmVwZWF0KDY1KSB9KSkudG9UaHJvdyhleHBlY3Qub2JqZWN0Q29udGFpbmluZyh7IGNvZGU6IExvZ2luRXJyb3IuTE9HSU5fRVJSX0lOVkFMSURfQVJHVU1FTlQgfSkpCiAgfSkKICBpdCgnc2hvdWxkIGNoZWNrIGludmFsaWQgdG9rZW4gYXJncycsIGFzeW5jICgpID0+IHsKICAgIGV4cGVjdCgoKSA9PiBnbXMubG9naW4oeyB1c2VySWQ6ICd1c2VySWQxJywgdG9rZW46IG51bGwgfSkpCiAgICAgIC50b1Rocm93KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHsgY29kZTogTG9naW5FcnJvci5MT0dJTl9FUlJfSU5WQUxJRF9UT0tFTiB9KSkKICAgIC8vIEB0cy1pZ25vcmUKICAgIGV4cGVjdCgoKSA9PiBnbXMubG9naW4oeyB1c2VySWQ6ICd1c2VySWQxJywgdG9rZW46IHRydWUgfSkpCiAgICAgIC50b1Rocm93KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHsgY29kZTogTG9naW5FcnJvci5MT0dJTl9FUlJfSU5WQUxJRF9UT0tFTiB9KSkKICAgIC8vIEB0cy1pZ25vcmUKICAgIGV4cGVjdCgoKSA9PiBnbXMubG9naW4oeyB1c2VySWQ6ICd1c2VySWQxJywgdG9rZW46IHt9IH0pKQogICAgICAudG9UaHJvdyhleHBlY3Qub2JqZWN0Q29udGFpbmluZyh7IGNvZGU6IExvZ2luRXJyb3IuTE9HSU5fRVJSX0lOVkFMSURfVE9LRU4gfSkpCiAgICAvLyBAdHMtaWdub3JlCiAgICBleHBlY3QoKCkgPT4gZ21zLmxvZ2luKHsgdXNlcklkOiAndXNlcklkMScsIHRva2VuOiAxMjMzIH0pKQogICAgICAudG9UaHJvdyhleHBlY3Qub2JqZWN0Q29udGFpbmluZyh7IGNvZGU6IExvZ2luRXJyb3IuTE9HSU5fRVJSX0lOVkFMSURfVE9LRU4gfSkpCiAgICBleHBlY3QoKCkgPT4gZ21zLmxvZ2luKHsgdXNlcklkOiAndXNlcklkMScsIHRva2VuOiAnJyB9KSkKICAgICAgLnRvVGhyb3coZXhwZWN0Lm9iamVjdENvbnRhaW5pbmcoeyBjb2RlOiBMb2dpbkVycm9yLkxPR0lOX0VSUl9JTlZBTElEX0FSR1VNRU5UIH0pKQogICAgZXhwZWN0KCgpID0+IGdtcy5sb2dpbih7IHVzZXJJZDogJ3VzZXJJZDEnLCB0b2tlbjogJzEyMycsIHRpbWVzdGFtcDogbnVsbCB9KSkKICAgICAgLnRvVGhyb3coZXhwZWN0Lm9iamVjdENvbnRhaW5pbmcoeyBjb2RlOiBMb2dpbkVycm9yLkxPR0lOX0VSUl9JTlZBTElEX0FSR1VNRU5UIH0pKQogICAgLy8gQHRzLWlnbm9yZQogICAgZXhwZWN0KCgpID0+IGdtcy5sb2dpbih7IHVzZXJJZDogJ3VzZXJJZDEnLCB0b2tlbjogJzEyMycsIHRpbWVzdGFtcDogJzEyMycgfSkpCiAgICAgIC50b1Rocm93KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHsgY29kZTogTG9naW5FcnJvci5MT0dJTl9FUlJfSU5WQUxJRF9BUkdVTUVOVCB9KSkKICAgIC8vIEB0cy1pZ25vcmUKICAgIGV4cGVjdCgoKSA9PiBnbXMubG9naW4oeyB1c2VySWQ6ICd1c2VySWQxJywgdG9rZW46ICcxMjMnLCB0aW1lc3RhbXA6IHRydWUgfSkpCiAgICAgIC50b1Rocm93KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHsgY29kZTogTG9naW5FcnJvci5MT0dJTl9FUlJfSU5WQUxJRF9BUkdVTUVOVCB9KSkKICAgIC8vIEB0cy1pZ25vcmUKICAgIGV4cGVjdCgoKSA9PiBnbXMubG9naW4oeyB1c2VySWQ6ICd1c2VySWQxJywgdG9rZW46ICcxMjMnLCB0aW1lc3RhbXA6IHt9IH0pKQogICAgICAudG9UaHJvdyhleHBlY3Qub2JqZWN0Q29udGFpbmluZyh7IGNvZGU6IExvZ2luRXJyb3IuTE9HSU5fRVJSX0lOVkFMSURfQVJHVU1FTlQgfSkpCiAgfSkKICBpdCgnc2hvdWxkIGZhaWwgd2l0aCB1bmF1dGhvcml6ZWQgdG9rZW4nLCBhc3luYyAoKSA9PiB7CiAgICBleHBlY3QoKCkgPT4gZ21zLmxvZ2luKHsgdXNlcklkOiAndXNlcklkMScsIHRva2VuOiAnMXd3d2Z2aGIxMjMnLCB0aW1lc3RhbXA6IERhdGUubm93KCkgfSkpCiAgICAgIC50b1Rocm93KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHsgY29kZTogTG9naW5FcnJvci5MT0dJTl9FUlJfTk9UX0FVVEhPUklaRUQgfSkpCiAgfSkKICBpdCgnc2hvdWxkIGZhaWwgd2l0aCBleHBpcmVkIHRva2VuJywgYXN5bmMgKCkgPT4gewogICAgY29uc3QgdGltZXN0YW1wID0gRGF0ZS5ub3coKSAtIHRva2VuRXhwaXJlZER1cmF0aW9uCiAgICBjb25zdCB1c2VySWQgPSAndXNlcklkMScKICAgIGNvbnN0IHRva2VuID0gZ2VuZXJUb2tlbihhcHBJZCwgdGltZXN0YW1wLCB1c2VySWQpCiAgICBleHBlY3QoKCkgPT4gZ21zLmxvZ2luKHsgdXNlcklkLCB0b2tlbiwgdGltZXN0YW1wIH0pKQogICAgICAudG9UaHJvdyhleHBlY3Qub2JqZWN0Q29udGFpbmluZyh7IGNvZGU6IExvZ2luRXJyb3IuTE9HSU5fRVJSX1RPS0VOX0VYUElSRUQgfSkpCiAgfSkKICBpdCgnc2hvdWxkIHN1Y2Nlc3Mgd2l0aCBub3QgZXhwaXJlZCB0b2tlbicsIGFzeW5jICgpID0+IHsKICAgIGNvbnN0IHVzZXJJZCA9ICd1c2VySWQxJwogICAgbGV0IHRpbWVzdGFtcCA9IERhdGUubm93KCkKICAgIGxldCB0b2tlbiA9IGdlbmVyVG9rZW4oYXBwSWQsIHRpbWVzdGFtcCwgdXNlcklkKQogICAgYXdhaXQgZ21zLmxvZ2luKHsgdXNlcklkLCB0b2tlbiwgdGltZXN0YW1wIH0pCiAgICBhd2FpdCBnbXMubG9nb3V0KCkKCiAgICB0aW1lc3RhbXAgPSBEYXRlLm5vdygpIC0gdG9rZW5FeHBpcmVkRHVyYXRpb24gKyAxMDAwMAogICAgdG9rZW4gPSBnZW5lclRva2VuKGFwcElkLCB0aW1lc3RhbXAsIHVzZXJJZCkKICAgIGF3YWl0IGdtcy5sb2dpbih7IHVzZXJJZCwgdG9rZW4sIHRpbWVzdGFtcCB9KQogICAgYXdhaXQgZ21zLmxvZ291dCgpCiAgfSkKICBpdCgnc2hvdWxkIGZhaWwgaWYgbG9naW4gd2l0aG91dCBsb2dvdXQgb3IgbG9nb3V0IHdpdGhvdXQgbG9naW4nLCBhc3luYyAoKSA9PiB7CiAgICBjb25zdCB1c2VySWQgPSAndXNlcklkMScKICAgIGNvbnN0IHRpbWVzdGFtcCA9IERhdGUubm93KCkKICAgIGNvbnN0IHRva2VuID0gZ2VuZXJUb2tlbihhcHBJZCwgdGltZXN0YW1wLCB1c2VySWQpCiAgICBleHBlY3QoKCkgPT4gZ21zLmxvZ291dCgpKS50b1Rocm93KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHsgY29kZTogTG9nb3V0RXJyb3IuTE9HT1VUX0VSUl9VU0VSX05PVF9MT0dHRURfSU4gfSkpCiAgICBhd2FpdCBnbXMubG9naW4oeyB1c2VySWQsIHRva2VuLCB0aW1lc3RhbXAgfSkKICAgIGV4cGVjdCgoKSA9PiBnbXMubG9naW4oeyB1c2VySWQsIHRva2VuLCB0aW1lc3RhbXAgfSkpCiAgICAgIC50b1Rocm93KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHsgY29kZTogTG9naW5FcnJvci5MT0dJTl9FUlJfQUxSRUFEWV9MT0dJTiB9KSkKICAgIGF3YWl0IGdtcy5sb2dvdXQoKQogICAgZXhwZWN0KCgpID0+IGdtcy5sb2dvdXQoKSkudG9UaHJvdyhleHBlY3Qub2JqZWN0Q29udGFpbmluZyh7IGNvZGU6IExvZ291dEVycm9yLkxPR09VVF9FUlJfVVNFUl9OT1RfTE9HR0VEX0lOIH0pKQogIH0pCiAgaXQoJ3Nob3VsZCB0aW1lb3V0IGlmIHJlbW90ZSBzZXJ2ZXIgZG93bicsIGFzeW5jICgpID0+IHsKICAgIGNvbnN0IHVzZXJJZCA9ICd1c2VySWQxJwogICAgY29uc3QgdGltZXN0YW1wID0gRGF0ZS5ub3coKQogICAgY29uc3QgdG9rZW4gPSBnZW5lclRva2VuKGFwcElkLCB0aW1lc3RhbXAsIHVzZXJJZCkKICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnN0IG9yaWdpbkhvc3RzID0gZ21zLnNvY2tldC5ob3N0cwogICAgLy8gQHRzLWlnbm9yZQogICAgZ21zLnNvY2tldC5ob3N0cyA9IFsnaHR0cDovL2JhaWR1LmNvbTozNzU2J10KICAgIGV4cGVjdCgoKSA9PiBnbXMubG9naW4oeyB1c2VySWQsIHRva2VuLCB0aW1lc3RhbXAgfSkpCiAgICAgIC50b1Rocm93KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHsgY29kZTogTG9naW5FcnJvci5MT0dJTl9FUlJfVElNRU9VVCB9KSkKICAgIC8vIEB0cy1pZ25vcmUKICAgIGdtcy5zb2NrZXQuaG9zdHMgPSBvcmlnaW5Ib3N0cwogIH0sIDYxMDApOwogIGl0KCdzaG91bGQgZmFpbCBpZiBsb2NhbCBzZXJ2ZXIgZG93bicsIGFzeW5jICgpID0+IHsKICAgIGNvbnN0IHVzZXJJZCA9ICd1c2VySWQxJwogICAgY29uc3QgdGltZXN0YW1wID0gRGF0ZS5ub3coKQogICAgY29uc3QgdG9rZW4gPSBnZW5lclRva2VuKGFwcElkLCB0aW1lc3RhbXAsIHVzZXJJZCkKICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnN0IG9yaWdpbkhvc3RzID0gZ21zLnNvY2tldC5ob3N0cwogICAgLy8gQHRzLWlnbm9yZQogICAgZ21zLnNvY2tldC5ob3N0cyA9IFsnaHR0cDovL2xvY2FsaG9zdDozNzU2J10KICAgIGV4cGVjdCgoKSA9PiBnbXMubG9naW4oeyB1c2VySWQsIHRva2VuLCB0aW1lc3RhbXAgfSkpCiAgICAgIC50b1Rocm93KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHsgY29kZTogTG9naW5FcnJvci5MT0dJTl9FUlJfVU5LTk9XTiB9KSkKICAgIC8vIEB0cy1pZ25vcmUKICAgIGdtcy5zb2NrZXQuaG9zdHMgPSBvcmlnaW5Ib3N0cwogIH0pCn0pCgpkZXNjcmliZSgnY29ubmVjdGlvbiBzdGF0ZSBtYW5hZ2UnLCAoKSA9PiB7CiAgY29uc3QgdXNlcklkID0gJ3VzZXJJZDEnCiAgY29uc3QgdGltZXN0YW1wID0gRGF0ZS5ub3coKQogIGNvbnN0IHRva2VuID0gZ2VuZXJUb2tlbihhcHBJZCwgdGltZXN0YW1wLCB1c2VySWQpCgogIGl0KCdzaG91bGQgY2hhbmdlIGJldHdlZW4gcmlnaHQgc3RhdGVzIHdoZW4gbG9naW4gYW5kIGxvZ291dCBub3JtYWxseScsIChkb25lKSA9PiB7CiAgICAvLyBAdHMtaWdub3JlCiAgICBleHBlY3QoZ21zLmNvbm5lY3Rpb25TdGF0ZSkudG9CZSg=</text>
       </register>
       <register name="q" type="4">
-        <text>Pf(%a}jk</text>
+        <keys>
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+        </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgR01TLmNyZWF0ZUluc3RhbmNlKG51bGwpCiAgICB9IGNhdGNoICh7IGNvZGUgfSkgewogICAgICBleHBlY3QoY29kZSkudG9CZShDcmVhdGVJbnN0YW5jZUVycm9yLkNSRUFURV9JTlNUQU5DRV9FUlJfSU5WQUxJRF9BUkdVTUVOVCkKICAgIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">LnRoZW4oKCkgPT4geyB0aHJvdyAnc2hvdWxkIHRocm93JyB9KQogICAgICAuY2F0Y2goKHsgY29kZSB9KSA9PiBleHBlY3QoY29kZSkudG9CZSg=</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgR01TLmNyZWF0ZUluc3RhbmNlKG51bGwpCiAgICB9IGNhdGNoICh7IGNvZGUgfSkgewogICAgICBleHBlY3QoY29kZSkudG9CZShDcmVhdGVJbnN0YW5jZUVycm9yLkNSRUFURV9JTlNUQU5DRV9FUlJfSU5WQUxJRF9BUkdVTUVOVCkKICAgIH0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">LnRoZW4oKCkgPT4geyB0aHJvdyAnc2hvdWxkIHRocm93JyB9KQogICAgICAuY2F0Y2goKHsgY29kZSB9KSA9PiBleHBlY3QoY29kZSkudG9CZSg=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgR01TLmNyZWF0ZUluc3RhbmNlKHt9KQogICAgfSBjYXRjaCAoeyBjb2RlIH0pIHsKICAgICAgZXhwZWN0KGNvZGUpLnRvQmUoQ3JlYXRlSW5zdGFuY2VFcnJvci5DUkVBVEVfSU5TVEFOQ0VfRVJSX0lOVkFMSURfQVJHVU1FTlQpCiAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LnRoZW4oKCkgPT4geyB0aHJvdyAnc2hvdWxkIHRocm93JyB9KQogICAgICAuY2F0Y2goKHsgY29kZSB9KSA9PiBleHBlY3QoY29kZSkudG9CZSg=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgR01TLmNyZWF0ZUluc3RhbmNlKHRydWUpCiAgICB9IGNhdGNoICh7IGNvZGUgfSkgewogICAgICBleHBlY3QoY29kZSkudG9CZShDcmVhdGVJbnN0YW5jZUVycm9yLkNSRUFURV9JTlNUQU5DRV9FUlJfSU5WQUxJRF9BUkdVTUVOVCkKICAgIH0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">LnRoZW4oKCkgPT4geyB0aHJvdyAnc2hvdWxkIHRocm93JyB9KQogICAgICAuY2F0Y2goKHsgY29kZSB9KSA9PiBleHBlY3QoY29kZSkudG9CZSg=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIAogICAgfSBjYXRjaCAoeyBjb2RlIH0pIHsKICAgICAgZXhwZWN0KGNvZGUpLnRvQmUoQ3JlYXRlSW5zdGFuY2VFcnJvci5DUkVBVEVfSU5TVEFOQ0VfRVJSX0lOVkFMSURfQVJHVU1FTlQpCiAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">LnRoZW4oKCkgPT4geyB0aHJvdyAnc2hvdWxkIHRocm93JyB9KQogICAgICAuY2F0Y2goKHsgY29kZSB9KSA9PiBleHBlY3QoY29kZSkudG9CZSg=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgY29uc3QgdXNlcklkID0gJ3VzZXJJZDEnOwogIGNvbnN0IHRpbWVzdGFtcCA9IERhdGUubm93KCk7CiAgY29uc3QgdG9rZW4gPSBnZW5lclRva2VuKGFwcElkLCB0aW1lc3RhbXAsIHVzZXJJZCk7CiAgY29uc3QgbG9naW5BcmdzID0geyB1c2VySWQsIHRva2VuLCB0aW1lc3RhbXAgfTsKCiAgYmVmb3JlQWxsKGFzeW5jICgpID0+IHsKICAgIGF3YWl0IGdtcy5sb2dpbihsb2dpbkFyZ3MpOwogIH0pOwoKICBhZnRlckFsbChhc3luYyAoKSA9PiB7CiAgICBhd2FpdCBnbXMubG9nb3V0KCk7CiAgfSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">LnRoZW4oKCkgPT4geyB0aHJvdyAnc2hvdWxkIHRocm93JyB9KQogICAgICAuY2F0Y2goKHsgY29kZSB9KSA9PiBleHBlY3QoY29kZSkudG9CZSg=</text>
       </register>
       <register name="w" type="4">
-        <text>onMemberLeft</text>
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="48" code="0" mods="0" />
+        </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWwuCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IGdtcy5sb2dpbih7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2hhbm5lbC5tCg==</text>
+        <text encoding="base64">ICAgIH0pKS50b1Rocm93KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHtjb2RlOkxvZ2luRXJyb3IuTE9HSU5fRVJSX0lOVkFMSURfQVJHVU1FTlR9KSkK</text>
       </register>
       <register name=":" type="4">
-        <text>tabnext</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
