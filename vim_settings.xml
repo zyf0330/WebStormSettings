@@ -45,8 +45,8 @@
         <entry>action Forward</entry>
         <entry>w</entry>
         <entry>action Back</entry>
-        <entry>tabnext</entry>
         <entry encoding="base64">dGFicHJldmlvdXMg</entry>
+        <entry>tabnext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -215,12 +215,13 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" timestamp="1594018924434">
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" timestamp="1594019556488">
+        <mark key="'" line="103" column="53" />
         <mark key="z" line="78" column="4" />
-        <mark key="[" line="95" column="191" />
-        <mark key="]" line="96" column="4" />
-        <mark key="." line="96" column="3" />
-        <mark key="^" line="96" column="4" />
+        <mark key="[" line="94" column="10" />
+        <mark key="]" line="95" column="4" />
+        <mark key="^" line="95" column="4" />
+        <mark key="." line="95" column="3" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/package.json" timestamp="1593765387192">
         <mark key="[" line="17" column="34" />
@@ -258,7 +259,7 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1594018884113">
+      <file name="/JavaScript Console" timestamp="1594019362635">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/sdk.spec.ts" timestamp="1593768703014">
@@ -291,8 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
-      <jump line="55" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
       <jump line="70" column="41" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
       <jump line="71" column="42" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
       <jump line="81" column="41" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
@@ -391,12 +390,14 @@
       <jump line="156" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="177" column="41" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="95" column="48" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
+      <jump line="100" column="34" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
+      <jump line="99" column="53" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>setChannelAttributes</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1429,7 +1430,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>setChannelAttributes(channelId, attr)</text>
+        <text>setChannelAttributes</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
@@ -1438,10 +1439,10 @@
         <text>addorup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGV4cGVjdChnbXMuc2V0Q2hhbm5lbEF0dHJpYnV0ZXMoY2hhbm5lbElkLCBhdHRyKSkucmVqZWN0cy50b1Rocm93KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHsgY29kZTogQXR0cmlidXRlT3BlcmF0aW9uRXJyb3IuQVRUUklCVVRFX09QRVJBVElPTl9FUlJfU0laRV9PVkVSRkxPVyB9KSkK</text>
+        <text encoding="base64">ICAgIGF3YWl0IGV4cGVjdChnbXMuc2V0Q2hhbm5lbEF0dHJpYnV0ZXMoY2hhbm5lbElkLCBiaWdBdHRyKSkucmVqZWN0cy50b1Rocm93KGV4cGVjdC5vYmplY3RDb250YWluaW5nKHsgY29kZTogQXR0cmlidXRlT3BlcmF0aW9uRXJyb3IuQVRUUklCVVRFX09QRVJBVElPTl9FUlJfU0laRV9PVkVSRkxPVyB9KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1513,33 +1514,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGdtcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGdtcy5zZXRDaGFubmVsQXR0cmlidXRlcyhjaGFubmVsSWQsIGF0dHIpCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IGdtcy4K</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IGdtcy5zZXRDaGFubmVsQXR0cmlidXRlcyhjaGFubmVsSWQsIGF0dHIpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>'
 '
 '
 '</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Xy5zaXplKCkK</text>
-      </register>
-      <register name="7" type="4">
-        <text>{
-
-}</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1590,14 +1589,16 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text>export function isValidAttributesSize</text>
+      <register name="8" type="4">
+        <text>{
+
+}</text>
       </register>
       <register name="9" type="2">
-        <text>export function</text>
+        <text>export function isValidAttributesSize</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">dGFicHJldmlvdXMg</text>
+        <text>tabnext</text>
       </register>
     </registers>
   </component>
