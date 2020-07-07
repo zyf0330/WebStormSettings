@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNcPg==</entry>
         <entry>getchannelatt</entry>
         <entry>reso</entry>
         <entry encoding="base64">XDxyZXNvbHZlXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>lastup</entry>
         <entry>init</entry>
         <entry>disconnectrea</entry>
+        <entry encoding="base64">XDxqb2luXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -167,7 +167,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594113521808">
+      <file name="/Dummy.txt" timestamp="1594114397863">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1594105921555">
@@ -244,12 +244,12 @@
         <mark key="." line="118" column="2" />
         <mark key="^" line="118" column="3" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1594113836770">
-        <mark key="'" line="26" column="9" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="20" />
-        <mark key="^" line="105" column="20" />
-        <mark key="." line="105" column="19" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" timestamp="1594114711890">
+        <mark key="'" line="126" column="20" />
+        <mark key="[" line="103" column="24" />
+        <mark key="]" line="103" column="28" />
+        <mark key="^" line="103" column="28" />
+        <mark key="." line="103" column="27" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/1.js" timestamp="1593765106201">
         <mark key="[" line="5" column="2" />
@@ -257,7 +257,7 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1594113765485">
+      <file name="/JavaScript Console" timestamp="1594113898148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/sdk.spec.ts" timestamp="1593768703014">
@@ -283,11 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
-      <jump line="199" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
-      <jump line="200" column="17" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
-      <jump line="201" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
-      <jump line="204" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
       <jump line="209" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
       <jump line="211" column="26" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
       <jump line="329" column="37" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/types/SocketWrapper.ts" />
@@ -383,12 +378,17 @@
       <jump line="856" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="59" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="62" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="103" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="131" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="110" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="124" column="34" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
+      <jump line="126" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-channel.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">cmVqb2luICYmIGVyci5jb2RlICE9PSBKb2luQ2hhbm5lbEVycm9yLkpPSU5fQ0hBTk5FTF9FUlJfQUxSRUFEWV9KT0lORUQ=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1421,19 +1421,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">cmVqb2luICYmIGVyci5jb2RlICE9PSBKb2luQ2hhbm5lbEVycm9yLkpPSU5fQ0hBTk5FTF9FUlJfQUxSRUFEWV9KT0lORUQ=</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text>disconnectrea</text>
+        <text encoding="base64">XDxqb2luXD4=</text>
       </register>
       <register name="0" type="4">
         <text>JoinChannelError.JOIN_CHANNEL_ERR_ALREADY_JOINED</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW8uY29ubmVjdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuaXNKb2luZWQgPSB0cnVlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1505,28 +1505,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNldEludGVydmFsKCgpID0+IHsKICAgICAgY2hhbm5lbAogICAgfSwgMTAwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICgpIHt9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>viw&quot;0p</text>
       </register>
       <register name="3" type="2">
-        <text>chore: 优化属性相关接口的类型声明，并修复使得获取频道属性接口返回正确的类型</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text>test channel</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKChlOiBHbXNCYXNlRXJyb3IpID0+IHsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBleHBlY3QoYXdhaXQgZ21zLmdldENoYW5uZWxBdHRyaWJ1dGVzKGNoYW5uZWxJZCkpLnRvRXF1YWwoe30pCiAgICBleHBlY3QoYXdhaXQgZ21zLmdldENoYW5uZWxBdHRyaWJ1dGVzQnlLZXlzKGNoYW5uZWxJZCwgWydiJ10pKS50b0VxdWFsKHt9KQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">LmNhdGNoKChlOiBHbXNCYXNlRXJyb3IpID0+IHsKICAgICAgICAgIGlmIChlLmNvZGUgPT09IEpvaW5DaGFubmVsRXJyb3IuSk9JTl9DSEFOTkVMX0VSUl9BTFJFQURZX0pPSU5FRCkge30KICAgICAgICAgIHRoaXMuaXNKb2luZWQgPSB0cnVlCiAgICAgICAgfSk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW8uY29ubmVjdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNldEludGVydmFsKCgpID0+IHsKICAgICAgY2hhbm5lbAogICAgfSwgMTAwMCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1578,10 +1578,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text>chore: 优化属性相关接口的类型声明，并修复使得获取频道属性接口返回正确的类型</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text>test channel</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
@@ -1590,9 +1590,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>disconnectrea</last-search>
+      <last-search encoding="base64">XDxqb2luXD4=</last-search>
       <last-offset />
-      <last-pattern>disconnectrea</last-pattern>
+      <last-pattern encoding="base64">XDxqb2luXD4=</last-pattern>
       <last-replace>offE</last-replace>
       <last-substitute>onE</last-substitute>
       <last-dir>1</last-dir>
