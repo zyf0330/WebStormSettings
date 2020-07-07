@@ -21,10 +21,10 @@
         <entry>race</entry>
         <entry>getuser</entry>
         <entry>to</entry>
-        <entry>todo</entry>
         <entry>timeout</entry>
         <entry>channel</entry>
         <entry encoding="base64">IT0g</entry>
+        <entry>todo</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -194,8 +194,8 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" timestamp="1594031618028">
-        <mark key="'" line="80" column="11" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" timestamp="1594091060588">
+        <mark key="'" line="161" column="2" />
         <mark key="[" line="79" column="73" />
         <mark key="]" line="79" column="74" />
         <mark key="." line="79" column="73" />
@@ -208,13 +208,13 @@
         <mark key="^" line="88" column="45" />
         <mark key="." line="88" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" timestamp="1594091037730">
-        <mark key="'" line="123" column="6" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" timestamp="1594091704526">
+        <mark key="'" line="146" column="4" />
         <mark key="z" line="78" column="4" />
-        <mark key="[" line="141" column="76" />
-        <mark key="]" line="141" column="76" />
-        <mark key="." line="141" column="76" />
-        <mark key="^" line="139" column="58" />
+        <mark key="[" line="146" column="76" />
+        <mark key="]" line="146" column="76" />
+        <mark key="." line="146" column="76" />
+        <mark key="^" line="143" column="46" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/package.json" timestamp="1593765387192">
         <mark key="[" line="17" column="34" />
@@ -255,7 +255,7 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1594090821453">
+      <file name="/JavaScript Console" timestamp="1594091040590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/sdk.spec.ts" timestamp="1593768703014">
@@ -288,8 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
-      <jump line="59" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="159" column="50" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="158" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
       <jump line="546" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
@@ -388,12 +386,14 @@
       <jump line="558" column="30" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="586" column="30" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
       <jump line="614" column="30" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/socket.ts" />
+      <jump line="161" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/src/gms-client.ts" />
+      <jump line="146" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-h5-clients/packages/dby-gms-sdk/__tests__/channel.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGE6ICcyJyA=</text>
+        <text encoding="base64">IGI6ICczJyA=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1426,16 +1426,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGE6ICcyJyA=</text>
+        <text encoding="base64">IGI6ICczJyA=</text>
       </register>
       <register name="m" type="4">
         <text>msg.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IT0g</text>
+        <text>todo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChhd2FpdCBnbXMuZ2V0Q2hhbm5lbEF0dHJpYnV0ZXMoY2hhbm5lbElkKSkudG9FcXVhbCh7IGE6ICcyJywgYjogJzMnIH0pCiAgICBleHBlY3QoYXdhaXQgZ21zLmdldENoYW5uZWxBdHRyaWJ1dGVzQnlLZXlzKGNoYW5uZWxJZCwgWydhJ10pKS50b0VxdWFsKHsgYTogJzInIH0pCiAgICBleHBlY3QoYXdhaXQgZ21zLmdldENoYW5uZWxBdHRyaWJ1dGVzQnlLZXlzKGNoYW5uZWxJZCwgWydiJ10pKS50b0VxdWFsKHsgYjogJzMnIH0pCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChhd2FpdCBnbXMuZ2V0Q2hhbm5lbEF0dHJpYnV0ZXMoY2hhbm5lbElkKSkudG9FcXVhbCh7IGI6ICczJyB9KQogICAgZXhwZWN0KGF3YWl0IGdtcy5nZXRDaGFubmVsQXR0cmlidXRlc0J5S2V5cyhjaGFubmVsSWQsIFsnYSddKSkudG9FcXVhbCh7fSkKICAgIGV4cGVjdChhd2FpdCBnbXMuZ2V0Q2hhbm5lbEF0dHJpYnV0ZXNCeUtleXMoY2hhbm5lbElkLCBbJ2InXSkpLnRvRXF1YWwoeyBiOiAnMycgfSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNoYW5uZWwuCg==</text>
@@ -1605,9 +1605,9 @@ await</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">IT0g</last-search>
+      <last-search>todo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IT0g</last-pattern>
+      <last-pattern>todo</last-pattern>
       <last-replace>offE</last-replace>
       <last-substitute>onE</last-substitute>
       <last-dir>1</last-dir>
