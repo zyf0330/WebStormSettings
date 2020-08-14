@@ -8,6 +8,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="etcdConfig" type="PLAIN_TEXT" />
       <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="list3" type="PLAIN_TEXT" />
       <mapping pattern="list2" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-sync" type="PLAIN_TEXT" />
