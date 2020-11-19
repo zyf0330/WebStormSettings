@@ -105,11 +105,14 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
-  <action id="RunClass">
-    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  <action id="RunDashboard.Run">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
   <action id="ShowContent" />
