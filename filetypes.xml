@@ -33,6 +33,7 @@
       <mapping ext="anim" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping pattern="connectorSioNginxConfig" type="YAML" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
     </extensionMap>
   </component>
 </application>
