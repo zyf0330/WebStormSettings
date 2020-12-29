@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="proto" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-streamSync" type="Dockerfile" />
       <mapping pattern="www" type="JavaScript" />
       <mapping pattern="1" type="PLAIN_TEXT" />
@@ -35,6 +34,7 @@
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping pattern="connectorSioNginxConfig" type="YAML" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping ext="proto" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
