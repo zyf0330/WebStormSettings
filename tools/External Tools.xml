@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="pretty-quick" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.nvm/versions/default/bin/npx" />
+      <option name="PARAMETERS" value="pretty-quick" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

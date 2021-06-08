@@ -33,6 +33,9 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
+  <component name="JSEditorOptions">
+    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+  </component>
   <component name="LiveEditOptions" chromeAutoDelay="500" nodeAutoDelay="500" restartIfHotSwapFailed="true" />
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
