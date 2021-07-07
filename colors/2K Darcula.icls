@@ -4,7 +4,7 @@
     <property name="created">2016-12-01T10:00:52</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2021-06-18T12:49:34</property>
+    <property name="modified">2021-07-07T11:16:02</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -44,6 +44,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="ffc56f" />
+      </value>
+    </option>
     <option name="DIFF_CONFLICT">
       <value>
         <option name="BACKGROUND" value="583b35" />
@@ -64,9 +69,14 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="375e32" />
+        <option name="BACKGROUND" value="2f602a" />
         <option name="ERROR_STRIPE_COLOR" value="36b13" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="e8ab47" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -77,7 +87,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="18665c" />
+        <option name="BACKGROUND" value="2b5f59" />
         <option name="EFFECT_COLOR" value="3c704b" />
         <option name="ERROR_STRIPE_COLOR" value="61936f" />
       </value>
